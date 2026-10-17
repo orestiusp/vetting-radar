@@ -1,0 +1,10 @@
+{
+  "_readme": [
+    "Direct-sold sponsor placements. Edit this file only, then rebuild (python scripts/build.py).",
+    "slot: home | table | reports.  logo: path under site/ (e.g. brand/sponsors/acme.svg; put the file in site/brand/sponsors/).",
+    "url: https only; links get rel=\"sponsored noopener\".  tagline: one short line (max 90 characters).",
+    "start/end: YYYY-MM-DD, inclusive. Outside those dates the slot shows the 'Your company here' placeholder.",
+    "Entries are checked at build time and again in the reader's browser, so an expired banner disappears even between builds."
+  ],
+  "sponsors": []
+}

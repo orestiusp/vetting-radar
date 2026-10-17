@@ -82,7 +82,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <footer class="site"><div class="wrap"><div class="cols">
 <div><a class="brand" href="{pre}index.html" style="margin-bottom:10px">{logo("f")}<span>Vetting <span class="r">Radar</span></span></a><p style="margin:0;max-width:420px">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries only. <b style="color:#fff">Always verify at source.</b></p><p class="tm">Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p></div>
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}compare-checklist.html">Pre-screening checklist</a></li><li><a href="{pre}compare-terminals.html">Terminal requirements</a></li><li><a href="{pre}reports.html">Reader reports</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
-<div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
+<div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}advertise.html">Advertise</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -209,6 +209,34 @@ RR_HOME = (f'<section class="block tight" style="padding-bottom:0"><div class="w
            '<div class="rr-cnt"><b id="rr-home-n">–</b><span id="rr-home-l">published reports</span></div>'
            '<div class="rr-cta"><a class="btn rr" href="reports.html">See reports</a><a class="btn rr-o" href="submit.html">+ Add what you faced</a></div></div></div></section>')
 
+# ---------- sponsor slots (direct-sold; data in site/data/sponsors.json; no third-party scripts, no cookies) ----------
+SPONSOR_FILE = os.environ.get("VR_SPONSORS_FILE") or P("site", "data", "sponsors.json")  # override = local preview only
+SPONSOR_SLOTS = ("home", "table", "reports")
+def _sp_ok(x):
+    try:
+        ok = x.get("slot") in SPONSOR_SLOTS and x.get("name") and str(x.get("url", "")).startswith("https://")
+        dt.date.fromisoformat(x["start"]); dt.date.fromisoformat(x["end"]); return bool(ok)
+    except Exception: return False
+SPONSORS = [x for x in load(SPONSOR_FILE, {}).get("sponsors", []) if _sp_ok(x)]
+for _x in load(SPONSOR_FILE, {}).get("sponsors", []):
+    if not _sp_ok(_x): print("sponsors.json: skipped invalid entry", _x.get("name") or _x)
+def _sp_ph(pre=""):
+    return (f'<a class="sp-body sp-empty" href="{pre}advertise.html"><span class="sp-txt"><b>Your company here</b>'
+            '<span>Sponsor Vetting Radar and reach tanker vetting, marine and crewing teams.</span></span><span class="sp-go">Advertise with us →</span></a>')
+def _sp_fill(x, pre=""):
+    logo = f'<img src="{pre}{e(x["logo"])}" alt="" loading="lazy">' if x.get("logo") else f'<span class="sp-ini" aria-hidden="true">{e(initials(x["name"]))}</span>'
+    tag = e(str(x.get("tagline", ""))[:90])
+    return (f'<a class="sp-body" href="{e(x["url"])}" rel="sponsored noopener" target="_blank">{logo}<span class="sp-txt"><b>{e(x["name"])}</b>'
+            f'{f"<span>{tag}</span>" if tag else ""}</span><span class="sp-go">Visit {e(x["name"])} →</span></a>')
+def sponsor_slot(slot, size="", pre=""):
+    today = TODAY.isoformat()
+    cands = sorted((x for x in SPONSORS if x["slot"] == slot and x["end"] >= today), key=lambda x: x["start"])
+    cur = next((x for x in cands if x["start"] <= today), None)
+    tpl = "".join(f'<template class="sp-alt" data-start="{e(x["start"])}" data-end="{e(x["end"])}">{_sp_fill(x, pre)}</template>' for x in cands)
+    ph = f'<template class="sp-ph">{_sp_ph(pre)}</template>' if cands else ""
+    return (f'<aside class="sp{(" sp-" + size) if size else ""}" data-slot="{slot}" aria-label="Sponsor"><span class="sp-lbl">Sponsor</span>'
+            f'{_sp_fill(cur, pre) if cur else _sp_ph(pre)}{tpl}{ph}</aside>')
+
 # ---------- index page (after the reader-report snippets it uses) ----------
 page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
 <section class="hero"><div class="wrap"><div>
@@ -224,7 +252,8 @@ page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_
 <a class="card tile" href="updates.html"><span class="ic">{icon("bell")}</span><h3>Change alerts</h3><p>Rule changes from OCIMF, CDI, RightShip and oil majors, in plain words.</p><span class="go">See updates {icon("arrow")}</span></a>
 <a class="card tile" href="table.html"><span class="ic">{icon("columns")}</span><h3>Who requires what</h3><p>Age, SIRE and CAP limits side by side, with sources.</p><span class="go">Compare {icon("arrow")}</span></a>
 <a class="card tile" href="calendar.html"><span class="ic">{icon("calendar")}</span><h3>Key dates</h3><p>Effective dates, launches, campaigns and consultation deadlines.</p><span class="go">Open calendar {icon("arrow")}</span></a>
-</div></div></section>
+</div>
+{sponsor_slot("home")}</div></section>
 {RR_HOME}
 <section class="block"><div class="wrap two">
 <div><div class="sechead"><div><p class="kicker">Reviewed</p><h2>Latest changes</h2></div><a href="updates.html">See all updates →</a></div>
@@ -256,6 +285,7 @@ page("table.html", "Who requires what — tanker vetting criteria compared", f""
 """ + pagehead("Compare", "Who requires what", "Tanker acceptance criteria side by side. Built only from cited public documents; blank means the source doesn't say.") + subnav("table.html") + f"""<div class="wrap page">
 <div class="notice">Summaries, not legal text. Owners apply criteria case by case and change them without notice. <b>Always verify at the linked source before relying on any value.</b></div>
 <div class="controls"><input id="q" type="search" placeholder="Search: e.g. CAP 2, 20 years, crew matrix, LNG…"><select id="t"><option value="">All owner types</option>{''.join(f'<option>{e(t)}</option>' for t in types)}</select></div>
+{sponsor_slot("table", "slim")}
 <p class="note">Showing <b id="cmp-count">{len(comp['rows'])}</b> of {len(comp['rows'])} · Download <a href="data/comparison.csv">CSV</a> · <a href="data/comparison.json">JSON</a></p>
 <div class="tablewrap"><table id="cmp"><thead><tr><th>Requirement owner</th><th>Vessel age limits</th><th>Required SIRE / inspection age</th><th>CAP / condition assessment</th><th>Other notable criteria</th><th>Source &amp; date</th></tr></thead><tbody>{trs}</tbody></table></div>
 <h2 class="sm">Not covered yet</h2><ul>{gaps}</ul>
@@ -378,6 +408,7 @@ page("reports.html", "Reader reports: requirements members met in practice", sec
 <a class="btn rr" href="submit.html">{icon("chat")}Add what you faced</a></div>
 <div class="rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Owner"><option value="">All owners</option>{_oopts}<option value="other">Other</option></select><span class="note"><b id="rr-count">0</b> reports</span></div>
 <div id="rr-list">{RR_SOON}</div>
+{sponsor_slot("reports", "slim")}
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
 page("submit.html", "Post a reader report", section="reports.html",
@@ -465,13 +496,28 @@ arch = "".join(f'<li><a class="row" href="newsletter/{n}.html"><span class="badg
 page("newsletter.html", "Newsletter", pagehead("Newsletter", "The weekly brief", "What changed in vetting rules, who it affects and the dates ahead. Five minutes, every item sourced.") + f"""<div class="wrap page grid"><div>
 <h2 class="sm" style="margin-top:0">Archive</h2><ul class="card list">{arch}</ul><p class="note" style="margin-top:14px">Issues are also sent and archived on <a href="{BEEHIIV_URL}" rel="noopener">Beehiiv</a>.</p></div><aside class="side">{signup_card}</aside></div>""")
 
-# ---------- sponsor ----------
-page("sponsor.html", "Sponsor Vetting Radar", pagehead("Sponsor", "Sponsor Vetting Radar", "Reach the people who prepare tankers for SIRE 2.0, CDI and oil-major vetting.") + """<div class="wrap page prose">
-<div class="notice">Placeholder page. Packages and prices are not live yet; no bookings are being taken.</div>
-<p>Vetting Radar is read by people who prepare tankers for SIRE 2.0, CDI and oil-major vetting: vetting managers, marine &amp; technical superintendents, DPAs, QHSE teams and masters.</p>
-<h2>Planned placements</h2><ul><li><b>Newsletter sponsor</b>: one clearly labelled slot per weekly issue.</li><li><b>Comparison table sponsor</b>: "Sponsored by" line above the who-requires-what table, monthly.</li><li><b>Calendar sponsor</b>: logo on the calendar page, monthly.</li></ul>
-<h2>Editorial independence</h2><p>Sponsors never influence which changes are reported or how criteria are summarised. Sponsored content is always labelled. We do not accept sponsorship from organisations whose rules we track (e.g. OCIMF members' vetting departments, terminals) for placements next to their own criteria.</p>
-<p>Interested? Contact details will be published soon.</p></div>""")
+# ---------- advertise (sponsor.html kept as a redirect for old links) ----------
+ADV_MAIL = "mailto:customer@vettingradar.com?subject=Sponsoring%20Vetting%20Radar"
+page("advertise.html", "Advertise on Vetting Radar", desc="Sponsor the Vetting Radar newsletter or website: clearly labelled, direct-sold placements for companies serving tanker vetting, marine and crewing teams.",
+     body=pagehead("Advertise", "Advertise on Vetting Radar", "Clearly labelled, direct-sold placements in front of the people who prepare tankers for vetting.") + f"""<div class="wrap page adv">
+<section class="adv-sec"><h2>Who reads Vetting Radar</h2>
+<p>People who prepare tankers for SIRE 2.0, CDI and oil-major vetting, at tanker operators and ship managers:</p>
+<ul class="adv-who"><li>Tanker vetting managers</li><li>Marine and technical superintendents</li><li>DPAs and QHSE teams</li><li>Crewing and manning teams</li></ul>
+<p class="note">Audience figures on request.</p></section>
+<section class="adv-sec"><h2>What's on offer</h2><p class="note adv-launch">Launch pricing</p>
+<div class="adv-grid">
+<div class="adv-card"><h3>{icon("mail")}Newsletter sponsor</h3><p>One labelled sponsor block in the weekly brief: logo, one line and a link.</p><p class="adv-price"><b>From €150</b> per issue</p></div>
+<div class="adv-card"><h3>{icon("columns")}Site banner</h3><p>A labelled banner on the homepage or above the requirements table, one sponsor per slot.</p><p class="adv-price"><b>From €200</b> per month</p></div>
+<div class="adv-card"><h3>{icon("check")}Featured listing</h3><p>For consultants and inspection-preparation services: a short labelled listing with a link.</p><p class="adv-price"><b>From €50</b> per month</p></div>
+</div></section>
+<section class="adv-sec"><h2>Editorial independence</h2>
+<p>Sponsors never influence the content: which changes are reported, how criteria are summarised or what reader reports are published. Sponsored items are always labelled “Sponsor”. We do not place sponsorship from organisations whose rules we track next to their own criteria.</p>
+<p class="note">Placements are sold directly. No ad networks, no tracking scripts, no cookies.</p></section>
+<section class="adv-contact"><div><h2>Get in touch</h2><p>Tell us what you'd like to promote and when. We'll reply with availability.</p></div>
+<a class="btn" href="{ADV_MAIL}">{icon("mail")}customer@vettingradar.com</a></section></div>""")
+open(os.path.join(DIST, "sponsor.html"), "w").write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Advertise on Vetting Radar</title>'
+    '<meta name="robots" content="noindex"><link rel="canonical" href="' + SITE_URL + '/advertise.html"><meta http-equiv="refresh" content="0; url=advertise.html"></head>'
+    '<body><p><a href="advertise.html">Advertise on Vetting Radar</a></p></body></html>')
 
 # ---------- about ----------
 page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar", "Independent, free and built only from public documents.") + f"""<div class="wrap page prose">
@@ -510,6 +556,7 @@ with open(os.path.join(DIST, "data", "changes.json"), "w") as f: json.dump(pub_c
 for f in ("comparison.json", "comparison.csv", "compare_pages.json", "updates.json", "calendar.json"):
     if os.path.exists(P("data", f)): shutil.copy(P("data", f), os.path.join(DIST, "data", f))
 shutil.copy(P("sources.json"), os.path.join(DIST, "data", "sources.json"))
+shutil.copy(SPONSOR_FILE, os.path.join(DIST, "data", "sponsors.json"))
 # local review only: VR_SEED_PREVIEW=1 copies the (unpublished, git-ignored) seed reports for ?demo=1 on localhost
 _seed = P("supabase", "seed_editor_reports.json")
 if os.environ.get("VR_SEED_PREVIEW") == "1" and os.path.exists(_seed): shutil.copy(_seed, os.path.join(DIST, "data", "seed_preview.json"))

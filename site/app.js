@@ -16,3 +16,12 @@ function vrFilter(tableId, inputId, selectId, col){
   }
   q.addEventListener('input',run); if(s) s.addEventListener('change',run); run();
 }
+// sponsor slots: re-check start/end dates in the browser so an expired banner falls back to the placeholder between builds
+document.addEventListener('DOMContentLoaded',()=>{
+  const d=new Date(), today=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+  document.querySelectorAll('aside.sp').forEach(sp=>{
+    const alts=[...sp.querySelectorAll('template.sp-alt')], ph=sp.querySelector('template.sp-ph'); if(!alts.length||!ph) return;
+    const cur=alts.find(t=>t.dataset.start<=today&&today<=t.dataset.end)||ph, body=sp.querySelector('.sp-body');
+    if(body) body.replaceWith(cur.content.cloneNode(true));
+  });
+});
