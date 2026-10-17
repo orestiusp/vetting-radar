@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><defs><linearGradient id="swa" x1="32" y1="32" x2="50" y2="8" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5fd3f3" stop-opacity="0"/><stop offset="1" stop-color="#5fd3f3" stop-opacity=".45"/></linearGradient></defs>
+<circle cx="32" cy="32" r="28" fill="none" stroke="#5fd3f3" stroke-width="3"/><circle cx="32" cy="32" r="18" fill="none" stroke="#5fd3f3" stroke-width="1.6" opacity=".4"/>
+<circle cx="32" cy="32" r="9" fill="none" stroke="#5fd3f3" stroke-width="1.6" opacity=".4"/>
+<g class="vr-sweep"><path d="M32 32 L32 4 A28 28 0 0 1 56.25 18 Z" fill="url(#swa)"/>
+<path d="M32 32 L56.25 18" stroke="#5fd3f3" stroke-width="2.6" stroke-linecap="round"/></g><circle class="vr-blip" cx="41.5" cy="15" r="11" fill="#5fd3f3" opacity=".12"/><g fill="#ffffff"><path d="M31.5 15.8 H51 L47.4 21.4 H33.4 Z"/><path d="M46.4 15.8 V13.9 H50.4 V15.8 Z"/><rect x="32.4" y="10" width="5.6" height="6.2" rx=".7"/><rect x="34" y="7.3" width="2.4" height="3.2" rx=".4"/></g>
+<circle cx="32" cy="32" r="2.6" fill="#5fd3f3"/></svg>

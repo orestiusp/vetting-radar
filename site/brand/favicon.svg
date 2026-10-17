@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><rect width="64" height="64" rx="14" fill="#0b1a2c"/><g transform="translate(4 4) scale(0.875)"><defs><linearGradient id="swf" x1="32" y1="32" x2="50" y2="8" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5fd3f3" stop-opacity="0"/><stop offset="1" stop-color="#5fd3f3" stop-opacity=".6"/></linearGradient></defs>
+<circle cx="32" cy="32" r="28" fill="none" stroke="#5fd3f3" stroke-width="4.6"/>
+<g class="vr-sweep"><path d="M32 32 L32 4 A28 28 0 0 1 56.25 18 Z" fill="url(#swf)"/>
+<path d="M32 32 L56.25 18" stroke="#5fd3f3" stroke-width="3.6" stroke-linecap="round"/></g><g fill="#ffffff"><path d="M30.5 16 H52 L48 23 H32.6 Z"/><rect x="31.6" y="9.6" width="7" height="7.4" rx=".8"/></g>
+<circle cx="32" cy="32" r="3.4" fill="#5fd3f3"/></g></svg>

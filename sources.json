@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-17",
-  "count": 77,
+  "count": 96,
   "sources": [
     {
       "id": "ocimf-news-press-releases",
@@ -776,6 +776,205 @@
       "url": "https://www.ocimf.org/document-libary/1058-press-release-focused-inspection-campaign-29-oct-2025/file",
       "type": "pdf",
       "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "omv-minimum-selecting-criteria-2026-pdf",
+      "name": "OMV – Minimum Selecting Criteria 2026 (PDF)",
+      "owner": "OMV",
+      "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/2026_OMV-VETTING-MSC.pdf",
+      "type": "pdf",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "omv-clearance-request-page",
+      "name": "OMV clearance request page (Adriatic Vetting)",
+      "owner": "OMV",
+      "url": "https://adriaticvetting.it/clearance-request/",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "saras-vessel-acceptance-policy-rev-3-pdf",
+      "name": "SARAS – Vessel Acceptance Policy and Safety Criteria rev.3 (PDF)",
+      "owner": "SARAS",
+      "url": "https://www.saras.it/sites/default/files/in_page/SARAS%20Vessel%20Acceptance%20Policy%20and%20Safety%20Criteria%20-%20Revised%20version_3%20%281%29.pdf",
+      "type": "pdf",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "Public edition dated Feb 2017; may be superseded."
+    },
+    {
+      "id": "saras-environmental-and-safety-reports-index",
+      "name": "SARAS – Environmental and safety reports index",
+      "owner": "SARAS",
+      "url": "https://www.saras.it/en/archive/sustainability/environmental-and-safety-reports",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "saudi-aramco-ports-terminals-general-rules-2025-pdf",
+      "name": "Saudi Aramco – Ports & Terminals general rules 2025 (PDF)",
+      "owner": "Saudi Aramco",
+      "url": "https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/02a--general-rules-and-information-compressed.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": "ok-via-external-fetch (blocked to box client)",
+      "verified_at": "2026-10-17",
+      "note": "Common Rules section of the July 2025 book. Site blocks scripted clients from this box; page verified via an external fetch on 2026-10-17. The monitor may log a fetch error until run from a different network."
+    },
+    {
+      "id": "saudi-aramco-ports-terminals-page",
+      "name": "Saudi Aramco – Ports & Terminals page",
+      "owner": "Saudi Aramco",
+      "url": "https://www.aramco.com/en/what-we-do/operations/ports-and-terminals",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": "ok-via-external-fetch (blocked to box client)",
+      "verified_at": "2026-10-17",
+      "note": "Site blocks scripted clients from this box; page verified via an external fetch on 2026-10-17. The monitor may log a fetch error until run from a different network."
+    },
+    {
+      "id": "marathon-petroleum-global-marine-request-inspection",
+      "name": "Marathon Petroleum – Global Marine: Request Inspection",
+      "owner": "Marathon Petroleum",
+      "url": "https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": "ok-via-external-fetch (blocked to box client)",
+      "verified_at": "2026-10-17",
+      "note": "Site blocks scripted clients from this box; page verified via an external fetch on 2026-10-17. The monitor may log a fetch error until run from a different network."
+    },
+    {
+      "id": "marathon-petroleum-global-marine",
+      "name": "Marathon Petroleum – Global Marine",
+      "owner": "Marathon Petroleum",
+      "url": "https://www.marathonpetroleum.com/Operations/Global-Marine/",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": "ok-via-external-fetch (blocked to box client)",
+      "verified_at": "2026-10-17",
+      "note": "Site blocks scripted clients from this box; page verified via an external fetch on 2026-10-17. The monitor may log a fetch error until run from a different network."
+    },
+    {
+      "id": "rightship-inspection-validity-criteria",
+      "name": "RightShip – Inspection Validity Criteria",
+      "owner": "RightShip",
+      "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+      "type": "html",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "rightship-risq-3-2-pdf",
+      "name": "RightShip – RISQ 3.2 (PDF)",
+      "owner": "RightShip",
+      "url": "https://rightship.com/hubfs/RISQ-3.2.pdf",
+      "type": "pdf",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "Effective 25 Feb 2026."
+    },
+    {
+      "id": "rightship-risq-help-article",
+      "name": "RightShip – RISQ help article",
+      "owner": "RightShip",
+      "url": "https://help.rightship.com/en/articles/rightships-inspection-questionnaire-risq",
+      "type": "html",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "siot-trieste-terminal-information-2026-pdf",
+      "name": "SIOT Trieste – Terminal Information & Port Regulations 2026 (PDF)",
+      "owner": "SIOT / TAL",
+      "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/SIOT-Terminal-Information-and-Port-Regulations-Revision-2026.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "toros-ceyhan-terminal-information-pdf",
+      "name": "Toros Ceyhan – Terminal Information & Port Regulations (PDF, via GAC)",
+      "owner": "Toros Terminal",
+      "url": "https://cdn.gac.com/prod/docs/TURKEY-Ceyhan_TRM-KE-002-TOROS-TERMINAL-INFORMATION-AND-PORT-REGULATIONS-HANDBOOK-2024.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "Hosted by a port agent (GAC)."
+    },
+    {
+      "id": "sjofartsverket-brofjorden-port-information",
+      "name": "Swedish Maritime Administration – Brofjorden port information (Preem)",
+      "owner": "Sjöfartsverket / Preem",
+      "url": "https://www.sjofartsverket.se/en/services/pilotage/pilotstation-marstrand/port-information/brofjorden/",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "enbridge-ingleside-terminal-page-moran",
+      "name": "Enbridge Ingleside Energy Center – terminal page (Moran agency)",
+      "owner": "Enbridge Ingleside",
+      "url": "https://www.moranshipping.com/locations/ports/corpus-christi-tx/terminals/enbridge-ingleside-energy-center",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "Agent page linking the Enbridge Marine Terminal Regulations (rev. 1 Feb 2022)."
+    },
+    {
+      "id": "ditas-tupras-terminal-vetting",
+      "name": "Ditaş – Tüpraş terminal vetting",
+      "owner": "Tüpraş (Ditaş)",
+      "url": "https://ditasdeniz.com.tr/en/vetting",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "motor-oil-hellas-the-refinery",
+      "name": "Motor Oil Hellas – The Refinery",
+      "owner": "Motor Oil Hellas",
+      "url": "https://www.moh.gr/about-us/the-refinery/",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "repsol-la-pampilla-ttib-pdf",
+      "name": "Repsol La Pampilla – Terminal to Tanker Information Booklet (PDF)",
+      "owner": "Repsol",
+      "url": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/conocenos/documentos/la-pampilla-maritime-terminal-to-tanker-information-booklet.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "Public edition dated Oct 2022; a newer edition may exist."
+    },
+    {
+      "id": "repsol-la-pampilla-pre-arrival-questionnaire-pdf",
+      "name": "Repsol La Pampilla – Pre-arrival questionnaire (PDF)",
+      "owner": "Repsol",
+      "url": "https://www.repsol.com/content/dam/repsol-corporate/es/conocenos/documentos-conocenos/la-pampilla-maritime-terminal-pre-arrival-questionnaire.pdf",
+      "type": "pdf",
+      "category": "terminal",
       "verified_status": 200,
       "verified_at": "2026-10-17"
     }

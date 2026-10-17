@@ -1,26 +1,26 @@
 {
   "generated": "2026-10-17",
-  "count": 10,
+  "count": 14,
   "not_found_publicly": [
     {
       "owner": "Shell",
-      "note": "No current public tanker acceptance criteria found during research (2026-10-17)."
+      "note": "No current public tanker acceptance criteria found (checked 2026-10-17)."
     },
     {
       "owner": "Chevron",
       "note": "Only a third-party copy of an old presentation found; not used."
     },
     {
-      "owner": "Saudi Aramco Ports & Terminals",
-      "note": "Public 35 MB book (Jul 2025) contains SIRE rules, but it could not be downloaded from the box for verification; row pending."
+      "owner": "Petrobras / Transpetro",
+      "note": "Only an old third-party copy of Petrobras criteria found; Transpetro publishes a terminal vetting questionnaire page but no acceptance criteria. Not used."
     },
     {
-      "owner": "SARAS (Sarroch terminal)",
-      "note": "Public PDF exists but returned a bot-challenge page to the box; row pending manual check."
+      "owner": "Equinor, Phillips 66, ENOC, Unipec, Vitol",
+      "note": "No public numeric acceptance criteria found during our research (2026-10-17)."
     },
     {
-      "owner": "Petrobras",
-      "note": "Only a 2014 copy on Scribd found; not used."
+      "owner": "Neste, Ampol",
+      "note": "Public pages describe a vetting process but publish no numeric criteria; not tabulated."
     }
   ],
   "rows": [
@@ -75,12 +75,14 @@
       "age_limits": "Max 25 years tankers, 25 years LPG, 35 years LNG. Case-by-case exceptions for specific trading areas (e.g. Great Lakes).",
       "sire_report_age": "Acceptable SIRE / CDI physical examination within the previous 6 months. Unacceptable last SIRE/CDI = unacceptable until a new acceptable inspection.",
       "cap_rules": "Tanker or LPG >20,000 DWT and 15 years or over; any LNG >20 years: CAP 2 minimum for hull structure, machinery and cargo systems, issued by an IACS member, with Level 2 FDA (simplified fatigue design analysis) or equivalent; max validity 36 months from last date of survey.",
-      "other_criteria": "3+ PSC detentions in 24 months = Unacceptable; 2 in 24 months or 1 in 12 months = subject to review. Crew matrix dated within past 30 days (Annex 1 matrix). HVPQ not updated in last 3 months = subject to review. Non-IACS class, no IG P&I, PSC-banned vessel, or Very High Risk Paris/Tokyo MoU flag = Unacceptable.",
+      "other_criteria": "3+ PSC detentions in 24 months = Unacceptable; 2 in 24 months or 1 in 12 months = subject to review. Crew matrix dated within past 30 days (Annex 1 matrix). HVPQ not updated in last 3 months = subject to review. Non-IACS class, no IG P&I, PSC-banned vessel, or Very High Risk Paris/Tokyo MoU flag = Unacceptable. RightShip inspection validity (separate matrix): 12, 9, 6 or 3 months, or unacceptable, by number and severity of findings and close-out quality; >6 high-risk findings = unacceptable; automatic show-stopper impact removed 17 Jun 2026.",
       "source_url": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
       "extra_source_urls": [
-        "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria"
+        "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria",
+        "https://help.rightship.com/en/articles/inspection-validity-criteria",
+        "https://rightship.com/hubfs/RISQ-3.2.pdf"
       ],
-      "flags": "Baseline only: each RightShip vetting customer can set stricter rules.",
+      "flags": "Baseline only: each RightShip vetting customer can set stricter rules. RightShip's own inspections follow RISQ 3.2 (effective 25 Feb 2026) and its Inspection Validity Criteria (sources 3–4).",
       "verified_on": "2026-10-17",
       "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
     },
@@ -116,7 +118,7 @@
       "other_criteria": "20–24 years: must be inspected by Cepsa (or within re-inspection period) before fixing. Officer matrix recommendation (combined senior officers): 2 yrs with operator, 3 yrs in rank, 6 yrs on type. IACS class only.",
       "source_url": "https://www.moeveglobal.com/stfls/corporativo/FICHEROS/es/SEAGOING_VESSEL_S_ACCEPTANCE_CRITERIA.pdf",
       "extra_source_urls": [],
-      "flags": "Document dated December 2018 and still Cepsa-branded; may be superseded. Two-column PDF layout, read carefully at source.",
+      "flags": "Possibly outdated: the public edition is dated Dec 2018 (still Cepsa-branded). Two-column PDF layout, read carefully at source.",
       "verified_on": "2026-10-17",
       "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
     },
@@ -204,6 +206,83 @@
       "source_url": "https://totalenergies.com/company/energy-expertise/ship-market/our-trading-and-shipping-operations",
       "extra_source_urls": [],
       "flags": "No detailed public criteria found.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "omv",
+      "requirement_owner": "OMV Vetting (via Adriatic Vetting clearance desk)",
+      "owner_type": "Oil major",
+      "document": "OMV – Minimum Selecting Criteria, Version 2026",
+      "document_date": "2026",
+      "applies_to": "Vessels nominated for OMV Group voyages, TC and COA (clearance voyage by voyage)",
+      "age_limits": "Double hull only. Crude/product/chemical tankers max 20.0 years; LPG/LNG carriers max 25.0 years (age from first delivery). OBO to be avoided.",
+      "sire_report_age": "SIRE report preferably not older than 3 months (6 months for operators with a positive OMV TMSA audit). Vessels need an OMV operational SIRE by age: 0–10 yrs every 12 months, 10.1–15 every 9, 15.1–20 every 6 (15/12/9 months with a valid OMV TMSA audit; one-time waiver possible). Barges: SIRE not older than 12 months.",
+      "cap_rules": "Tankers >15.0 years and gas carriers >20.0 years: CAP 1 or 2 for hull, machinery and cargo systems; CAP valid 3 years. Vessels <10,000 dwt: hull structural fatigue analysis instead.",
+      "other_criteria": "Clearance request with Q88 (INTERTANKO format) and OCIMF-format crew matrix, each not older than 5 days. TMSA ≤12 months, stages 1–2 implemented. Master+C/O and C/E+1AE (combined): 2 yrs with operator, 3 yrs on type, 4 yrs on all tankers. Max 5 nationalities. Monthly onboard D&A tests. PSC/USCG deficiencies or detentions in the last 3 months assessed case by case. Maiden voyage only after a positive OMV TMSA audit; first voyage after dry-dock not normally accepted. IG P&I.",
+      "source_url": "https://adriaticvetting.it/wp-content/uploads/2026/09/2026_OMV-VETTING-MSC.pdf",
+      "extra_source_urls": [
+        "https://adriaticvetting.it/clearance-request/"
+      ],
+      "flags": "Published by OMV's clearance agent (an OCIMF-registered vetting contractor), not on omv.com.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "saras",
+      "requirement_owner": "SARAS (Sarroch refinery & terminal, Italy)",
+      "owner_type": "Refiner / terminal",
+      "document": "Vessel Acceptance Policy and Safety Criteria, revised version 3",
+      "document_date": "2017-02",
+      "applies_to": "Vessels chartered by SARAS or calling the SARAS terminal",
+      "age_limits": "Double hull regardless of size or age; OBO / ore-oil not acceptable. Max 20 years.",
+      "sire_report_age": "Discharge VIQ (SIRE) report not older than 6 months. Time-chartered vessels inspected twice a year, COA vessels once a year.",
+      "cap_rules": "Vessels over 15 years: valid CAP, Hull rating 1, machinery and cargo systems rating 1 or 2, issued by an IACS society other than the vessel's class; valid max 3 years from issue.",
+      "other_criteria": "Maiden voyage or first voyage after dry-dock / repair stoppage not acceptable. Master+C/O and C/E+1/E aggregate: 2 calendar yrs with operator, 3 yrs in rank, 4 yrs on tanker type. All officers good English. Minimum manning Master + 3 deck officers + C/E + 1/E. No condition of class or significant recommendations. TC/COA: TMSA updated within 12 months. IGS and inerted voyage for flash point <60 °C. Equipment list (spill containment, remote gauging, vapour locks, etc.).",
+      "source_url": "https://www.saras.it/sites/default/files/in_page/SARAS%20Vessel%20Acceptance%20Policy%20and%20Safety%20Criteria%20-%20Revised%20version_3%20%281%29.pdf",
+      "extra_source_urls": [
+        "https://www.saras.it/en/archive/sustainability/environmental-and-safety-reports"
+      ],
+      "flags": "Public edition dated Feb 2017 (rev. 3): may be superseded, verify at source.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "aramco",
+      "requirement_owner": "Saudi Aramco – Ports & Terminals",
+      "owner_type": "Terminal",
+      "document": "Ports and Terminals Rules, Regulations and General Information, 2025 edition (Common Rules s.3.1)",
+      "document_date": "2025-07",
+      "applies_to": "All vessels calling Saudi Aramco ports and terminals",
+      "age_limits": "",
+      "sire_report_age": "Over 10 years and never called, or not called for one year or more: must have a current OCIMF SIRE report acceptable to Saudi Aramco, or is rejected at nomination. Under 10 years: screened against Saudi Aramco's PTMS database and the OCIMF SIRE database (always for first-time callers); an unsatisfactory latest SIRE can lead to rejection. 'Flagged' vessels (any age): acceptable SIRE dated within 6 months of entry, plus a Saudi Aramco vetting inspection on every visit.",
+      "cap_rules": "",
+      "other_criteria": "All vessels: applicable certificates with a validity of 90 days, and a pre-berthing inspection by the Manager, Port Operations' representative (can reject on condition alone). Pollution or serious deficiencies can lead to 'flagged' status or a permanent ban. Cargo tanks for loading ≤10 ppm H2S on arrival. ETA updates at 72, 48 and 24 hours.",
+      "source_url": "https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/02a--general-rules-and-information-compressed.pdf",
+      "extra_source_urls": [
+        "https://www.aramco.com/en/what-we-do/operations/ports-and-terminals",
+        "https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/full-book.pdf"
+      ],
+      "flags": "No vessel age limit or CAP rule stated in the general-rules section; terminal-specific sections of the book not reviewed.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "marathon",
+      "requirement_owner": "Marathon Petroleum – Global Marine",
+      "owner_type": "Refiner",
+      "document": "Global Marine 'Request Inspection' web page",
+      "document_date": "",
+      "applies_to": "Vessels considered for business with Marathon Petroleum (MPC)",
+      "age_limits": "",
+      "sire_report_age": "Tankers and barges: a SIRE inspection every six months. Tug inspection requirements vary by purpose and location.",
+      "cap_rules": "",
+      "other_criteria": "Vessels must participate in OCIMF SIRE. MPC is an OCIMF member and SIRE submitting company; inspections are requested through the OCIMF SIRE Inspection Request Platform. Marine Assurance reviews SIRE reports in the clearance process.",
+      "source_url": "https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
+      "extra_source_urls": [
+        "https://www.marathonpetroleum.com/Operations/Global-Marine/"
+      ],
+      "flags": "Light entry: no public age or CAP criteria found.",
       "verified_on": "2026-10-17",
       "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
     }
