@@ -188,8 +188,8 @@ def subnav(cur):
 
 # ---------- reader reports (user submitted; never official data) ----------
 RR_PILL = f'<span class="rr-badge">{icon("chat")}Reader reports</span>'
-RR_DISCLAIMER = (f'<p class="rr-disclaimer">{RR_PILL}<span>User-declared experiences shared by members. Not verified and not the position of any oil major, '
-                 'terminal or organisation. Always check official requirements.</span></p>')
+RR_DISCLAIMER = ('<p class="rr-disclaimer">Reader reports are user-declared experiences, not verified and not the position of any oil major, '
+                 'terminal or organisation. Always check <a href="table.html">official requirements</a>.</p>')
 RR_SCRIPTS = '<script src="config.js"></script><script src="reports.js"></script>'
 RR_SHORT = {"fujairah": "Port of Fujairah", "totalenergies": "TotalEnergies"}
 RR_OWNERS = [{"id": r["id"], "name": RR_SHORT.get(r["id"]) or CP["owners"].get(r["id"], {}).get("name") or re.split(r" \(| – ", r["requirement_owner"])[0],
@@ -197,15 +197,14 @@ RR_OWNERS = [{"id": r["id"], "name": RR_SHORT.get(r["id"]) or CP["owners"].get(r
 RR_OWNER_IDS = {o["id"] for o in RR_OWNERS}
 RR_JSON = '<script id="vr-owners" type="application/json">' + json.dumps(RR_OWNERS, ensure_ascii=False).replace("</", "<\\/") + '</script>'
 def rrbox(owner_id):  # owner bar below the official criteria; reports.js fills it
-    return (f'<details class="rr" id="rr-{e(owner_id)}" data-owner="{e(owner_id)}"><summary>{RR_PILL}'
-            '<span class="rr-n">Coming soon</span><span class="rr-sub">User-declared · not official</span>'
+    return (f'<details class="rr" id="rr-{e(owner_id)}" data-owner="{e(owner_id)}"><summary><span class="rr-mark">{icon("chat")}Reader reports</span>'
+            '<span class="rr-n">· coming soon</span><span class="rr-lbl">User-declared · not official</span>'
             f'<a class="rr-add" href="submit.html?owner={e(owner_id)}">+ Add what you faced</a></summary>'
-            '<div class="rr-body"><p class="rr-empty">Reader reports coming soon.</p></div>'
-            '<p class="rr-fine">Personal experiences, not verified. Not official requirements.</p></details>')
+            '<div class="rr-body"><p class="rr-empty">Reader reports coming soon.</p></div></details>')
 RR_STRIP = (f'<div class="rr-strip" id="rr-strip">{RR_PILL}<span><span class="rr-strip-n">Coming soon.</span> <span class="rr-sub">User-declared, not official.</span></span>'
             '<span class="rr-strip-a"><a class="btn sm rr" href="reports.html">See reports</a><a class="btn sm rr-o" href="submit.html">+ Add what you faced</a></span></div>')
 RR_HOME = (f'<section class="block tight" style="padding-bottom:0"><div class="wrap"><div class="rr-home" id="rr-home"><span class="rr-ic">{icon("chat")}</span>'
-           '<div><p class="rr-kick">Reader reports · user-declared</p><h2>What vetting really asked for</h2>'
+           '<div><p class="rr-kick">Reader reports · user-declared</p><h2>What Vetting/Screening Departments asked for</h2>'
            '<p class="lede">Requirements members met in practice, owner by owner. Reviewed before publishing, never official.</p></div>'
            '<div class="rr-cnt"><b id="rr-home-n">–</b><span id="rr-home-l">published reports</span></div>'
            '<div class="rr-cta"><a class="btn rr" href="reports.html">See reports</a><a class="btn rr-o" href="submit.html">+ Add what you faced</a></div></div></div></section>')
@@ -375,13 +374,10 @@ def rr_join(title, lede):
 page("reports.html", "Reader reports: requirements members met in practice", section="reports.html",
      desc="Requirements tanker people say they met in practice, shared by members, reviewed before publishing, and kept separate from official vetting criteria.",
      body=pagehead(f'{RR_PILL}<span>User-declared · not official</span>', "Reader reports", "What members met in practice. Reviewed before publishing, never official.", "rr-head") + subnav("reports.html") + f"""
-<div class="wrap page"><div class="rr-top"><p class="intro">Each report is one member's experience with an oil major or terminal, checked by a bot and the editor before it appears. Vote if it matches yours.</p>
+<div class="wrap page rr-page"><div class="rr-top"><p class="intro">What members met in practice, one card per owner. Vote if it matches yours.</p>
 <a class="btn rr" href="submit.html">{icon("chat")}Add what you faced</a></div>
-<div class="controls rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Owner"><option value="">All owners</option>{_oopts}<option value="other">Other</option></select>
-<select id="rr-fc" aria-label="Category"><option value="">All categories</option>{_copts}</select>
-<label class="rr-chk"><input type="checkbox" id="rr-fs"> Hide stale</label><span class="note"><b id="rr-count">0</b> reports</span></div>
+<div class="rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Owner"><option value="">All owners</option>{_oopts}<option value="other">Other</option></select><span class="note"><b id="rr-count">0</b> reports</span></div>
 <div id="rr-list">{RR_SOON}</div>
-<p class="note rr-legend"><span class="rr-staletag">Stale</span> no confirmation in 12 months · <a href="table.html">Official criteria</a></p>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
 page("submit.html", "Post a reader report", section="reports.html",
@@ -514,4 +510,8 @@ with open(os.path.join(DIST, "data", "changes.json"), "w") as f: json.dump(pub_c
 for f in ("comparison.json", "comparison.csv", "compare_pages.json", "updates.json", "calendar.json"):
     if os.path.exists(P("data", f)): shutil.copy(P("data", f), os.path.join(DIST, "data", f))
 shutil.copy(P("sources.json"), os.path.join(DIST, "data", "sources.json"))
+# local review only: VR_SEED_PREVIEW=1 copies the (unpublished, git-ignored) seed reports for ?demo=1 on localhost
+_seed = P("supabase", "seed_editor_reports.json")
+if os.environ.get("VR_SEED_PREVIEW") == "1" and os.path.exists(_seed): shutil.copy(_seed, os.path.join(DIST, "data", "seed_preview.json"))
+elif os.path.exists(os.path.join(DIST, "data", "seed_preview.json")): os.remove(os.path.join(DIST, "data", "seed_preview.json"))
 print("built", sorted(os.listdir(DIST)))

@@ -42,6 +42,11 @@ create table if not exists public.reports (
   updated_at       timestamptz not null default now(),
   constraint other_needs_name check (owner_id <> 'other' or owner_other is not null)
 );
+-- optional compact list for multi-item reports (e.g. one owner's crew-matrix minimums): [{"g": group, "t": text}, ...]
+alter table public.reports add column if not exists items jsonb;
+alter table public.reports drop constraint if exists reports_items_shape;
+alter table public.reports add constraint reports_items_shape check (items is null or (jsonb_typeof(items) = 'array'
+  and jsonb_array_length(items) between 1 and 60 and char_length(items::text) <= 8000));
 create index if not exists reports_status_idx on public.reports (status, created_at desc);
 create index if not exists reports_owner_idx  on public.reports (owner_id) where status = 'published';
 create index if not exists reports_author_idx on public.reports (author_id, created_at desc);
@@ -74,8 +79,8 @@ begin
     if new.status = 'published' then new.published_at := now(); end if;
   end if;
   -- content is frozen once submitted (moderators approve or reject, they do not edit)
-  if (new.owner_id, new.owner_other, new.category, new.requirement, new.faced_on, new.vessel_type, new.author_id)
-     is distinct from (old.owner_id, old.owner_other, old.category, old.requirement, old.faced_on, old.vessel_type, old.author_id)
+  if (new.owner_id, new.owner_other, new.category, new.requirement, new.faced_on, new.vessel_type, new.author_id, new.items)
+     is distinct from (old.owner_id, old.owner_other, old.category, old.requirement, old.faced_on, old.vessel_type, old.author_id, old.items)
      and current_user not in ('postgres','supabase_admin') then
     raise exception 'report content cannot be edited';
   end if;
@@ -118,7 +123,7 @@ create policy "admins read admins" on public.admins
 
 -- column privileges: never expose author_id or moderation notes to the client roles
 revoke all on public.reports, public.votes, public.admins from anon, authenticated;
-grant select (id, owner_id, owner_other, category, requirement, faced_on, vessel_type, status, published_at)
+grant select (id, owner_id, owner_other, category, requirement, faced_on, vessel_type, status, published_at, items)
   on public.reports to anon, authenticated;
 grant select on public.admins to authenticated;
 
@@ -131,7 +136,8 @@ select r.id, r.owner_id, r.owner_other, r.category, r.requirement, r.faced_on, r
        coalesce(v.up, 0)   as up,
        coalesce(v.down, 0) as down,
        greatest(r.faced_on, v.last_up) as last_confirmed,
-       greatest(r.faced_on, v.last_up) < (current_date - interval '12 months') as stale
+       greatest(r.faced_on, v.last_up) < (current_date - interval '24 months') as stale,
+       r.items
 from public.reports r
 left join lateral (
   select count(*) filter (where value = 1)::int  as up,
