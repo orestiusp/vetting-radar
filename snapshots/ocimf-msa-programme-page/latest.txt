@@ -1,0 +1,75 @@
+Management Self Assessment
+OCIMF has a suite of four Management Self-Assessment titles, Tanker Management and Self-Assessment (TMSA), Offshore Vessel Management and Self-Assessment (OVMSA), Marine Terminal Management and Self-Assessment (MTMSA) and the Ship-to-Ship Service Provider Management and Self-Assessment Guide.
+MSA Overview
+The Management and Self-Assessment (MSA) Programme and books are a unique tool developed by OCIMF to help organisations assess, measure their management systems against industry best practices.
+These programmes will help organisations improve and align their policies and procedures with industry best practices on safety and pollution prevention.
+The MSA tool is available in all programmes and can be made available to Programme Recipients:
+SIRE:
+Tanker Management and Self-Assessment (TMSA).
+BIRE:
+Tanker Management and Self-Assessment (TMSA).
+OVID:
+Offshore Vessel Management Self-Assessment (OVMSA).
+MTIS:
+Marine Terminal Management Self-Assessment (MTMSA).
+STS SP MSA:
+Ship-to-Ship Service Provider Management and Self-Assessment (STS SP MSA)
+Vessel and Terminal Operators can generate and use the appropriate Self-Assessment questionnaires within the Programmes to self-assess their safety management practices.
+Vessel Operators within SIRE and OVID complete one MSA document for an overview of the management of all their vessels.
+Terminal Operators registered within the MTIS programme need to complete one MTMSA for each terminal they are responsible for.
+About MSA
+Each MSA consists of a series of elements (chapters). These elements consist of a series of questions that relate to stages within that element. These stages indicate the standard of management that the organisation is operating at, i.e. the higher the stage the higher the standard.
+At each stage, the management company (vessel or terminal operator) answers key performance indicator questions to indicate their level of management performance which is then assessed against recommended best practices. This assessment then allows the management company to assign a level of performance for each element.
+MSAs are designed to be used by management companies as a tool for continuous improvement to help increase their overall levels of management performance over time.
+The questions in the MSAs are set out in four stages and are framed to require ‘Yes’ or ‘No’ answers with the option to add comments if needed.
+Operators and Terminal Operators can publish a Self-Assessment once they have completed the questionnaire. It is recommended to re-take a Self-Assessment every 12 months. Vessel Operators who use the SIRE and BIRE Programme Management and Self-Assessment (MSA) tool will be charged an annual subscription fee to create, edit and publish a new TMSA. If a subscription is not renewed, previously published and archived TMSAs will still be available for viewing by the Operator and Programme Recipients.
+Participation in the OVID (OVMSA) and MTIS (MTMSA) Management Self-Assessment Programmes does not require a subscription.
+Programmes
+Read More
+About TMSA
+The Tanker Management and Self-Assessment (TMSA) programme provides companies with a means to improve and measure their own safety management systems.
+The programme encourages companies to assess their safety management systems (SMS) against key performance indicators (KPIs) and provides the minimum standard expected (level 1) plus three levels of increasing standards or performance. The self-assessment results can be used by operators to develop phased improvement plans that support continuous improvement of their ship management systems. Companies are encouraged to regularly review their self-assessment results and develop plans for improvement.
+Aligning policies and procedures with industry best practice helps companies to improve and attain increasingly higher standards of safety and pollution prevention management.
+TMSA 3 FastFacts
+SIRE
+Since its inception, OCIMF’s Ship Inspection Report Programme (SIRE) has helped to support continuous improvement in the safety of the marine industry by providing a robust tanker risk assessment tool and vessel inspection report database.
+Login
+About OVMSA
+The Offshore Vessel Management and Self-Assessment (OVMSA) programme consists of a book, a matching online tool for recording the self-assessment and a database for sharing reports.
+Participation encourages companies to assess their own SMS against set key performance indicators (KPIs) and providing the minimum standard expected (level 1) and three further levels of increasing best practice guidance, which a company may wish to apply in their Shipboard Management System (SMS) to improve performance. Through self-assessment, companies are encouraged to use their assessment results to develop phased improvement plans that can be applied across their entire fleet and to share their OVMSA self-assessments with potential charterers using the OVMSA database.
+OVID
+The Offshore Vessel Inspection Database (OVID) was developed in response to a request from OCIMF members to provide a database of offshore inspections broadly following the format of SIRE.
+Log in to OVID
+About MTMSA
+The Marine Terminal Management and Self-Assessment (MTMSA) provides best practices and key performance indicators against which terminal operators can assess the effectiveness of their management systems for berth operations and the ship-to-shore interface.
+OCIMF members have found the Tanker Management and Self-Assessment (TMSA) to be a practical and valuable tool for driving up safety standards and encouraging continuous improvement across their operations. Over 90% of tanker operators, including all oil companies that operate vessels, use TMSA to assess their vessel management practices.
+In light of the success of TMSA, OCIMF has revised, updated and improved its existing Marine Terminal Baseline Criteria publication to make it consistent with the TMSA format. First published in September 2012, this revised and new publication is called the Marine Terminal Management and Self-Assessment (MTMSA).
+Participation in the MTMSA helps terminal operators to:
+Identify gaps.
+Plan future improvement.
+Build a sustainable business for the longer-term.
+With a self-assessment culture at the heart of OCIMF’s approach, participants can use the MTMSA guide to develop their practices and, using the internal review results continuously improve their safety and environmental performance.
+This can also be used to identify and share best practices around their terminal network by submitting their assessment reports into OCIMF’s terminal database. Each member (participant) submitting their MTMSA controls how widely their information is shared.
+The guide is available online to all participants who are registered MTIS users.
+MTIS
+The Marine Terminal Information System (MTIS) aims to ensure that all marine terminals worldwide reach common high standards of safety and environmental protection.
+Login to MTIS
+Videos
+MTIS Tutorial - First Time Sign In And Population Tool
+MTIS account support. This short video outlines signing into an MTIS account for the first time and how to use the Population Tool to efficiently add terminal berths to an MTIS account.
+Share
+About the Ship-to-Ship Service Provider Management and Self-Assessment Guide
+The Self-Assessment programme encourages STS Service Providers to assess their safety management systems against selected key performance indicators. It provides a minimum expectation level and an additional three levels of increasing best practice guidance.
+The results of each self-assessment can be used by STS Service Providers to develop plans that support the continuous improvement of management systems and the attainment of high standards of safety and pollution prevention.
+Service providers that submit completed Self-Assessments help charterers that use the programme to assess and select service providers for their STS operations.
+Key updates to this edition include:
+Where applicable, the elements have been aligned with Tanker Management Self-Assessment (TMSA) 3.
+A new element has been added that covers Maritime Security.
+The ‘Reliability and Maintenance of STS Equipment’, the ‘Due Diligence Regarding Transhipment Locations’ and the ‘STS Operations’ elements have been expanded to include new sections.
+The ‘Environmental and Energy Management’ element now incorporates the OCIMF Energy Efficiency and Fuel Management paper that was a supplement to TMSA 2.
+Elements have been streamlined and merged to improve consistency and make Self-Assessment easier.
+The best practice guidance has been expanded to complement the key performance indicators and revised to remove ambiguity and duplication. With its publication, the first edition of STS SPSA has been superseded and is no longer available.
+Members' Newsletter
+Thanks for subscribing!
+Sorry, it's not currently possible to subscribe to our newsletter at the moment. Please try again later.
+Subscribe to our email newsletter and stay up to date with the current OCIMF news.

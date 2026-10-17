@@ -1,0 +1,840 @@
+RIGHTSHIP
+STANDARD
+Dry Bulk Vessel
+Vetting Baseline
+Criteria
+Revision 4.0
+01st October 2026
+UNCONTROLLED ONCE
+i
+DOWNLOADED/PRINTED
+Dry Bulk Vessel Vetting Baseline Criteria
+Purpose
+This document outlines the RightShip recommended minimum Baseline Criteria for
+vetting services specific to dry bulk (and general cargo) vessels. These criteria can
+be customised based on the specific needs and risk profiles of each vetting
+customer. The tailored requirements are then used to establish final vetting rules,
+which guide the vetting process and inform vessel recommendations, considering
+factors such as safety, environmental impact, and crew wellbeing.
+RightShip Vetting Policy
+ There is no RightShip minimum Safety Score. Any vessel may be vetted with a Safety
+Score between 1/5 and 5/5 and could be positively recommended by RightShip
+provided that the agreed vetting customer requirements are met.
+ Vessels with a lower Safety Score may require additional vessel vetting checks, which
+may include completion of a RightShip Inspection before we can consider a positive
+recommendation to our vetting customers.
+ Vessels with a 0/5 or 1/5 Safety Score are unlikely to be positively recommended until
+the reason for the score has been investigated and resolved to the satisfaction of
+RightShip.
+ Vessels with a N/A Safety Score may not be covered by our normal vessel vetting
+services and may require the provision of additional information and additional checks
+if a customer requires RightShip to vet a vessel with a N/A Safety Score.
+October 2026 - Uncontrolled once Downloaded/Printed
+2
+Dry Bulk Vessel Vetting Baseline Criteria
+Checks performed within the vetting process
+Checks performed during the vetting process include but are not limited to the
+following:
+ Full review of the Safety Score including assessment of the veracity of data
+contributing to its calculated value.
+ Verification, with input from the vessel’s DOC Company, of data for missing defects,
+adverse reports, incidents not yet captured by the Safety Score.
+ Assessment of Port State Control Inspection performance beyond that illustrated by
+the Safety Score, including status and severity of deficiencies.
+ Review of any missing Port State Control data, for example from Riyadh and Abuja
+MoU’s is captured and uploaded to allow for recalculation of the Safety Score.
+ Assessment of incident performance beyond that illustrated by the Safety Score,
+including the status and severity of incidents.
+ Assessment of vessel performance based on completed RightShip Inspections
+beyond that illustrated by the Safety Score, including the status, severity, recurrence
+and closure of findings.
+ Assessment of the vessel’s DOC Company / Technical Managers performance beyond
+that illustrated by the Safety Score and/or DOC Subscore.
+ Verification of the vessel’s current Class status, including the status and validity of key
+Certificates, Surveys and the presence of any overdue Conditions of Class which might
+have operational impacts or reveal an unreported recent incident.
+ Open Abandonment of Seafarers case(s) involving the subject vessel, or its associated
+owning or managing entities.
+ Confirmation that requirements for a RightShip Inspection due to vessel age and/or
+performance, have been maintained.
+ Review against Vessel or Company Restrictions set by RightShip and/or the vetting
+customer.
+ Update and assessment of details of recent vessel changes of management or new
+build deliveries.
+ Checks of current trading status of the vessel, including (but not limited to) In
+Casualty/Repairing, Laid Up.
+ Assessment of previous vetting history.
+October 2026 - Uncontrolled once Downloaded/Printed
+3
+Dry Bulk Vessel Vetting Baseline Criteria
+Conditions that always lead to a vessel being recommended as Unacceptable
+Binary outcome based on RightShip Baseline Criteria:
+ Vessel age exceeds the RightShip standard.
+ Open Abandonment of Seafarers cases involving the subject vessel.
+ Vessel banned by a Port State Control Authority.
+ Vessel or company restricted by RightShip due to ongoing concerns.
+ An “Unacceptable” last RightShip Inspection.
+ Vessel which exceeds the RightShip Inspection age trigger and does not have a valid
+RightShip Inspection, or evidence that a RightShip Inspection has been completed or is
+scheduled.
+ Vessel flagged with a Paris or Tokyo MoU scored flag, which is Very High Risk, if
+vessel doesn’t hold a valid RightShip Inspection.
+ Vessel flagged with a Paris or Tokyo MoU scored flag, which is on their Blacklist, and
+combined with a Paris or Tokyo MoU Low or Very Low performing Class Society.
+Subject to clarification through the Vetting Process:
+ Vessel which has been De-Classed or Class Suspended as a result of performance
+and failure to comply with Class requirements.
+ Vessel that is falsely presented.
+ Vessel Operator demonstrating an unwillingness to respond to RightShip during the
+vetting process.
+ Vessel with overdue Class and Statutory Surveys, overdue Conditions of Class and/or
+overdue significant memos.
+ Vessel Operator demonstrating unwillingness to undergo a RightShip Inspection due
+to vessel age and/or performance.
+ Vessel’s Class, Flag, P&I provider, or DOC Company details.
+October 2026 - Uncontrolled once Downloaded/Printed
+4
+Dry Bulk Vessel Vetting Baseline Criteria
+Conditions that may lead to a vessel being recommended as Unacceptable
+In most cases the recommendation of unacceptable will be a result of an
+accumulation of the risk factors shown below as opposed to one of the items being
+observed in isolation.
+ Recurrent issues highlighting failures in Safety Management System.
+ Lack of acceptable response to enable satisfactory close out of an incident/adverse
+report.
+ Cases with the same ship manager where serious incidents have occurred and have
+not been disclosed.
+ Open Abandonment of Seafarers case(s) involving the subject vessel or operators still
+under review after a closed Abandonment of Seafarer case(s).
+ Vessels or Companies under review by RightShip due to ongoing concerns.
+ Vessels flagged with a Targeted, Medium to High or High Risk Flag as designated by
+Tokyo or Paris MoU, if vessel does not also have a valid RightShip Inspection.
+ Excessive number of incidents of any category in a particular time frame.
+ Multiple PSC Detentions over a timeframe – typically 3 such events over 24 months.
+ Excessively high ratios of Deficiencies/PSC Inspection over 24 months, with port
+averaging taken into consideration.
+ Consistently unacceptable close-outs.
+ Crew Experience and/or length of service falling below industry standards and DOC
+Company’s response suggests a crew change is not imminent.
+ Non-International Association of Classification Societies (IACS) which have been rated
+as High Risk in published Lists by recognised authorities or bodies.
+ Vessel or Company Restrictions set by the vetting customer.
+ Vessel under the management of a DOC Company which is on any MOU refusal of
+access or letters of warning list.
+ Vessel holding a RightShip Inspection that was awarded only 3 months validity.
+October 2026 - Uncontrolled once Downloaded/Printed
+5
+Dry Bulk Vessel Vetting Baseline Criteria
+What would trigger additional Marine Subject Matter Expert Review?
+ Port State Control Inspections with deficiencies with an open status1 within the
+RightShip Platform within a given time frame (typically the last 12 months).
+ Port State Control Inspections with deficiencies presenting elevated risk factors
+regardless of status and/or time frame.
+ Incidents with an open status1 within the RightShip Platform within a given time frame
+(typically the last 24 months for Category A & B and 12 months for Category C & D).
+ Incidents presenting elevated risk factors regardless of status and/or time frame.
+ Class Survey Status Report not updated, expired or expiring Certificates/Surveys,
+investigation into the reason for issuance of Short-Term Conditional Certification,
+Conditions of Class for operational impacts.
+ Vessels exhibiting unknown details in key areas - Class, Flag, P&I, Ownership and
+Management details.
+ Recent change of management or new build delivery will normally necessitate
+completion of a RightShip MOC/VTOP (Management of Change / Vessel Take Over
+Process) Questionnaire for review during the vessel vetting process.
+ Unscheduled Dry Docking or Repair periods require investigation to ascertain the
+reasons for such.
+1
+Open Status = RightShip has not yet received, assessed and closed the vessel
+operator’s PSC Inspection Closeout Submission or Incident Investigation Report
+including Root Cause Analysis, Corrective Action(s) and Preventative Measure(s)
+Plan.
+October 2026 - Uncontrolled once Downloaded/Printed
+6
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Vetting Baseline Criteria &
+Responsibility – Dry Bulk
+Attributes
+BASELINE CRITERIA RULES
+1 Any vessel where any of the following attributes are Unacceptable.
+listed as unknown within the RightShip Platform:
+The vessel will remain Unacceptable until RightShip is
+- Name/IMO number satisfied that the missing or unknown attributes have been
+verified, corrected within the RightShip Platform, and
+- DOC holding company supported by acceptable evidence from the relevant source,
+- Classification society including the vessel operator, DOC Company, Class Society,
+Flag State, P&I Club, or other recognised authority as
+- Flag applicable.
+- P&I Club
+Port State Control (PSC)
+BASELINE CRITERIA RULES
+2 Any vessel with 3 or more PSC Detentions in the last Unacceptable.
+24 months.
+The vessel will remain Unacceptable until RightShip is
+satisfied that each PSC Detention has been reviewed and
+closed out, root causes have been addressed, and Corrective
+Actions and Preventative Measures are effective.
+A RightShip Inspection will normally be required before any
+positive recommendation can be considered.
+3 Any vessel with 2 PSC Detentions in the last 24 Subject to review and may be Unacceptable depending on
+months. detention severity, deficiency profile, trend, and close-out
+quality.
+The vessel will not be positively recommended until RightShip
+is satisfied that each PSC Detention has been reviewed and
+October 2026 - Uncontrolled once Downloaded/Printed
+7
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+closed out, root causes have been addressed, and Corrective
+Actions and Preventative Measures are effective.
+A RightShip Inspection will normally be required before any
+positive recommendation can be considered.
+4 Any vessel with 1 PSC Detention in the last 12 months. Subject to review.
+The vessel will not be positively recommended until RightShip
+is satisfied that the PSC Detention has been reviewed and
+closed out, root causes have been addressed, and Corrective
+Actions and Preventative Measures are effective.
+A RightShip Inspection may be required depending on
+detention severity, deficiency profile, close-out quality, and
+wider vessel or DOC Company performance.
+5 Any vessel with PSC Inspection performance history Subject to review and may be Unacceptable depending on
+that is less than adequate. deficiency severity, port deficiency averaging, trend, and
+close-out quality.
+The vessel will not be positively recommended until RightShip
+is satisfied that PSC Inspection performance has been
+reviewed, root causes have been addressed, and Corrective
+Actions and Preventative Measures are effective.
+A RightShip Inspection may be required.
+6 Any vessel with no PSC Inspection records in the last Subject to review.
+24 months.
+The vessel will not be positively recommended unless
+satisfactory recent independent assurance is available.
+An acceptable valid RightShip Inspection completed within
+the last 24 months is normally required. Where a valid
+RightShip Inspection is not available, evidence of satisfactory
+recent independent assurance may be considered, including:
+ a recent Flag State inspection with no adverse reports;
+or
+ a recent inspection report from a recognised
+regulatory or industry assurance programme
+indicating no adverse findings.
+Where no such assurance is available, a RightShip Inspection
+may be required.
+October 2026 - Uncontrolled once Downloaded/Printed
+8
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+7 Any vessel with PSC Inspection deficiencies in the last Unacceptable.
+24 months that present a high-risk condition or
+indicate unresolved structural, machinery, operational, The vessel will remain Unacceptable until RightShip is
+or safety-critical deficiencies. satisfied that the high-risk deficiencies have been corrected.
+In exceptional circumstances, RightShip may consider class-
+approved temporary repairs or other risk-control measures
+where supported by documented conditions, restrictions,
+monitoring requirements and a defined plan for permanent
+repair.
+A RightShip Inspection may be required.
+8 Any vessel, DOC Company, owner, operator, manager, Unacceptable.
+or other associated entity that has evaded, ignored, or
+departed in breach of a PSC Detention or Port State The vessel will remain Unacceptable until RightShip is
+control order. satisfied that the detention breach has been fully
+investigated, the vessel and associated entities are no longer
+connected with the circumstances of the breach, and
+appropriate corrective and preventative actions have been
+implemented.
+9 Any vessel submitted for vetting with PSC Inspection Subject to review.
+deficiencies recorded in the last 12 months that have
+not been reviewed. PSC Inspection deficiencies in the last 12 months must be
+reviewed to RightShip’s satisfaction. Reviews typically include
+evaluation of PSC Inspection closeout submission containing
+deficiency details, explanation, root cause analysis, corrective
+actions, preventative measures, and any supporting evidence.
+October 2026 - Uncontrolled once Downloaded/Printed
+9
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Incidents
+BASELINE CRITERIA RULES
+10 Any vessel involved in two or more Category A Unacceptable.
+incidents within the last 24 months, unless clear and
+proven non-fault is established. The vessel will remain Unacceptable until RightShip is
+satisfied that each incident has been reviewed and closed
+out, including acceptable investigation, root cause analysis,
+and corrective and preventative actions.
+A RightShip Inspection will normally be required before any
+positive recommendation can be considered.
+11 Any vessel involved in a Category A or Category B Subject to review.
+incident within the last 24 months, unless clear and
+proven non-fault is established. The incident must be reviewed and closed out to RightShip’s
+satisfaction, including acceptable investigation with
+description, root cause analysis, corrective actions and
+preventative measures.
+A post-incident RightShip Inspection will normally be required
+depending on incident severity and fault together with close-
+out quality and any related performance concerns.
+12 Any vessel involved in a Category C or Category D Subject to review.
+incident within the last 12 months, unless clear and
+proven non-fault is established. The incident must be reviewed and closed out to RightShip’s
+satisfaction, including acceptable investigation with
+description, root cause analysis, corrective actions and
+preventative measures.
+13 Any vessel with recurring incidents over the last 24 Subject to review and may be Unacceptable depending on
+months that indicate a common root cause or incident pattern, severity, and closeout quality.
+repeated failure of the safety management system,
+regardless of incident category. The vessel will not be positively recommended until RightShip
+is satisfied that any recurring issue has been investigated,
+root causes have been addressed, and corrective and
+preventative actions are effective.
+A RightShip Inspection may be required.
+October 2026 - Uncontrolled once Downloaded/Printed
+10
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Age, CAP & Inspection Requirements
+BASELINE CRITERIA RULES
+14 Any vessel over the age of 30 years. Unacceptable.
+Exceptions may be considered on a case-by-case basis for
+specific trading areas (e.g. Great Lakes) where vessels over
+30 years are commonly used, where agreed with the vetting
+customer and supported by acceptable vessel performance,
+condition, and inspection history.
+15 Any bulk carrier over 90,000 DWT and 25 years old or Acceptable only where RightShip is satisfied that the vessel
+over. meets the applicable CAP requirement.
+A RightShip-assigned CAP rating of 2/5 is required for
+vessels over 25 years of age up to a maximum of 30 years.
+Where a 2/3 CAP scale applies, a RightShip-assigned CAP
+rating of 2/3 is required for vessels over 25 years of age up
+to a maximum of 28 years.
+16 Any vessel without a valid RightShip Inspection, when Unacceptable.
+RightShip Inspection is required due to vessel’s age or
+performance concerns. The vessel will remain Unacceptable until a valid RightShip
+Inspection has been completed and found acceptable, or
+until RightShip is otherwise satisfied that the inspection
+requirement no longer applies.
+Note: Performance concerns can relate to specific
+vessels, entire fleets or specific vessel groups and are RightShip Inspection Age Triggers are vessels aged 11
+typically the result of unsatisfactory performance years and above from 01st July 2026 and then vessels aged
+observed from incident(s), PSC Inspection(s), previous 10.5 years and above from 20th January 2027.
+RightShip Inspection(s) or other safety, environmental,
+reliability or crew welfare indicators.
+17 Any vessel where the most recent RightShip Unacceptable.
+Inspection was assessed as Unacceptable.
+The vessel will remain Unacceptable until RightShip is
+satisfied that the inspection findings have been reviewed
+and appropriately addressed. A further RightShip Inspection
+will normally be required before any positive
+recommendation can be considered.
+October 2026 - Uncontrolled once Downloaded/Printed
+11
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+18 Any vessel where the most recent RightShip Subject to review and may be Unacceptable depending on
+Inspection resulted in validity of 3 months or less. the reason for the limited validity and any other
+performance indicators.
+The vessel may not be positively recommended until
+RightShip is satisfied that the inspection findings, corrective
+actions, and any related operational or management
+concerns have been reviewed and appropriately addressed.
+A further RightShip Inspection may be required.
+October 2026 - Uncontrolled once Downloaded/Printed
+12
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Flag, Class & Regulatory Compliance
+BASELINE CRITERIA RULES
+19 Any vessel flagged with a Paris or Tokyo MoU scored Unacceptable.
+flag which is listed as Very High Risk (of the Blacklist).
+The vessel will remain Unacceptable until RightShip is
+satisfied that the flag-related risk no longer applies, or that
+the vessel has been reflagged to arrangements acceptable to
+RightShip.
+20 Any vessel flagged with a Paris or Tokyo MoU scored Unacceptable.
+flag which is on their Blacklist, and combined with a
+Paris or Tokyo MoU Low or Very Low performing The vessel will remain Unacceptable until RightShip is
+Class Society. satisfied that the combined flag and recognised organisation
+risk no longer applies, or that the vessel has been reflagged,
+reclassed, or otherwise brought under arrangements
+acceptable to RightShip.
+21 Any vessel flagged with a Targeted, Medium to High or Acceptable only where the vessel has a valid RightShip
+High Risk Flag as designated by Tokyo or Paris MoU. Inspection.
+Where no valid RightShip Inspection is held, the vessel will
+not be positively recommended until a RightShip Inspection
+has been completed and found acceptable, or until RightShip
+is otherwise satisfied that the flag-related risk has been
+appropriately addressed.
+22 Any vessel with overdue Class or Statutory Conditions, Unacceptable.
+Certificates, Surveys, or other mandatory
+requirements. The vessel will remain Unacceptable until the overdue item
+has been remedied or otherwise accepted by the relevant
+Class Society, Flag State, or issuing authority, and RightShip
+is satisfied that the reason for the overdue status has been
+reviewed and resolved.
+23 Any vessel with current (in date) Class or Statutory Subject to review and may be Unacceptable depending on
+Conditions, Memoranda, recommendations, or other operational or compliance impact.
+survey findings that may affect safe operation,
+statutory compliance, trading ability, or vessel The vessel will not be positively recommended until RightShip
+readiness. is satisfied that the finding has been reviewed, any required
+action is being appropriately managed, and there is no
+unacceptable impact on safe operation or readiness to trade.
+October 2026 - Uncontrolled once Downloaded/Printed
+13
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+24 Any vessel with a classification status other than In- Subject to enhanced review and may be Unacceptable
+Service or operational status other than In Trading depending on the status and operational impact.
+Fleet, including but not limited to laid up, in casualty,
+under repair, in dry dock, keel laid, detained, arrested, The vessel will not be positively recommended until RightShip
+withdrawn from service, or otherwise unavailable for is satisfied that the reason for the status, any related
+normal commercial operation. operational or compliance implications, and the vessel’s
+readiness to trade have been reviewed and resolved.
+Supporting evidence and/or a RightShip Inspection may be
+required.
+25 Any vessel that has been de-classed, had Class Unacceptable.
+suspended, withdrawn, or otherwise invalidated within
+the last 24 months, including cases arising from The vessel will remain Unacceptable until RightShip is
+failure to maintain classification standards, non- satisfied that valid Class status has been reinstated or
+compliance with Class requirements, non-payment of otherwise confirmed, the reason for the de-classing,
+Class fees, unresolved survey issues, or other suspension, withdrawal, or invalidation has been fully
+circumstances affecting the vessel’s valid explained, and appropriate corrective actions and
+classification status. preventative measures have been implemented. RightShip
+may require supporting evidence from the relevant Class
+Society, updated certificates and survey status, confirmation
+that any required surveys or approvals have been completed,
+and/or a RightShip Inspection before any positive
+recommendation can be considered. Where the Class issue is
+associated with a DOC Company, owner, operator, manager,
+or other related entity, RightShip may also undertake wider
+fleet or company-level review.
+26 Any vessel, DOC Company, owner, operator, manager, Unacceptable.
+or other associated entity found to have failed to
+notify Flag State and/or Class of matters required The vessel will remain Unacceptable until RightShip is
+under applicable entry, retention, statutory, or satisfied that the matter has been fully disclosed to the
+classification requirements, including but not limited relevant Flag State and/or Class Society, the cause and
+to incidents, damage, defects, unauthorised repairs, extent of the non-notification has been investigated, and
+structural issues, machinery failures, or other appropriate corrective actions and preventative measures
+conditions affecting the vessel’s compliance, have been implemented. RightShip may require supporting
+seaworthiness, or safe operation. evidence from Flag and/or Class, updated certificates or
+survey status, confirmation that any required surveys or
+approvals have been completed, a RightShip Inspection,
+and/or DOC Company Management Assessment/Audit
+before any positive recommendation can be considered.
+Where the non-notification is associated with a DOC
+Company, owner, operator, manager, or other related entity,
+RightShip may also undertake wider fleet or company-level
+review.
+October 2026 - Uncontrolled once Downloaded/Printed
+14
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+27 Any vessel that is confirmed, suspected, or credibly Unacceptable.
+reported to be fraudulently flying, displaying, or
+claiming the flag or registry status of a State to which The vessel will remain Unacceptable until RightShip is
+it has no valid entitlement. satisfied that the vessel’s valid Flag State registration has
+been confirmed, any fraudulent flag or registry representation
+has been fully investigated and resolved, and appropriate
+corrective actions and preventative measures have been
+implemented. RightShip may require supporting evidence
+from the relevant Flag State, updated registry certificates,
+confirmation from Class and/or the DOC Company before any
+positive recommendation can be considered.
+Where fraudulent flag representation is associated with a
+DOC Company, owner, operator, manager, or other related
+entity, RightShip may also undertake wider fleet or company-
+level review.
+28 Any vessel for which RightShip is unable to verify valid Unacceptable.
+Class and/or Flag status, or any vessel that is
+confirmed to be operating without valid Class and/or The vessel will remain Unacceptable until RightShip is
+Flag registration. satisfied that valid Class and Flag status has been confirmed,
+the reason for any absence, withdrawal, suspension, or
+inability to verify status has been fully explained, and
+appropriate corrective actions and preventative measures
+have been implemented. RightShip may require supporting
+evidence from the relevant Class Society and/or Flag State,
+updated certificates, confirmation of current classification
+and registry status before any positive recommendation can
+be considered.
+29 Any vessel, DOC Company, owner, operator, manager, Unacceptable.
+or other associated entity found to have deliberately
+contravened applicable international standards, The vessel will remain Unacceptable until RightShip is
+conventions, laws, or mandatory regulatory satisfied that the contravention has been fully investigated,
+requirements, including but not limited to IMO, SOLAS, the root cause has been identified, and appropriate corrective
+MARPOL, STCW, MLC, Class, Flag State, Coastal State, actions and preventative measures have been implemented.
+or Port State requirements. RightShip may require supporting evidence, confirmation
+from the relevant authority, Class or Flag State verification, a
+RightShip Inspection, and/or DOC Company Management
+Assessment/Audit before any positive recommendation can
+be considered. Where the contravention is associated with a
+DOC Company, owner, operator, manager, or other related
+entity, RightShip may also undertake wider fleet or company-
+level review.
+October 2026 - Uncontrolled once Downloaded/Printed
+15
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+30 Any vessel, DOC Company, owner, operator, manager, Unacceptable.
+or other associated entity that deliberately provides
+RightShip with false, misleading, incomplete, or The vessel will remain Unacceptable until RightShip is
+materially inaccurate information, or deliberately satisfied that the matter has been fully investigated, the
+withholds information considered critical to the vetting information record has been corrected, and appropriate
+assessment. This includes, but is not limited to, the corrective actions and preventative measures have been
+non-disclosure of prior incidents, Port State Control implemented. RightShip may require supporting evidence, a
+outcomes, class or statutory issues, management RightShip Inspection, and/or a DOC Company Management
+changes, ownership/control details, sanctions Assessment/Audit before any positive recommendation can
+exposure, or other adverse information not otherwise be considered. Where deliberate misrepresentation or non-
+visible to RightShip. disclosure is associated with a DOC Company, owner,
+operator, manager, or other related entity, RightShip may also
+undertake wider fleet or company-level review.
+October 2026 - Uncontrolled once Downloaded/Printed
+16
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Human Rights
+BASELINE CRITERIA RULES
+31 Any vessel flagged to a country that has not adopted Unacceptable.
+and ratified the Maritime Labour Convention, 2006
+(MLC, 2006), and which does not demonstrate an The vessel will remain Unacceptable until RightShip is
+equivalent level of compliance (for example, through a satisfied that an equivalent level of compliance with MLC,
+valid ITF Agreement, voluntary MLC compliance, or 2006 requirements has been demonstrated, or the vessel is
+internationally recognised labour laws). reflagged to a State that has adopted and ratified MLC, 2006
+and the vessel holds the applicable MLC certification or
+equivalent supporting evidence. RightShip may require
+evidence such as a valid Maritime Labour Certificate,
+Declaration of Maritime Labour Compliance, valid ITF
+Agreement, voluntary MLC compliance evidence, Flag State
+confirmation, or other recognised labour compliance
+documentation before any positive recommendation can be
+considered.
+32 Any vessel and/or company associated with a vessel Unacceptable.
+found to have committed, facilitated, or been directly
+associated with human rights abuses. The vessel will remain Unacceptable until RightShip is
+satisfied that appropriate corrective actions and preventative
+measures have been implemented and, where
+appropriate/required, the vessel has successfully completed
+a RightShip Inspection.
+33 Any vessel found to have poor living standards, poor Unacceptable.
+working standards, or significant failings in respect of
+seafarers’ rights, welfare, or terms and conditions of The vessel will remain Unacceptable until RightShip is
+employment. satisfied that appropriate corrective actions and preventative
+measures have been implemented and, where
+appropriate/required, the vessel has successfully completed
+a RightShip Inspection.
+34 Any vessel that is the subject of a current ILO Unacceptable.
+Abandonment of Seafarers case, or which is
+associated with an owning, managing, or operating The vessel will remain Unacceptable until RightShip is
+entity that is subject to a current ILO Abandonment of satisfied that the abandonment case has been resolved,
+Seafarers case. affected seafarers have been repatriated and/or
+compensated as applicable, and appropriate corrective
+actions and preventative measures have been implemented.
+Where appropriate/required, the vessel must also have
+successfully completed a RightShip Inspection. Repeat, or
+multiple abandonment cases associated with a common
+vessel, DOC Company, owner, operator, or managing entity
+may result in continued Unacceptable status or wider
+company-level review.
+October 2026 - Uncontrolled once Downloaded/Printed
+17
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Sanctions, Banning’s & Geopolitical Risks
+BASELINE CRITERIA RULES
+35 Any vessel, flag, Registered Owner, Beneficial Owner, Unacceptable.
+DOC Company, Technical Manager, Commercial
+Operator, Commercial Manager, or other associated The vessel will remain Unacceptable until RightShip is
+entity that is sanctioned, restricted, banned, or otherwise satisfied that the applicable sanction, restriction, ban, or
+prohibited by recognised authorities or regimes, including prohibition no longer applies, or that the vessel and all
+but not limited to OFAC, USCG, AMSA, DFAT, the EU, the relevant associated entities are demonstrably outside the
+UK, the UN, or Port State Control Authorities/MoU’s. scope of the applicable measure. RightShip may require
+supporting documentation, ownership and control
+verification, sanctions screening evidence, and/or wider
+company-level review before any positive recommendation
+can be considered.
+36 Any vessel where management, control, ownership, Subject to review and may be Acceptable in cases where
+commercial operation, or associated entity details incomplete Registered Owner and/or Beneficial Ownership
+cannot be verified or are refused by the vessel, DOC details are identified, provided no other ownership, status,
+Company, owner, operator, manager, or other sanctions, control, management, or wider vessel
+associated party. performance concerns are identified.
+The vessel will remain Unacceptable where RightShip is
+unable to verify the relevant control, management, or
+associated entity information to its satisfaction, or where
+the review identifies sanctions exposure, restricted-party
+involvement, deliberate non-disclosure, misrepresentation,
+or other material integrity concerns.
+Structures, Machinery & Operations
+BASELINE CRITERIA RULES
+37 Any vessel which has undergone a Class re-assessment Subject to review.
+of scantlings in an attempt to avoid steel renewals as a
+result of excessive wastage. The vessel will not be positively recommended until
+RightShip is satisfied that the reassessment, structural
+condition, Class approval, and any related steel renewal
+requirements have been reviewed and found acceptable. A
+RightShip Hull Structure CAP may be required, with an
+acceptable CAP rating of 2/5 or 2/3 as applicable. Note: For
+further information see RightShip Dry Bulk – Condition
+Assessment Program – Requirements
+October 2026 - Uncontrolled once Downloaded/Printed
+18
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+38 Any vessel known or credibly reported to have been Unacceptable.
+overloaded, loaded beyond approved limits, or operated
+outside applicable loading, stability, structural, draught, The vessel will remain Unacceptable until RightShip is
+or load line requirements, where subsequent structural satisfied that the overloading event has been fully
+assessment, Class review, and any required repairs or investigated, the vessel’s structural condition has been
+approvals have not been completed to RightShip’s assessed by the relevant Class Society, and any required
+satisfaction. surveys, repairs, reinforcements, approvals, or operational
+restrictions have been completed or accepted by Class.
+RightShip may require supporting evidence from Class
+and/or Flag State, updated survey or certificate status,
+cargo/loading records, stability/loading documentation,
+root cause analysis, corrective actions and preventative
+measures, and/or a RightShip Inspection or Hull Structure
+CAP before any positive recommendation can be
+considered.
+39 Any vessel found, reported, or credibly suspected to be Unacceptable.
+in poor material condition or to have poor maintenance
+standards affecting structural, machinery, cargo, safety- The vessel will remain Unacceptable until RightShip is
+critical, or operational systems. satisfied that the poor condition and/or maintenance
+standard has been reviewed, root causes addressed, and
+effective corrective and preventative actions implemented.
+Supporting evidence and a satisfactory RightShip
+Inspection will normally be required before any positive
+recommendation can be considered.
+40 Any vessel that has recently undergone substantial Subject to review and may be Unacceptable depending on
+alteration, modification, conversion, or extensive repair the nature, extent, and reason for the alteration,
+that may affect vessel structure, machinery, cargo modification, conversion, or repair.
+systems, operational capability, certification, or trading
+readiness. The vessel will not be positively recommended until
+RightShip is satisfied that the work has been reviewed, any
+impact on vessel characteristics, certification, structure,
+machinery, or safe operation has been assessed, and any
+related incident, defect, Class, Flag, or statutory matter has
+been identified and resolved. Supporting evidence and/or a
+RightShip Inspection may be required.
+41 Any vessel found, reported, or credibly suspected to Unacceptable.
+have no effective Planned Maintenance System, or
+where the system is not being used to control safety- The vessel will remain Unacceptable until RightShip is
+critical, statutory, machinery, structural, cargo, or satisfied that an effective Planned Maintenance System is
+operational maintenance. implemented and being used to manage maintenance,
+defects, overdue tasks, and safety-critical equipment.
+Supporting evidence and a satisfactory RightShip
+Inspection will normally be required before any positive
+recommendation can be considered.
+October 2026 - Uncontrolled once Downloaded/Printed
+19
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+42 Any vessel found, reported, or credibly suspected to Unacceptable.
+have no effective key shipboard operational procedures
+or instructions, or where such procedures are not being The vessel will remain Unacceptable until RightShip is
+implemented for safety-critical, statutory, cargo, satisfied that effective key shipboard operational
+machinery, or navigational operations. procedures are in place, implemented, and being used to
+control safety-critical operations. Supporting evidence and
+a satisfactory RightShip Inspection will normally be required
+before any positive recommendation can be considered.
+P&I
+BASELINE CRITERIA RULES
+43 Any vessel above 8,000 DWT not entered with a P&I Club Unacceptable.
+which is a member of The International Group of P&I
+Clubs. The vessel will remain Unacceptable until RightShip has
+verified that the vessel maintains valid entry with:
+Or
+Any vessel of 8,000 DWT and below not entered with a - An International Group P&I Club, or
+P&I Club which is a member of The International Group
+of P&I Clubs or a reputable (based on S&P Rating) Non- - For vessels of 8,000 DWT and below, a reputable non-
+International Group P&I Club (i.e. demutalised or fixed International Group P&I Club acceptable to RightShip.
+premium club).
+October 2026 - Uncontrolled once Downloaded/Printed
+20
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Environment
+BASELINE CRITERIA RULES
+44 Any vessel with a RightShip GHG Rating lower than D. Better than E highly preferable.
+Management of Change
+BASELINE CRITERIA RULES
+45 Any vessel which is a New Build Delivery. Required to complete and submit a RightShip Management of
+Change (MoC) / Vessel Take Over Process (VTOP)
+Questionnaire up to 1 month from the date of delivery.
+Unless
+DOC Company has a valid RightShip DryBMS Verification
+Assessment which determined that the company has
+attained at least Advanced Level in DryBMS Subject Area 26.
+Or
+If vessel has completed an acceptable RightShip Inspection.
+46 Any vessel which has changed DOC Company. Will be required to complete and submit a Management of
+Change (MoC) / Vessel Take Over Process (VTOP)
+Questionnaire up to 1 month from the date of change.
+Unless
+DOC Company has a valid RightShip DryBMS Verification
+Assessment which determined that the company has
+attained at least Advanced Level in DryBMS Subject Area 26.
+Or
+If vessel has completed an acceptable RightShip Inspection
+under the new DOC Company.
+October 2026 - Uncontrolled once Downloaded/Printed
+21
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+RightShip & Customer Restrictions
+BASELINE CRITERIA RULES
+47 Any vessel or company listed on a RightShip or Subject to the applicable RightShip or Customer restriction.
+Customer Restricted List.
+The vessel will not be positively recommended unless the
+restriction permits the proposed vetting outcome or
+RightShip is satisfied that the restriction has been removed,
+waived, or otherwise resolved in accordance with the
+applicable restriction process.
+Operator & Vessel Overall Performance
+BASELINE CRITERIA RULES
+48 Any vessel that fails any of the non-binary Baseline The number and severity of contributing factors (along with
+Criteria in this document due to cumulative the calibre of the DOC Company’s investigation and
+performance considered to be well below acceptable. corrective and preventative measures) will be assessed and
+this will result in either the vessel being deemed ‘Not
+Acceptable’ or will require the vessel to be submitted for a
+RightShip Inspection and subsequently be found to be
+satisfactory.
+49 DOC Company found to be generally poor in terms of Will be subject to additional measures, which may include
+overall operational and safety performance. mandating RightShip Inspections across their fleets or
+technical holds across their managed fleets as deemed
+appropriate by way of addition to a RightShip Company
+watchlist and may require the vessel’s DOC Company to
+undergo a Management Assessment/Audit.
+50 Vessels found to be generally poor in terms of Will be subject to additional measures, which may include
+operational and safety performance. mandating RightShip Inspections or technical holds as
+deemed appropriate by way of addition to a RightShip
+Vessel watchlist and may require the vessel’s DOC
+Company to undergo a Management Assessment/Audit.
+October 2026 - Uncontrolled once Downloaded/Printed
+22
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Information Only Criteria*
+BASELINE CRITERIA RULES
+51 Any vessel operated by a DOC Company without a Information Only with no current impact on vetting
+current Crew Welfare Self Assessment. outcomes.
+Vessel DOC Companies are strongly encouraged to
+complete, submit and periodically update a Crew Welfare
+Self Assessment to showcase their commitment to Crew
+Welfare.
+52 Any vessel that has not submitted details of EEDI, EEXI Information Only with no current impact on vetting
+or CII and Energy Saving Measures. outcomes.
+Vessel DOC Companies are strongly encouraged to submit
+details of their vessel’s EEDI, EEXI or CII and Energy Saving
+Measures implemented.
+53 Any vessel operated by a DOC Company that has not Information Only with no current impact on vetting
+registered with the Dry Bulk Centre of Excellence outcomes.
+(DBCE).
+Vessel DOC Companies are strongly encouraged to register
+as a DBCE Member and complete a DryBMS Self-
+Assessment on the DBCE DryBMS online portal.
+* Information Only Criteria – These items represent criteria which RightShip considers important, but they are not
+presently part of the RightShip recommended Vetting Baseline. Where any of these criteria are not met, it will be
+reflected within final vetting outcomes as “For Information Only”, however, vetting customers may wish to
+consider incorporating such criteria within their bespoke vetting criteria.
+October 2026 - Uncontrolled once Downloaded/Printed
+23
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+Revisions Log
+Revision
+Criteria ID Change Details Date
+Number
+1 Preamble Minor edits to grammar and typo corrections. Jun2023
+1 Preamble Comment around RS Inspection planning. Jun2023
+1 Preamble Comment around non-disclosure of adverse events. Jun2023
+1 Preamble Addition of Tokyo PSC MoU to Flag and RO Performance. Jun2023
+1 Preamble Amendment to Incident Review time span. Jun2023
+1 2&3 Amendment to outcome logic. Jun2023
+1 4 Addition of PSC Port Averaging consideration and timescale correction. Jun2023
+1 5 Addition of PSC Port Averaging consideration. Amendment to outcome logic. Jun2023
+1 6 Addition of alternative paths where there has been no PSC Inspection in the last Jun2023
+24 months.
+1 7 Addition of a RightShip Inspection trigger. And timescale amendment. Jun2023
+1 8 Clarity over the processing of vessels which have “Jumped” a PSC Detention. Jun2023
+1 16&17 Clarification of RightShip Inspection validity if the DoC Operator changes. Jun2023
+1 19&20 Tokyo PSC MoU added. Jun2023
+1 22&23 Amended to clarify focus is on operational impacts. Jun2023
+1 24,25,26&28 Clarity over processing of such vessels. Addition of a RightShip Inspection trigger. Jun2023
+1 29 Clarity over processing of such vessels and operators. Addition of a RightShip Jun2023
+Inspection trigger.
+1 30 Addition of Voluntary MLC. Jun2023
+1 31&32 Addition of a RightShip Inspection trigger. Jun2023
+33 Clarity over repeat cases of Abandonment. Addition of a RightShip Inspection Jun2023
+trigger.
+1 34 Addition of UK and USCG to Sanctions and Bannings. Jun2023
+1 36 Clarity over application of scantling re-assessment and intent. CAP route added. Jun2023
+1 38 Clarity over processing of such vessels. Addition of a RightShip Inspection trigger. Jun2023
+Removal of structural basis.
+1 39 Clarification of desktop review. Jun2023
+1 40&41 Clarity over processing of such vessels. Addition of a RightShip Inspection trigger. Jun2023
+1 43 GHG logic clarification. Jun2023
+1 44&45 Change VTOP time span from 12 to 3 months. Jun2023
+1 49 Addition of a RightShip Company Audit trigger. Jun2023
+1 50 Addition of a RightShip Company Audit trigger. Blacklisted changed to Technical Jun2023
+Hold.
+1 * Human Rights. Crew Welfare Self Assessment Info Only Criteria added. Jun2023
+1 * Environmental. EEXI Info Only Criteria added. Jun2023
+2 43 Amendments to reflect GHG 2.0 implementation. Dec2023
+3 Preamble Update of Purpose section to reflect transition to the baseline criteria being Jul2025
+recommended.
+3 Preamble Deletion of Confidentiality section. Jul2025
+3 Preamble References to Due Diligence replaced with vessel vetting. Jul2025
+3 Preamble Updates to acceptability criteria for vessels flagged by Paris or Tokyo MoU Jul2025
+Blacklisted flags which are Very High, High or Medium to High Risk.
+3 Preamble Inclusion of comment that vessels holding a RightShip Inspection that was Jul2025
+awarded only 3 months validity may now be considered unacceptable.
+3 11 Updated rule guidance in respect to the necessity to complete a post incident Jul2025
+RightShip Inspection.
+3 16&17 Updates to the RightShip Inspection age trigger requirements in respect to vetting Jul2025
+outcomes and vessels Safety Score.
+3 - Inclusion of consideration for cases where the last RightShip Inspection outcome Jul2025
+resulted in validity of 3 months or less.
+3 18,19&20 Updates to acceptability criteria for vessels flagged by Paris or Tokyo MoU Jul2025
+Blacklisted flags which are Very High, High or Medium to High Risk.
+3 31 Inclusion of DOC Company in criteria related to Human Rights abuses. Jul2025
+3 - Inclusion of CII. Jul2025
+October 2026 - Uncontrolled once Downloaded/Printed
+24
+Contents
+Dry Bulk Vessel Vetting Baseline Criteria
+3 44&45 Inclusion of provision to exempt certain DOC Companies from completion of Jul2025
+MOC/VTOP Questionnaire.
+3 46 Removal of Financial Stability Section. Jul2025
+3 - Establishment of Info Only Criteria section. Jul2025
+3 - DryBMS Info Only Criteria added. Jul2025
+3 - Renumbering of all criteria to account for additions and removals. Jul2025
+3 - Minor edits to grammar and other minor corrections including all references to Jul2025
+DOC Holder, DOC Operator & DOC Manager updated to read DOC Company.
+4 Preamble Scope expanded to include general cargo vessels. Vetting policy updated to clarify Oct26
+treatment of 1/5 Safety Scores and N/A Safety Scores.
+4 Preamble Enhanced vetting process guidance including consideration of RightShip Oct26
+Inspection performance and DOC Subscore related performance indicators.
+4 1 New vessel attribute criteria introduced covering unknown vessel details and Oct26
+incomplete ownership information.
+4 2-9 PSC section comprehensively revised with enhanced detention, performance, Oct26
+high-risk deficiency and close-out assessment requirements.
+4 10-13 Incident criteria restructured to separately address Category A/B and Category C/D Oct26
+incidents, recurring incidents and associated review requirements.
+4 16 RightShip Inspection age trigger requirements updated to reflect revised inspection Oct26
+implementation programme.
+4 19-30 Flag, Class and Regulatory Compliance section expanded with enhanced Oct26
+requirements relating to vessel status, classification, regulatory compliance,
+disclosure obligations and misrepresentation.
+4 34 Abandonment of Seafarers criteria expanded to include closure expectations and Oct26
+consideration of associated entities.
+4 35&36 Sanctions and ownership transparency criteria strengthened through inclusion of Oct26
+broader associated entities and verification requirements.
+4 37-41 Structures, Machinery and Operations criteria enhanced with expanded guidance Oct26
+on overloads, vessel condition, modifications, maintenance systems and
+operational procedures.
+4 44&45 MOC/VTOP requirements reduced from 3 months to 1 month and exemption Oct26
+criteria expanded to include acceptable RightShip Inspections.
+4 46-49 RightShip and customer restriction, vessel performance and DOC Company Oct26
+performance provisions updated and aligned with current watchlist and restriction
+processes.
+4 53 Information Only criteria revised to replace DryBMS Self-Assessment requirement Oct26
+with DBCE registration criteria.
+4 - Document extensively reformatted and rewritten to provide clearer baseline Oct26
+criteria, review thresholds, acceptability expectations and closure requirements.
+October 2026 - Uncontrolled once Downloaded/Printed
+25

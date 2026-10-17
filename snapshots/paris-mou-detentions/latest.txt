@@ -1,0 +1,6 @@
+Current Detentions
+The Current Detentions page provides a public, real-time overview of ships that are currently held in port after Port State Control inspectors found deficiencies serious enough to prevent the vessel from sailing safely, such as faults in life-saving equipment, fire safety, navigation, pollution-prevention systems or working and living conditions.
+Each listing shows the ship’s particulars together with the port and date of detention, giving an up-to-date picture of which vessels in the Paris MoU waters are not currently meeting safety standards.
+This makes it a quick and accessible way to check whether a specific ship, for instance one you are about to board, charter, or do business with, is currently detained for safety reasons, without needing any login or specialist knowledge.
+Disclaimer
+Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system. No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data.

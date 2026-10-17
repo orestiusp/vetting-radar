@@ -1,0 +1,783 @@
+{
+  "generated": "2026-10-17",
+  "count": 77,
+  "sources": [
+    {
+      "id": "ocimf-news-press-releases",
+      "name": "OCIMF – News & press releases",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/news",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "final_url": "https://www.ocimf.org/news-and-events/newsletter"
+    },
+    {
+      "id": "ocimf-members-news-newsletter-index",
+      "name": "OCIMF – Members' News newsletter index",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/newsletter",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-members-news-issue-163-sep-2026",
+      "name": "OCIMF – Members' News Issue 163 (Sep 2026)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/newsletter/issue-163-september-2026",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-members-news-issue-157-mar-2026",
+      "name": "OCIMF – Members' News Issue 157 (Mar 2026)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/newsletter/issue-157-march-2026",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-sire-2-0-programme-page",
+      "name": "OCIMF – SIRE 2.0 programme page",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes/sire-2-0",
+      "type": "html",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-msa-programme-page",
+      "name": "OCIMF – MSA programme page",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes/msa",
+      "type": "html",
+      "category": "tmsa",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-ovid-programme-page",
+      "name": "OCIMF – OVID programme page",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes/ovid",
+      "type": "html",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-sire-2-0-question-library-part-1-pdf",
+      "name": "OCIMF – SIRE 2.0 Question Library Part 1 (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/630-sire-2-0-question-library-part-1-chapters-1-to-7-version-1-0-january-2022/file",
+      "type": "pdf",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-vessel-operator-pdf",
+      "name": "OCIMF – SIRE 2.0 Inspection Mgmt Processes – Vessel Operator (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/812-sire-2-0-inspection-management-processes-vessel-operator-version-1-0/file",
+      "type": "pdf",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-submitting-company-pdf",
+      "name": "OCIMF – SIRE 2.0 Inspection Mgmt Processes – Submitting Company (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/813-sire-2-0-inspection-mangement-processes-submitting-company-version-1-0/file",
+      "type": "pdf",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-sire-2-0-programme-introduction-guidance-pdf",
+      "name": "OCIMF – SIRE 2.0 Programme Introduction & Guidance (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/833-sire-2-0-conditions-of-participation-policies-and-procedures/file",
+      "type": "pdf",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-sire-programme-survey-2024-25-pdf",
+      "name": "OCIMF – SIRE Programme Survey 2024-25 (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/1060-sire-programme-survey-2024-25/file",
+      "type": "pdf",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-annual-report-2026-pdf",
+      "name": "OCIMF – Annual Report 2026 (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/1082-ocimf-annual-report-2026/file",
+      "type": "pdf",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-requesting-a-sire-2-0-inspection",
+      "name": "OCIMF Help Centre – Requesting a SIRE 2.0 Inspection",
+      "owner": "OCIMF",
+      "url": "https://support.ocimf.org/hc/en-gb/articles/12641420845469-SIRE-Operator-Requesting-a-SIRE-2-0-Inspection",
+      "type": "html",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "Zendesk help centre: returned HTTP 200 at verification, later HTTP 403 to the scripted client (bot protection). Intermittent."
+    },
+    {
+      "id": "cdi-marine-news",
+      "name": "CDI – Marine news",
+      "owner": "CDI",
+      "url": "https://www.cdim.org/psp/cdim.wp_news",
+      "type": "html",
+      "category": "cdi",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "cdi-marine-document-downloads",
+      "name": "CDI – Marine document downloads",
+      "owner": "CDI",
+      "url": "https://www.cdim.org/psp/cdim.wp_download_documents",
+      "type": "html",
+      "category": "cdi",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "rightship-tanker-vetting-baseline-criteria-rev-4-0-pdf",
+      "name": "RightShip – Tanker vetting baseline criteria Rev 4.0 (PDF)",
+      "owner": "RightShip",
+      "url": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
+      "type": "pdf",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "rightship-vessel-vetting-criteria-help-article",
+      "name": "RightShip – Vessel vetting criteria (help article)",
+      "owner": "RightShip",
+      "url": "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria",
+      "type": "html",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "rightship-updates-to-vetting-baseline-criteria",
+      "name": "RightShip – Updates to vetting baseline criteria",
+      "owner": "RightShip",
+      "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+      "type": "html",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "rightship-dry-bulk-baseline-criteria-rev-4-0-pdf",
+      "name": "RightShip – Dry bulk baseline criteria Rev 4.0 (PDF)",
+      "owner": "RightShip",
+      "url": "https://rightship.com/hubfs/Dry_Bulk_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
+      "type": "pdf",
+      "category": "vetting-criteria",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "bp-vessel-clearance",
+      "name": "BP – Vessel clearance",
+      "owner": "BP",
+      "url": "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/vessel-clearance.html",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "bp-management-of-change",
+      "name": "BP – Management of change",
+      "owner": "BP",
+      "url": "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/management-of-change.html",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "bp-structural-assurance",
+      "name": "BP – Structural assurance",
+      "owner": "BP",
+      "url": "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/structural-assurance.html",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "bp-vetting-and-clearance-index",
+      "name": "BP – Vetting and clearance index",
+      "owner": "BP",
+      "url": "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance.html",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "adnoc-vetting-standards-s-9-ship-inspections-and-assessment",
+      "name": "ADNOC PPA – Vetting standards s.9 Ship inspections and assessment",
+      "owner": "ADNOC",
+      "url": "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards/9-ship-inspections-and-assessment",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "adnoc-vetting-standards-s-11-specific-requirements",
+      "name": "ADNOC PPA – Vetting standards s.11 Specific requirements",
+      "owner": "ADNOC",
+      "url": "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards/11-specific-requirements",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "adnoc-vetting-faqs",
+      "name": "ADNOC PPA – Vetting FAQs",
+      "owner": "ADNOC",
+      "url": "https://ppa.adnoc.ae/en/ship-vetting/vetting-faqs",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "adnoc-vetting-standards-index",
+      "name": "ADNOC PPA – Vetting standards index",
+      "owner": "ADNOC",
+      "url": "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "port-of-fujairah-ntm-148-v6-oil-tanker-terminals-pdf",
+      "name": "Fujairah – NTM 148 v6 Oil tanker terminals (PDF)",
+      "owner": "Port of Fujairah",
+      "url": "https://fujairahport.ae/wp-content/uploads/2021/04/NTM-148-Verson-6.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "port-of-fujairah-ntm-148-v6-attachment-1-pdf",
+      "name": "Fujairah – NTM 148 v6 Attachment 1 (PDF)",
+      "owner": "Port of Fujairah",
+      "url": "https://fujairahport.ae/wp-content/uploads/2025/01/NTM148Verson6_Attachment_1.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "trans-mountain-vessel-acceptance-standard-pdf",
+      "name": "Trans Mountain – Vessel Acceptance Standard (PDF)",
+      "owner": "Trans Mountain",
+      "url": "https://docs.transmountain.com/Tolls-and-Tariffs/Vessel-Acceptance-Standard.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "exxonmobil-safety-criteria-ocean-going-tankers-2017-pdf-thir",
+      "name": "ExxonMobil – Safety criteria ocean-going tankers 2017 (PDF, third-party host)",
+      "owner": "ExxonMobil",
+      "url": "https://hub.rivertrace.com/hubfs/Regulations/ExxonMobil-Safety-Criteria-2017-Ocean-Going-Tanker.pdf",
+      "type": "pdf",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-home",
+      "name": "Paris MoU – home",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "emsa-current-detentions",
+      "name": "EMSA THETIS – current detentions",
+      "owner": "EMSA",
+      "url": "https://portal.emsa.europa.eu/web/thetis/current-detentions",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "tokyo-mou-home",
+      "name": "Tokyo MOU – home",
+      "owner": "Tokyo MOU",
+      "url": "https://www.tokyo-mou.org/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "tokyo-mou-detention-list",
+      "name": "Tokyo MOU – Detention list",
+      "owner": "Tokyo MOU",
+      "url": "https://www.tokyo-mou.org/inspections-detentions/detention-list/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "tokyo-mou-inspections-detentions",
+      "name": "Tokyo MOU – Inspections & detentions",
+      "owner": "Tokyo MOU",
+      "url": "https://www.tokyo-mou.org/inspections-detentions/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "tokyo-mou-annual-report-2025-pdf",
+      "name": "Tokyo MOU – Annual report 2025 (PDF)",
+      "owner": "Tokyo MOU",
+      "url": "https://www.tokyo-mou.org/wp/wp-content/uploads/ANN25.pdf",
+      "type": "pdf",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "tokyo-mou-press-releases",
+      "name": "Tokyo MOU – Press releases",
+      "owner": "Tokyo MOU",
+      "url": "https://www.tokyo-mou.org/news/press-releases/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "tokyo-mou-public",
+      "name": "APCIS – public",
+      "owner": "Tokyo MOU",
+      "url": "https://apcis.tmou.org/public/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "uscg-psc-detentions",
+      "name": "USCG – PSC detentions",
+      "owner": "USCG",
+      "url": "https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offshore-Compliance-Division/Port-State-Control/Detentions/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": "ok-via-external-fetch (403 to box client)",
+      "verified_at": "2026-10-17",
+      "note": "USCG blocks scripted clients from this box (HTTP 403). Page verified loading via an external fetch on 2026-10-17. Monitor will log a fetch error until run from a different network."
+    },
+    {
+      "id": "iomou-home",
+      "name": "Indian Ocean MOU – home",
+      "owner": "IOMOU",
+      "url": "https://www.iomou.org/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "med-mou-home",
+      "name": "Mediterranean MOU – home",
+      "owner": "Med MoU",
+      "url": "https://www.medmou.org/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-vetting-psc-topic-news",
+      "name": "INTERTANKO – Vetting & PSC topic news",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/topics-issues/issue/vetting-port-state-control?subview=newsarchive",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-vetting-committee",
+      "name": "INTERTANKO – Vetting Committee",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/committees/vetting-committee?subview=newsarchive",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-sire-2-0-benchmarking-tool",
+      "name": "INTERTANKO – SIRE 2.0 benchmarking tool",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/benchmarking-databases/bdt/sire",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-terminal-vetting-database",
+      "name": "INTERTANKO – Terminal Vetting Database",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/benchmarking-databases/bdt/terminal-vetting-tvd",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "sigtto-news",
+      "name": "SIGTTO – News",
+      "owner": "SIGTTO",
+      "url": "https://www.sigtto.org/news/",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "final_url": "https://www.sigtto.org/resources/news/"
+    },
+    {
+      "id": "imo-media-centre-press-briefings",
+      "name": "IMO – Media centre press briefings",
+      "owner": "IMO",
+      "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+      "type": "html",
+      "category": "regulation",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "final_url": "https://www.imo.org/en/mediacentre/pressbriefings/pages/default.aspx"
+    },
+    {
+      "id": "imo-meeting-summaries",
+      "name": "IMO – Meeting summaries",
+      "owner": "IMO",
+      "url": "https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/Default.aspx",
+      "type": "html",
+      "category": "regulation",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "final_url": "https://www.imo.org/en/mediacentre/meetingsummaries/pages/default.aspx"
+    },
+    {
+      "id": "equasis-home",
+      "name": "Equasis – home",
+      "owner": "Equasis",
+      "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "amsa-psc",
+      "name": "AMSA – PSC",
+      "owner": "AMSA",
+      "url": "https://www.amsa.gov.au/vessels-operators/port-state-control",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-bulletins",
+      "name": "OCIMF – Bulletins",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/bulletins",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-media-area-press",
+      "name": "OCIMF – Media area / press",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/media-area",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-events",
+      "name": "OCIMF – Events",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/news-and-events/ocimf-events",
+      "type": "html",
+      "category": "news",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-programmes-document-library",
+      "name": "OCIMF – Programmes document library",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes/programmes-document-library",
+      "type": "html",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-programmes-overview",
+      "name": "OCIMF – Programmes overview",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes",
+      "type": "html",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-bire-programme",
+      "name": "OCIMF – BIRE programme",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes/bire",
+      "type": "html",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-mtis-programme",
+      "name": "OCIMF – MTIS programme",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/programmes/mtis",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-mtmsa-publication",
+      "name": "OCIMF – MTMSA publication",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/publications/books/marine-terminal-management-and-self-assessment-mtmsa",
+      "type": "html",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-detentions",
+      "name": "Paris MoU – Detentions",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/detentions/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-banning",
+      "name": "Paris MoU – Banning",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/banning/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-cic-results",
+      "name": "Paris MoU – CIC results",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/cic-results/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-news",
+      "name": "Paris MoU – News",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/posts/news/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-2026-cic-on-cargo-securing-with-tokyo-mou",
+      "name": "Paris MoU – 2026 CIC on cargo securing (with Tokyo MOU)",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/paris-and-tokyo-mous-launch-2026-concentrated-inspection-campaign-on-cargo-securing/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "paris-mou-annual-report-2025-announcement",
+      "name": "Paris MoU – Annual report 2025 announcement",
+      "owner": "Paris MoU",
+      "url": "https://parismou.org/paris-mou-publishes-the-annual-report-of-2025/",
+      "type": "html",
+      "category": "psc",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-news-desk",
+      "name": "INTERTANKO – News desk",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/news-desk",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-press-general-releases",
+      "name": "INTERTANKO – Press & general releases",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/news-desk/press-general-releases",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-guidance",
+      "name": "INTERTANKO – Guidance",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/info-centre/intertanko-guidance",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "intertanko-psc-annual-report-2025-guidance-note",
+      "name": "INTERTANKO – PSC annual report 2025 guidance note",
+      "owner": "INTERTANKO",
+      "url": "https://www.intertanko.com/info-centre/intertanko-guidance/guidancenotearticle/port-state-control-annual-report-2025",
+      "type": "html",
+      "category": "industry",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "repsol-vetting-page",
+      "name": "Repsol – Vetting page",
+      "owner": "Repsol",
+      "url": "https://www.repsol.com/en/products-and-services/trading/vetting/index.cshtml",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "repsol-marine-assurance-process-safety-criteria-pdf",
+      "name": "Repsol – Marine Assurance Process & Safety Criteria (PDF)",
+      "owner": "Repsol",
+      "url": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/productos-y-servicios/vetting/repsol-vetting-process-marine-safety-criteria.pdf",
+      "type": "pdf",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "moeve-ex-cepsa-seagoing-vessel-s-acceptance-criteria-pdf",
+      "name": "Moeve (Cepsa) – Seagoing vessel's acceptance criteria (PDF)",
+      "owner": "Moeve (ex-Cepsa)",
+      "url": "https://www.moeveglobal.com/stfls/corporativo/FICHEROS/es/SEAGOING_VESSEL_S_ACCEPTANCE_CRITERIA.pdf",
+      "type": "pdf",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "braskem-minimum-vetting-requirements-pdf",
+      "name": "Braskem – Minimum vetting requirements (PDF)",
+      "owner": "Braskem",
+      "url": "https://www.braskem.com/portal/Principal/arquivos/Braskem-Minimum-Vetting-Requirements.pdf",
+      "type": "pdf",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "saudi-aramco-ports-terminals-book-jul-2025-pdf",
+      "name": "Saudi Aramco – Ports & Terminals book Jul 2025 (PDF)",
+      "owner": "Saudi Aramco",
+      "url": "https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/full-book.pdf",
+      "type": "pdf",
+      "category": "terminal",
+      "verified_status": 200,
+      "verified_at": "2026-10-17",
+      "note": "35 MB PDF. Loaded HTTP 200 during verification on 2026-10-17 but later timed out from the box; the monitor retries on each run."
+    },
+    {
+      "id": "totalenergies-trading-shipping-operations",
+      "name": "TotalEnergies – Trading & shipping operations",
+      "owner": "TotalEnergies",
+      "url": "https://totalenergies.com/company/energy-expertise/ship-market/our-trading-and-shipping-operations",
+      "type": "html",
+      "category": "oil-major",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    },
+    {
+      "id": "ocimf-fic-ship-hardening-press-release-pdf",
+      "name": "OCIMF – Press release: Focused Inspection Campaign on ship hardening (PDF)",
+      "owner": "OCIMF",
+      "url": "https://www.ocimf.org/document-libary/1058-press-release-focused-inspection-campaign-29-oct-2025/file",
+      "type": "pdf",
+      "category": "sire",
+      "verified_status": 200,
+      "verified_at": "2026-10-17"
+    }
+  ]
+}

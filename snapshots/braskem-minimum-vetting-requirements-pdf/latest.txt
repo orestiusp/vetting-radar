@@ -1,0 +1,65 @@
+UNCONTROLLED COPY
+Braskem minimum Vetting Requirements
+PHYSICAL INSPECTION
+Every vessel that operates for Braskem is subject to inspection by Braskem Vetting team.
+HULL TYPE
+• Oil and chemical tankers (OIL and CHEMICAL) must have a double hull (DH);
+• Gas (LPG/LNG) vessels must at least contain a double bottom (DB) or double sides (DS).
+VESSEL´S AGE
+• Oil and Chemical Tankers below 5000 (five thousand) DWT must be no more than 25 (twenty five) years old.
+• Oil and Chemical Tankers above 5000 (five thousand) DWT must be no more than 22 (twenty) years old;
+between 20 (twenty) and 22 (twenty two) years old, SIRE/CDI inspections performed no more than 4 (four)
+months prior to the date of the intended operation;
+• For LPG gas carriers, the maximum age allowed is 22 (twenty two) years;
+• For OBO or OO vessels, the maximum age allowed is 20 (twenty) years;
+Based on delivered date.
+MANNING
+Master + Chief Officer Chief Engineer + First Engineer
+Experience in the Rank three years three years
+Experience on Tanker vessels two years two years
+CONDITION ASSESSMENT PROGRAMME
+The CAP - Condition Assessment Program for the hull, with an assessment of 2 (two) or better. In the following
+situations:
+• Chemical and gas carriers as of 20 (twenty) years old.
+• Oil tankers as of 15 (fifteen) years old.
+• OBO vessels as of 10 (ten) years old.
+TANKER MANAGEMENT SELF ASSESSMENT
+Technical operators or vessel owners who own a fleet that undergoes SIRE inspections must verify the results of
+the performance in the TMSA (Tanker Management Self-Assessment) and a minimum compliance level of 2 (two) is
+considered satisfactory.
+UNCONTROLLED COPY
+SIRE/CDI
+The CDI and SIRE inspections need to have been carried out no later than six months before the end of the
+intended operation (in the case of Braskem shipments, before the end of the trip) and the report must be available
+on the respective site.
+PORT STATE CONTROL
+• The vessel cannot be banned by the Paris MoU, the USCG or the Tokyo MoU, according to the trade that is
+proposed for the operation.
+• The vessel cannot have been detained within the last 12 (twelve) months.
+• The vessel cannot have more than 6 (six) deficiencies in the last 6 (six) months.
+EMERGENCY PREPAREDNESS AND RESPONSE
+The vessel must carry out regular emergency and rescue training (SOPEP/SMPEP/OPA-90, as applicable), at
+intervals of no more than 3 (three) months.
+INSURANCE
+The vessel must be insured by a member of the International P & I Clubs Group.
+The coverage must be at least US$ 1 (one) billion for oil spills, except for vessels used exclusively in inland
+navigation, for which the minimum limit is US$ 8 (eight) million.
+CLASSIFICATION SOCIETY
+The vessels must be classified by a company affiliated with IACS.
+TERMINAL RESTRICTIONS
+Max. Draft Max. LOA Max Displacement Deadweight Specific Restriction
+Vessel must have a fully operational
+Maceio 8,4m 176,8m 45.600,00MT 37.700,00MT
+crane.
+Tramadaí 16,0m 200.000,00MT SPM and 16" inches connections.
+Rio Grande 9,75m 205,0m 60.000,00MT 47.430,00MT Freeboard must be less than 12 m.
+Aratu Norte 12,0m 220,0m 80.000,00MT 50.000,00MT
+Aratu Sul 11,0m 170,0m 40.000,00MT 30.000,00MT
+1.700 m³/h as minimum discharging rate
+through common line and 16" inches
+Aratu TMP 14,8m 267,0m 90.000,00MT 70.000,00MT
+connections and a minimum pressure at
+the manifold of 7 kgf/cm² .
+To operate at Aratu Terminal and according NPCP BA the nominal DEADWEIGHT and DISPLACEMENT must not be higher than
+terminal restrictions above. Owner must guarantee that when arrive this restrictions will be attended and check with Harbor
+Master if this Lady can operate at arrival conditions (Draft, deadweight, cargo amount and displacement)

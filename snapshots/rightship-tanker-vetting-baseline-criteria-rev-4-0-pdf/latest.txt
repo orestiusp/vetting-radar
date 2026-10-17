@@ -1,0 +1,866 @@
+RIGHTSHIP
+STANDARD
+Oil, Gas and
+Chemical Vessel
+Vetting Baseline
+Criteria
+Revision 4.0
+01st October 2026
+October 2026 - Uncontrolled once Downloaded/Printed UNCONTROLLED ONCE
+i
+DOWNLOADED/PRINTED
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Purpose
+This document outlines the RightShip recommended minimum Baseline Criteria for
+vetting services specific to oil, gas and chemical vessels. These criteria can be
+customised based on the specific needs and risk profiles of each vetting customer.
+The tailored requirements are then used to establish final vetting rules, which guide
+the vetting process and inform vessel recommendations, considering factors such as
+safety, environmental impact, and crew wellbeing.
+RightShip - OCIMF Third Party Vetting Contractor (TPVC)
+All nominated tanker vessels must have a current SIRE Inspection Report available
+for review as a condition of recommendation. The suitability of a SIRE Inspection
+Report depends on several factors including the mode of operation at the time of the
+inspection and the performance.
+The management – access and handling – of Ship Inspection Reports (SIRE) will be
+in full compliance with OCIMF SIRE Terms of Use.
+ OCIMF SIRE Programme – Conditions for Participation as a Third-Party Vetting
+Contractor.
+ OCIMF Programme Recipient Members – Conditions for using Third Party Vetting
+Contractors.
+October 2026 - Uncontrolled once Downloaded/Printed
+2
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+RightShip Vetting Policy
+ There is no RightShip minimum Safety Score. Any vessel may be vetted with a Safety
+Score between 1/5 and 5/5 and could be positively recommended by RightShip
+provided that the agreed customer requirements are met.
+ Vessels with a lower Safety Score may require additional vessel vetting checks before
+we can consider a positive recommendation to our vetting customers.
+ Vessels with a 0/5 or 1/5 Safety Score are unlikely to be positively recommended until
+the reason for the score has been investigated and resolved to the satisfaction of
+RightShip.
+ Vessels with a N/A Safety Score may not be covered by our normal vessel vetting
+services and may require the provision of additional information and additional checks
+if a customer requires RightShip to vet a vessel with a N/A Safety Score.
+Checks performed within the vetting process
+Checks performed during the vetting process include but are not limited to the
+following:
+ Full review of the Safety Score including assessment of the veracity of data
+contributing to its calculated value.
+ Verification, with input from the vessel’s DOC Company, of data for missing defects,
+adverse reports, incidents not yet captured by the Safety Score.
+ Assessment of Port State Control Inspection performance beyond that illustrated by
+the Safety Score, including status and severity of deficiencies.
+ Review of any missing Port State Control data, for example from Riyadh and Abuja
+MoU’s is captured and uploaded to allow for recalculation of the Safety Score.
+ Assessment of incident performance beyond that illustrated by the Safety Score,
+including the status and severity of incidents.
+ Assessment of the vessel’s DOC Company / Technical Managers performance beyond
+that illustrated by the Safety Score and/or DOC Subscore.
+ Verification of the vessel’s current Class status, including the status and validity of key
+Certificates, Surveys and the presence of any overdue Conditions of Class or which
+might have operational impacts or reveal an unreported recent incident.
+October 2026 - Uncontrolled once Downloaded/Printed
+3
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+ Open Abandonment of Seafarers case(s) involving the subject vessel, or its associated
+owning or managing entities.
+ Review of SIRE Inspection Report, up-to-date Crew Matrix and HVPQ information.
+ Review of onboard Officer Experience and length of service.
+ Review against Vessel or Company Restrictions set by RightShip and/or the vetting
+customer.
+ Update and assessment of details of recent vessel changes of management or new
+build deliveries.
+ Current trading status of the vessel, including (but not limited to) In
+Casualty/Repairing, Laid Up.
+ Assessment of previous vetting history.
+October 2026 - Uncontrolled once Downloaded/Printed
+4
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Conditions that always lead to a vessel being recommended as Unacceptable
+Binary outcome based on RightShip Baseline Criteria:
+ Vessel age exceeds the RightShip Standard.
+ Open Abandonment of Seafarers cases involving the subject vessel.
+ Vessel banned by a Port State Control Authority.
+ Vessel or company restricted by RightShip due to ongoing concerns.
+ Incident(s) of extreme significance – likely to be those Category A incidents that
+cause multiple fatalities, very high environmental impact or attract major media
+attention.
+ Vessel with an ‘Unacceptable’ last SIRE Inspection.
+ Vessels which are non-IACS classed.
+ Vessel flagged with a Paris or Tokyo MoU scored flag, which is Very High Risk.
+ Vessel flagged with a Paris or Tokyo MoU scored flag, which is on their Blacklist, and
+combined with a Paris or Tokyo MoU Low or Very Low performing Class Society.
+ Vessel without P&I insurance provided by a member of the International Group of P&I
+Clubs.
+Subject to clarification through the Vetting Process:
+ Vessel which has been De-Classed or Class Suspended as a result of performance
+and failure to comply with Class requirements.
+ Vessel that is falsely presented.
+ Vessel Operator demonstrating an unwillingness to respond to RightShip during the
+vetting process.
+ Vessel with overdue Class and Statutory Surveys, overdue Conditions of Class and/or
+overdue significant memos.
+ Vessels with an overdue SIRE inspection and unwillingness to undergo a new SIRE
+Inspection.
+ Vessel’s Class, Flag, P&I club, or DOC Company.
+ Vessel exhibits traits inconsistent with the international tanker fleet.
+October 2026 - Uncontrolled once Downloaded/Printed
+5
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Conditions that may lead to a vessel being recommended as Unacceptable
+In most cases the recommendation of unacceptable will be a result of an
+accumulation of the risk factors shown below as opposed to one of the items being
+observed in isolation.
+ Recurrent issues highlighting failures in Safety Management System.
+ Lack of acceptable response to enable satisfactory close out of an incident/adverse
+report.
+ Cases with the same ship manager where serious incidents have occurred and have
+not been disclosed.
+ Open Abandonment of Seafarers case(s) involving the subject vessel or operators still
+under review after a closed Abandonment of Seafarer case(s).
+ Vessels or Companies under review by RightShip due to ongoing concerns.
+ Vessels flagged with a Targeted, Medium to High or High Risk Flag as designated by
+Tokyo or Paris MoU.
+ Excessive number of incidents of any category in a particular time frame.
+ Unacceptable SIRE inspection reports where lack of Safety awareness and effective
+Maintenance control are evident.
+ Multiple PSC Detentions over a timeframe – typically 3 such events over 24 months.
+ Excessively high ratios of Deficiencies/PSC Inspection over 24 months, with port
+averaging taken into consideration.
+ Consistently unacceptable close-outs.
+ Crew Experience and/or length of service does not meet RightShip Standard and DOC
+Company’s response suggests a crew change is not imminent.
+ Crew Matrix not matching RightShip minimum requirements.
+ Vessel or Company Restrictions set by the vetting customer.
+ Vessel under the management of a DOC Company which is on any MOU refusal of
+access or letters of warning list.
+October 2026 - Uncontrolled once Downloaded/Printed
+6
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+What would trigger additional Marine Subject Matter Expert Review?
+ Port State Control Inspections with deficiencies with an open status1 within the
+RightShip Platform within a given time frame (typically the last 12 months).
+ Port State Control Inspections with deficiencies presenting elevated risk factors
+regardless of status and/or time frame.
+ Incidents with an open status1 within the RightShip Platform within a given time frame
+(typically the last 24 months for Category A & B and 12 months for Category C & D).
+ Incidents presenting elevated risk factors regardless of status and/or time frame.
+ Observations from a SIRE inspection report that need additional scrutiny before
+acceptance.
+ Class Survey Status Report not updated, expired or expiring Certificates/Surveys,
+investigation into the reason for issuance of Short-Term Conditional Certification,
+Conditions of Class for operational impacts.
+ Vessels exhibiting unknown details in key areas - Class, Flag, P&I, Ownership and
+Management details.
+ Unscheduled Dry Docking or Repair periods require investigation to ascertain the
+reasons for such.
+1
+Open Status = RightShip has not yet received, assessed and closed the vessel
+operator’s PSC Inspection Closeout Submission or Incident Investigation Report
+including Root Cause Analysis, Corrective Action(s) and Preventative Measure(s)
+Plan.
+October 2026 - Uncontrolled once Downloaded/Printed
+7
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Vetting Baseline Criteria &
+Responsibility – Tankers
+Attributes
+BASELINE CRITERIA RULES
+1 Any vessel where any of the following attributes are Unacceptable.
+listed as unknown within the RightShip Platform:
+The vessel will remain Unacceptable until RightShip is
+- Name/IMO number satisfied that the missing or unknown attributes have been
+verified, corrected within the RightShip Platform, and
+- DOC holding company supported by acceptable evidence from the relevant
+- Classification society source, including the vessel operator, DOC Company, Class
+Society, Flag State, P&I Club, or other recognised authority
+- Flag as applicable.
+- P&I Club
+Port State Control (PSC)
+BASELINE CRITERIA RULES
+2 Any vessel with 3 or more PSC Detentions in the last Unacceptable.
+24 months.
+The vessel will remain Unacceptable until RightShip is
+satisfied that each PSC Detention has been reviewed and
+closed out, root causes have been addressed, and
+Corrective Actions and Preventative Measures are
+effective, together with an acceptable SIRE Inspection
+dated after date of the most recent PSC Detention.
+3 Any vessel with 2 PSC Detentions in the last 24 Subject to review and may be Unacceptable depending on
+months. detention severity, deficiency profile, trend, and close-out
+quality.
+The vessel will not be positively recommended until
+RightShip is satisfied that each PSC Detention has been
+reviewed and closed out, root causes have been
+addressed, and Corrective Actions and Preventative
+Measures are effective, together with an acceptable SIRE
+Inspection dated after date of most recent PSC Detention.
+October 2026 - Uncontrolled once Downloaded/Printed
+8
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+4 Any vessel with 1 PSC Detention in the last 12 Subject to review.
+months.
+The vessel will not be positively recommended until
+RightShip is satisfied that the PSC Detention has been
+reviewed and closed out, root causes have been
+addressed, and Corrective Actions and Preventative
+Measures are effective.
+An acceptable SIRE Inspection dated after date of most
+recent PSC Detention may be required depending on
+detention severity, deficiency profile, close-out quality, and
+wider vessel or DOC Company performance.
+5 Any vessel with PSC Inspection performance history Subject to review and may be Unacceptable depending on
+that is less than adequate. deficiency severity, port deficiency averaging, trend, and
+close-out quality.
+The vessel will not be positively recommended until
+RightShip is satisfied that PSC Inspection performance has
+been reviewed, root causes have been addressed, and
+Corrective Actions and Preventative Measures are
+effective.
+An acceptable SIRE Inspection dated after date of most
+recent PSC Inspection may be required depending on
+deficiency severity/profile, close-out quality, and wider
+vessel or DOC Company performance.
+6 Any vessel with PSC Inspection deficiencies in the Unacceptable.
+last 24 months that present a high-risk condition or
+indicate unresolved structural, machinery, The vessel will remain Unacceptable until RightShip is
+operational, or safety-critical deficiencies. satisfied that the high-risk deficiencies have been
+corrected. In exceptional circumstances, RightShip may
+consider class-approved temporary repairs or other risk-
+control measures where supported by documented
+conditions, restrictions, monitoring requirements and a
+defined plan for permanent repair.
+An acceptable SIRE Inspection dated after date of most
+recent PSC Inspection may be required depending on
+deficiency severity/profile, close-out quality, and wider
+vessel or DOC Company performance.
+7 Any vessel, DOC Company, owner, operator, Unacceptable.
+manager, or other associated entity that has evaded,
+ignored, or departed in breach of a PSC Detention or The vessel will remain Unacceptable until RightShip is
+Port State control order. satisfied that the detention breach has been fully
+investigated, the vessel and associated entities are no
+longer connected with the circumstances of the breach,
+and appropriate corrective and preventative actions have
+been implemented.
+October 2026 - Uncontrolled once Downloaded/Printed
+9
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+8 Any vessel submitted for vetting with PSC Inspection Subject to review.
+deficiencies recorded in the last 12 months that
+have not been reviewed. PSC Inspection deficiencies in the last 12 months must be
+reviewed to RightShip’s satisfaction. Reviews typically
+include evaluation of PSC Inspection closeout submission
+containing deficiency details, explanation, root cause
+analysis, corrective actions, preventative measures, and
+any supporting evidence.
+October 2026 - Uncontrolled once Downloaded/Printed
+10
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Incidents
+BASELINE CRITERIA RULES
+9 Any vessel involved in two or more Category A Unacceptable.
+incidents within the last 24 months, unless clear and
+proven non-fault is established. The vessel will remain Unacceptable until RightShip is
+satisfied that each incident has been reviewed and closed
+out, including acceptable investigation, root cause analysis,
+and corrective and preventative actions.
+SIRE Inspection report after date of the most recent incident
+must be clear of observations that could potentially
+highlight recurrence in previous incidents.
+10 Any vessel involved in a Category A or Category B Subject to review.
+incident within the last 24 months, unless clear and
+proven non-fault is established. The incident must be reviewed and closed out to RightShip’s
+satisfaction, including acceptable investigation with
+description, root cause analysis, corrective actions and
+preventative measures.
+Most recent SIRE Inspection report must be clear of
+observations that could potentially highlight recurrence in
+previous incidents.
+11 Any vessel involved in a Category C or Category D Subject to review.
+incident within the last 12 months, unless clear and
+proven non-fault is established. The incident must be reviewed and closed out to RightShip’s
+satisfaction, including acceptable investigation with
+description, root cause analysis, corrective actions and
+preventative measures.
+Most recent SIRE Inspection report must be clear of
+observations that could potentially highlight recurrence in
+previous incidents.
+12 Any vessel with recurring incidents over the last 24 Subject to review and may be Unacceptable depending on
+months that indicate a common root cause or incident pattern, severity, and closeout quality.
+repeated failure of the safety management system,
+regardless of incident category. The vessel will not be positively recommended until
+RightShip is satisfied that any recurring issue has been
+investigated, root causes have been addressed, and
+corrective and preventative actions are effective.
+Most recent SIRE Inspection report must be clear of
+observations that could potentially highlight recurrence in
+previous incidents.
+October 2026 - Uncontrolled once Downloaded/Printed
+11
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Age, CAP, Type & Inspection Requirements
+BASELINE CRITERIA RULES
+13 Any vessel over the following Maximum Age Unacceptable.
+Requirements:
+Exceptions may be considered on a case-by-case basis for
+- 25 years for Tankers specific trading areas (e.g. Great Lakes) where vessels over
+- 25 years for LPG 30 years are commonly used, where agreed with the vetting
+customer and supported by acceptable vessel performance,
+- 35 years for LNG condition, and inspection history.
+14 Any Tanker or LPG vessel over 20,000 DWT and 15 Acceptable only where RightShip is satisfied that the vessel
+years or over. meets the applicable CAP requirement.
+Any LNG vessel over 20 years old. CAP 2 Minimum for Hull Structure, Machinery and Cargo
+Systems.
+Issued by an IACS member, with Level 2 FDA – Simplified
+Fatigue Design Analysis (or equivalent)
+Max validity 36 months from last date of survey.
+15 Any vessel without an acceptable SIRE / CDI Unacceptable.
+inspection..
+The vessel is required to have an acceptable physical
+examination available in the SIRE / CDI database conducted
+within the previous six months.
+16 Any vessel with an ‘Unacceptable’ last SIRE / CDI Unacceptable.
+inspection.
+A new acceptable SIRE / CDI inspection is required before a
+positive vetting outcome can be considered.
+17 Any vessel with an unsatisfactory Crew Matrix. Unacceptable.
+Must be dated within the past 30 days. Vessels not meeting
+the RightShip Crew Matrix criteria provided in Annex 1 of
+this document will be subject to further review and may be
+considered acceptable only if appropriate and satisfactory
+mitigating measures are in place.
+18 Any vessel with an HVPQ which has not been Subject to review.
+updated in the last 3 months.
+An up-to-date HVPQ shall be provided.
+October 2026 - Uncontrolled once Downloaded/Printed
+12
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+19 CABU (Caustic Bulker) If the vessel is a CABU (Caustic Bulker) being vetted for
+Caustic Soda, then the above SIRE inspection requirements
+apply.
+20 OBO (Oil Bulk Ore Carrier) If the vessel is an OBO (including its variants) being vetted
+for wet cargoes, the latest SIRE inspection must be in the
+WET mode and the last voyage in WET mode.
+Flag, Class & Regulatory Compliance
+BASELINE CRITERIA RULES
+21 Any vessel flagged with a Paris or Tokyo MoU Unacceptable.
+scored flag which is listed as Very High Risk (of the
+Blacklist). The vessel will remain Unacceptable until RightShip is
+satisfied that the flag-related risk no longer applies, or that
+the vessel has been reflagged to arrangements acceptable
+to RightShip.
+22 Any vessel flagged with a Paris or Tokyo MoU Unacceptable.
+scored flag which is on their Blacklist, and combined
+with a Paris or Tokyo MoU Low or Very Low The vessel will remain Unacceptable until RightShip is
+performing Class Society. satisfied that the combined flag and recognised
+organisation risk no longer applies, or that the vessel has
+been reflagged, reclassed, or otherwise brought under
+arrangements acceptable to RightShip.
+23 Any vessel flagged with a Targeted, Medium to High Acceptable only where RightShip is satisfied that the flag-
+or High Risk Flag as designated by Tokyo or Paris related risk has been appropriately addressed.
+MoU.
+The vessel will not be positively recommended until the flag-
+related risk has been appropriately addressed or alternative
+arrangements acceptable to RightShip are in place.
+24 Any vessel with overdue Class or Statutory Unacceptable.
+Conditions, Certificates, Surveys, or other mandatory
+requirements. The vessel will remain Unacceptable until the overdue item
+has been remedied or otherwise accepted by the relevant
+Class Society, Flag State, or issuing authority, and RightShip
+is satisfied that the reason for the overdue status has been
+reviewed and resolved.
+October 2026 - Uncontrolled once Downloaded/Printed
+13
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+25 Any vessel with current (in date) Class or Statutory Subject to review and may be Unacceptable depending on
+Conditions, Memoranda, recommendations, or other operational or compliance impact.
+survey findings that may affect safe operation,
+statutory compliance, trading ability, or vessel The vessel will not be positively recommended until
+readiness. RightShip is satisfied that the finding has been reviewed, any
+required action is being appropriately managed, and there is
+no unacceptable impact on safe operation or readiness to
+trade.
+26 Any vessel with a classification status other than In- Subject to enhanced review and may be Unacceptable
+Service or operational status other than In Trading depending on the status and operational impact.
+Fleet, including but not limited to laid up, in casualty,
+under repair, in dry dock, keel laid, detained, arrested, The vessel will not be positively recommended until
+withdrawn from service, or otherwise unavailable for RightShip is satisfied that the reason for the status, any
+normal commercial operation. related operational or compliance implications, and the
+vessel’s readiness to trade have been reviewed and
+resolved.
+27 Any vessel that has been de-classed, had Class Unacceptable.
+suspended, withdrawn, or otherwise invalidated
+within the last 24 months, including cases arising The vessel will remain Unacceptable until RightShip is
+from failure to maintain classification standards, satisfied that valid Class status has been reinstated or
+non-compliance with Class requirements, non- otherwise confirmed, the reason for the de-classing,
+payment of Class fees, unresolved survey issues, or suspension, withdrawal, or invalidation has been fully
+other circumstances affecting the vessel’s valid explained, and appropriate corrective actions and
+classification status. preventative measures have been implemented. RightShip
+may require supporting evidence from the relevant Class
+Society, updated certificates and survey status, confirmation
+that any required surveys or approvals have been
+completed, and/or an acceptable SIRE Inspection before any
+positive recommendation can be considered. Where the
+Class issue is associated with a DOC Company, owner,
+operator, manager, or other related entity, RightShip may
+also undertake wider fleet or company-level review.
+28 Any vessel, DOC Company, owner, operator, Unacceptable.
+manager, or other associated entity found to have
+failed to notify Flag State and/or Class of matters The vessel will remain Unacceptable until RightShip is
+required under applicable entry, retention, statutory, satisfied that the matter has been fully disclosed to the
+or classification requirements, including but not relevant Flag State and/or Class Society, the cause and
+limited to incidents, damage, defects, unauthorised extent of the non-notification has been investigated, and
+repairs, structural issues, machinery failures, or appropriate corrective actions and preventative measures
+other conditions affecting the vessel’s compliance, have been implemented. RightShip may require supporting
+seaworthiness, or safe operation. evidence from Flag and/or Class, updated certificates or
+survey status, confirmation that any required surveys or
+approvals have been completed, an acceptable SIRE
+Inspection, and/or DOC Company Management
+Assessment/Audit before any positive recommendation can
+be considered.
+Where the non-notification is associated with a DOC
+Company, owner, operator, manager, or other related entity,
+RightShip may also undertake wider fleet or company-level
+review.
+October 2026 - Uncontrolled once Downloaded/Printed
+14
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+29 Any vessel that is confirmed, suspected, or credibly Unacceptable.
+reported to be fraudulently flying, displaying, or
+claiming the flag or registry status of a State to The vessel will remain Unacceptable until RightShip is
+which it has no valid entitlement. satisfied that the vessel’s valid Flag State registration has
+been confirmed, any fraudulent flag or registry
+representation has been fully investigated and resolved, and
+appropriate corrective actions and preventative measures
+have been implemented. RightShip may require supporting
+evidence from the relevant Flag State, updated registry
+certificates, confirmation from Class and/or the DOC
+Company before any positive recommendation can be
+considered.
+Where fraudulent flag representation is associated with a
+DOC Company, owner, operator, manager, or other related
+entity, RightShip may also undertake wider fleet or company-
+level review.
+30 Any vessel for which RightShip is unable to verify Unacceptable.
+valid Class and/or Flag status, or any vessel that is
+confirmed to be operating without valid Class and/or The vessel will remain Unacceptable until RightShip is
+Flag registration. satisfied that valid Class and Flag status has been
+confirmed, the reason for any absence, withdrawal,
+suspension, or inability to verify status has been fully
+explained, and appropriate corrective actions and
+preventative measures have been implemented. RightShip
+may require supporting evidence from the relevant Class
+Society and/or Flag State, updated certificates, confirmation
+of current classification and registry status before any
+positive recommendation can be considered.
+31 Any vessel, DOC Company, owner, operator, Unacceptable.
+manager, or other associated entity found to have
+deliberately contravened applicable international The vessel will remain Unacceptable until RightShip is
+standards, conventions, laws, or mandatory satisfied that the contravention has been fully investigated,
+regulatory requirements, including but not limited to the root cause has been identified, and appropriate
+IMO, SOLAS, MARPOL, STCW, MLC, Class, Flag corrective actions and preventative measures have been
+State, Coastal State, or Port State requirements. implemented. RightShip may require supporting evidence,
+confirmation from the relevant authority, Class or Flag State
+verification, an acceptable SIRE Inspection, and/or DOC
+Company Management Assessment/Audit before any
+positive recommendation can be considered. Where the
+contravention is associated with a DOC Company, owner,
+operator, manager, or other related entity, RightShip may
+also undertake wider fleet or company-level review.
+October 2026 - Uncontrolled once Downloaded/Printed
+15
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+32 Any vessel, DOC Company, owner, operator, Unacceptable.
+manager, or other associated entity that deliberately
+provides RightShip with false, misleading, The vessel will remain Unacceptable until RightShip is
+incomplete, or materially inaccurate information, or satisfied that the matter has been fully investigated, the
+deliberately withholds information considered information record has been corrected, and appropriate
+critical to the vetting assessment. This includes, but corrective actions and preventative measures have been
+is not limited to, the non-disclosure of prior implemented. RightShip may require supporting evidence,
+incidents, Port State Control outcomes, class or an acceptable SIRE Inspection, and/or a DOC Company
+statutory issues, management changes, Management Assessment/Audit before any positive
+ownership/control details, sanctions exposure, or recommendation can be considered. Where deliberate
+other adverse information not otherwise visible to misrepresentation or non-disclosure is associated with a
+RightShip. DOC Company, owner, operator, manager, or other related
+entity, RightShip may also undertake wider fleet or company-
+level review.
+October 2026 - Uncontrolled once Downloaded/Printed
+16
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Human Rights
+BASELINE CRITERIA RULES
+33 Any vessel flagged to a country that has not adopted Unacceptable.
+and ratified the Maritime Labour Convention, 2006
+(MLC, 2006), and which does not demonstrate an The vessel will remain Unacceptable until RightShip is
+equivalent level of compliance (for example, through satisfied that an equivalent level of compliance with MLC,
+a valid ITF Agreement, voluntary MLC compliance, or 2006 requirements has been demonstrated, or the vessel
+internationally recognised labour laws). is reflagged to a State that has adopted and ratified MLC,
+2006 and the vessel holds the applicable MLC certification
+or equivalent supporting evidence. RightShip may require
+evidence such as a valid Maritime Labour Certificate,
+Declaration of Maritime Labour Compliance, valid ITF
+Agreement, voluntary MLC compliance evidence, Flag
+State confirmation, or other recognised labour compliance
+documentation before any positive recommendation can
+be considered.
+34 Any vessel and/or company associated with a vessel Unacceptable.
+found to have committed, facilitated, or been directly
+associated with human rights abuses. The vessel will remain Unacceptable until RightShip is
+satisfied that appropriate corrective actions and
+preventative measures have been implemented.
+35 Any vessel found to have poor living standards, poor Unacceptable.
+working standards, or significant failings in respect of
+seafarers’ rights, welfare, or terms and conditions of The vessel will remain Unacceptable until RightShip is
+employment. satisfied that appropriate corrective actions and
+preventative measures have been implemented.
+36 Any vessel that is the subject of a current ILO Unacceptable.
+Abandonment of Seafarers case, or which is
+associated with an owning, managing, or operating The vessel will remain Unacceptable until RightShip is
+entity that is subject to a current ILO Abandonment of satisfied that the abandonment case has been resolved,
+Seafarers case. affected seafarers have been repatriated and/or
+compensated as applicable, and appropriate corrective
+actions and preventative measures have been
+implemented. Where appropriate/required, the vessel
+must also have successfully completed an acceptable
+SIRE Inspection. Repeat, or multiple abandonment cases
+associated with a common vessel, DOC Company, owner,
+operator, or managing entity may result in continued
+Unacceptable status or wider company-level review.
+October 2026 - Uncontrolled once Downloaded/Printed
+17
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Sanctions, Banning’s & Geopolitical Risks
+BASELINE CRITERIA RULES
+37 Any vessel, flag, Registered Owner, Beneficial Owner, Unacceptable.
+DOC Company, Technical Manager, Commercial
+Operator, Commercial Manager, or other associated The vessel will remain Unacceptable until RightShip is
+entity that is sanctioned, restricted, banned, or satisfied that the applicable sanction, restriction, ban, or
+otherwise prohibited by recognised authorities or prohibition no longer applies, or that the vessel and all
+regimes, including OFAC, USCG, AMSA, DFAT, the EU, relevant associated entities are demonstrably outside the
+the UK, the UN, or Port State Control scope of the applicable measure. RightShip may require
+Authorities/MoU’s. supporting documentation, ownership and control
+verification, sanctions screening evidence, and/or wider
+company-level review before any positive recommendation
+can be considered.
+38 Any vessel where management, control, ownership, Subject to review and may be Acceptable in cases where
+commercial operation, or associated entity details incomplete Registered Owner and/or Beneficial Ownership
+cannot be verified or are refused by the vessel, DOC details are identified, provided no other ownership, status,
+Company, owner, operator, manager, or other sanctions, control, management, or wider vessel
+associated party. performance concerns are identified.
+The vessel will remain Unacceptable where RightShip is
+unable to verify the relevant control, management, or
+associated entity information to its satisfaction, or where
+the review identifies sanctions exposure, restricted-party
+involvement, deliberate non-disclosure, misrepresentation,
+or other material integrity concerns.
+39 Any vessel meeting all of the following criteria and Unacceptable.
+therefore displaying characteristics inconsistent with
+the international trading tanker fleet: The vessel will remain Unacceptable where the
+combination of vessel age, size, ownership, insurance
+Tanker Type: Oil, Liquefied Gas, Chemical, Bunkering arrangements, or other characteristics is inconsistent with
+accepted international tanker fleet practices.
+Vessel Age: 15 years and above
+Vessel DWT: Greater than or equal to 20,000
+Ownership: Unknown
+P&I Coverage: Unknown
+October 2026 - Uncontrolled once Downloaded/Printed
+18
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Structures, Machinery & Operations
+BASELINE CRITERIA RULES
+40 Any vessel which has undergone a Class re- Subject to case-by-case review and may be accepted if
+assessment of scantlings in an attempt to avoid steel the vessel undergoes a Hull Structure CAP with a rating
+renewals as a result of excessive wastage. on completion of Minimum CAP 2.
+41 Any vessel known or credibly reported to have been Unacceptable.
+overloaded, loaded beyond approved limits, or
+operated outside applicable loading, stability, The vessel will remain Unacceptable until RightShip is
+structural, draught, or load line requirements, where satisfied that the overloading event has been fully
+subsequent structural assessment, Class review, and investigated, the vessel’s structural condition has been
+any required repairs or approvals have not been assessed by the relevant Class Society, and any required
+completed to RightShip’s satisfaction. surveys, repairs, reinforcements, approvals, or
+operational restrictions have been completed or
+accepted by Class. RightShip may require supporting
+evidence from Class and/or Flag State, updated survey
+or certificate status, cargo/loading records,
+stability/loading documentation, root cause analysis,
+corrective actions and preventative measures, and/or an
+acceptable SIRE Inspection or Hull Structure CAP before
+any positive recommendation can be considered.
+42 Any vessel found, reported, or credibly suspected to be Unacceptable.
+in poor material condition or to have poor
+maintenance standards affecting structural, The vessel will remain Unacceptable until RightShip is
+machinery, cargo, safety-critical, or operational satisfied that the poor condition and/or maintenance
+systems. standard has been reviewed, root causes addressed, and
+effective corrective and preventative actions
+implemented. Supporting evidence and an acceptable
+SIRE Inspection will normally be required before any
+positive recommendation can be considered.
+43 Any vessel that has recently undergone substantial Subject to review and may be Unacceptable depending
+alteration, modification, conversion, or extensive repair on the nature, extent, and reason for the alteration,
+that may affect vessel structure, machinery, cargo modification, conversion, or repair.
+systems, operational capability, certification, or trading
+readiness. The vessel will not be positively recommended until
+RightShip is satisfied that the work has been reviewed,
+any impact on vessel characteristics, certification,
+structure, machinery, or safe operation has been
+assessed, and any related incident, defect, Class, Flag, or
+statutory matter has been identified and resolved.
+Supporting evidence and/or an acceptable SIRE
+Inspection may be required.
+October 2026 - Uncontrolled once Downloaded/Printed
+19
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+44 Any vessel found, reported, or credibly suspected to Unacceptable.
+have no effective Planned Maintenance System, or
+where the system is not being used to control safety- The vessel will remain Unacceptable until RightShip is
+critical, statutory, machinery, structural, cargo, or satisfied that an effective Planned Maintenance System
+operational maintenance. is implemented and being used to manage maintenance,
+defects, overdue tasks, and safety-critical equipment.
+Supporting evidence and an acceptable SIRE Inspection
+will normally be required before any positive
+recommendation can be considered.
+45 Any vessel found, reported, or credibly suspected to Unacceptable.
+have no effective key shipboard operational
+procedures or instructions, or where such procedures The vessel will remain Unacceptable until RightShip is
+are not being implemented for safety-critical, satisfied that effective key shipboard operational
+statutory, cargo, machinery, or navigational procedures are in place, implemented, and being used to
+operations. control safety-critical operations. Supporting evidence
+and an acceptable SIRE Inspection will normally be
+required before any positive recommendation can be
+considered.
+October 2026 - Uncontrolled once Downloaded/Printed
+20
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+P&I
+BASELINE CRITERIA RULES
+46 Any vessel not entered with a P&I Club which is a Unacceptable.
+member of The International Group of P&I Clubs.
+The vessel will remain Unacceptable until RightShip has
+verified that the vessel maintains valid entry with an
+International Group P&I Club.
+Environment
+BASELINE CRITERIA RULES
+47 Any vessel with a RightShip GHG Rating lower than D. Better than E highly preferable.
+RightShip & Customer Restrictions
+BASELINE CRITERIA RULES
+48 Any vessel or company listed on a RightShip or Subject to the applicable RightShip or Customer
+Customer Restricted List. restriction.
+The vessel will not be positively recommended unless the
+restriction permits the proposed vetting outcome or
+RightShip is satisfied that the restriction has been
+removed, waived, or otherwise resolved in accordance
+with the applicable restriction process.
+October 2026 - Uncontrolled once Downloaded/Printed
+21
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Operator & Vessel Overall Performance
+BASELINE CRITERIA RULES
+49 Any vessel that fails any of the non-binary Baseline The number and severity of contributing factors (along
+Criteria in this document due to cumulative with the calibre of the DOC Company’s investigation and
+performance considered to be well below acceptable. corrective and preventative measures) will be assessed
+and, coupled with latest SIRE Inspection report review, this
+will result in either the vessel being deemed ‘Unacceptable’
+or will require the vessel to be submitted for a new SIRE
+Inspection.
+50 DOC Company found to be generally poor in terms of Will be subject to additional measures, which may include
+overall operational and safety performance. increased frequency of SIRE Inspections across their
+fleets or restricting their entire managed fleets as deemed
+appropriate by way of addition to a RightShip Company
+watchlist and may require the vessel’s DOC Company to
+undergo a Management Assessment/Audit.
+51 Vessels found to be generally poor in terms of Will be subject to additional measures, which may include
+operational and safety performance. increased frequency of SIRE Inspections or technical holds
+as deemed appropriate by way of addition to a RightShip
+Vessel watchlist and may require the vessel’s DOC
+Company to undergo a Management Assessment/Audit.
+October 2026 - Uncontrolled once Downloaded/Printed
+22
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Information Only Criteria*
+BASELINE CRITERIA RULES
+52 Any vessel operated by a DOC Company without a Information Only with no current impact on vetting
+current Crew Welfare Self Assessment. outcomes.
+Vessel DOC Companies are strongly encouraged to
+complete, submit and periodically update a Crew Welfare
+Self Assessment to showcase their commitment to Crew
+Welfare.
+53 Any vessel that has not submitted details of EEDI, Information Only with no current impact on vetting
+EEXI or CII and Energy Saving Measures. outcomes.
+Vessel DOC Companies are stongly encouraged to
+submit details of their vessel’s EEDI, EEXI or CII and
+Energy Saving Measures implemented.
+* Information Only Criteria – These items represent criteria which RightShip consider important, but they are not
+presently part of the RightShip recommended Vetting Baseline. Where any of these criteria are not met, it will be
+reflected within final vetting outcomes as “For Information Only”, however, vetting customers may wish to
+consider incorporating such criteria within their bespoke vetting criteria.
+October 2026 - Uncontrolled once Downloaded/Printed
+23
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Vetting Baseline Criteria &
+Responsibility – Tugs & Barges
+BASELINE CRITERIA RULES
+A Satisfactory Tug / Barge BIRE Inspection in the last 12 Mandatory.
+months.
+Vessel will be evaluated on the basis of the severity and
+number of observations, together with the calibre of vessel
+operators responses.
+B Maximum age 30 years Mandatory for the duration of the voyage.
+- Inland barges RightShip to verify on the basis of the information
+contained in the RightShip platform and the typical voyage
+- Ocean going barges duration for the journey specified in the vetting nomination
+(from the date of the vetting request unless otherwise
+- Tugs specified).
+C Incidents & detention reports Evidence of appropriate corrective actions will be sought.
+Post event SIRE / BIRE may be required based on event
+severity at RightShip’s discretion.
+D Double Hulled (only for Barges) Mandatory.
+E IACS Class European Inland Barges only.
+Mandatory.
+F P&I Insurance European Inland Barges Only.
+International Group P&I Mandatory – US$ 1B.
+G Certificate of Approval European Inland Barges.
+Valid Certificate of Approval basis BIRE report. If
+unavailable, comments to be provided in vetting response
+– No impact on vetting outcome.
+October 2026 - Uncontrolled once Downloaded/Printed
+24
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+H Tug – Barge has valid US Coast Guard report (COI / For US Barges only, basis USCG PSIX.
+COD) & no outstanding PSIX incidents / PSC
+Inspections New barges shall have a valid USCG Operational Approval.
+If PSIX information is unavailable, comments shall be
+provided in the vetting response. This will not impact the
+vetting outcome.
+I Owner / operator is a member of AWO (American For US Barges only.
+Waterways Operators).
+RightShip to verify from AWO website at
+Company certified under Responsible Carrier Program http://www.americanwaterways.com/rcp-status
+OR OR
+other certification confirming Sub-chapter M Class certification website / certificate copies for Sub-
+compliance. chapter M compliance.
+October 2026 - Uncontrolled once Downloaded/Printed
+25
+Contents
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Annex 1 – Tanker Crew Matrix
+CALENDAR TIME WITH SEA TIME ON THIS SEA TIME ON ALL
+RANK SEA TIME IN RANK
+COMPANY TYPE OF TANKER TYPES OF TANKERS
+Master & Chief Officer Aggregate not less Aggregate not less Aggregate not less
+than 2 years than 3 years than 6 years
+2nd Officer & 3rd Officer Aggregate not less Aggregate not less
+or / and other Junior than 1 year than 1.5 years
+Officers
+Chief Engineer & 2nd Aggregate not less Aggregate not less Aggregate not less
+Engineer than 2 years than 3 years than 6 years
+3rd Engineer & 4th Aggregate not less Aggregate not less
+Engineer or / and other than 1 year than 1.5 years
+Junior Engineers
+(including Electrical)
+Note: For LNG and LPG vessels, the RightShip Baseline requirements are aligned with the SIGTTO LNG and LPG
+Officer Experience Matrix.
+October 2026 - Uncontrolled once Downloaded/Printed
+26
+Contents
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Revisions Log
+Revision
+Criteria ID Change Details Date
+Number
+1 Preamble Minor edits to grammar and typo corrections. Jun2023
+1 Preamble Comment around non-disclosure of adverse events. Jun2023
+1 Preamble Addition of Tokyo PSC MoU to Flag and RO Performance. Jun2023
+1 Preamble Amendment to Incident Review time span. Jun2023
+1 2&3 Amendment to outcome logic. Jun2023
+1 4 Addition of PSC Port Averaging consideration and timescale correction. Jun2023
+1 5 Addition of PSC Port Averaging consideration. Amendment to outcome logic. Jun2023
+1 6 Addition of alternative paths where there has been no PSC Inspection in the Jun2023
+last 24 months.
+1 7 Addition of a SIRE Inspection trigger. And timescale amendment. Jun2023
+1 8 Clarity over the processing of vessels which have “Jumped” a PSC Detention. Jun2023
+1 16 Change to blanket 6 months SIRE/CDI validity. Jun2023
+1 22&23 Tokyo PSC MoU added. Jun2023
+1 25&26 Amended to clarify focus is on operational impacts. Jun2023
+1 24,27,28&29 Clarity over processing of such vessels. Addition of a SIRE Inspection trigger. Jun2023
+1 30 Clarity over processing of such vessels and operators. Addition of a SIRE Jun2023
+Inspection trigger.
+1 31 Addition of a SIRE Inspection trigger. Jun2023
+1 32 Addition of a SIRE Inspection trigger and Owner Audit. Jun2023
+1 33 Addition of Voluntary MLC. Jun2023
+36 Clarity over repeat cases of Abandonment. Addition of a SIRE Inspection Jun2023
+trigger.
+1 37 Addition of UK and USCG to Sanctions and Banning’s. Jun2023
+1 39 Clarity over application of scantling re-assessment and intent. CAP route Jun2023
+added.
+1 41 Clarity over processing of such vessels. Addition of SIRE Inspection trigger. Jun2023
+Removal of structural basis.
+1 42 Clarification of desktop review. Jun2023
+1 43&44 Clarity over processing of such vessels. Addition of a SIRE Inspection trigger. Jun2023
+1 46 GHG logic clarification. Jun2023
+1 47&48 Change VTOP time span from 12 to 3 months. Jun2023
+1 52 Addition of a RightShip Company Audit trigger. Jun2023
+1 53 Addition of a RightShip Company Audit trigger. Blacklisted changed to Jun2023
+Technical Hold.
+1 1 Barge Remove reference to EBIS. Jun2023
+1 3 Barge Typographic correction. Jun2023
+1 8 Barge Change EBIS to BIRE. Jun2023
+1 * Human Rights. Crew Welfare Self-Assessment Info Only Criteria added. Jun2023
+1 * Environmental. EEXI Info Only Criteria added. Jun2023
+2 46 Amendments to reflect GHG 2.0 implementation Dec2023
+3 Preamble Update of Purpose section to reflect the transition to the baseline criteria being Jul2025
+recommended.
+3 Preamble Deletion of Confidentiality section. Jul2025
+3 Preamble References to Due Diligence replaced with vessel vetting. Jul2025
+3 Preamble References to currency of SIRE and OCIMF Composite Guidelines updated. Jul2025
+3 Preamble Updates to acceptability criteria for vessels flagged by Paris or Tokyo MoU Jul2025
+Blacklisted flags which are Very High, High or Medium to High Risk.
+3 6 Removal of criteria related to no PSC records in the last 24 months. Jul2025
+3 18 Inclusion of requirement for Crew Matrix to be dated within the past 30 days. Jul2025
+3 19 Updating of requirements related to HVPQ. Jul2025
+3 22&23 Updates to acceptability criteria for vessels flagged by Paris or Tokyo MoU Jul2025
+Blacklisted flags which are Very High, High or Medium to High Risk.
+3 34 Inclusion of DOC Company in criteria related to Human Rights abuses. Jul2025
+3 - Inclusion of criteria related to tanker vessels displaying traits inconsistent with Jul2025
+the international tanker fleet
+3 - Inclusion of CII Jul2025
+3 47&48 Removal of requirement for MOC/VTOP Questionnaire. Jul2025
+3 49 Removal of Financial Stability section. Jul2025
+3 - Establishment of an Info Only Criteria Section. Jul2025
+October 2026 - Uncontrolled once Downloaded/Printed
+27
+Contents
+Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+3 1 Barge Removal of reference to EBIS. Jul2025
+3 1&2 Barge Merging of Tug and Barges Criteria related to BIRE Inspections. Jul2025
+3 Annex 1 Inclusion of reference to SIGTTO Matrix for LNG/LPG experience matrix. Jul2025
+3 - Renumbering of all Criteria to account for previous additions, removals and Jul2025
+updating barge criteria ‘numbering’ to letters.
+3 - Minor edits to grammar and other minor corrections including all references to Jul2025
+DOC Holder, DOC Operator & DOC Manager updated to read DOC Company
+and Officer Matrix references updated to read Crew Matrix.
+4 Preamble Expanded and clarified the vetting policy, checks, unacceptable criteria and Oct26
+triggers for Marine Subject Matter Expert review, including revised Safety Score
+treatment and review timeframes
+4 1-8 Added an unknown vessel attributes criterion. Consolidated and expanded PSC Oct26
+criteria and rules to clarify detention, deficiency, close-out and post-event SIRE
+requirements
+4 9-12 Revised incident criteria to distinguish Category A/B and Category C/D review Oct26
+periods, recurring incident patterns, close-out requirements and SIRE review
+expectations.
+4 13-20 Refined age, CAP, vessel type and inspection criteria to clarify exception Oct26
+handling and CAP, SIRE/CDI, Crew Matrix and HVPQ requirements.
+4 21-32 Expanded Flag, Class and regulatory criteria to clarify outcomes and evidence Oct26
+requirements for non-notification, fraudulent representation, invalid status,
+deliberate contravention and non-disclosure.
+4 33-39 Expanded Human Rights, abandonment, sanctions, ownership and geopolitical Oct26
+risk criteria, including revised verification, supporting evidence and wider
+company-level review requirements.
+4 40-53 Refined structural, machinery, operational, P&I, restriction and overall Oct26
+performance rules to clarify review outcomes, supporting evidence, SIRE/CAP
+triggers and vessel or company watchlists.
+4 - Document extensively reformatted and rewritten to provide clearer baseline Oct26
+criteria, review thresholds, acceptability expectations and closure requirements.
+October 2026 - Uncontrolled once Downloaded/Printed
+28

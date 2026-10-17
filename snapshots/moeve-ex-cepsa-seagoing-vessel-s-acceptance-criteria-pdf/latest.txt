@@ -1,0 +1,425 @@
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+SEAGOING
+VESSEL’S
+ACCEPTANCE
+CRITERIA
+December 2018
+1
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+INDEX GENERAL 04
+OBJETIVES 04
+APPLICATION 05
+EVALUATION PROCESS 05
+RESULTS OF EVALUATION 07
+GENERAL REQUIREMENTS 07
+Matrix 07
+STS Operations 07
+Port State Control Inspections 07
+Cepsa Ship Inspections 08
+New Built Vessel & Dry Docking 08
+Class Society, P&I Cover and CAP (Condition Assessment Program) 08
+Tanker Operations 08
+Inert Gas 09
+AGE POLICY 10
+VESSELS LESS THAN 15 YEARS OF AGE 10
+VESSELS BETWEEN 15 AND 19 YEARS OF AGE 10
+VESSELS BETWEEN 20 AND 24 YEARS OF AGE 11
+VESSELS OLDER THAN 25 YEARS OF AGE 11
+DRY CARGO VESSELS 11
+NOTIFICATIONS 11
+Incident report 12
+3
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+GENERAL Cepsa is a global, integrated Among other things, we are
+company operated across the entire particularly aware of the importance
+oil and gas value chain. of managing the risk associated
+with maritime transportation, in this
+Cepsa mission is to provide the regards Cepsa only uses ships and
+energy that every reality needs. ship managers/technical operators
+that meet the appropriate quality
+We operate across five continents and safety requirements, in line with
+in order to always offer you the Company rules and principles and
+best energy solutions. This means recognized industry standards.
+that there are occasionally external
+political, economic or regulatory Therefore, vessels employed on
+circumstances that may affect Cepsa business must comply with all
+our business. To confront them applicable environmental protection,
+in the most efficient way we safety, security and quality
+have developed an Integral Risk requirements & regulations at all
+Management System. We manage stages of the voyage.
+risk using a common strategy,
+identifying and dealing with them at
+all levels, both at a corporate and
+business level, and for the Company.
+OBJECTIVES The purpose of this document is Vessels are required to comply with
+to provide vessels Owners with all applicable International and
+a comprehensive guide of the National legislations. Furthermore,
+Cepsa minimum Safety Criteria for they must be operated according to
+Seagoing Vessel’s. recognized industry standards and
+comply with the procedures below.
+Owners/Operators are reminded that
+Cepsa does not pre-approve vessels. Ship inspections forms a large
+Each and every time a vessel is part of the risk assessment, Cepsa
+offered for Cepsa services, the vessel performs OCIMF SIRE and Safety
+shall be screened using the latest Inspections however such inspections
+information available. are not a survey of vessels structural
+elements, which we believe is the
+It should be noted that SIRE reports responsibility of the classification
+could be considered for Preliminary society and the ship-owners through
+Evaluation. the various maintenance & survey
+routines.
+Cepsa’s Vetting is committed to
+ensure that all cargoes of their
+interest are carried safely, with the
+minimum risk to the people and the
+environment. This also applies to
+all vessels loading/discharging at a
+terminal owned or operated by Cepsa
+or its affiliated companies.
+4
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+APPLICATION The Cepsa Vetting criteria applies to:
+• All Vessels calling Terminals • Military vessels, supply barges
+managed or operated by Cepsa. subject to other Cepsa criteria,
+packaged cargoes and vessels
+• All Vessels carrying Cepsa owned to be bunkered/fueled are not
+cargoes in bulk. covered by this requirement.
+EVALUATION All Cepsa Charterers and • Last 3 cargo list, to be tank wise
+Traders have to get the vessel’s in case of a parcel tanker.
+PROCESS technical approval from the
+Vetting department prior fixing Documents should be send to
+or concluding any commercial vetting group common e-mail
+operation. vetting@cepsa.com or included in
+Cepsa Questionnaire.
+The evaluation of vessel begins once
+the application is received in Vetting The vessel is screened using the
+department. Only the applications information provided by Owners,
+from Cepsa employers and others Cepsa own information and latest
+previously authorized are consider. information available from different
+sources such as official publications,
+Applications should include vessel terminal’s reports, Oil Major’s
+identification, cargo description, approvals, Port State Control
+ports of call and Lay can/ETA as reports, Coast Guard reports,
+appropriate. Equasis, SIRE reports and other
+public and private domains.
+In every case and for each
+commercial operation, following The vessel is screened using the
+documents should be evaluated: information provided by Owners,
+Cepsa own information and latest
+• Complete and submit Cepsa information available from different
+Questionnaire through http:// sources such as official publications,
+www.cepsa.com/en/login. terminal’s reports, Oil Major’s
+approvals, Port State Control
+• Crew Matrix for intendent voyage reports, Coast Guard reports,
+in OCIMF format. Equasis, SIRE reports and other
+public and private domains.
+• Class Status Survey List
+including conditions and The vessels proposed for COA
+memoranda. (Contract of Affreightment) within
+Cepsa group have to be screened
+• Last Port State Control including before assessing their suitability for
+corrective action report, if there the COA.
+are any observation.
+5
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+Listed below are some of the key j) Changes of Class Societies,
+issues examined during technical Owners and Technical Managers.
+evaluation of vessel:
+k) Class recommendations and
+a) Physical restrictions applicable to class remarks.
+vessel if call Cepsa Terminals.
+l) Oil Major evaluations.
+b) Vessel performance report
+provided by Terminals. m) Last dry-docking.
+c) Cepsa Vetting inspections. n) Cargo tank coating and previous
+cargoes.
+d) Flag & Port State Control
+reports, including detentions and Once the evaluation is completed, the
+historic records. sender of application is informed of
+technical evaluation result.
+e) The casualties’ history of the
+vessel. Cepsa may under its sole discretion
+decide to carry out a Safety
+f) Age of the vessel Inspections of vessels at a Cepsa
+Terminal. The outcome of the Safety
+g) OCIMF-SIRE reports. Inspection will be considered to
+evaluate the future suitability of the
+h) Owner/operator will be rated vessel.
+favorably.
+All communications will need to
+i) Crew matrix, Number of crew, be direct either with Owner or
+certification and experience. Technical Operator of the vessel or
+Cepsa Charterers/Traders.
+6
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+RESULTS OF THE Evaluation is valid only for the An UNSUITABLE qualification means
+specific application received. that the vessel cannot visit Cepsa
+EVALUATION Terminals or load/discharge Cepsa
+A SUITABLE qualification means that cargoes.
+the vessel can visit Cepsa Terminals
+or load/discharge Cepsa cargoes.
+GENERAL MATRIX vessels above 5000 SWDT however
+we recommend this be the case also
+REQUIREMENTS Cepsa recommendations regarding for vessel below this tonnage.
+Officers MATRIX stand as follow:
+Engine Team must consist at least of
+• 2 years with the Operator one Chief Engineer and one Engine
+(Calendar). Officer.
+• 3 years in rank experience STS Operations
+(Sea time).
+STS operations at open sea must
+• 6 years type of ship experience be supported by a recognised STS
+(Sea time). service provider company.
+These experience required is the Captain and Chief Mate must have
+combined between Master & Chief experience in at least one STS
+Officer, Chief Engineer & Second operation during the last three years.
+Engineer, either accumulated/ They will also need to carry on board
+aggregated. the STS Transfer Operations Plan
+describing how STS Operations are
+As the requirement is aimed at to be conducted. These plans need
+evaluating the Officers’ experience, to be approved by the vessel´s Flag
+compliance is strongly recommended Administration.
+and shall be evaluated case by case.
+STS operations do not include vessel
+A minimum two weeks gap is bunkering, barge to ship or barge to
+recommended between crew barge operations.
+changes of either senior officers
+within each department. Port State Control
+All Officers must be STCW certified Inspections
+for the type of tanker they serve.
+Officers in charge of a watch must Port State Control reports are
+have an advanced training certificate evaluated and vessels that have 2
+for the type of tanker they serve. detentions with the same Technical
+Operator within the last 2 years will
+In order to avoid that the Master be rejected. If Operator have changed
+has to keep regular watches, the after a detention, then vessel should
+Bridge manning team must consist be inspected before fixing any
+at least of one Master and three commercial operations with Cepsa.
+deck Officers, this is mandatory for
+7
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+Cepsa Ship Inspections fleet superintendent during her visit
+to any Cepsa Terminals.
+Vessels found with the same
+deficiency three times during a Class Society, P&I Cover and
+physical inspection with same CAP (Condition Assessment
+Technical Manager or Operator, will Program)
+be declared Unacceptable for Cepsa
+business. Cepsa only accept Class Societies if
+are IACS members.
+All vessels considered Unacceptable/
+Unsuitable/Rejected after the Should vessel have had several
+physical inspection cannot call changes of Class in a short period of
+Cepsa Terminals or load/discharge time it would be required for a Cepsa
+Cepsa cargoes at least during the physical inspection on a case-by-case
+following six (6) months from the basis.
+date of the inspection. Such vessel
+need to be inspected successfully by Vessel should be free of any
+a Cepsa inspector before to close any outstanding Condition of Class
+commercial agreement with Cepsa or other condition pertaining to
+or call a Cepsa Terminal. statutory require-ments. If vessel
+has a Condition of Class or other
+Vessels that undergo a change of condition, it will be evaluated case
+Technical Manager will lose any by case at solely Cepsa evaluator
+“suitability” status. decision.
+New Built Vessel & Dry Cepsa will insure the ships with
+Docking a member of the International
+Group of P&I Clubs (IGA). However,
+Newly built vessels nominated occasionally, other first class P&I
+on her maiden voyage shall be Clubs could be acceptable, such as,
+screened on a case by case basis. British Marine (BML), Raets Marine,
+In order to facilitate the decision- Charterers P&I Club, Norwegian Hull
+making process, operators are Club and Ingosstrakh.
+urged to provide whichever actions
+are necessary in order to manage CAP surveys are only accepted from
+potential risks and carry out an IACS member.
+procedural control.
+CAP has a maximum period validity
+Additionally, vessels should also have of 3 years from the date of CAP
+an extra deck Officer and must be survey.
+attended by a fleet superintendent
+during their stay at any Cepsa Tanker Operations
+Terminals.
+Close cargo operations must be
+Vessels that change of Technical maintained at any time during
+Manager will require to fulfill the loading, carriage and discharge
+same criteria as newly built vessel in operations.
+addition to the criteria applicable to a
+vessel of her age. Vessels berthed to Cepsa Terminals
+should be ready to move and
+First loading/discharging operation maneuver safely at any time, unless
+after Vessel’s schedule/unscheduled specifically approved by the Terminal.
+dry dock stay must be attended by a
+8
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+Inert Gas inerted & at an adequate positive
+pressure during such vessels stay as
+Cepsa recommends the use of Inert a Cepsa Terminal/ Marine facility, this
+Gas System as per OCIMF and CDI requirement applies to all shipments
+guidelines. unless expressly authorized
+otherwise by Cepsa Vetting.
+If vessel is fitted with an Inert
+Gas System, is recommend to be Low flashpoint cargoes are defined
+operational and in use, unless that as those which have a flashpoint
+cargo quality and/or her safe carriage of less than 60 degrees Celsius, or
+can be jeopardized. any cargos with a flashpoint equal
+or greater than 60 degrees Celsius
+Cepsa requires that all vessels that are carried or transferred at a
+handling products with a low temperature from 10 degrees Celsius
+flashpoint at any Cepsa Terminal/ below its flashpoint or higher.
+Marine facility MUST be fitted with
+an appropriate & operational “Inert Vessels handling products with a
+Gas System” (In this context an low flashpoint, which due to the
+appropriate “inert Gas System”( IGS) system design require the use of
+is one being deemed appropriate to a compressed gas to facilitate the
+the cargoes being handled). The said stripping of tanks, pump stacks or
+system must be in use whenever the internal stripping of lines, must use
+vessel is engaged on Cepsa business; an inert gas (Nitrogen or another
+in addition, all cargo tanks including appropriate inert gas) ONLY, this
+transit cargoes with a low flash requirement applies to all shipments
+point must have their vapor space globally having Cepsa interest/s.
+9
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+AGE POLICY, They may be evaluated considering complementary information gathered
+the information recorded in from different sources.
+VESSELS LESS the Cepsa data base and the
+THAN 15 YEARS
+OF AGE
+VESSELS BETWEEN The suitability of this category of new time charter. Existing time
+vessels depends on the information charters can be extended beyond
+15 AND 19 YEARS registered in the Cepsa data base, this age after evaluation and
+OF AGE and considering all additional case by case.
+information gathered from different
+sources, whenever the following •V
+ essels older than 15 years of
+conditions are met: age are not suitable for Contract
+of Affreightment (COA) within
+a) The vessel has been inspected Cepsa. Exceptionally vessels over
+and found suitable for Cepsa 15 years of age and only until the
+business and is still under re- next intermediate survey after its
+inspection period. third special (limited to 18 years
+of age) can be considered case
+b) If the aforementioned conditions by case given that the following
+are not complied with, in conditions are also met,
+exceptional circumstances; if
+vessel has a SIRE inspection a) Be in possession of a CAP
+within last six months, after 1 (Condition Assessment
+analyzing all internal/external Program) for Hull, Machinery
+information available and her and Cargo Systems.
+evaluation is positive, the vessel
+could be suitable for Cepsa b) Be found suitable for Cepsa
+business. business during a physical
+inspection by Cepsa.
+• All Crude Tankers and Product
+Carriers older than 15 years of c) Have a good inspection history
+age and over 20.000 DWT will during past Cepsa inspections.
+be required, to hold a Condition
+Assessment Program (CAP) 2 d) N
+ o PSC detentions with
+rating as a minimum, for Hull, present Technical Managers in
+Machinery and Cargo Systems. the last 5 years.
+• All 15 years old vessels or Exemptions
+above are required to have the
+intermediate bottom surveys on - Vessel whose cargo tanks are
+dry dock. made of Stainless Steel or
+cladded steel could be suitable
+• OBO Vessels older than 15 years for COA until 20 years of age.
+of age are not suitable for Cepsa.
+- Gas carrier vessels should be
+• Tanker Vessels older than 15 considered case by case.
+years of age are not suitable for
+10
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+• Vessels above 15,000 DWT c) Have a good inspection history
+and older than 15 years of during past Cepsa inspections.
+age, carrying heavy fuel oil
+additionally must, d) No PSC detentions with
+present Technical Managers in
+a) Be in possession of a CAP the last 5 years.
+1 (Condition Assessment
+Program) for Hull, Machinery For this purpose Heavy Fuel oil
+and Cargo Systems. means that having either a density
+at 15ºC higher than 900 kg/m³ or a
+b) Be found suitable for Cepsa kinematic viscosity at 50ºC higher
+business during a physical than 180 mm²/s.
+inspection by Cepsa.
+VESSELS BETWEEN In addition to previous requirements, All Vessels over 20 years of age
+it is compulsory for such vessels need at least a CAP 2 rated for Hull,
+20 AND 24 YEARS to be inspected by Cepsa or being Machinery and Cargo Systems.
+OF AGE under re-inspection period from a Vessels older than twenty years
+previous inspection before fixing any of age and having a Summer Dead
+commercial operation. Weight (SDWT) of over 40,000 MT
+are not suitable for Cepsa.
+VESSELS OLDER Vessels older than 25 years of age are not suitable for Cepsa business.
+THAN 25 YEARS
+OF AGE
+DRY CARGO They will be evaluated before every Vessels regularly operating in Cepsa
+voyage and be considered suitable Terminals will be subject to physical
+VESSELS once we receive an updated Crew inspection.
+Matrix, Listing of Survey Conditions
+of Class and Memoranda and
+certificate of P&I Full entry.
+NOTIFICATIONS Cepsa shall be advised immediately matter that may affect or jeopardize
+and without undue delay if there the full and efficient use of the
+is any change in the Ownership, vessel. Details shall in addition to any
+management, flag or class of the requirements contained in voyage
+vessel and any incident or “near orders or instructions to Master be
+miss” which could have led to reported to Cepsa Vetting
+a serious incident, threat to the (vetting@cepsa.com).
+security of the vessel or any other
+11
+SEAGOING VESSEL’S ACCEPTANCE CRITERIA
+Incident report people, the environment, property
+or business.
+In the event that the Vessel is
+involved in an incident or emergency, • Port State Control detention.
+Cepsa Vetting Notification system
+must be applied. Notification Process
+Such incidents or emergencies may The notification must to be send to
+include but are not limited to the vetting@cepsa.com.
+following:
+These notifications should be made
+• Fatality or serious injury/illness as early as is practical and when safe
+(requiring immediate medical to do so.
+evacuation).
+The communication must to be send
+• Collision or allision. by Email to including at least the
+following information:
+• Grounding or stranding. Subject – INCIDENT REPORT
+• An occurrence that affects the A) Vessel’s name, IMO number and
+vessels seaworthiness such as contact number or Email
+fire, explosion or flooding.
+B) Date and time.
+• Loss of steering or propulsion.
+C) P
+ osition/Operation (Latitude/
+• Spills or the threat of a spill, Longitude, Port, sailing, loading,
+specifically: discharging, etc).
+- Liquid hydrocarbon, if greater D) C
+ argo type and quantity on
+than one barrel, which escapes board.
+primary containment or any
+volume, which reaches the E) N
+ ature of the incident or
+environment (ice, land or water). emergency (Collision, fire, spill,
+etc.).
+- Hazardous chemical, any volume
+which reaches the environment F) Brief description and extent of
+(release to atmosphere, ice, land the incident or emergency.
+or water) or poses a serious risk
+to people. G) A
+ ctions taken to minimize/close
+the incident.
+- Uncontrolled venting or release
+of cargo from an LNG/LPG H) In case of spill if is contained on
+vessel. board or reach the water and
+approximate quantities.
+• Security issue
+I) Any other relevant comments.
+• Responding to a request for
+assistance to be rendered to a CEPSA RESERVES
+vessel or person. THE RIGHT TO MAKE ANY
+CHANGES TO THE AFORESAID
+• Situations that seriously threaten VETTING REQUIREMENTS AT ANY
+the immediate or future safety of TIME WITHOUT PRIOR NOTICE.
+12

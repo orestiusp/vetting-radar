@@ -1,0 +1,10 @@
+# build output (deployed to GitHub Pages by the workflow, not committed)
+dist/
+# timestamped snapshot copies: history lives in git; only latest.txt is needed to diff
+snapshots/*/2*.txt
+# local preview screenshots
+screens/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

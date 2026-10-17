@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2025-10-01",
+    "end": "",
+    "title": "OCIMF SIRE 2.0 FIC on ship hardening (Q7.2.1) starts",
+    "kind": "campaign",
+    "owner": "OCIMF",
+    "source_url": "https://www.ocimf.org/document-libary/1058-press-release-focused-inspection-campaign-29-oct-2025/file",
+    "note": "Minimum six months; interim review Feb 2026.",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "2026-02",
+    "end": "",
+    "title": "OCIMF FIC interim review (planned)",
+    "kind": "campaign",
+    "owner": "OCIMF",
+    "source_url": "https://www.ocimf.org/document-libary/1058-press-release-focused-inspection-campaign-29-oct-2025/file",
+    "note": "Month only stated in source.",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "2026-09-01",
+    "end": "2026-11-30",
+    "title": "Paris & Tokyo MoU CIC: cargo securing",
+    "kind": "psc-campaign",
+    "owner": "Paris MoU / Tokyo MOU",
+    "source_url": "https://parismou.org/paris-and-tokyo-mous-launch-2026-concentrated-inspection-campaign-on-cargo-securing/",
+    "note": "",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "2026-10-01",
+    "end": "",
+    "title": "RightShip Oil, Gas & Chemical Baseline Criteria Rev 4.0 effective",
+    "kind": "criteria",
+    "owner": "RightShip",
+    "source_url": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
+    "note": "Document dated 01 October 2026.",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "2026-10-23",
+    "end": "",
+    "title": "MEG5 survey and MEG4 comment register close",
+    "kind": "consultation",
+    "owner": "OCIMF",
+    "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-163-september-2026",
+    "note": "",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "2026-12-14",
+    "end": "",
+    "title": "CDI AEPS questionnaire (SIR chapters 15–24) official launch",
+    "kind": "criteria",
+    "owner": "CDI",
+    "source_url": "https://www.cdim.org/psp/cdim.wp_news",
+    "note": "Monday 14 December 2026, per CDI news of 15 Sep 2026.",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "",
+    "end": "",
+    "title": "TMSA3 revision (date not announced)",
+    "kind": "watch",
+    "owner": "OCIMF",
+    "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-157-march-2026",
+    "note": "Planned; watch OCIMF news.",
+    "verified_on": "2026-10-17"
+  },
+  {
+    "date": "",
+    "end": "",
+    "title": "SIRE 2.0 question guidance revisions (date not announced)",
+    "kind": "watch",
+    "owner": "OCIMF",
+    "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-157-march-2026",
+    "note": "Planned; watch OCIMF news.",
+    "verified_on": "2026-10-17"
+  }
+]

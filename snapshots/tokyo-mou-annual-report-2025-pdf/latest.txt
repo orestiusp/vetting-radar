@@ -1,0 +1,2645 @@
+ANNUAL REPORT
+ON
+PORT STATE CONTROL
+IN THE ASIA-PACIFIC REGION
+2025
+This work is protected by copyright. It is permitted to be reproduced in whole or a part
+subject to the inclusion of an acknowledgement of the source, but not for commercial
+use nor sale.
+Further information may be obtained from:
+The Tokyo MOU Secretariat
+Ascend Shimbashi 8F
+6-19-19 Shimbashi
+Minato-ku, Tokyo
+Japan 105-0004
+Tel: +81-3-3433-0621
+Fax: +81-3-3433-0624
+This Report is available at Tokyo MOU website (https://www.tokyo-
+mou.org) on the Internet.
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+FOREWORD
+We are pleased to present the Annual Report on Port State Control in the Asia-Pacific
+Region 2025.
+In 2025, member Authorities of the Tokyo MOU carried out a total of 35,546 inspections, the
+highest number of inspections conducted in the history of the Tokyo MOU. Following last year,
+the detention rate continued the decreasing trend in 2025, however, it has not yet returned to
+the same level as the pre-pandemic period. For driving improvement of performance, the Tokyo
+MOU developed the scheme for publishing lists of high-performing and under-performing
+companies and, upon the successful trial, it will be officially implemented beginning of 2026.
+With the active support by the member Authorities and their Port State Control (PSC) officers,
+three focused inspection campaign trials were carried out effectively in 2025, where
+experiences gained will be useful for the review and improvement of the current approach of
+inspection campaigns.
+We would like to repeat the concerns on the continued increase of under-performing ships
+during the past three years and the constant high number and high percentage of ISM related
+detentions over the years. Hence, we highlight this and urge all stakeholders to re-assess their
+performance, practices and safety culture to take measures as appropriate to ensure full
+compliance with the relevant international maritime standards.
+This Annual Report summarizes port State control activities and developments by the member
+Authorities of the Tokyo MOU in 2025. Furthermore, the report also provides port State control
+statistics and analysis on the results of inspections carried out by member Authorities during
+the year.
+To ensure that the Tokyo MOU is future-ready to respond to the ever-changing shipping
+landscape, including emerging new technology, alternative fuels and various challenging
+global situations, the Tokyo MOU will continue to enhance and improve the activities in all
+aspects. The Tokyo MOU will also promote and strengthen the global cooperation with
+international organizations, other regional PSC regimes and the industry stakeholders.
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Finally, we would like to express our deepest gratitude to the Port State Control Committee,
+member Authorities and all PSC officers for the devoted efforts and contribution made and to
+the international partners for the valuable cooperations rendered.
+Kenny Crawford Ishihara Akira
+Chair Secretary
+Port State Control Committee Tokyo MOU Secretariat
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+CONTENTS
+page
+OVERVIEW
+General introduction ............................................................................…….. 1
+Review of year 2025 .............................................................................…….. 2
+The Port State Control Committee ......................................................…….. 3
+Technical Working Group (TWG) ……………………………………………… 5
+The Asia-Pacific Computerized Information System (APCIS) ...........……. 6
+Training and seminars for port State control officers .......................…….. 6
+Co-operation with other regional port State control regimes ………......... 8
+PORT STATE CONTROL UNDER THE TOKYO MOU, 2025
+Inspections ...........................................................................................……... 10
+Detentions ............................................................................................……... 11
+Deficiencies ..........................................................................................……... 12
+Deficiency photo of the year …………………………………………………… 12
+Overview of port State control results 2015-2025 ………………………….. 13
+ANNEX 1 -- STATUS OF THE RELEVANT INSTRUMENTS .......................….. 20
+ANNEX 2 -- PORT STATE INSPECTION STATISTICS ..............................…….. 23
+Statistics for 2025 .....................................................................……... 23
+Summary of port State inspection data 2023-2025 .......................... 35
+ANNEX 3 -- ORGANIZATION STRUCTURE OF THE TOKYO MOU .............. 58
+EXPLANATORY NOTE ON THE LOW-MEDIUM-HIGH PERFORMANCE
+LISTS ……………………………………………………………………………………….. 59
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+LIST OF FIGURES AND TABLES
+page
+Figure 1 Inspection percentage ………………………………………………….. 14
+Figure 2 Inspection per ship risk profile ……………………………………….. 14
+Figure 3 Port State inspections - contribution by Authorities ……………… 15
+Figure 4 Type of ship inspected ………………………………………………….. 15
+Figure 5 Detentions per flag ……………………………………………………… 16
+Figure 6 Detention per ship type ………………………………………………… 16
+Figure 7 Deficiencies by main categories ……………………………………… 17
+Figure 8 Most frequent detainable deficiencies ………………………………. 17
+Figure 9 No. of inspections ……………………………………………………….. 18
+Figure 10 Inspection percentage ………………………………………………….. 18
+Figure 11 No. of inspections with deficiencies …………………………………. 18
+Figure 12 No. of deficiencies ………………………………………………………. 19
+Figure 13 No. of detentions …………………………………….…………………... 19
+Figure 14 Detention percentage ……………………………….………………….. 19
+Figure 15 Comparison of inspections per ship type …………………………... 42
+Figure 16 Comparison of detentions per ship type ………………………….… 42
+Figure 17 Comparison of inspections with deficiencies per ship type …….. 44
+Figure 18 Comparison of number of deficiencies by main categories …….. 51
+Figure 19 Comparison of most frequent detainable deficiencies …………… 53
+Table 1 Status of the relevant instruments …………………………………… 20
+Table 1a Status of MARPOL 73/78 ……………………………………………….. 22
+Table 2 Port State inspections carried out by Authorities …………………. 23
+Table 2a Port State inspections on maritime security ……………………….. 24
+Table 2b Port State inspections by categories (physical & remote) ………. 25
+Table 3 Port State inspections per ship risk profile ………………………… 26
+Table 4 Port State inspections per flag ……………………………………….. 27
+Table 5 Port State inspections per ship type ………………………………… 31
+Table 6 Port State inspections per recognized organization …….……….. 32
+Table 7 Deficiencies by categories …………………………………………….. 35
+Table 8 Flag performance Lists ………………..……………………………….. 36
+Table 9 Inspections and detentions per flag …………………………………. 38
+Table 10 Inspections and detentions per ship type ………………………….. 43
+Table 11 Inspections with deficiencies per ship type ……………………….. 45
+Table 12 Inspections and detentions per recognized organization ……….. 46
+Table 13 Performance of recognized organization …………………………… 49
+Table 14 Comparison of deficiencies by categories …………………………. 52
+Table 15 Comparison of most frequent detainable deficiencies …………… 54
+Table 16 List of under-performing ships ……………………………………….. 55
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+OVERVIEW
+GENERAL INTRODUCTION of its members, harmonization of the members’
+activities, to eliminate substandard shipping, to
+promote maritime safety and security, to
+The Annual Report on Port State Control in the
+protect the marine environment and to
+Asia-Pacific Region is published under the
+safeguard seafarers’ working and living
+auspices of the Port State Control Committee
+conditions on board ships.
+of the Memorandum of Understanding on Port
+State Control in the Asia-Pacific Region (Tokyo
+The Port State Control Committee established
+MOU). This annual report is the thirty-first issue
+under the Memorandum monitors and controls
+and covers port State control activities and
+the implementation and on-going operation of
+developments in the 2025 calendar year.
+the Memorandum. The Committee consists of
+representatives from the member Authorities,
+The Memorandum was signed in Tokyo on 1
+co-operating member Authorities and
+December 1993 and came into effect on 1 April
+observers. Observer status has been granted
+1994. In accordance with the provisions of the
+to the following maritime Authorities and inter-
+Memorandum, Authorities that have signed
+governmental organizations by the Committee:
+and formally accepted the Memorandum or that
+Cambodia, Democratic People’s Republic of
+have been accepted by unanimous consent of
+Korea, Macao (China), Samoa, Solomon
+the Port State Control Committee become full
+Islands, Tonga, the United States Coast Guard,
+members. Currently, the Memorandum has 22
+the International Maritime Organization (IMO),
+full members, namely: Australia, Canada, Chile,
+the International Labour Organization (ILO),
+China, Fiji, Hong Kong (China), Indonesia,
+the Abuja MOU, the Black Sea MOU, the Carib-
+Japan, Republic of Korea, Malaysia, Marshall
+bean MOU, the Indian Ocean MOU, the
+Islands, Mexico, New Zealand, Panama,
+Mediterranean MOU, the Paris MoU, the
+Papua New Guinea, Peru, Philippines, Russian
+Riyadh MOU and the Viña del Mar Agreement.
+Federation, Singapore, Thailand, Vanuatu and
+The Secretariat of the Memorandum is located
+Viet Nam. A maritime Authority that has
+in Tokyo, Japan. The data centre - the Asia-
+declared its intention to fully adhere to the
+Pacific Computerized Information Centre is
+Memorandum at least for a three-year period
+established in Moscow, Russian Federation.
+may be accepted as a co-operating member by
+unanimous consent of the Port State Control
+For the purpose of the Memorandum, the
+Committee.
+following instruments are the basis for port
+State control activities in the region:
+The main objectives of the Memorandum are to
+establish an effective port State control regime
+in the Asia-Pacific region through co-operation
+1
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+− the International Convention on Load as amended;
+Lines, 1966, as amended;
+− the International Convention on the
+− the Protocol of 1988 relating to the Control of Harmful Anti-fouling
+International Convention on Load Systems on Ships, 2001, as amended;
+Lines, 1966, as amended;
+− the Protocol of 1992 to amend the
+− the International Convention for the International Convention on Civil
+Safety of Life at Sea, 1974, as Liability for Oil Pollution Damage,
+amended; 1969;
+− the Protocol of 1978 relating to the − the International Convention for the
+International Convention for the Safety Control and Management of Ships’
+of Life at Sea, 1974; Ballast Water and Sediments, 2004,
+as amended; and
+− the Protocol of 1988 relating to the
+International Convention for the Safety
+− the International Convention on Civil
+of Life at Sea, 1974;
+Liability for Bunker Oil Pollution
+Damage, 2001.
+− the International Convention for the
+Prevention of Pollution from Ships
+1973, as modified by the Protocol of REVIEW OF YEAR 2025
+1978 relating thereto, and as further
+amended by the Protocol of 1997; For the purpose of improvement and
+enhancement of dissemination of information
+− the International Convention on of the Tokyo MOU activities, the website was
+Standards for Training, Certification renewed in May, 2025. The new website is not
+and Watchkeeping for Seafarers, only more visually appealing but also more
+1978, as amended; functional, with better-organised content and
+more convenient features.
+− the Convention on the International
+Regulations for Preventing Collisions The trial of publishing lists of high-performing
+at Sea, 1972, as amended; and under-performing companies was
+conducted in 2025, which will be implemented
+− the International Convention on officially as from 2026. For gaining experiences
+Tonnage Measurement of Ships, and exploring possible enhancement of
+1969; inspection campaigns, the Tokyo MOU
+conducted three trials of focused inspection
+− the Merchant Shipping (Minimum campaigns successfully during the year.
+Standards) Convention, 1976 (ILO
+Convention No. 147); The concentrated inspection campaign (CIC)
+on Ballast Water Management (BWM) was
+− the Maritime Labour Convention, 2006, conducted from 1 September to 30 November
+2
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+2025 jointly with the Paris MoU. During the CIC
+period, a total of 9,244 PSC inspections were The Committee received the information on
+conducted by the member Authorities, among under-performing ships and discussed the
+which 6,930 (74.96%) were with a CIC matter of enhancement of inspection of under-
+inspection. During the period, 184 ships where performing ships. The Committee considered
+CIC was carried out were detained in total and reviewed the results of a trial involving lists
+(2.66% detention rate). Of which, 30 detentions of high-performing and under-performing
+were the result of inspections with CIC companies. The Committee approved
+questionnaires, which were detained as a implementation of publication of company
+direct result of the CIC concerning deficiencies, performance lists on a quarterly basis on the
+reflecting a CIC topic related detention rate of Tokyo MOU website starting 1 January 2026.
+0.43%. The most common deficiencies (and The Committee discussed the matter of the
+deficiencies that resulted in a detention) found increase of ships with fraudulent flag/registry
+during the campaign were associated with and/or certificates and agreed to consider and
+proper operation of Ballast Water Management adopt measures for dealing with such ships
+System (BWMS) that is underscoring the fact effectively.
+that the operation and maintenance of BWMS
+onboard remains a critical area for the effective The Committee considered and approved the
+implementation of the intent of the Convention. report on the Concentrated Inspection
+Campaign (CIC) on Crew Wages and Seafarer
+THE PORT STATE CONTROL COMMITTEE Employment Agreement (MLC) in 2024. The
+Committee took note of the status of the
+undergoing joint CIC with the Paris MoU on
+The thirty-sixth meeting of the Port State
+BWM in 2025. The Committee further
+Control Committee (PSCC36) was held in
+discussed and approved in principle the
+Hong Kong, China, from 20 to 23 October 2025
+arrangements and preparations for the joint
+with hybrid participation. The meeting was
+CICs on cargo securing in 2026. The
+hosted by the Hong Kong Marine Department.
+Committee considered the intersessional work
+The meeting was chaired by Mr. Kenny
+done by the correspondence group for review
+Crawford, Manager (Ship Inspections),
+of CIC approach. The Committee was informed
+Australian Maritime Safety Authority (AMSA).
+of results of three focused inspection campaign
+(FIC) trials on Fire Safety, Pilot Transfer
+PSCC36 was attended by the member
+Arrangements and EPIRB conducted. The
+Authorities of Australia, Canada, Chile, China,
+Committee agreed to continue further FIC trials
+Fiji, Hong Kong (China), Indonesia, Japan,
+to refine methodologies including future joint
+Republic of Korea, Malaysia, Marshall Islands,
+Inspection Campaigns with the Paris MoU. In
+Mexico, New Zealand, Panama, Papua New
+addition, the Committee agreed to conduct a
+Guinea, Peru, Philippines, Russian Federation,
+FIC on insurance certificates under the
+Singapore, Thailand, Vanuatu and Viet Nam
+International Convention on Civil Liability for Oil
+and observers of Cambodia, Macao (China),
+Pollution Damage (CLC), as the Paris MoU has
+the Abuja MOU, the Black Sea MOU (remote),
+previously done. The Committee accepted the
+the Caribbean MOU, the Indian Ocean MOU,
+proposal by the Paris MoU for a joint
+the Paris MoU, the Viña del Mar Agreement,
+Concentrated Inspection Campaign on
+ILO and IMO.
+3
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+enclosed space entry in 2027. for PSCOs on Inert Gas System of Tankers.
+The Committee decided to develop a style
+The Committee considered and approved the guide for supporting development and ongoing
+revised Strategic Plan, Strategic Directions and review of PSC guidelines and the development
+the list of planned actions for the five-year of safety guidelines for PSCO accident
+period from 2026 to 2030, taking into account prevention.
+emerging trends in the maritime sector. The
+Committee also approved the strategic plan for The Committee noted with satisfaction the
+technical co-operation programmes for the status of activities of PSC on fishing vessels in
+period of 2026-2030. the Tokyo MOU region and encouraged
+Authorities to continue PSC inspections of
+The Committee confirmed its decision on the fishing vessels and transmit the data into the
+introduction of new calculation methods to Asia Pacific Fishing Vessel Information System
+evaluate flag and RO performance, which are (APFISh).
+harmonized with the Paris MoU. Taking
+account of preparations required, the The Committee made a further discussion on
+Committee agreed to make the implementation cases of improper extensions of statutory
+effective from 1 January 2028. certificates validity in violation of limitations
+imposed by the relevant conventions. The
+The Committee considered and adopted the Committee agreed to bring the necessary
+guidelines for PSCOs on enhanced machinery attention of the matter to the industry and to
+and maintenance inspections and guidelines consider measures to be taken for PSCOs to
+The thirty-sixth Committee meeting, Hong Kong (China), October 2025.
+4
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+deal with the matter in a uniform approach.
+The thirty-seventh meeting of the Port State
+In addition, the Committee also gave Control Committee will be held in Singapore
+consideration and made decisions on the from 7 to 10 September 2026.
+following:
+TECHNICAL WORKING GROUP (TWG)
+• approval of amendments to the guidelines
+for the detention review panel;
+The nineteenth meeting of the Technical
+Working Group (TWG19) was held in Hong
+• endorsement of updates and revision of
+Kong, China, on 16 and 17 October 2025 in the
+numerous guidelines completed by the
+hybrid mode, prior to PSCC36. TWG19 was
+intersessional group on guidelines;
+chaired by Mr. Hu Ronghua, Deputy Director,
+Division of Ship Registry and Supervision,
+• consideration of progress of work done by
+Shanghai Maritime Safety Administration
+the intersessional group on APCIS Backup;
+(MSA) of China.
+• review of follow-up action items emanating
+TWG19 discussed and made recom-
+from the 3rd Joint Ministerial Conference;
+mendations to the Committee on matters
+relating to:
+• review of data exchange agreement with
+IMO/GISIS; • reports of intersessional groups: advisory
+group on information exchange (AG-IE), in-
+• awarding the winner of the deficiency photo tersessional group on batch protocol (IG-
+of the year; and BP), intersessional group on statistics (IG-
+Statistics), Intersessional Group for review
+• outcome of the project for enhancing of PSC guidelines (IG-Guidelines) and
+capacity building of member Authorities of Intersessional Group on Machinery Mainte-
+Small Island Developing States (SIDS) nance (IG-Machinery Maintenance);
+supported by the Nippon foundation.
+• cases considered by the detention review
+After nine years of dedicated service, Mr. panel;
+Kubota Hideo retired from position of the
+Secretary of the Tokyo MOU Secretariat at the • periodical revision of the PSC Manual;
+meeting in Hong Kong, China. The Committee
+expressed its sincere appreciation to Mr. • development and review of PSC guide-
+Kubota for his tremendous contributions to the lines;
+activities of the MOU during the period and
+exceptional guidance and direction to the work • preparation and arrangements for
+of the Secretariat and appointed him as upcoming CICs;
+Secretary Emeritus of the Tokyo MOU. The
+Committee approved the appointment of Mr.
+• activities and operation of the Asia-Pacific
+Ishihara Akira as the Secretary of the Tokyo
+Computerized Information System
+MOU Secretariat.
+5
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+(APCIS); Furthermore, the PSC data of the Tokyo MOU
+are also provided to IMO GISIS and EQUASIS.
+• management and maintenance of the
+coding system; TRAINING AND SEMINARS FOR PORT
+STATE CONTROL OFFICERS
+• analysis and statistics on PSC; and
+The thirteenth general training course for PSC
+• reports and evaluations of technical co-
+officers was conducted from 1 October 2025 to
+operation activities.
+18 March 2026. This was the seventeenth
+training course jointly organized by IMO and
+ASIA-PACIFIC COMPUTERIZED the Tokyo MOU. A total of 18 PSC officers
+INFORMATION SYSTEM (APCIS) participated in the training course. 10 of them
+were from the Tokyo MOU Authorities of Fiji,
+For reporting and storing of port State Indonesia, Republic of Korea, Macao (China),
+inspection results and facilitating exchange of Malaysia, Mexico, Panama, Peru, Tonga and
+information in the region, a computerized Vanuatu. Seven of them were invited by IMO,
+database system was established. The central one each from the Abuja MOU, the Black Sea
+site of the APCIS is located in Moscow, under MOU, the Caribbean MOU, the Indian Ocean
+the auspices of the Ministry of Transport of MOU, the Mediterranean MOU, the Riyadh
+Russian Federation. MOU and the Viña del Mar Agreement. One
+more participant was sent by the Indian Ocean
+The APCIS is connected by member MOU on its own expense. The training course
+Authorities on-line or by web-service for consisted of two and a half months pre-learning
+searching ships for inspection and for inputting course, one week of classroom lectures and
+and transmitting inspection reports. The APCIS one and a half weeks of onboard training. The
+also supports on-line publication of PSC data pre-learning course was carried out from 1
+on the Tokyo MOU website (https://www.tokyo- October to 19 December 2025, where
+mou.org) on a real time basis. Based on data participants were requested to complete 32
+stored in the database, the APCIS produces pre-learning modules and the tests through the
+annual and detailed PSC statistics. e-learning system developed for the Distance
+Learning Programme (DLP).
+For inter-regional information exchange, the
+APCIS has established deep hyperlinks with The Joint Tokyo MOU and Indian Ocean MOU
+the databases of: Seminar (Thirty-third Seminar of the Tokyo
+MOU) was held in normal face-to-face style
+− THETIS of the Paris MoU (temporarily from 24 to 28 February 2025 in Gold Coast,
+suspended); Australia. The seminar was hosted by the
+− BSIS of the Black Sea MOU; Australian Maritime Safety Authority (AMSA).
+− IOCIS of the Indian Ocean MOU; Participants from Authorities of Australia,
+− CIALA of the Viña del Mar Agreement; Bangladesh, China, Comoros, Fiji, France,
+and Hong Kong (China), India, Indonesia, Japan,
+− CMIC of the Caribbean MOU. Kenya, Republic of Korea, Macao (China),
+Madagascar, Malaysia, Marshall Islands,
+6
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Mexico, Mozambique, Myanmar, New Zealand, Ocean MOU and the Tokyo MOU provided
+Panama, Papua New Guinea, Peru, presentations on the relevant topics. In addition,
+Philippines, Samoa, Seychelles, Singapore, two case study sessions were also conducted.
+Solomon Islands, South Africa, Sri Lanka,
+Sudan, Thailand, Yemen, Vanuatu and Viet The thirty-fourth seminar for PSCOs, a second
+Nam attended the seminar. A representative seminar focussing on the CIC of the year, was
+from Nigeria representing the Abuja MOU also held on 1 and 2 July 2025 via virtual means.
+participated in the seminar. The main topics of Participants from Authorities of Australia,
+the seminar were the Activities and recent Cambodia, Canada, Chile, China, Fiji, Hong
+developments of the two Memoranda, Remote Kong (China), Indonesia, Japan, Democratic
+surveys in Australia, Code of conduct for PSC, People’s Republic of Korea, Republic of Korea,
+Recognized Organization (RO) Responsibility Macao (China), Malaysia, Mexico, New
+assignment, Introduction of PSC on BWM, Zealand, Panama, Philippines, Russian
+Introduction of Guidelines for pre-inspection Federation, Singapore, Thailand, Vanuatu and
+electronic verification of certificates and Viet Nam attended the seminar.
+records, Sharing and updating of Maritime Representatives from Sri Lanka and Tanzania
+Technologies Forum (MTF) on-going project on representing the Indian Ocean MOU, from
+Guidelines for conducting safe inspections of Malta representing the Mediterranean MoU,
+methanol-fuelled ships, Code for the Safety of from Saudi Arabia representing the Riyadh
+Small Commercial Vessels (SCV Code) and MOU, from Brazil and Peru representing the
+Fishing vessel PSC. Experts from Australia, Viña del Mar Agreement also participated in the
+Japan, Marshall Islands, Singapore and the seminar. Experts from New Zealand and
+Secretariats of the Caribbean MOU, the Indian Singapore delivered presentations on results of
+The Joint Tokyo MOU and Indian Ocean MOU seminar for PSC officers
+7
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+2024 CIC on Crew Wages and Seafarers’
+Employment Agreements (MLC, 2006) and − Abuja MOU
+introduction of the CIC on Ballast Water − Black Sea MOU
+Management (BWM) in 2025 respectively. − Caribbean MOU
+− Indian Ocean MOU
+Five expert missions were carried out in 2025. − Mediterranean MOU
+The first mission was conducted in Lima, Peru, − Paris MoU
+from 17 to 21 February 2025 by experts from − Riyadh MOU
+Republic of Korea. The second mission was − Tokyo MOU
+carried out in Manila, Philippines, from 19 to 23 − Viña del Mar Agreement
+May 2025 by experts from Japan. The third
+mission was delivered in Port Vila, Vanuatu, As one of the inter-governmental organizations
+from 16 to 20 June 2025 by experts from (IGOs) associated with the IMO, the Tokyo
+Australia and Singapore. The fourth mission MOU has attended meetings of the
+was carried out in Hai Phong, Viet Nam, from Implementation of IMO Instruments (III) Sub-
+21 to 25 July 2025 by experts from Japan. The Committees (former Flag State Implementation
+fifth mission was carried out in Suva, Fiji, from (FSI) Sub-Committee) since 2006. The Tokyo
+11 to 15 August 2025 by experts from China. MOU Secretariat participated in the eleventh
+session of III Sub-Committee which was held
+Seven PSCO exchanges were completed in from 21 to 25 July 2025.
+2025, namely: one officer from New Zealand
+was dispatched to Republic of Korea, one To enhance communications and
+officer from Chile to Hong Kong (China), one harmonization on PSC globally, a meeting of
+officer from Singapore to Republic of Korea, regional PSC regimes was held in the margin
+one officer from New Zealand to Chile, one of the eleventh session of III Sub-Committee.
+officer from Malaysia to Mexico, one officer Such meeting will be convened during each
+from Mexico to Russian Federation and one session of III Sub-Committee. In addition to in-
+officer from Japan to Australia. person meeting, virtual meetings will also be
+organized for more efficient coordination of
+The abovementioned technical co-operation ongoing activities.
+activities received generous support from the
+Nippon Foundation. In support of inter-regional collaboration on port
+State control, the Tokyo MOU has obtained
+CO-OPERATION WITH OTHER REGIONAL observer status in and granted the same to all
+PORT STATE CONTROL REGIMES eight regional PSC regimes in accordance with
+the decision of the Port State Control
+Committee.
+Establishment and effective operation of
+regional co-operation regimes on port State
+The Tokyo MOU has established, and
+control has formed a worldwide network for
+maintained, effective and close co-operation
+elimination of substandard shipping. Currently,
+with the Paris MoU at both administrative and
+there are a total of nine regional port State
+technical levels. Representatives of the two
+control regimes (MOUs) covering a major part
+Secretariats attend the Port State Control
+of the world, namely:
+8
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Committee meetings of each MOU on a regular
+basis. During the period of 2025, the Tokyo
+MOU Secretariat attended the 58th meeting of
+the Paris MoU PSC Committee held from 26 to
+30 May 2025 in Malmö, Sweden.
+Furthermore, the Tokyo MOU Secretariat
+participated remotely in the 25th meeting of the
+Black Sea MOU PSC Committee from 14 to 17
+April 2025, the 30th meeting of the Caribbean
+MOU PSC Committee from 3 to 4 July 2025,
+the 28th meeting of the Indian Ocean MOU PSC
+Committee from 11 to 15 August 2025, the 30th
+meeting of the Viña del Mar Agreement PSC
+Committee from 30 September to 3 October
+2025 and the 15th meeting of the Abuja MOU
+PSC Committee from 6 to 9 October 2025.
+9
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+PORT STATE CONTROL UNDER THE TOKYO MOU, 2025
+INSPECTIONS
+In 2025, 35,546 inspections, involving 19,980
+individual ships, were carried out on ships
+registered under 111 flags. Figure 3 and Table
+2 show the number of inspections carried out
+by the member Authorities of the Tokyo MOU.
+Table 2b provides the number and percent of
+physical and remote follow-up inspections
+conducted by Authorities. Out of 35,546
+Candidate photo for Deficiency Photo of the Year
+(Ship type: Bulk carrier;
+Date: 04/07/2025; Port: Hong Kong, China)
+inspections, there were 23,230 inspections
+where ships were found with deficiencies.
+Since the total number of individual ships
+operating in the region was estimated at
+30,046*, the inspection rate in the region was
+approximately 66%** in 2025 (see Figure 1).
+Information on inspections according to ships’
+flag is shown in Table 4.
+Figure 2 and Table 3 provide information on
+inspections per ship risk profile.
+Figures summarizing inspections according to
+ship type are set out in Figure 4 and Table 5.
+Inspection results regarding recognized organi-
+zations are shown in Table 6.
+Winner of Deficiency Photo of the Year – 2025
+(Ship type: Refrigerated cargo carrier;
+Date: 24/12/2025; Port: Vladivostok)
+* Number of individual ships which visited the ports of the ** The inspection rate is calculated by number of individual
+region during the year (the figure was provided by LLI). ships inspected/number of individual ships visited.
+10
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+DETENTIONS
+A ship is detained when the condition of the
+ship or its crew does not correspond substan-
+tially with the applicable conventions. Such
+strong action is to ensure that the ship cannot
+sail until it can proceed to sea without present-
+ing a danger to the ship or persons on board,
+and/or without presenting an unreasonable
+threat of harm to the marine environment.
+In 2025, 1,255 ships registered under 73 flags
+were detained due to serious deficiencies hav-
+ing been found onboard. The detention rate of
+ships inspected was 3.53%.
+Figure 5 shows the detention rate by flag for
+flags where at least 20 port State control
+inspections had been conducted and whose
+detention rate was above the average regional
+rate. Figure 6 gives the detention rate by ship
+type. Figure 8 illustrates the most frequent de-
+tainable deficiencies found during inspections Candidate photo for Deficiency Photo of the Year
+in 2025. (Ship type: General cargo/multi-purpose ship;
+Date: 16/07/2025; Port: Fushiki)
+For the purpose of targeting ships to be
+inspected, the flag performance list (Table 8) indicates levels of performance of flags over a
+three-year rolling period. Flags, whose ships
+were involved in 30 or more inspections during
+the period, are included in the list. The
+performance list for 2023-2025 consists of 66
+flags. The number of flags in the low
+performance list is 15, two flags more than the
+last year. The number of flags on the medium
+performance list is 19, one flag less than last
+year. The high performance list includes 32
+flags, two more than the previous year.
+A list of under-performing ships (i.e., ships de-
+tained three or more times during previous
+Candidate photo for Deficiency Photo of the Year twelve months) is published monthly. A total of
+(Ship type: Bulk carrier; Date: 07/03/2025; 222 vessels, involving 52 individual ships, were
+Port: Fremantle, WA) identified as under-performing ships in 2025.
+11
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+A total of 90,168 deficiencies were recorded in
+2025. The deficiencies found are categorized
+and shown in Figure 7 and Table 7.
+It has been noted that fire safety measures, life-
+saving appliances, working and living
+conditions and safety of navigation remain as
+the major categories of deficiencies frequently
+discovered on ships. In 2025, 18,020
+deficiencies related to fire safety measures,
+11,818 deficiencies related to life-saving
+appliances, 9,108 deficiencies related to
+working and living conditions and 8,936
+deficiencies related to safety of navigation were
+recorded, representing 53% of the total number
+of all recorded deficiencies. As the outcome of
+the CIC on Ballast Water Management (BWM)
+in 2025, number of deficiencies relating to
+BWM were three times higher than that of the
+previous year. Furthermore, it is also observed
+that deficiencies related to structure conditions,
+water/weathertight conditions, emergency
+systems and propulsion and auxiliary
+machinery were found increased continuously
+during past years. Such increase proved the
+concerns expressed by the Tokyo MOU on
+current situation of lacking of effective
+maintenance carried out onboard ships.
+Candidate photo for Deficiency Photo of the Year DEFICIENCY PHOTO OF THE YEAR
+(Ship type: Gas carrier; Date: 23/11/2025;
+Port: Palembang)
+The function for collecting and storing defi-
+The list of under-performing ships is provided
+ciency photos taken during PSC inspections in
+in Table 16.
+the APCIS has been implemented since 2009.
+For encouraging and promoting PSC officers to
+DEFICIENCIES submit deficiency photos, a prize of deficiency
+photo of the year has been established to
+Where conditions on board are found that are award the PSC officer who took the best
+not in compliance with the requirements of the deficiency photo of the year. Previous
+relevant instruments by the port State control deficiency photos of the year are also
+officers, these are recorded as deficiencies and published on the Tokyo MOU website.
+required to be rectified.
+12
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+In 2025, a total of 12,158 photos were submit-
+ted by PSC officers. In accordance with the
+procedures for selection of deficiency photo of
+the year, the photo taken by PSC officer of the
+Authority of Russian Federation was selected
+as the winner for 2025. Deficiency photo of the
+year – 2025 and other candidate photos are
+provided in this section.
+OVERVIEW OF PORT STATE CONTROL
+RESULTS 2015 – 2025
+Figures 9-14 show the comparison of port State
+inspection results for 2015 - 2025. These
+figures indicate the trends in port State
+activities and ship performance over the past
+eleven years.
+Candidate photo for Deficiency Photo of the Year
+(Ship type: Bulk carrier; Date: 29/10/2025; Port: Singapore)
+13
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 1: INSPECTION PERCENTAGE
+Total ships inspected: 19,980
+Percentage: 66%
+Total individual ship visited: 30,046
+Figure 2: INSPECTION PER SHIP RISK PROFILE
+Low Risk Ship (LRS) Inspections: Ship Risk Profile (SRP) unknown:
+4,751; 13.37% 72; 0.20%
+Standard Risk Ship (SRS) Inspections: High Risk Ship (HRS) Inspections:
+16,207; 45.59% 14,516; 40.84%
+14
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 3: PORT STATE INSPECTIONS - CONTRIBUTION BY AUTHORITIES
+New Zealand Panama Peru 1,554; 4.37%
+Philippines Russian Federation
+303; 0.85% 183; 0.51% Papua New Guinea 1,941; 5.46% 869; 2.44%
+Mexico 175; 0.49% Singapore
+564; 1.59% 528; 1.49%
+Marshall Islands Thailand
+12; 0.03% 822; 2.31%
+Malaysia Vanuatu
+1,184; 3.33% 4; 0.01%
+Viet Nam
+3,076; 8.65%
+Republic of Korea
+1,876; 5.28%
+Australia 2,769; 7.79%
+Japan
+4,014; 11.29%
+Canada 640; 1.80%
+Chile 767; 2.16%
+Indonesia Hong Kong, China
+3,736; 10.51% 603; 1.70% Fiji 32; 0.09%
+China 9,894; 27.83%
+Total inspections: 35,546
+Figure 4: TYPE OF SHIP INSPECTED
+passenger ship/ferry:
+other types:
+refrigerated cargo carrier: 387; 1.09%
+969; 2.73%
+423; 1.19%
+oil tanker/combination
+general dry cargo ship: carrier: 4,512; 12.69%
+5,350; 15.05%
+gas carrier: 1,019; 2.87%
+chemical tanker:
+390; 1.10%
+ro-ro/container/vehicle ship: bulk carrier: 14,667; 41.29%
+7,819; 22.00%
+15
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Detention: 17
+Figure 5: DETENTIONS PER FLAG
+Percentage: 32.08%
+12 15
+23.08% 1.05% Detention percentage
+29
+29 Regional average: 3.53%
+30.00 20.71%
+15.85%
+26 4 3
+Percentage
+20.97% 12.50% 10.00%
+24 2
+14 6
+18.18
+13.64
+13.25
+12.35
+10.81
+10.77
+10.13
+9.68
+9.30
+8.57
+8.33
+8.33
+7.78
+6.37
+6.02
+5.88
+5.58
+4.76
+4.26
+4.09
+3.71
+3.66
+3.65
+3.57
+3.48
+3.48
+3.45
+3.23
+3.13
+3.12
+3.04
+16.33% 9.09% 8 6
+20.00 15.56% 40 8.22%
+2 7.14% 6.52% 10
+10.50% 3 24 20 5
+10.00% 5.95% 5
+18.82% 4.61% 4.13% 3.82%
+50 2 3.68%
+6
+6.99% 6.45%
+7.50% 12 446
+10.00 10 3 27
+4.69% 4.54% 3.86% 3.80% 3.54%
+0.00
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+Flags
+Flags:
+1. Gambia 2. Saint Kitts and Nevis 3. Togo 4. Sao Tome and Principe
+5. Cameroon 6. Tanzania 7. Palau 8. Comoros
+9. Sint Maarten 10. Sierra Leone 11. Gabon 12. Iran
+13. Saint Vincent and the Grenadines 14. Vanuatu 15. Mongolia 16. India
+17. Barbados 18. Belize 19. Netherlands 20. Guinea-Bissau
+21. Russian Federation 22. Antigua and Barbuda 23. Cyprus 24. Panama
+25. Portugal 26. Japan 27. United Kingdom (UK) 28. France
+29. Bangladesh 30. Viet Nam
+Note: Flags listed above are those flags the ships of which were involved in at least 20 port State inspections and detention
+percentage of which are above the regional average detention percentage. The complete information on detentions by flag
+is given in Table 4.
+Figure 6: DETENTION PER SHIP TYPE
+Detention percentage
+Average detention percentage: 3.53%
+Oil tanker/combination carrier 3.35
+Gas carrier 6.28
+Chemical tanker 2.82
+Bulk carrier
+3.19
+Ro-ro/container/vehicle ship
+2.29
+General dry cargo ship 6.02
+Refrigerated cargo carrier
+4.02
+Passenger ship/ferry 1.03
+Other types
+4.02
+16
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 7: DEFICIENCIES BY MAIN CATEGORIES
+Others
+ISM related deficiencies
+Pollution prevention 22,276; 24.70%
+1,334; 1.48%
+8,762; 9.72%
+Life saving appliances
+11,818; 13.11%
+Working and living conditions
+9,108; 10.10%
+Fire safety measures
+Safety of navigation 18,020; 19.98%
+8,936; 9.91% Load lines
+Stability, structure and relevant equipment
+6,651; 7.38%
+3,263; 3.62%
+Figure 8: MOST FREQUENT DETAINABLE DEFICIENCIES
+Fixed fire extinguishing installation (Fire safety) 215
+ISM (ISM) 200
+Lifeboats (Life saving appliances) 152
+Ventilators, air pipes, casings
+138
+(Water/Weathertight conditions)
+Fire pumps and its pipes (Fire safety) 118
+Fire detection and alarm system (Fire safety) 114
+Remote Means of control (opening, pumps,
+109
+ventilation, etc.) Machinery spaces (Fire safety)
+Fire-dampers (Fire safety) 106
+Maintenance of the ship and equipment (ISM) 104
+Oil filtering equipment (Pollution prevention -
+92
+MARPOL Annex I)
+17
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+OVERVIEW OF PORT STATE CONTROL RESULTS 2015 - 2025
+Figure 9: NO. OF INSPECTIONS
+40,000 35,546
+31,407 31,678 31,315 31,589 31,372 30,887
+32,054
+32,000
+24,894
+22,732
+24,000 19,416
+16,000
+8,000
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Figure 10: INSPECTION PERCENTAGE
+70% 71% 70%
+80% 70% 69% 66% 66% 66%
+60%
+57%
+60% 50%
+40%
+20%
+0%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Figure 11: NO. OF INSPECTIONS WITH DEFICIENCIES
+23,230
+25,000
+18,806 19,967
+19,142 18,943 18,113 18,091 18,461
+20,000
+15,000 11,567 12,678
+9,763
+10,000
+5,000
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+18
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 12: NO. OF DEFICIENCIES
+90,168
+100,000 83,606
+81,271 75,867 77,526
+76,108 73,441 73,393
+80,000
+60,000 46,769
+39,838
+34,924
+40,000
+20,000
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Figure 13: NO. OF DETENTIONS
+1,500 1,334 1,255
+1,153 1,189
+1,090
+941 934 983
+1,000
+725
+493 526
+500
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Figure 14: DETENTION PERCENTAGE
+5.00% 4.32%
+3.67% 3.71% 3.53%
+3.44%
+4.00% 3.13%
+3.00% 2.96%
+2.91%
+2.54%
+3.00% 2.31%
+2.00%
+1.00%
+0.00%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+19
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+ANNEX 1
+STATUS OF THE RELEVANT INSTRUMENTS
+Table 1: STATUS OF THE RELEVANT INSTRUMENTS
+(Date of deposit of instruments)
+(As of 31 December 2025)
+Authority LOAD LOAD SOLAS SOLAS SOLAS MARPOL STCW
+LINES LINES 74 PROT PROT 73/78 78
+66 PROT 88 78 88
+Australia 29/07/68 07/02/97 17/08/83 17/08/83 07/02/97 14/10/87 07/11/83
+Canada 14/01/70 08/04/10 08/05/78 - 08/04/10 16/11/92 06/11/87
+Chile 10/03/75 03/03/95 28/03/80 15/07/92 29/09/95 10/10/94 09/06/87
+China 05/10/73 03/02/95 07/01/80 17/12/82 03/02/95 01/07/83 08/06/81
+Fiji 29/11/72 28/07/04 04/03/83 28/07/04 28/07/04 08/03/16 27/03/91
+Hong Kong, China* 16/08/72 23/10/02 25/05/80 25/11/81 23/10/02 11/04/85 03/11/84
+Indonesia 17/01/77 28/11/17 17/02/81 23/08/88 28/11/17 21/10/86 27/01/87
+Japan 15/05/68 24/06/97 15/05/80 15/05/80 24/06/97 09/06/83 27/05/82
+Republic of Korea 10/07/69 14/11/94 31/12/80 02/12/82 14/11/94 23/07/84 04/04/85
+Malaysia 12/01/71 11/11/11 19/10/83 19/10/83 11/11/11 31/01/97 31/01/92
+Marshall Islands 26/04/88 29/11/94 26/04/88 26/04/88 16/10/95 26/04/88 25/04/89
+Mexico 25/03/70 13/05/94 28/03/77 30/06/83 13/05/94 23/04/92 02/02/82
+New Zealand 05/02/70 03/06/01 23/02/90 23/02/90 03/06/01 25/09/98 30/07/86
+Panama 13/05/66 17/09/07 09/03/78 14/07/82 17/09/07 20/02/85 29/06/92
+Papua New Guinea 18/05/76 - 12/11/80 - - 25/10/93 28/10/91
+Peru 18/01/67 24/06/09 04/12/79 16/07/82 21/08/09 25/04/80 16/07/82
+Philippines 04/03/69 24/04/18 15/12/81 24/04/18 06/06/18 15/06/01 22/02/84
+Russian Federation 04/07/66 18/08/00 09/01/80 12/05/81 18/08/00 03/11/83 09/10/79
+Singapore 21/09/71 18/08/99 16/03/81 01/06/84 10/08/99 01/11/90 01/05/88
+Thailand 30/12/92 25/03/25 18/12/84 - 25/03/25 02/11/07 19/06/97
+Vanuatu 28/07/82 26/11/90 28/07/82 28/07/82 14/09/92 13/04/89 22/04/91
+Viet Nam 18/12/90 27/05/02 18/12/90 12/10/92 27/05/02 29/05/91 18/12/90
+Cambodia 28/11/94 08/06/01 28/11/94 28/11/94 08/06/01 28/11/94 08/06/01
+DPR Korea 18/10/89 08/08/01 01/05/85 01/05/85 08/08/01 01/05/85 01/05/85
+Macao, China* 18/07/05 11/10/10 20/12/99 20/12/99 24/06/05 20/12/99 18/07/05
+Samoa 23/10/79 18/05/04 14/03/97 14/03/97 18/05/04 07/02/02 24/05/93
+Solomon Islands 30/06/04 27/11/25 30/06/04 18/10/23 18/10/23 30/06/04 01/06/94
+Tonga 12/04/77 15/06/00 12/04/77 18/09/03 15/06/00 01/02/96 07/02/95
+Entry into force date 21/07/68 03/02/00 25/05/80 01/05/81 03/02/00 02/10/83 28/04/84
+* Effective date of extension of instruments.
+20
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+(As of 31 December 2025)
+Authority COLREG TONNAGE ILO MLC AFS CLC BWM BUNKER
+72 69 147** 2006*** 2001 PROT 2004 2001
+92
+Australia 29/02/80 21/05/82 - 21/12/11 09/01/07 09/10/95 07/06/17 16/03/09
+Canada 07/03/75 18/07/94 D 15/06/10 08/04/10 29/05/98 08/04/10 02/10/09
+Chile 02/08/77 22/11/82 - 22/02/18 06/10/16 29/05/02 - -
+China 07/01/80 08/04/80 - 12/11/15 07/03/11 05/01/99 22/10/18 09/12/08
+Fiji 04/03/83 29/11/72 - 21/01/13 08/03/16 30/11/99 08/03/16 08/03/16
+Hong Kong, China* 15/07/77 18/07/82 - 06/08/18 15/02/16 05/01/99 13/08/20 22/01/10
+Indonesia 13/11/79 14/03/89 - 12/06/17 11/09/14 06/07/99 24/11/15 11/09/14
+Japan 21/06/77 17/07/80 D 05/08/13 08/07/03 24/08/94 10/10/14 01/07/20
+Republic of Korea 29/07/77 18/01/80 - 09/01/14 24/07/08 07/03/97 10/12/09 28/08/09
+Malaysia 23/12/80 24/04/84 - 20/08/13 27/09/10 09/06/04 27/09/10 12/11/08
+Marshall Islands 26/04/88 25/04/89 - 25/09/07 09/05/08 16/10/95 26/11/09 09/05/08
+Mexico 08/04/76 14/07/72 - - 07/07/06 13/05/94 18/03/08 -
+New Zealand 26/11/76 06/01/78 - 09/03/16 - 25/06/98 09/01/17 04/04/14
+Panama 14/03/79 09/03/78 - 06/02/09 17/09/07 18/03/99 19/10/16 17/02/09
+Papua New Guinea 18/05/76 25/10/93 - - - 23/01/01 - -
+Peru 09/01/80 16/07/82 06/07/04 - 02/07/19 01/09/05 10/06/16 -
+Philippines 10/06/13 06/09/78 - 20/08/12 06/06/18 07/07/97 06/06/18 -
+Russian Federation 09/11/73 20/11/69 D 20/08/12 19/10/12 20/03/00 24/05/12 24/02/09
+Singapore 29/04/77 06/06/85 - 15/06/11 31/12/09 18/09/97 08/06/17 31/03/06
+Thailand 06/08/79 11/06/96 - 07/06/16 - 17/07/17 - -
+Vanuatu 28/07/82 13/01/89 - - 20/08/08 18/02/99 16/10/25 20/08/08
+Viet Nam 18/12/90 18/12/90 - 08/05/13 27/11/15 17/06/03 24/01/24 18/06/10
+Cambodia 28/11/94 28/11/94 - - - 08/06/01 - -
+DPR Korea 01/05/85 18/10/89 - - 21/08/20 13/07/21 - 17/07/09
+Macao, China* 20/12/99 18/07/05 - - 07/03/11 24/06/05 22/10/18 -
+Samoa 23/10/79 18/05/04 - 21/11/13 - 01/02/02 - 09/03/09
+Solomon Islands 12/03/82 30/06/04 - - 30/09/24 30/06/04 27/11/25 15/10/20
+Tonga 12/04/97 12/04/97 - - 16/04/14 10/12/99 16/04/14 18/09/03
+Entry into force date 15/07/77 18/07/82 28/11/81 20/08/13 17/09/08 30/05/96 08/09/17 21/11/08
+* Effective date of extension of instruments.
+** Although some Authorities have not ratified the ILO Convention No.147, parts of the ILO conventions
+referred to therein are implemented under their national legislation and port State control is carried out on
+matters covered by the national regulations.
+*** MLC 2006 will supersede ILO147 if the Authority ratified both of them.
+21
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 1a: STATUS OF MARPOL 73/78
+(Date of deposit of instruments)
+(As of 31 December 2025)
+Authority Annexes I & II Annex III Annex IV Annex V Annex VI
+Australia 14/10/87 10/10/94 27/02/04 14/08/90 07/08/07
+Canada 16/11/92 08/08/02 26/03/10 26/03/10 26/03/10
+Chile 10/10/94 10/10/94 10/10/94 15/08/08 16/10/06
+China 01/07/83 13/09/94 02/11/06 21/11/88 23/05/06
+Fiji 08/03/16 - 08/03/16 08/03/16 -
+Hong Kong, China* 11/04/85 07/03/95 02/11/06 27/03/96 20/03/08
+Indonesia 21/10/86 24/08/12 24/08/12 24/08/12 24/08/12
+Japan 09/06/83 09/06/83 09/06/83 09/06/83 15/02/05
+Republic of Korea 23/07/84 28/02/96 28/11/03 28/02/96 20/04/06
+Malaysia 31/01/97 27/09/10 27/09/10 31/01/97 27/09/10
+Marshall Islands 26/04/88 26/04/88 26/04/88 26/04/88 07/03/02
+Mexico 23/04/92 15/07/22 15/07/22 15/07/98 -
+New Zealand 25/09/98 25/09/98 - 25/09/98 26/05/22
+Panama 20/02/85 20/02/85 20/02/85 20/02/85 13/05/03
+Papua New Guinea 25/10/93 25/10/93 25/10/93 25/10/93 -
+Peru 25/04/80 25/04/80 25/04/80 25/04/80 04/12/14
+Philippines 15/06/01 15/06/01 15/06/01 15/06/01 24/04/18
+Russian Federation 03/11/83 14/08/87 14/08/87 14/08/87 08/04/11
+Singapore 01/11/90 02/03/94 01/05/05 27/05/99 08/10/00
+Thailand 02/11/07 - - 17/11/23 -
+Vanuatu 13/04/89 22/04/91 15/03/04 22/04/91 15/03/04
+Viet Nam 29/05/91 19/12/14 19/12/14 19/12/14 19/12/14
+Cambodia 28/11/94 28/11/94 28/11/94 28/11/94 -
+DPR Korea 01/05/01 01/05/01 01/05/01 01/05/01 -
+Macao, China* 20/12/99 20/12/99 02/11/06 20/12/99 23/05/06
+Samoa 07/02/02 07/02/02 07/02/02 07/02/02 18/05/04
+Solomon Islands 30/06/04 30/06/04 30/06/04 30/06/04 30/09/24
+Tonga 01/02/96 01/02/96 01/02/96 01/02/96 20/03/15
+Entry into force date 02/10/1983 01/07/1992 27/09/2003 31/12/1988 19/05/2005
+* Effective date of extension of instruments.
+22
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+ANNEX 2
+PORT STATE INSPECTION STATISTICS
+STATISTICS FOR 2025
+Table 2: PORT STATE INSPECTIONS CARRIED OUT BY AUTHORITIES
+inspections with
+No. of individual
+No. of initial and
+No. of individual
+No. of follow-up
+ships inspected
+Inspection rate
+ships visited 2)
+deficiencies 1)
+detentions 1)
+No. of initial
+deficiencies
+inspections
+inspections
+inspections
+percentage
+Detention
+follow-up
+(a/g%)
+No. of
+No. of
+No. of
+(f/b%)
+(b+c)
+(b)
+(d)
+(g)
+(a)
+(c)
+(e)
+Authority
+(f)
+Australia3) 2,508 4,617 2,769 1,848 1,722 7,560 133 6,224 40.30 4.80
+Canada4) 620 641 640 1 516 3,152 30 2,272 27.29 4.69
+Chile 711 1,612 767 845 528 1,498 9 1,974 36.02 1.17
+China 7,464 14,694 9,894 4,800 9,394 40,575 689 20,093 37.15 6.96
+Fiji 18 41 32 9 3 28 1 247 7.29 3.13
+Hong Kong, China 601 961 603 358 342 978 12 1,474 40.77 1.99
+Indonesia 2,699 4,137 3,736 401 1,212 3,003 37 9,673 27.90 0.99
+Japan 2,880 5,037 4,014 1,023 2,795 11,175 101 8,835 32.60 2.52
+Republic of Korea 1,662 2,321 1,876 445 1,509 6,057 102 10,939 15.19 5.44
+Malaysia 1,063 1,381 1,184 197 520 1,367 3 10,632 10.00 0.25
+Marshall Islands 11 17 12 5 8 71 1 30 36.67 8.33
+Mexico4&5) 518 609 564 45 64 108 0 1,652 31.36 0
+New Zealand 266 467 303 164 198 929 10 1,004 26.49 3.30
+Panama4) 163 206 183 23 59 228 6 4,002 4.07 3.28
+Papua New Guinea 140 230 175 55 76 211 3 583 24.01 1.71
+Peru 1,314 1,668 1,554 114 70 123 6 2,087 62.96 0.39
+Philippines 1,505 2,385 1,941 444 1,454 2,965 9 3,572 42.13 0.46
+Russian Federation4) 578 1,732 869 863 739 4,161 49 1,155 50.04 5.64
+Singapore 494 818 528 290 466 2,590 45 16,548 2.99 8.52
+Thailand 709 928 822 106 318 662 6 4,217 16.81 0.73
+Vanuatu 4 4 4 0 1 2 0 65 6.15 0
+Viet Nam 2,489 3,647 3,076 571 1,236 2,725 3 6,182 40.26 0.10
+Regional Regional Regional
+Total 19,980 48,153 35,546 12,607 23,230 90,168 1,255
+30,046 66% 3.53%
+1) Numbers of deficiencies and detentions do not include those related to security.
+2) LLI data for 2025.
+3) Data for Australia is also provided to Indian Ocean MOU.
+4) Data is only for the Pacific ports.
+5) Data for Mexico is for period after obtaining full membership.
+23
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 2a: PORT STATE INSPECTIONS ON MARITIME SECURITY
+No. of security
+No. of security
+with security
+deficiencies
+deficiencies
+inspections
+inspections
+percentage
+detentions
+Detention
+related
+related
+related
+No. of
+No. of
+Authority
+(%)
+Australia 2,769 1 1 0 0
+Canada 640 19 19 0 0
+Chile 767 36 38 0 0
+China 9,894 244 259 13 0.13
+Fiji 32 0 0 0 0
+Hong Kong, China 603 17 17 0 0
+Indonesia 3,736 38 43 2 0.05
+Japan 4,014 208 218 0 0
+Republic of Korea 1,876 158 166 0 0
+Malaysia 1,184 73 79 0 0
+Marshall Islands 12 1 1 0 0
+Mexico 564 0 0 0 0
+New Zealand 303 4 4 1 0.33
+Panama 183 2 2 0 0
+Papua New Guinea 175 2 2 0 0
+Peru 1,554 0 0 0 0
+Philippines 1,941 52 58 0 0
+Russian Federation 869 44 49 1 0.12
+Singapore 528 46 47 2 0.38
+Thailand 822 16 16 0 0
+Vanuatu 4 0 0 0 0
+Viet Nam 3,076 42 42 0 0
+Regional
+Total 35,546 1,003 1,061 19
+0.05%
+Note: Security related data showing in the above table and the tables of deficiency by category are
+excluded from all other statistical tables and figures in this report.
+24
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 2b: PORT STATE INSPECTIONS BY CATEGORIES (PHYSICAL & REMOTE)
+Follow-up inspections
+Authority
+Physical Remote Total
+# % # %
+Australia 1,623 87.82 225 12.18 1,848
+Canada 1 100.00 0 0 1
+Chile 649 76.80 196 23.20 845
+China 4,545 94.69 255 5.31 4,800
+Fiji 9 100.00 0 0 9
+Hong Kong, China 151 42.18 207 57.82 358
+Indonesia 400 99.75 1 0.25 401
+Japan 950 92.86 73 7.14 1023
+Republic of Korea 402 90.34 43 9.66 445
+Malaysia 188 95.43 9 4.57 197
+Marshall Islands 5 100.00 0 0 5
+Mexico 44 97.78 1 2.22 45
+New Zealand 140 85.37 24 14.63 164
+Panama 13 56.52 10 43.48 23
+Papua New Guinea 55 100.00 0 0 55
+Peru 113 99.12 1 0.88 114
+Philippines 443 99.77 1 0.23 444
+Russian Federation 686 79.49 177 20.51 863
+Singapore 132 45.52 158 54.48 290
+Thailand 104 98.11 2 1.89 106
+Vanuatu 0 0 0 0 0
+Viet Nam 571 100.00 0 0 571
+Total 11,224 89.03 1,383 10.97 12,607
+25
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 3: PORT STATE INSPECTIONS PER SHIP RISK PROFILE
+Ship Risk Profile (SRP)
+Authority Total No. of
+SRP inspections
+HRS SRS LRS
+Unknown
+Australia 651 1,518 599 1 2,769
+Canada 142 381 117 0 640
+Chile 161 461 145 0 767
+China 4,895 4,195 804 0 9,894
+Fiji 23 6 3 0 32
+Hong Kong, China 233 291 79 0 603
+Indonesia 1,361 1,605 766 4 3,736
+Japan 1,671 1,828 485 30 4,014
+Republic of Korea 764 935 176 1 1,876
+Malaysia 451 517 209 7 1,184
+Marshall Islands 4 7 1 0 12
+Mexico 109 334 119 2 564
+New Zealand 96 164 41 2 303
+Panama 65 105 13 0 183
+Papua New Guinea 76 83 15 1 175
+Peru 313 902 337 2 1,554
+Philippines 832 877 230 2 1,941
+Russian Federation 627 216 17 9 869
+Singapore 467 56 5 0 528
+Thailand 221 404 195 2 822
+Vanuatu 1 2 1 0 4
+Viet Nam 1,353 1,320 394 9 3,076
+Total 14,516 16,207 4,751 72 35,546
+26
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 4: PORT STATE INSPECTIONS PER FLAG
+No. of No. of No. of No. of Detention
+Flag inspections inspections deficiencies detentions percentage
+with %
+deficiencies
+Angola 2 1 12 1 50.00
+Antigua and Barbuda 256 155 581 12 4.69
+Aruba(1) 6 6 53 1 16.67
+Australia 2 2 11 1 50.00
+Bahamas 743 426 1,493 17 2.29
+Bahrain 1 0 0 0 0
+Bangladesh 136 109 320 5 3.68
+Barbados 112 72 398 8 7.14
+Belgium 38 18 42 0 0
+Belize 715 693 3,578 50 6.99
+Benin 4 3 51 3 75.00
+Bermuda (UK) 44 19 62 0 0
+Bolivia 2 2 23 1 50.00
+Brazil 2 2 10 1 50.00
+Brunei Darussalam 6 5 18 0 0
+Cameroon 88 84 528 15 17.05
+Cayman Islands (UK) 36 24 64 0 0
+Chile 3 0 0 0 0
+China 1,152 441 1,337 5 0.43
+Comoros 90 82 590 14 15.56
+Cook Islands 21 19 87 0 0
+Croatia 18 13 60 2 11.11
+Curacao 5 4 24 0 0
+Cyprus 521 312 1,294 24 4.61
+Denmark 223 126 369 3 1.35
+Djibouti 17 16 94 3 17.65
+Dominica 2 2 13 0 0
+Ecuador 7 2 10 0 0
+Egypt 7 6 34 2 28.57
+Ethiopia 7 7 32 0 0
+Falkland Islands (UK) 2 2 2 0 0
+(Malvinas)
+Fiji 5 4 53 1 20.00
+France 79 51 118 3 3.80
+Gabon 30 27 146 3 10.00
+Gambia 53 51 466 17 32.08
+Germany 46 26 63 0 0
+(1)
+It is revealed that ships under the flag of Aruba are fraudulently registered and, therefore, inspections and detention for Aruba are
+considered lost relevance for flag performance.
+27
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+No. of No. of No. of No. of Detention
+Flag inspections inspections deficiencies detentions percentage
+with %
+deficiencies
+Gibraltar (UK) 10 4 12 0 0
+Greece 223 136 415 4 1.79
+Guinea 9 9 64 4 44.44
+Guinea-Bissau 31 28 120 2 6.45
+Guyana 13 11 143 6 46.15
+Honduras 2 2 20 1 50.00
+Hong Kong, China 2,727 1,555 4,677 21 0.77
+India 80 51 197 6 7.50
+Indonesia 243 179 751 5 2.06
+Iran 20 13 86 2 10.00
+Isle of Man (UK) 171 96 300 2 1.17
+Italy 34 19 51 1 2.94
+Jamaica 35 33 148 0 0
+Japan 259 173 725 10 3.86
+Kiribati 6 5 10 0 0
+Korea, Republic of 1,106 792 2,638 10 0.90
+Kuwait 7 7 39 0 0
+Latvia 4 2 7 0 0
+Liberia 5,067 3,117 10,824 134 2.64
+Libya 1 0 0 0 0
+Lithuania 4 2 12 1 25.00
+Luxembourg 12 6 24 0 0
+Malawi(2) 5 5 20 0 0
+Malaysia 173 122 487 4 2.31
+Mali 1 1 19 0 0
+Malta 1,052 623 2,024 25 2.38
+Marshall Islands 3,484 2,019 7,025 84 2.41
+Mexico 3 3 15 1 33.33
+Mongolia 73 72 462 6 8.22
+Montenegro 4 4 16 0 0
+Mozambique 7 7 63 2 28.57
+Nauru 3 2 15 0 0
+Netherlands 92 62 278 6 6.52
+New Zealand 4 3 16 0 0
+Niue 32 27 102 1 3.13
+Norway 280 144 444 3 1.07
+Oman 4 3 14 0 0
+Pakistan 12 10 67 3 25.00
+(2)
+Based on a letter from the Maritime Organization for Eastern, Southern and Northern Africa (MOESNA), ships under the flag of
+Malawi should be considered fraudulently registered and, therefore, inspections for Malawi are considered lost relevance for flag
+performance.
+28
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+No. of No. of No. of No. of Detention
+Flag inspections inspections deficiencies detentions percentage
+with %
+deficiencies
+Palau 183 176 1,056 29 15.85
+Panama 9,824 6,984 28,665 446 4.54
+Papua New Guinea 3 3 11 2 66.67
+Peru 1 1 5 0 0
+Philippines 157 93 292 4 2.55
+Poland 3 0 0 0 0
+Portugal 484 302 1,071 20 4.13
+Qatar 11 8 27 1 9.09
+Russian Federation 168 165 871 10 5.95
+Saint Kitts and Nevis 52 42 244 12 23.08
+Saint Vincent and the 22 18 102 2 9.09
+Grenadines
+San Marino 17 11 44 2 11.76
+Sao Tome and Principe 140 138 941 29 20.71
+Saudi Arabia 26 13 35 0 0
+Seychelles 1 1 1 0 0
+Sierra Leone 381 358 2,198 40 10.50
+Singapore 2,535 1,298 4,052 19 0.75
+Sint Maarten(3) 32 29 221 4 12.50
+South Africa 3 1 1 0 0
+Spain 6 5 18 0 0
+Sri Lanka 2 2 10 1 50.00
+Sweden 15 10 23 0 0
+Switzerland 22 12 30 0 0
+Taiwan, China 81 23 53 0 0
+Tanzania 147 136 925 24 16.33
+Thailand 233 180 568 4 1.72
+Togo 124 118 775 26 20.97
+Tonga 3 3 13 0 0
+Türkiye 18 13 91 3 16.67
+Tuvalu 79 63 213 2 2.53
+Ukraine 5 2 3 0 0
+United Arab Emirates (UAE) 2 2 7 0 0
+United Kingdom (UK) 131 86 339 5 3.82
+United States of America 59 44 139 1 1.69
+Vanuatu 34 27 172 3 8.82
+Venezuela 5 5 34 2 40.00
+Viet Nam 762 698 2,547 27 3.54
+(3)
+Based on Circular Letter No.5019 issued on 20 May 2025 by IMO, Sint Maarten has no international flag registry. In this regard,
+ships inspected under the flag of Sint Maarten are fraudulently registered and, therefore, inspections and detentions related are considered
+lost relevance for flag performance.
+29
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+No. of No. of No. of No. of Detention
+Flag inspections inspections deficiencies detentions percentage
+with %
+deficiencies
+Ship's registration withdrawn 1 1 5 1 100.00
+Regional
+Total 35,546 23,230 90,168 1,255
+3.53
+30
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 5: PORT STATE INSPECTIONS PER SHIP TYPE
+No. of No. of No. of No. of Detention
+Type of ship inspections inspections deficiencies detentions percentage
+with %
+deficiencies
+NLS tanker 23 16 57 0 0
+Combination carrier 23 15 54 0 0
+Oil tanker 4,466 2,616 9,973 151 3.38
+Gas carrier 1,019 700 2,507 64 6.28
+Chemical tanker 390 234 738 11 2.82
+Bulk carrier 14,677 9,196 35,470 468 3.19
+Vehicle carrier 798 458 1,298 12 1.50
+Container ship 6,881 4,316 14,192 158 2.30
+Ro-Ro cargo ship 140 112 503 9 6.43
+General cargo/multi-purpose ship 5,350 4,339 20,199 322 6.02
+Refrigerated cargo carrier 423 344 1,537 17 4.02
+Woodchip carrier 254 125 395 1 0.39
+Livestock carrier 30 16 67 1 3.33
+Ro-Ro passenger ship 61 58 416 3 4.92
+Passenger ship 326 181 640 1 0.31
+Factory ship 12 6 23 0 0
+Heavy load carrier 54 33 121 1 1.85
+Offshore service vessel 122 89 334 3 2.46
+MODU & FPSO 5 1 3 0 0
+High speed passenger craft 22 7 25 0 0
+Special purpose ship 52 30 105 1 1.92
+Tugboat 153 122 450 11 7.19
+Others 265 216 1,061 21 7.92
+Total 35,546 23,230 90,168 1,255 3.53
+31
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 6: PORT STATE INSPECTIONS PER RECOGNIZED ORGANIZATION
+RO responsible
+RO responsible
+Percentage of
+No. of overall
+No. of overall
+percentage%
+percentage%
+detentions%
+responsible
+inspections
+detentions
+detentions
+Detention
+No. of RO
+detention
+Recognized organization (RO)
+Alfa Register of Shipping 11 4 0 36.36 0 0
+Alpha Ship Classification 27 2 0 7.41 0 0
+American Bureau of Shipping 4,719 97 5 2.06 0.11 5.15
+Asia Classification Society 11 0 0 0 0 0
+Asia Shipping Certification Services 44 11 4 25.00 9.09 36.36
+Biro Klasifikasi Indonesia 178 4 1 2.25 0.56 25.00
+Bolivian Register of Shipping 1 1 0 100.00 0 0
+Bulgarski Koraben Registar 2 1 0 50.00 0 0
+Bureau Veritas 4,895 165 9 3.37 0.18 5.45
+Capital Register of Shipping 10 2 0 20.00 0 0
+CENTER MARINE CERTIFICATION 2 0 0 0 0 0
+SERVICE
+China Classification Society 3,625 37 1 1.02 0.03 2.70
+Columbus American Register 1 1 0 100.00 0 0
+Cosmos Marine Bureau 129 21 6 16.28 4.65 28.57
+CR Classification Society 119 1 0 0.84 0 0
+Croatian Register of Shipping 50 3 0 6.00 0 0
+Cyprus Bureau of Shipping 3 0 0 0 0 0
+DAKAR CLASS 16 2 0 12.50 0 0
+DNV AS 7,914 180 12 2.27 0.15 6.67
+Dromon Bureau of Shipping 75 8 2 10.67 2.67 25.00
+Eagle Classification of Shipping 2 0 0 0 0 0
+Eastern Marine Service Co., Ltd 34 2 0 5.88 0 0
+Emirates Classification Society TASNEEF 1 0 0 0 0 0
+Foresight Ship Classification 45 5 2 11.11 4.44 40.00
+Hellenic Classification Society 8 3 0 37.50 0 0
+Hellenic Register of Shipping 7 1 0 14.29 0 0
+Honduras International Surveying and 1 0 0 0 0 0
+Inspection Bureau
+Horizon International of Naval Surveying 1 0 0 0 0 0
+and Inspection Bureau, S.A.
+Icons Marine Services PTE Ltd 1 0 0 0 0 0
+Indian Register of Shipping 214 16 4 7.48 1.87 25.00
+Intermaritime Certification Services, S.A. 1,406 72 11 5.12 0.78 15.28
+INTERNATIONAL CLASSIFICATION 25 6 1 24.00 4.00 16.67
+BUREAU CLASS
+International Marine Survey Association 5 2 1 40.00 20.00 50.00
+International Maritime Register 20 0 0 0 0 0
+International Naval Surveys Bureau 15 1 0 6.67 0 0
+32
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+RO responsible
+RO responsible
+Percentage of
+No. of overall
+No. of overall
+percentage%
+percentage%
+detentions%
+responsible
+inspections
+detentions
+detentions
+Detention
+No. of RO
+detention
+Recognized organization (RO)
+International Register of Shipping 365 57 9 15.62 2.47 15.79
+International Ship Classification 17 0 0 0 0 0
+Intertek Maritime Bureau 2 0 0 0 0 0
+Iranian Classification Society 11 2 0 18.18 0 0
+Isthmus Bureau of Shipping 732 37 7 5.05 0.96 18.92
+Isthmus Maritime Classification Society 9 1 0 11.11 0 0
+S.A.
+JI TAI MARITIME PTE LTD 15 0 0 0 0 0
+Korea Classification Society (former Joson 16 0 0 0 0 0
+Classification Society)
+Korea Maritime Transportation Safety 2 0 0 0 0 0
+Authority
+Korea Ship Safety Technology Authority 3 0 0 0 0 0
+KOREAN REGISTER 3,198 78 3 2.44 0.09 3.85
+Libero Hellenic Register 4 0 0 0 0 0
+Limdal Marine Services 3 0 0 0 0 0
+Lloyd's Register 5,425 124 9 2.29 0.17 7.26
+Macosnar Corporation 126 4 0 3.17 0 0
+Maritime Lloyd 1 0 0 0 0 0
+Maritime Technical Systems and Services 6 0 0 0 0 0
+Mediterranean Shipping Register 4 0 0 0 0 0
+National Shipping Adjusters Inc 23 2 0 8.70 0 0
+Nautx, Ltd 1 1 0 100.00 0 0
+New United International Marine Services 141 14 2 9.93 1.42 14.29
+Ltd
+Nippon Kaiji Kyokai 11,258 311 39 2.76 0.35 12.54
+Overseas Marine Certification Services 1,183 97 18 8.20 1.52 18.56
+Panama Bureau of Shipping 7 0 0 0 0 0
+Panama Classification Bureau 51 5 0 9.80 0 0
+Panama Maritime Documentation Services 1,054 74 13 7.02 1.23 17.57
+Panama Shipping Registrar Inc. 52 2 0 3.85 0 0
+Phoenix Register of Shipping 69 15 3 21.74 4.35 20.00
+Polski Rejestr Statkow 121 4 1 3.31 0.83 25.00
+Qualitas Register of Shipping S.A. 21 1 0 4.76 0 0
+Registro Brasileiro de Navios de 4 0 0 0 0 0
+Aeronaves
+RINA Services S.p.A. 2,197 94 2 4.28 0.09 2.13
+ROYAL CLASSIFICATION SOCIETY 7 3 0 42.86 0 0
+Russian Maritime Register of Shipping 274 17 1 6.20 0.36 5.88
+Ship Classification Malaysia 21 0 0 0 0 0
+Shipping Register of Ukraine 5 0 0 0 0 0
+Singapore Bureau of Shipping 10 2 0 20.00 0 0
+33
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+RO responsible
+RO responsible
+Percentage of
+No. of overall
+No. of overall
+percentage%
+percentage%
+detentions%
+responsible
+inspections
+detentions
+detentions
+Detention
+No. of RO
+detention
+Recognized organization (RO)
+SingClass International Pte Ltd 24 0 0 0 0 0
+Sing-Lloyd 22 3 0 13.64 0 0
+Turkish Lloyd 15 0 0 0 0 0
+Union Bureau of Shipping 225 33 12 14.67 5.33 36.36
+United Maritime Survey 2 0 0 0 0 0
+United Registration and Classification of 4 0 0 0 0 0
+Services
+Universal Maritime Bureau 297 29 8 9.76 2.69 27.59
+Universal Register of Shipping Ltd. 6 1 0 16.67 0 0
+Universal Shipping Bureau 7 0 0 0 0 0
+Vega Register Inc. 8 0 0 0 0 0
+Veritas Register of Shipping 6 0 0 0 0 0
+Vietnam Register 789 28 4 3.55 0.51 14.29
+Other 177 46 12 25.99 6.78 26.09
+Note: The number of overall inspections and overall detentions is calculated corresponding to each
+recognized organization (RO) that issued statutory certificate(s) for a ship. In case that ship’s
+certificates were issued by more than one ROs, the inspection and detention would be counted to
+each of them.
+34
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 7: DEFICIENCIES BY CATEGORIES
+Nature of deficiencies No. of deficiencies
+Crew Certificates 978
+Certificate & Documentation Documents 3,472
+Ship Certificates 1,617
+Structural Conditions 3,263
+Water/Weathertight conditions 6,651
+Emergency Systems 5,950
+Radio Communications 1,577
+Cargo operations including equipment 897
+Fire safety 18,020
+Alarms 1,243
+Safety of Navigation 8,936
+Life saving appliances 11,818
+Dangerous goods 284
+Propulsion and auxiliary machinery 5,787
+Industrial Personnel 2
+Living Conditions 343
+Working and Living Conditions
+Working Conditions 1,336
+Minimum requirements for 28
+seafarers
+Conditions of employment 348
+Accommodation, 1,920
+Labour Conditions
+recreational facilities, food
+and catering
+Health protection, medical 5,133
+care, social security
+Anti Fouling 14
+Ballast Water 3,252
+MARPOL Annex I 1,860
+MARPOL Annex II 26
+Pollution prevention
+MARPOL Annex III 17
+MARPOL Annex IV 1,211
+MARPOL Annex V 1,131
+MARPOL Annex VI 1,251
+ISM 1,334
+Other 469
+Total 90,168
+ISPS 1,061
+Grand total 91,229
+35
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+SUMMARY OF PORT STATE INSPECTION DATA 2023 – 2025
+Table 8: FLAG PERFORMANCE LISTS *
+Inspections Detentions Low to Medium to Excess
+Flag
+2023-2025 2023-2025 Medium Limit High Limit Factor
+LOW PERFORMANACE LIST
+Gambia 56 19 8 6.57
+Saint Kitts and Nevis 111 29 13 5.16
+Cameroon 218 52 22 5.08
+Togo 471 99 43 4.67
+Tanzania 279 57 27 4.20
+Sao Tome and Principe 225 41 23 3.39
+Palau 395 66 36 3.25
+Iran 55 12 7 3.12
+Cook Islands 112 20 13 2.77
+Sierra Leone 1,197 163 99 2.68
+Comoros 172 25 18 2.14
+Mongolia 290 39 28 2.11
+Sint Maarten (see footnote in page 29) 39 7 6 1.70
+Djibouti 41 7 6 1.55
+Belize 2,666 253 209 1.53
+MEDIUM PERFORMANCE LIST
+Vanuatu 111 12 13 3 0.93
+Gabon 99 10 12 2 0.83
+Saint Vincent and the Grenadines 58 6 8 0 0.76
+Croatia 34 3 5 0 0.61
+Bangladesh 388 29 36 18 0.60
+Barbados 240 17 24 10 0.51
+Türkiye 45 3 6 0 0.48
+Switzerland 48 3 7 0 0.45
+India 215 14 22 8 0.42
+Guinea-Bissau 66 4 9 1 0.42
+Niue 53 3 7 0 0.40
+Netherlands 298 19 29 13 0.38
+Sweden 43 2 6 0 0.34
+Gibraltar (UK) 38 1 6 0 0.23
+Luxembourg 49 1 7 0 0.15
+Italy 127 5 14 4 0.13
+Jamaica 91 3 11 2 0.13
+Russian Federation 471 24 43 23 0.03
+Belgium 109 3 13 3 0.03
+36
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Inspections Detentions Low to Medium to Excess
+Flag
+2023-2025 2023-2025 Medium Limit High Limit Factor
+HIGH PERFORMANCE LIST
+Kuwait 30 0 0 0
+Antigua and Barbuda 718 38 39 -0.03
+United States of America 179 6 6 -0.10
+Tuvalu 237 9 10 -0.11
+United Kingdom (UK) 383 14 18 -0.43
+France 164 4 6 -0.44
+Indonesia 732 27 39 -0.64
+Cyprus 1,385 56 81 -0.65
+Panama 26,416 1,198 1,780 -0.75
+Viet Nam 2,470 96 152 -0.80
+Bermuda (UK) 112 1 3 -0.81
+Thailand 707 21 38 -0.90
+Portugal 1,161 37 66 -0.94
+Germany 162 2 5 -0.97
+Saudi Arabia 87 0 2 -0.98
+Cayman Islands (UK) 134 1 4 -1.06
+Liberia 13,683 476 908 -1.08
+Japan 625 15 33 -1.10
+Greece 635 15 33 -1.12
+Denmark 648 15 34 -1.14
+Malta 2,824 84 175 -1.15
+Philippines 446 9 22 -1.15
+Malaysia 563 12 29 -1.18
+Bahamas 2,029 53 123 -1.24
+Marshall Islands 9,862 262 648 -1.36
+Norway 839 15 46 -1.42
+Isle of Man (UK) 433 6 21 -1.42
+Taiwan, China 273 1 12 -1.74
+Korea, Republic of 3,069 41 191 -1.76
+Singapore 6,863 57 445 -1.99
+Hong Kong, China 8,006 57 522 -2.12
+China 3,188 13 199 -2.41
+Note: 1) Flags listed above are those of ships which were involved in 30 or more port State
+inspections over the 3-year period.
+2) According to the decision by the Port State Control Committee, flags involving 30-49
+port State inspections with nil detentions are listed on top of the High Performance List.
+* See explanatory note on page 58.
+p=7%
+z95%=1.645
+q=3%
+37
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 9: INSPECTIONS AND DETENTIONS PER FLAG
+Number of inspections Number of detentions 3-year
+rolling
+Flag
+average
+2023 2024 2025 Total 2023 2024 2025 Total
+detention
+%
+Angola 0 0 2 2 0 0 1 1 50.00
+Antigua and Barbuda 234 228 256 718 16 10 12 38 5.29
+Argentina 0 1 0 1 0 0 0 0 0
+Aruba (see footnote in page 27) 0 0 6 6 0 0 1 1 16.67
+Australia 7 7 2 16 3 0 1 4 25.00
+Bahamas 639 647 743 2,029 10 26 17 53 2.61
+Bahrain 0 0 1 1 0 0 0 0 0
+Bangladesh 105 147 136 388 7 17 5 29 7.47
+Barbados 45 83 112 240 4 5 8 17 7.08
+Belgium 37 34 38 109 1 2 0 3 2.75
+Belize 936 1,015 715 2,666 114 89 50 253 9.49
+Benin 0 0 4 4 0 0 3 3 75.00
+Bermuda (UK) 32 36 44 112 1 0 0 1 0.89
+Bolivia 1 0 2 3 0 0 1 1 33.33
+Brazil 7 3 2 12 0 0 1 1 8.33
+Brunei Darussalam 0 3 6 9 0 1 0 1 11.11
+Bulgaria 0 1 0 1 0 0 0 0 0
+Cameroon 57 73 88 218 16 21 15 52 23.85
+Canada 1 0 0 1 0 0 0 0 0
+Cayman Islands (UK) 59 39 36 134 1 0 0 1 0.75
+Chile 8 4 3 15 0 0 0 0 0
+China 949 1,087 1,152 3,188 4 4 5 13 0.41
+Comoros 27 55 90 172 2 9 14 25 14.53
+Cook Islands 38 53 21 112 9 11 0 20 17.86
+Croatia 6 10 18 34 1 0 2 3 8.82
+Curacao 5 2 5 12 0 0 0 0 0
+Cyprus 415 449 521 1,385 14 18 24 56 4.04
+Denmark 205 220 223 648 5 7 3 15 2.31
+Djibouti 13 11 17 41 2 2 3 7 17.07
+Dominica 11 6 2 19 4 0 0 4 21.05
+Ecuador 15 5 7 27 5 0 0 5 18.52
+Egypt 12 4 7 23 3 0 2 5 21.74
+Equatorial Guinea 1 0 0 1 0 0 0 0 0
+38
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Number of inspections Number of detentions 3-year
+rolling
+Flag
+average
+2023 2024 2025 Total 2023 2024 2025 Total
+detention
+%
+Eswatini(4) 0 6 0 6 0 2 0 2 33.33
+Ethiopia 4 4 7 15 0 0 0 0 0
+Falkland Islands (UK) (Malvinas) 2 2 2 6 0 0 0 0 0
+Faroe Islands (Denmark) 1 2 0 3 0 0 0 0 0
+Fiji 0 2 5 7 0 1 1 2 28.57
+France 35 50 79 164 1 0 3 4 2.44
+Gabon 19 50 30 99 4 3 3 10 10.10
+Gambia 0 3 53 56 0 2 17 19 33.93
+Germany 63 53 46 162 2 0 0 2 1.23
+Gibraltar (UK) 15 13 10 38 0 1 0 1 2.63
+Greece 221 191 223 635 8 3 4 15 2.36
+Guinea 2 2 9 13 0 2 4 6 46.15
+Guinea-Bissau 15 20 31 66 1 1 2 4 6.06
+Guyana 2 12 13 27 1 4 6 11 40.74
+Honduras 0 2 2 4 0 2 1 3 75.00
+Hong Kong, China 2,704 2,575 2,727 8,006 21 15 21 57 0.71
+India 66 69 80 215 7 1 6 14 6.51
+Indonesia 255 234 243 732 13 9 5 27 3.69
+Iran 17 18 20 55 4 6 2 12 21.82
+Ireland 2 0 0 2 0 0 0 0 0
+Isle of Man (UK) 132 130 171 433 2 2 2 6 1.39
+Israel 1 0 0 1 0 0 0 0 0
+Italy 46 47 34 127 2 2 1 5 3.94
+Jamaica 24 32 35 91 1 2 0 3 3.30
+Japan 187 179 259 625 2 3 10 15 2.40
+Jordan 1 2 0 3 1 0 0 1 33.33
+Kiribati 8 9 6 23 0 1 0 1 4.35
+Korea, Democratic People's Republic 4 0 0 4 1 0 0 1 25.00
+Korea, Republic of 964 999 1,106 3,069 16 15 10 41 1.34
+Kuwait 15 8 7 30 0 0 0 0 0
+Latvia 1 2 4 7 0 1 0 1 14.29
+Liberia 4,180 4,436 5,067 13,683 179 163 134 476 3.48
+Libya 2 2 1 5 0 0 0 0 0
+Lithuania 0 3 4 7 0 1 1 2 28.57
+Luxembourg 17 20 12 49 1 0 0 1 2.04
+(4)
+Based on a letter from the Maritime Organization for Eastern, Southern and Northern Africa (MOESNA), ships under the flag of
+Eswatini should be considered fraudulently registered and, therefore, inspections and detentions for Eswatini are considered lost
+relevance for flag performance.
+39
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Number of inspections Number of detentions 3-year
+rolling
+Flag
+average
+2023 2024 2025 Total 2023 2024 2025 Total
+detention
+%
+Malawi (see footnote in 28) 0 0 5 5 0 0 0 0 0
+Malaysia 199 191 173 563 2 6 4 12 2.13
+Malta 866 906 1,052 2,824 31 28 25 84 2.97
+Marshall Islands 3,155 3,223 3,484 9,862 100 78 84 262 2.66
+Mexico 0 0 3 3 0 0 1 1 33.33
+Micronesia, Federated States of 1 0 0 1 0 0 0 0 0
+Mongolia 122 95 73 290 20 13 6 39 13.45
+Montenegro 3 3 4 10 1 0 0 1 10.00
+Mozambique 0 0 7 7 0 0 2 2 28.57
+Myanmar 3 2 0 5 0 1 0 1 20.00
+Nauru 4 0 3 7 2 0 0 2 28.57
+Netherlands 98 108 92 298 8 5 6 19 6.38
+New Zealand 4 4 4 12 0 0 0 0 0
+Niue 6 15 32 53 0 2 1 3 5.66
+Norway 300 259 280 839 8 4 3 15 1.79
+Oman 1 1 4 6 0 0 0 0 0
+Pakistan 8 7 12 27 0 0 3 3 11.11
+Palau 105 107 183 395 20 17 29 66 16.71
+Panama 8,053 8,539 9,824 26,416 404 348 446 1,198 4.54
+Papua New Guinea 2 1 3 6 1 0 2 3 50.00
+Peru 0 2 1 3 0 1 0 1 33.33
+Philippines 142 147 157 446 5 0 4 9 2.02
+Poland 2 1 3 6 0 0 0 0 0
+Portugal 324 353 484 1,161 6 11 20 37 3.19
+Qatar 6 4 11 21 0 0 1 1 4.76
+Russian Federation 151 152 168 471 10 4 10 24 5.10
+Saint Kitts and Nevis 24 35 52 111 7 10 12 29 26.13
+Saint Vincent and the Grenadines 21 15 22 58 3 1 2 6 10.34
+San Marino 1 7 17 25 0 0 2 2 8.00
+Sao Tome and Principe 17 68 140 225 4 8 29 41 18.22
+Saudi Arabia 36 25 26 87 0 0 0 0 0
+Seychelles 0 1 1 2 0 0 0 0 0
+Sierra Leone 424 392 381 1,197 69 54 40 163 13.62
+Singapore 2,143 2,185 2,535 6,863 17 21 19 57 0.83
+Sint Maarten (see footnote in page 29) 0 7 32 39 0 3 4 7 17.95
+South Africa 2 4 3 9 1 0 0 1 11.11
+40
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Number of inspections Number of detentions 3-year
+rolling
+Flag
+average
+2023 2024 2025 Total 2023 2024 2025 Total
+detention
+%
+Spain 4 7 6 17 0 0 0 0 0.00
+Sri Lanka 5 12 2 19 2 0 1 3 15.79
+Sweden 15 13 15 43 2 0 0 2 4.65
+Switzerland 17 9 22 48 3 0 0 3 6.25
+Taiwan, China 106 86 81 273 1 0 0 1 0.37
+Tanzania 38 94 147 279 11 22 24 57 20.43
+Thailand 244 230 233 707 11 6 4 21 2.97
+Togo 190 157 124 471 40 33 26 99 21.02
+Tonga 0 0 3 3 0 0 0 0 0
+Türkiye 15 12 18 45 0 0 3 3 6.67
+Tuvalu 81 77 79 237 4 3 2 9 3.80
+Ukraine 7 6 5 18 0 0 0 0 0
+United Arab Emirates (UAE) 0 0 2 2 0 0 0 0 0
+United Kingdom (UK) 127 125 131 383 3 6 5 14 3.66
+United States of America 59 61 59 179 4 1 1 6 3.35
+Uruguay 0 1 0 1 0 1 0 1 100.00
+Vanuatu 36 41 34 111 4 5 3 12 10.81
+Venezuela 0 1 5 6 0 1 2 3 50.00
+Viet Nam 848 860 762 2,470 39 30 27 96 3.89
+Ship's registration withdrawn 2 1 1 4 2 1 1 4 100.00
+Total 30,887 32,054 35,546 98,487 1,334 1,189 1,255 3,778 3.84
+41
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 15: COMPARISON OF INSPECTIONS PER SHIP TYPE
+4,512 2025
+Oil tanker/combination carrier 3,957
+4,099 2024
+1,019
+Gas carrier 822 2023
+733
+390
+Chemical tanker 444
+375
+14,677
+Bulk carrier 13,144
+12,130
+7,819
+Ro-ro/container/vehicle ship 6,700
+6,417
+5,350
+General dry cargo ship 5,152
+5,297
+423
+Refrigerated cargo carrier 416
+410
+387
+Passenger ship 385
+334
+969
+Other types 1,034
+1,092
+Figure 16: COMPARISON OF DETENTIONS PER SHIP TYPE
+8.00 2023
+7.23
+2024
+6.68
+2025
+6.41
+7.00
+6.28
+5.11
+6.02
+3-year average
+6.02
+5.98
+5.87
+Average detention percentage
+6.00
+4.22
+4.81
+5.00
+4.02
+4.26
+4.17
+4.21
+4.16
+4.02
+4.05
+2.82
+3.84
+3.84
+3.84
+3.84
+3.84
+3.85
+3.84
+3.84
+3.84
+3.84
+3.52
+3.73
+3.36
+3.59
+3.66
+3.35
+4.00
+2.29 2.58
+3.19
+2.98
+3.09
+2.43
+3.00
+0.81
+2.00
+1.04
+1.03
+1.00
+0.30
+0.00
+Oil tankship Gas carrier Chemical Bulk carrier Ro-ro-cargo General dry Refrigerated Passenger Others
+tankship ship cargo ship cargo carrier ship
+42
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 10: INSPECTIONS AND DETENTIONS PER SHIP TYPE
+Number of inspections Number of detentions Average
+Type of ship detention
+2023 2024 2025 Total 2023 2024 2025 Total percentage
+%
+NLS tanker 39 22 23 84 0 1 0 1 1.19
+Combination carrier 17 18 23 58 0 1 0 1 1.72
+Oil tanker 4,043 3,917 4,466 12,426 153 116 151 420 3.38
+Gas carrier 733 822 1019 2,574 49 42 64 155 6.02
+Chemical tanker 375 444 390 1,209 22 18 11 51 4.22
+Bulk carrier 12,130 13,144 14,677 39,951 467 472 468 1,407 3.52
+Vehicle carrier 714 674 798 2,186 12 15 12 39 1.78
+Container ship 5,615 5,889 6,881 18,385 174 139 158 471 2.56
+Ro-Ro cargo ship 88 137 140 365 12 9 9 30 8.22
+General cargo/multi-purpose ship 5,297 5,152 5,350 15,799 383 308 322 1,013 6.41
+Refrigerated cargo carrier 410 416 423 1,249 15 20 17 52 4.16
+Woodchip carrier 267 278 254 799 6 8 1 15 1.88
+Livestock carrier 43 37 30 110 1 0 1 2 1.82
+Ro-Ro Passenger ship 62 63 61 186 1 0 3 4 2.15
+Passenger ship 272 322 326 920 0 4 1 5 0.54
+Factory ship 5 9 12 26 0 2 0 2 7.69
+Heavy load carrier 62 66 54 182 2 0 1 3 1.65
+Offshore service vessel 135 109 122 366 8 5 3 16 4.37
+MODU & FPSO 6 3 5 14 1 0 0 1 7.14
+High speed passenger craft 26 21 22 69 0 0 0 0 0.00
+Special purpose ship 54 55 52 161 2 1 1 4 2.48
+Tugboat 187 177 153 517 6 8 11 25 4.84
+Others 307 279 265 851 20 20 21 61 7.17
+Total 30,887 32,054 35,546 98,487 1,334 1,189 1,255 3,778 3.84
+43
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 17: COMPARISON OF INSPECTIONS WITH DEFICIENCIES PER SHIP TYPE
+-11.65 Oil tanker/combination carrier
+-3.45 Gas carrier
+0.98 Chemical tanker
+-1.05 Bulk carrier
+-4.12 Ro-ro/container/vehicle ship
+General dry cargo ship 15.50
+Refrigerated cargo carrier 10.33
+Passenger ship -1.90
+Others 3.12
+Average
+-18 -12 -6 0 6 12 18
+(a) Year 2023
+-10.21 Oil tanker/combination carrier
+1.58 Gas carrier
+0.32 Chemical tanker
+-2.13 Bulk carrier
+-4.17 Ro-ro/container/vehicle ship
+General dry cargo ship 16.96
+Refrigerated cargo carrier 13.91
+Passenger ship -6.97
+Others 4.25
+Average
+-24 -18 -12 -6 0 6 12 18 24
+(b) Year 2024
+-6.68 Oil tanker/combination carrier
+3.34 Gas carrier
+-5.35 Chemical tanker
+-2.69 Bulk carrier
+-2.86 Ro-ro/container/vehicle ship
+General dry cargo ship 15.75
+Refrigerated cargo carrier 15.97
+Passenger ship -3.59
+Others 1.21
+Average
+-18 -12 -6 0 6 12 18
+(c) Year 2025
+-9.44 Oil tanker/combination carrier
+0.99 Gas carrier
+-1.42 Chemical tanker
+-1.98 Bulk carrier
+-3.62 Ro-ro/container/vehicle ship
+General dry cargo ship 15.96
+Refrigerated cargo carrier 13.34
+Passenger ship -4.28
+Others 2.69
+Average
+-18 -12 -6 0 6 12 18
+(d) 3-year summary
+* % over [+] or under [-] average
+44
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 11: INSPECTIONS WITH DEFICIENCIES PER SHIP TYPE
+Number of inspections 3-year
+Number of inspections
+with deficiencies average
+Type of ship percentage
+2023 2024 2025 Total 2023 2024 2025 Total %
+Oil tanker/combination carrier 4,099 3,957 4,512 12,568 2,018 2,061 2,647 6,726 53.52
+Gas carrier 733 822 1,019 2,574 421 525 700 1,646 63.95
+Chemical tanker 375 444 390 1,209 232 278 234 744 61.54
+Bulk carrier 12,130 13,144 14,677 39,951 7,258 7,908 9,196 24,362 60.98
+Ro-ro/container/vehicle ship 6,417 6,700 7,819 20,936 3,643 3,894 4,886 12,423 59.34
+General dry cargo ship 5,297 5,152 5,350 15,799 4,046 4,083 4,339 12,468 78.92
+Refrigerated cargo carrier 410 416 423 1,249 292 317 344 953 76.30
+Passenger ship 334 385 387 1,106 197 213 239 649 58.68
+Other types 1,092 1,034 969 3,095 699 688 645 2,032 65.65
+Total 30,887 32,054 35,546 98,487 18,806 19,967 23,230 62,003 62.96
+45
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 12: INSPECTIONS AND DETENTIONS PER RECOGNIZED ORGANIZATION
+RO responsible
+RO responsible
+3-year average
+3-year average
+3-year average
+percentage of
+No. of overall
+No. of overall
+percentage%
+percentage%
+detentions%
+responsible
+inspections
+detentions
+detentions
+2023-2025
+2023-2025
+2023-2025
+No. of RO
+detention
+detention
+Recognized organization (RO)
+Aegean Register of Shipping 1 0 0 0 0 0
+Alfa Register of Shipping 16 6 0 37.50 0 0
+Alpha Ship Classification 93 4 0 4.30 0 0
+American Bureau of Shipping 13,009 299 10 2.30 0.08 3.34
+Asia Classification Society 33 8 0 24.24 0 0
+Asia Shipping Certification Services 240 43 9 17.92 3.75 20.93
+Biro Klasifikasi Indonesia 552 24 5 4.35 0.91 20.83
+Bolivian Register of Shipping 1 1 0 100.00 0 0
+Bulgarski Koraben Registar 7 2 0 28.57 0 0
+Bureau Veritas 13,511 541 29 4.00 0.21 5.36
+Capital Register of Shipping 10 2 0 20.00 0 0
+CENTER MARINE CERTIFICATION SERVICE 2 0 0 0 0 0
+China Classification Society 9,686 106 3 1.09 0.03 2.83
+Columbus American Register 4 2 0 50.00 0 0
+Cosmos Marine Bureau 431 84 22 19.49 5.10 26.19
+CR Classification Society 421 3 0 0.71 0.00 0.00
+Croatian Register of Shipping 112 10 0 8.93 0 0
+Cyprus Bureau of Shipping 13 0 0 0 0 0
+DAKAR CLASS 16 2 0 12.50 0 0
+Danforth Marinesurvey & Certification Services 1 0 0 0 0 0
+DNV AS 22,513 592 29 2.63 0.13 4.90
+Dromon Bureau of Shipping 270 33 4 12.22 1.48 12.12
+Dutch Lloyd 1 1 0 100.00 0 0
+Eagle Classification of Shipping 2 0 0 0 0 0
+Eastern Marine Service Co., Ltd 34 2 0 5.88 0 0
+Emirates Classification Society TASNEEF 1 0 0 0 0 0
+Foresight Ship Classification 180 20 5 11.11 2.78 25.00
+Hellas Naval Bureau of Shipping S.M.P.C 10 0 0 0 0 0
+Hellenic Classification Society 8 3 0 37.50 0 0
+Hellenic Register of Shipping 18 2 0 11.11 0 0
+Honduras International Surveying and Inspection 1 0 0 0 0 0
+Bureau
+Horizon International of Naval Surveying and 1 0 0 0 0 0
+Inspection Bureau, S.A.
+Icons Marine Services PTE Ltd 4 0 0 0 0 0
+Indian Register of Shipping 594 55 5 9.26 0.84 9.09
+Intermaritime Certification Services, S.A. 3,660 245 37 6.69 1.01 15.10
+INTERNATIONAL CLASSIFICATION BUREAU 79 14 2 17.72 2.53 14.29
+CLASS
+International Marine Survey Association 13 6 3 46.15 23.08 50.00
+International Maritime Register 59 3 0 5.08 0 0
+International Naval Surveys Bureau 49 7 0 14.29 0 0
+International Register of Shipping 760 122 19 16.05 2.50 15.57
+International Ship Classification 60 6 3 10.00 5.00 50.00
+Intertek Maritime Bureau 7 0 0 0 0 0
+Iranian Classification Society 53 9 1 16.98 1.89 11.11
+Isthmus Bureau of Shipping 1,984 124 14 6.25 0.71 11.29
+Isthmus Maritime Classification Society S.A. 20 1 0 5.00 0 0
+46
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+RO responsible
+RO responsible
+3-year average
+3-year average
+3-year average
+percentage of
+No. of overall
+No. of overall
+percentage%
+percentage%
+detentions%
+responsible
+inspections
+detentions
+detentions
+2023-2025
+2023-2025
+2023-2025
+No. of RO
+detention
+detention
+Recognized organization (RO)
+JI TAI MARITIME PTE LTD 15 0 0 0 0 0
+Korea Classification Society (former Joson 59 2 1 3.39 1.69 50.00
+Classification Society)
+Korea Maritime Transportation Safety Authority 17 0 0 0 0 0
+Korea Ship Safety Technology Authority 12 0 0 0 0 0
+KOREAN REGISTER 8,836 240 8 2.72 0.09 3.33
+Libero Hellenic Register 4 0 0 0 0 0
+Limdal Marine Services 5 0 0 0 0 0
+Lloyd's Register 15,291 464 26 3.03 0.17 5.60
+M&P Surveyors, S. de R.L. de C.V. 2 0 0 0 0 0
+Macosnar Corporation 240 14 1 5.83 0.42 7.14
+Maritime Bureau of Shipping 12 5 2 41.67 16.67 40.00
+Maritime Lloyd 6 1 0 16.67 0 0
+Maritime Technical Systems and Services 24 1 0 4.17 0 0
+Mediterranean Shipping Register 23 0 0 0 0 0
+National Shipping Adjusters Inc 54 7 0 12.96 0 0
+Nautx, Ltd 5 1 0 20.00 0 0
+New United International Marine Services Ltd 223 24 3 10.76 1.35 12.50
+Nippon Kaiji Kyokai 31,877 914 76 2.87 0.24 8.32
+Novel Classification Society S.A. 7 3 0 42.86 0 0
+Overseas Marine Certification Services 2,876 246 38 8.55 1.32 15.45
+Panama Bureau of Shipping 16 0 0 0 0 0
+Panama Classification Bureau 84 9 0 10.71 0 0
+Panama Maritime Documentation Services 2,522 179 30 7.10 1.19 16.76
+Panama Shipping Registrar Inc. 151 9 0 5.96 0.00 0.00
+Phoenix Register of Shipping 152 33 5 21.71 3.29 15.15
+Polski Rejestr Statkow 264 16 5 6.06 1.89 31.25
+Qualitas Register of Shipping S.A. 54 5 0 9.26 0 0
+R.J. Del Pan 1 0 0 0 0 0
+Registro Brasileiro de Navios de Aeronaves 5 0 0 0 0 0
+RINA Services S.p.A. 5,876 286 14 4.87 0.24 4.90
+RINAVE Portuguesa 7 0 0 0 0 0
+Royal Bureau of Shipping 1 0 0 0 0 0
+ROYAL CLASSIFICATION SOCIETY 7 3 0 42.86 0 0
+RS Classification Services MON IKE 2 2 0 100.00 0 0
+Russian Maritime Register of Shipping 689 43 3 6.24 0.44 6.98
+Russian River Register 2 0 0 0 0 0
+Ship Classification Malaysia 56 0 0 0 0 0
+Shipping Register of Ukraine 19 0 0 0 0 0
+Singapore Bureau of Shipping 10 2 0 20.00 0 0
+SingClass International Pte Ltd 40 1 0 2.50 0 0
+Sing-Lloyd 60 5 2 8.33 3.33 40.00
+Togo Bureau Shipping 1 0 0 0 0 0
+Turkish Lloyd 18 0 0 0 0 0
+Union Bureau of Shipping 651 108 27 16.59 4.15 25.00
+United Maritime Survey 4 0 0 0 0 0
+United Registration and Classification of Services 11 2 0 18.18 0 0
+Universal Maritime Bureau 851 103 24 12.10 2.82 23.30
+Universal Register of Shipping Ltd. 8 1 0 12.50 0 0
+Universal Shipping Bureau 10 0 0 0 0 0
+Vega Register Inc. 14 1 1 7.14 7.14 100.00
+47
+Other
+Vietnam Register
+Veritas Register of Shipping
+See also the note in page 34.
+Recognized organization (RO)
+No. of overall
+inspections
+11
+2,538
+514
+2023-2025
+48
+No. of overall
+detentions
+119
+0
+101
+2023-2025
+No. of RO
+responsible
+detentions
+0
+25
+14
+2023-2025
+3-year average
+detention
+0
+23.15
+3.98
+percentage%
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+3-year average
+RO responsible
+detention
+0
+4.86
+0.55
+percentage%
+3-year average
+percentage of
+RO responsible
+0
+21.01
+13.86
+detentions%
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 13: PERFORMANCE OF RECOGNIZED ORGANIZATION
+No. of overall
+Medium/high
+Low/medium
+Performance
+responsible
+inspections
+detentions
+2023-2025
+2023-2025
+No. of RO
+Excess
+factor
+Limit
+Limit
+level
+Recognized organization (RO)
+Cosmos Marine Bureau 431 22 14 3 2.53
+Union Bureau of Shipping 651 27 19 7 1.98 Low
+Asia Shipping Certification Services 240 9 9 1 1.04
+Universal Maritime Bureau 851 24 24 10 0.98
+International Ship Classification 60 3 3 0 0.89
+Phoenix Register of Shipping 152 5 6 0 0.79
+International Register of Shipping 760 19 22 8 0.78
+Foresight Ship Classification 180 5 7 0 0.69
+Sing-Lloyd 60 2 3 0 0.68
+Medium
+INTERNATIONAL CLASSIFICATION
+79 2 4 0 0.58
+BUREAU CLASS
+Polski Rejestr Statkow 264 5 10 1 0.47
+Dromon Bureau of Shipping 270 4 10 1 0.34
+New United International Marine Services
+223 3 8 1 0.31
+Ltd
+Macosnar Corporation 240 1 9 1 0.03
+Biro Klasifikasi Indonesia 552 5 17 5 -0.03
+Indian Register of Shipping 594 5 18 6 -0.18
+Overseas Marine Certification Services 2,876 38 70 45 -0.26
+Panama Maritime Documentation Services 2,522 30 63 38 -0.38
+Intermaritime Certification Services, S.A. 3,660 37 88 59 -0.67
+Russian Maritime Register of Shipping 689 3 20 7 -0.82
+Isthmus Bureau of Shipping 1,984 14 50 29 -0.88
+Vietnam Register 2,538 14 63 39 -1.15 High
+CR Classification Society 421 0 14 3 -1.41
+RINA Services S.p.A. 5,876 14 136 99 -1.69
+Nippon Kaiji Kyokai 31,877 76 679 596 -1.74
+Bureau Veritas 13,511 29 297 243 -1.75
+Lloyd's Register 15,291 26 335 277 -1.80
+DNV AS 22,513 29 485 415 -1.85
+KOREAN REGISTER 8,836 8 199 155 -1.88
+49
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+No. of overall
+Medium/high
+Low/medium
+Performance
+responsible
+inspections
+detentions
+2023-2025
+2023-2025
+No. of RO
+Excess
+factor
+Limit
+Limit
+level
+Recognized organization (RO)
+American Bureau of Shipping 13,009 10 287 233 -1.91
+China Classification Society 9,686 3 217 171 -1.96
+Note: 1) In this table, only recognized organizations (RO) that had more than 60 inspections are
+taken into account. The formula used is identical to the one used for the Flag
+Performance Lists. However, the values for P and Q are adjusted to P=2% and Q=1%.
+2) ROs involving 60-179 inspections with zero detention are not included in this table.
+50
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 18: COMPARISON OF NUMBER OF DEFICIENCIES BY MAIN CATEGORIES
+10,193 2023
+10,263
+Lifesaving appliances 2024
+11,818
+15,562 2025
+15,406
+Fire safety measures
+18,020
+2,379
+2,315
+Stability, structure and related equipment
+3,263
+5,729
+Load lines 6,106
+6,651
+8,803
+Safety of navigation 8,066
+8,936
+7,246
+Working and Living conditions 8,193
+9,108
+6,050
+5,849
+Pollution prevention
+8,762
+1,314
+ISM related deficiencies 1,240
+1,334
+18,591
+20,088
+Others
+22,276
+51
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 14: COMPARISON OF DEFICIENCIES BY CATEGORIES
+Number of deficiencies
+Nature of deficiency
+2023 2024 2025
+Crew Certificates 920 1,304 978
+Certificate & Documentation Documents 3,219 3,426 3,472
+Ship Certificates 1,398 1,723 1,617
+Structural Conditions 2,379 2,315 3,263
+Water/Weathertight conditions 5,729 6,106 6,651
+Emergency Systems 5,102 5,040 5,950
+Radio Communications 1,353 1,244 1,577
+Cargo operations including 641 699 897
+equipment
+Fire safety 15,562 15,406 18,020
+Alarms 841 930 1,243
+Safety of Navigation 8,803 8,066 8,936
+Life saving appliances 10,193 10,263 11,818
+Dangerous goods 218 319 284
+Propulsion and auxiliary 4,449 5,008 5,787
+machinery
+Industrial Personnel - 1 2
+Living Conditions 428 418 343
+Working and Living Conditions
+Working Conditions 1,676 1,575 1,336
+Minimum requirements for
+28 29 28
+seafarers
+Conditions of employment 304 535 348
+Labour Conditions Accommodation,
+recreational facilities, food 1,400 1,792 1,920
+and catering
+Health protection, medical
+3,410 3,844 5,133
+care, social security
+Anti Fouling 13 7 14
+Ballast Water 1,190 1,004 3,252
+MARPOL Annex I 1,649 1,644 1,860
+MARPOL Annex II 24 17 26
+Pollution prevention
+MARPOL Annex III 12 10 17
+MARPOL Annex IV 1,198 1,090 1,211
+MARPOL Annex V 1,176 1,098 1,131
+MARPOL Annex VI 788 979 1,251
+ISM 1,314 1,240 1,334
+Other 450 394 469
+Total 75,867 77,526 90,168
+ISPS 1,066 990 1,061
+Grand total 76,933 78,516 91,229
+52
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Figure 19: COMPARISON OF MOST FREQUENT DETAINABLE DEFICIENCIES
+215
+Fixed fire extinguishing installation (Fire safety) 172
+154
+200
+ISM (ISM) 172
+236
+152
+Lifeboats (Life saving appliances) 136
+166
+138
+Ventilators, air pipes, casings (Water/Weathertight
+173 2025
+conditions)
+179
+2024
+118
+2023
+Fire pumps and its pipes (Fire safety) 110
+108
+114
+Fire detection and alarm system (Fire safety) 74
+108
+109
+Remote Means of control (opening, pumps,
+87
+ventilation, etc.) Machinery spaces (Fire safety)
+108
+106
+Fire-dampers (Fire safety) 93
+126
+104
+Maintenance of the ship and equipment (ISM) 134
+177
+92
+Oil filtering equipment (Pollution prevention -
+98
+MARPOL Annex I)
+104
+53
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 15: COMPARISON OF MOST FREQUENT DETAINABLE DEFICIENCIES
+Year
+No. Most frequent deficiencies
+2023 2024 2025
+1 Fixed fire extinguishing installation (Fire safety) 154 172 215
+2 ISM (ISM) 236 172 200
+3 Lifeboats (Life saving appliances) 166 136 152
+4 Ventilators, air pipes, casings (Water/Weathertight conditions) 179 173 138
+5 Fire pumps and its pipes (Fire safety) 108 110 118
+6 Fire detection and alarm system (Fire safety) 108 74 114
+7 Remote Means of control (opening, pumps, ventilation, etc.) Machinery spaces
+108 87 109
+(Fire safety)
+8 Fire-dampers (Fire safety) 126 93 106
+9 Maintenance of the ship and equipment (ISM) 177 134 104
+10 Oil filtering equipment (Pollution prevention - MARPOL Annex I) 104 98 92
+54
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+Table 16: LIST OF UNDER-PERFORMING SHIPS
+IMO No. Ship name Flag IMO No. of times
+(At the day of detention) company No. on the list
+1019046 HOPE STAR Cameroon 6226626 5
+10998141 FU RUN DA 1 Sierra Leone 0114185 4
+10998141 MARIA Sierra Leone 0114185 4
+8356924 RUI YANG 7 Belize 6308712 2
+85942532 HONG SHUN 27 Gambia 6356528 8
+85942532 HONG SHUN 27 Togo 6356528 8
+86129883 OCEAN PRIDE I Panama 6425454 9
+86129883 OCEAN PRIDE I Gambia 5547163 9
+86518552 NEW SILK ROAD 1 Sao Tome and 5645691 6
+Principe
+86518552 NEW SILK ROAD 1 Belize 5645691 6
+86557224 XIN ZHOU HAI Panama 5678236 7
+86557224 XIN ZHOU HAI Panama 5747043 7
+87409673 JIN MING 68 Tanzania 6323921 6
+87409673 JIN MING 68 Belize 6313576 6
+87435315 BROTHER 36 Panama 0058997 4
+87435315 HENG SHUN HAI Panama 5747043 4
+88182075 MYRA GAS Panama 0136873 4
+88182075 LENA GAS Panama 6283620 4
+89125584 TULIP Cameroon 0218117 3
+89125584 TULIP Cameroon 6343371 3
+90008834 SEA OPERA Cameroon 6341653 12
+90008834 SEA OPERA Cameroon 0218121 12
+90024912 PYRA Guyana 0006027 6
+90024912 PYRA Mozambique 0006027 6
+90523314 XAVIA Guinea 0172156 7
+90523314 XAVIA Guinea 5247041 7
+9074822 ASIAN ENTERPRISE Saint Kitts and Nevis 5447301 6
+91091722 CHANG PING Mongolia 5410145 3
+91091722 CHANG PING Sierra Leone 5410145 3
+9112117 QUARTZ Panama 6410338 1
+9114529 ARMU Togo 5519245 2
+91184106 PRIMROSE 6969 Belize 6359978 7
+91184106 PRIMROSE 6969 Panama 6359978 7
+91184106 HH WOODCHIP Tanzania 6359978 7
+91190627 MASAKAZU Tanzania 6372165 8
+91190627 FARRUKH Togo 0168701 8
+55
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+IMO No. Ship name Flag IMO No. of times
+(At the day of detention) company No. on the list
+91546223 JING RUN Sao Tome and 5845608 4
+Principe
+91546223 JING RUN Belize 6234949 4
+91554827 FU QIANG Sierra Leone 6153612 2
+91554827 GENG HAI Sierra Leone 6226661 2
+91554827 GENG HAI Panama 6226661 2
+91676175 EASTERN ARROW Sierra Leone 6355272 1
+91676175 BAIKAL Sierra Leone 6329894 1
+91937337 OCEAN PRIDE Palau 0094907 3
+91937337 CALYPSO 7 Panama 6392976 3
+92032534 ANITA Gambia 0251985 1
+92032534 ANITA Gambia 6348885 1
+9203382 CAPTAIN KOK Togo 6372165 3
+9209726 MM RUNNER Sierra Leone 6330031 1
+92170222 MARSA NEPTUNE Liberia 6335028 8
+92170222 MARSA NEPTUNE Saint Kitts and Nevis 6335028 8
+9221449 DORIS Cameroon 6034998 4
+92224437 VOY Sao Tome and 6428391 2
+Principe
+92224437 TRICIA II Comoros 0019164 2
+9230311 SUEZ CANAL Liberia 0022438 4
+92375032 FESCO SOFIA Liberia 6370416 7
+92375032 FESCO SOFIA Sierra Leone 6370416 7
+9296444 HAI DUONG 68 Panama 5885475 2
+9314569 SHENG SHI 569 Tanzania 6074711 8
+93527672 U BOOTES Togo 6102281 3
+93527672 U BOOTES Tanzania 6102281 3
+9353424 UNISAILING Togo 5996015 3
+93671261 GAUSS Togo 6453103 1
+93671261 MEDEA Togo 6453103 1
+9394832 JIE JI Panama 6200200 7
+9407536 KHADEEJAH JAHAN II Bangladesh 5552963 2
+9409687 TAYDO STAR Viet Nam 6100474 4
+9435791 TROMSO Bahamas 1570456 1
+9441752 GREEN PACIFIC Viet Nam 5138520 2
+9489170 OBROVAC Bahamas 0099854 2
+95185933 XIN HAI 788 Sao Tome and 6347649 3
+Principe
+95185933 XIN HAI 788 Belize 5925777 3
+95289523 HE XIE 6 Gambia 6313369 7
+95289523 HE XIE 6 Belize 6313369 7
+56
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+IMO No. Ship name Flag IMO No. of times
+(At the day of detention) company No. on the list
+9542257 SILVER STAR Sierra Leone 5728980 4
+9544695 AOM JULIA Panama 5847493 3
+95463067 DONG CHENG 7 Togo 5996015 4
+95463067 VS GLORY Sao Tome and 0118568 4
+Principe
+95884195 CELESTE Liberia 1765640 4
+95884195 EFI THEO Liberia 5909485 4
+96437522 DE MI Sao Tome and 6227258 1
+Principe
+96437522 DE MI Belize 6227258 1
+96461183 GOLD SPRING Sierra Leone 4215073 8
+96461183 GOLD SPRING Sao Tome and 6019801 8
+Principe
+97718344 PANFILOVO Cameroon 0081472 3
+97718344 PANFILOVO Cameroon 6382379 3
+1. The ship changed name.
+2. The ship changed flag.
+3. The ship changed flag and company.
+4. The ship changed company.
+5. The ship changed name and company.
+6. The ship changed name and flag.
+7. The ship changed name, flag and company.
+57
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+ANNEX 3
+ORGANIZATIONAL STRUCTURE OF THE TOKYO MOU
+Member Co-operating Observer
+Authorities Member Authorities Authorities
+Port State Control
+Committee
+Tokyo MOU
+Secretariat
+Asia-Pacific Observer
+National Port State Computerized Organizations:
+Control Services Information System IMO, ILO, other MOUs
+(APCIS)
+58
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+EXPLANATORY NOTE ON THE LOW-MEDIUM-HIGH PERFORMANCE LISTS
+The Port State Control Committee adopted the than average, where a number of detentions below
+same method as used by the Paris MoU for the ‘medium to high’ limit means significantly better
+assessment of performance of flags. Compared than average. When the number of detentions for a
+to the calculation method of previous year, this particular flag State is positioned between the two,
+system has the advantage of providing an the flag State will find itself on the medium list. The
+excess percentage that is significant and also formula is applicable for sample sizes of 30 or more
+reviewing the number of inspections and inspections over a 3-year period.
+detentions over a 3-year period at the same time,
+based on binomial calculus. To sort results on the low or high list, simply alter the
+target and repeat the calculation. Flags which are still
+The performance of each flag State is calculated significantly above this second target are worse than
+using a standard formula for statistical calculations in the flags which are not. This process can be
+which certain values have been fixed in accordance repeated, to create as many refinements as desired.
+with the agreement of the Port State Control (Of course the maximum detention rate remains
+Committee. Two limits have been included in the 100%!) To make the flags’ performance comparable,
+new system, the ‘low to medium’ and the ‘medium to the excess factor (EF) is introduced. Each
+high’ limit, each with its own specific formula: incremental or decremental step corresponds with
+one whole EF-point of difference. Thus the excess
+U
+ublack − to − grey = N  p + 0.5 + z 
+Low-to-Medium N  p  (1 − p) factor EF is an indication for the number of times the
+yardstick has to be altered and recalculated. Once
+uwhite
+U − to − grey = N  p − 0.5 − z 
+High-to-Medium N  p  (1 − p) the excess factor is determined for all flags, the flags
+can be ordered by EF. The excess factor can be
+In the formula "N" is the number of inspections, "p" is found in the last column the low, medium or high list.
+the allowable detention limit (yardstick), set to 7% by The target (yardstick) has been set on 7% and the
+the Tokyo MOU Port State Control Committee, and size of the increment and decrement on 3%. The
+"z" is the significance requested (z=1.645 for a Flag Performance List have been calculated in
+statistically acceptable certainty level of 95%). The accordance with the above principles.
+result "u" is the allowed number of detentions for
+either the low or high list. The "u" results can be The graphical representation of the system, below,
+found in the table as the ‘low to medium’ or the is showing the direct relations between the number
+‘medium to high’ limit. A number of detentions above of inspected ships and the number of detentions.
+this ‘low to medium’ limit means significantly worse Both axis have a logarithmic character.
+1000
+EF=4 and above very high risk EF=4
+EF=3 to 4 high risk EF=3
+EF=2 to 3 medium to high risk EF=2
+EF=1
+Number of detentions
+100 Low
+EF=0
+High
+EF=-1
+10
+EF=-2
+1
+30 50 100 250 500 1000 2000
+Number of inspections
+59
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+TOKYO MOU SECRETARIAT
+The Secretariat of the Memorandum of Understanding on Port State Control in the
+Asia-Pacific Region (Tokyo MOU Secretariat) is located in Tokyo, Japan. The
+Secretariat may be approached for further information or inquiries on the operation
+of the Memorandum.
+ADDRESS OF THE SECRETARIAT STAFF OF THE SECRETARIAT
+The address of the Tokyo MOU Secretariat The staff of the Secretariat consist of:
+reads:
+Ishihara Akira
+Tokyo MOU Secretariat Secretary
+Ascend Shimbashi 8F
+Ning Zheng
+6-19-19 Shimbashi
+Deputy Secretary
+Minato-ku, Tokyo
+Matsumoto Ayumi
+Japan 105-0004
+Technical Officer
+Tel: +81-3-3433-0621
+Fax: +81-3-3433-0624 Akimoto Fumiko
+E-mail: secretariat@tokyo-mou.org Project Officer
+60

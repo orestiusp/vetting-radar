@@ -1,0 +1,498 @@
+SIRE 2.0
+Inspection Management
+Processes - Submitting
+Company
+Version 1.0
+March 2023
+2 Inspection Management Processes – Submitting Company – Version 1.0
+Contents
+Contents ................................................................................................................................................. 2
+Version History ....................................................................................................................................... 3
+Inspection Requests .............................................................................................................................. 4
+INSPECTION REQUEST STATUS...................................................................................................................... 4
+Available .......................................................................................................................................... 4
+Accepted........................................................................................................................................... 4
+Accepted (Not Assigned) ................................................................................................................. 4
+Declined ........................................................................................................................................... 4
+VIEWING INSPECTION REQUEST..................................................................................................................... 4
+ACCEPTING THE INSPECTION REQUEST ........................................................................................................... 5
+Inspector Selection .......................................................................................................................... 5
+Unallocated Inspector..................................................................................................................... 6
+ALLOCATING AN UNALLOCATED INSPECTION ................................................................................................... 6
+ALLOCATING AN INSPECTOR.......................................................................................................................... 7
+SIRE 2.0 Compliance Report .................................................................................................................. 7
+Reassigning an Inspection to an alternative Inspector ...................................................................... 10
+REASSIGNING AN INSPECTION ..................................................................................................................... 10
+UNALLOCATING AN INSPECTION .................................................................................................................. 11
+REMOTE WIPE OF A REASSIGNED INSPECTION ON A TABLET DEVICE.................................................................... 12
+Cancel Inspection ................................................................................................................................ 13
+INSPECTION CANCELLATION ....................................................................................................................... 13
+Paper Based Contingency Inspections ............................................................................................... 15
+INSTIGATING THE CONTINGENCY PROCESS .................................................................................................... 15
+CONTINGENCY REPORT CHANGES ................................................................................................................ 16
+Inspection Report Name ............................................................................................................... 16
+Submitted Inspections ........................................................................................................................ 18
+PROCESSING A SIRE 2.0 INSPECTION .......................................................................................................... 18
+Inspection Resubmission .................................................................................................................... 20
+SIRE 2.0 INSPECTION LIST SCREEN ............................................................................................................. 20
+OPEN INSPECTION FOR RESUBMISSION ........................................................................................................ 21
+RESUBMISSION REQUEST DETAILS............................................................................................................... 21
+Inspector Instructions ................................................................................................................... 21
+Question Specific Feedback .......................................................................................................... 22
+NOTIFICATION TO OCIMF QA ..................................................................................................................... 24
+REQUESTING A RESUBMISSION .................................................................................................................... 24
+RESUBMISSION NOTIFICATIONS................................................................................................................... 24
+REVIEW RESUBMISSION ............................................................................................................................. 25
+RESUBMISSION FOLLOWING OPERATOR COMMENTS........................................................................................ 27
+Withdrawing an Inspection Report ..................................................................................................... 29
+Audit History ........................................................................................................................................ 31
+Auto Publishing of an Inspection ........................................................................................................ 32
+3 Inspection Management Processes – Submitting Company – Version 1.0
+Version History
+Version Number Description Date
+1.0 Initial Release 01 March 2023
+4 Inspection Management Processes – Submitting Company – Version 1.0
+Inspection Requests
+A Vessel Operator will create a SIRE 2.0 Inspection request in the SIRE system. They will select the
+Submitting Companies that they would like to accept. This can be up to 5 and the request will be
+sent to each Submitting Company in turn, in the order they are selected.
+Inspection Request Status
+A SIRE 2.0 Inspection Request is accepted from the Inspection Requests screen. Selecting the
+‘Inspection Requests’ menu item will display four tabs of Inspection Requests by status.
+Available
+This tab will display any Inspection requests that are available to be accepted by the Submitting
+Company. They will be available for 72 hours before being automatically passed to the next
+selected Submitting Company.
+Accepted
+When an Inspection Request has been accepted and allocated to an Inspector, the request will
+appear on the Accepted tab and the Inspection record is created.
+Accepted (Not Assigned)
+When an Inspection Request has been accepted, but has the Inspector status of ‘unallocated’, the
+request will appear on the Accepted (Not Assigned) tab and the Inspection record is created.
+Declined
+When an Inspection Request has been either manually or automatically declined by the Inspection
+Request process, the request will appear on the Declined tab.
+Viewing Inspection Request
+The SIRE 2.0 Inspection Request can be viewed by selecting the blue arrow against the appropriate
+inspection in the Information Request list.
+The Inspection Request will open in a summary format with all the information that the Operator
+entered available for the Submitting Company to view.
+At the bottom of the Request Summary screen is a section called ‘Inspection Type’. SIRE 2.0 should
+be selected from the dropdown list.
+5 Inspection Management Processes – Submitting Company – Version 1.0
+This will display the ‘SIRE 2.0 Inspection Review’ section. This section records the decision to
+‘Accept’ or ‘Decline’ the SIRE 2.0 Inspection.
+If the SIRE 2.0 Inspection is declined, then the SIRE 2.0 Inspection Request will be sent to the next
+Submitting Company on the Operators list.
+Accepting the Inspection Request
+Inspector Selection
+When a SIRE 2.0 Inspection is accepted, the Inspector drop down list will only contain Inspectors
+that have been identified in the Inspector Index as being flagged as accredited for SIRE 2.0
+Inspections plus ‘Unallocated’.
+Inspectors must also be added to the Submitting Company ‘Selected Inspectors list’ on the
+‘Manage Inspectors screen’. The ‘Manage Inspector screen’ is available via the ‘Manage
+Organisation screen’ in SIRE.
+The Inspector Profile within the admin console contains a SIRE 2.0 flag, if the SIRE 2.0 flag is
+selected by OCIMF, then the Inspector can perform SIRE 2.0 Inspections.
+6 Inspection Management Processes – Submitting Company – Version 1.0
+Unallocated Inspector
+The Submitting Company may accept the request, but choose to select ‘Unallocated’ in the
+Inspector selection.
+Selecting ‘Accept’ will require confirmation to accept the Inspection.
+The Inspection will move to the ‘Accepted (Not assigned) tab, where it can be allocated to an
+Inspector prior to the scheduled Inspection date, using the blue arrow icon.
+Notifications will be sent as reminders prior to the scheduled Inspection date, reminding the
+Submitting Company that the Inspection should be allocated to an Inspector.
+Allocating an Unallocated Inspection
+When the Submitting Company is ready to allocate an Inspector, selecting the blue arrow will display
+the Inspection Request Summary Screen and an Inspector can be selected from the list.
+7 Inspection Management Processes – Submitting Company – Version 1.0
+Selecting ‘Continue’ will display the Compliance Check.
+Allocating an Inspector
+Where the Submitting Company can allocate an Inspector immediately, the correct Inspector should
+be selected from the dropdown list and select ‘Continue’. This will display the Compliance Check.
+SIRE 2.0 Compliance Report
+Selecting ‘SIRE 2.0 Compliance Report’ runs a set of compliance rules against all available
+Inspectors, to identify which ones are most suited to undertake the requested inspection.
+The % pass rate for each Inspector is displayed and the details for each compliance rule can be
+viewed by selecting the arrow against an Inspector.
+The coloured icons, indicate the severity level attached to the compliance check.
+8 Inspection Management Processes – Submitting Company – Version 1.0
+The above information will also be displayed upon selecting ‘Continue’, when an Inspector has
+been selected from the Inspection Review screen.
+The rules can be overridden and a reason must be selected from the drop down list for this
+decision. Upon selecting ‘Accept’ a dropdown list of reasons will be displayed and one should be
+selected before clicking ‘Accept’ again.
+Accepting the Inspection Request using the ‘Accept’ button will display the Vessel Details screen.
+9 Inspection Management Processes – Submitting Company – Version 1.0
+The Inspection Type will now display as SIRE 2.0 and the Operator and selected Inspector will be
+notified.
+10 Inspection Management Processes – Submitting Company – Version 1.0
+Reassigning an Inspection to an alternative Inspector
+The inspection can be reassigned to an alternative inspector until the physical phase of the
+inspection has started.
+Reassigning an Inspection
+A booked Inspection can be reassigned to a different Inspector from the ‘Accepted’ tab of the
+Inspection Requests screen.
+Selecting the blue arrow for an Inspection that has not been commenced, will display the ‘Request
+Summary’ screen.
+Scrolling to the bottom of the ‘Request Summary’ page, displays the Inspector Details section showing
+the ‘Reassign Inspector’ dropdown list.
+Selecting an alternative Inspector from the dropdown list will display the ‘Cancel’ and ‘Reassign’
+buttons.
+Clicking ‘Cancel’ will ignore any selection and leave the Inspection assigned to the previous Inspector.
+Selecting ‘Reassign’ will run the Inspector compliance checks on the new Inspector selected and display
+the results.
+When the results have been reviewed, selecting ‘Accept’ will assign the alternative inspector to the
+inspection. If any compliance rules require a reason to continue, one should be selected from the
+dropdown list and select ‘Update Inspector’ to continue.
+11 Inspection Management Processes – Submitting Company – Version 1.0
+Unallocating an Inspection
+An allocated Inspection may also be unallocated from an Inspector before it is submitted by the
+Tablet Editor.
+A booked Inspection can be set to ‘unallocated’ from the ‘Accepted’ tab of the Inspection Requests
+screen. Selecting the blue arrow for an Inspection that has not been commenced, will display the
+‘Request Summary’ screen.
+Scrolling to the bottom of the ‘Request Summary’ page, displays the Inspector Details section
+showing the ‘Reassign Inspector’ dropdown list.
+Selecting ‘unallocated’ from the list will unassign the current Inspector from the inspection and
+remove access.
+Selecting ‘Accept’ will display a message to confirm this is the correct action and selecting ‘Update
+Inspector’ will confirm the action.
+The inspection will now appear back on the ‘Accepted (Not Assigned)’ tab of the Inspection
+Request screen.
+12 Inspection Management Processes – Submitting Company – Version 1.0
+Remote Wipe of a reassigned Inspection on a Tablet device
+An Inspection can only be reassigned to an alternative inspector prior to being commenced, when
+the Inspection status is ‘Created’, ‘CVIQ generated’ or ‘CVIQ Downloaded’. If an Online Submission
+has been started, the Inspection cannot be reassigned to an alternative inspector.
+If the Inspection has been downloaded to a Tablet Device, this will be remote wiped when the
+Tablet Editor connects to the server.
+Email notifications will be sent to all parties, notifying them that the Inspection has been
+reassigned.
+• Original Inspector
+• Alternative Inspector
+• Vessel Operator
+• Submitting Company
+The Submitting Company should make sure that the Inspector has received the message and
+does not embark on an unnecessary journey.
+13 Inspection Management Processes – Submitting Company – Version 1.0
+Cancel Inspection
+Inspection Cancellation
+When a SIRE 2.0 Inspection has the status ‘Created’, ‘CVIQ Generated’ or ‘CVIQ Downloaded’, the
+booking can be cancelled.
+From the ‘mySIRE’ menu item, select ‘SIRE 2.0 Inspections’.
+Selecting the ‘Cancel Inspection’ button will display the cancellation Inspection screen.
+A cancellation reason should be selected from the dropdown list, to explain the reason for the
+cancellation.
+A note can be entered in the ‘Additional Information’ text box for further explanation.
+Selecting the ‘Confirm’ button will cancel the Inspection.
+Selecting the ‘Reject’ button will return to the previous page and the status of the Inspection is
+unchanged.
+14 Inspection Management Processes – Submitting Company – Version 1.0
+When a booked Inspection is cancelled, email notifications are sent to the Vessel Operator and
+assigned Inspector.
+The Submitting Company should make sure that the Inspector has received the message and
+does not embark on an unnecessary journey.
+15 Inspection Management Processes – Submitting Company – Version 1.0
+Paper Based Contingency Inspections
+A SIRE 2.0 Inspection is primarily completed in the SIRE 2.0 Tablet application. Where unforeseen
+issues arise that prevent the use of the tablet application during the Inspection, the Inspector will
+have a number of options available to complete the Inspection.
+Tablet Inspection – A full tablet inspection means that the Inspection is only available and
+completed on the tablet device through to submission. No alternative Inspection process is
+undertaken.
+Full paper-based Inspection – A full paper-based contingency inspection can be completed where
+a tablet device is prohibited, or the tablet device is not in working order. The Online Editor will be
+used to electronically record the Inspection. This will be recorded as a ‘Contingency’ Inspection
+and the report name will be suffixed by (C) where it appears.
+Terminated Inspection – If a Full Tablet inspection is interrupted, the inspection may be
+‘Terminated’ and submitted with the information that has been collected prior to that point. This
+inspection will be recorded as ‘Incomplete’ and the report name will be suffixed by (I) where it
+appears.
+Partial paper-based Inspection – A partial paper-based inspection can be completed where the
+Tablet device is not permitted in all areas required for the Inspection. Paper copies of the External
+questions can be downloaded using the contingency process and the partially completed tablet
+inspection can be uploaded to the online editor for completion. This will be recorded as a ‘Partial’
+Inspection and the report name will be suffixed by (P) where it appears.
+Par�al and Con�ngency Inspec�ons
+Inspec�on Start Con�ngency Inspec�on Full paper-based
+Created Process Checklists Available Inspec�on
+Inspec�on
+Reassign
+Process
+Full Tablet Par�al paper-based Use tablet in safe areas
+Use paper checklist in
+Inspec�on Inspec�on non-safe areas
+Complete ‘Close
+Interrupted Mee�ng’ if observa�ons Online Editor
+Inspec�on have been raised and
+Inspec�on
+Process
+Available
+Audit
+Failed
+upload par�ally
+completed inspec�on
+Inspector leaves Vessel
+Complete all ques�ons already answered
+and validate exis�ng answers, include all Inspec�on
+selected photographs.
+Answer all remaining ques�ons
+‘Not Answerable’ Inspection Terminated • Update Inspec�on Timings
+before completion – not seen’ • Retain checklist un�l
+Inspec�on Report records Inspec�on not published
+complete
+Validate and Validate and Validate and
+Submit Submit Submit
+Inspec�on Inspec�on Inspec�on
+Instigating the Contingency Process
+The contingency process is triggered from within SIRE. This will be triggered by the Inspector when
+they are prevented from carrying out a full tablet-based inspection.
+Outside of the SIRE system, the Inspector will contact the Submitting Company and request
+permission to complete a paper-based or partial inspection. Upon this agreement being obtained,
+the Inspector may instigate the Contingency process and record the agreed decision against the
+inspection, by selecting from the dropdown list.
+16 Inspection Management Processes – Submitting Company – Version 1.0
+Contingency Report changes
+The final inspection report will include the appropriate information to identify whether the report
+was a Contingency or Incomplete Inspection.
+Inspection Report Name
+The Inspection report name will be suffixed to indicate if it was not completed as a standard tablet
+based inspection.
+(C) Contingency - Full Paper-based Inspection
+(P) Contingency - Partial Paper-based Inspection
+(I) Incomplete Inspection
+(D) Disabled Camera
+This suffix will appear in the SIRE User Interface and on the front cover of the Final Inspection
+Report, wherever the report name appears.
+Where more than one suffix is applicable, both are displayed. For example, where a Partial paper-
+based Inspection had a disabled camera, this will display as Report Name (P) (D).
+A Full Paper-based contingency submission will be shown in the SIRE User Interface with a (C) after
+the report name. The report itself will be complete and submitted, but will not contain any
+17 Inspection Management Processes – Submitting Company – Version 1.0
+additional photographs.
+A Partial Paper-based contingency submission will include any information that had been
+completed on the Tablet Editor, which may include photographs and it will be complete and
+submitted. This report will display a (P) after the report name in the SIRE User Interface to denote
+that it is a Partial Submission.
+An Incomplete Inspection will have a ‘Termination Reason’ displayed in the ‘Vessel and Operation
+Particulars’ section of the final report.
+Where questions were unanswered before termination occurred, a ‘Not Answerable’ – ‘Inspection
+Terminated before completion – not seen’ response and a comment of ‘Inspection Terminated
+date and time’ will be shown against each unanswered question.
+The report will display an (I) after the report name in the SIRE User Interface to denote that it is an
+Incomplete Terminated Inspection.
+18 Inspection Management Processes – Submitting Company – Version 1.0
+Submitted Inspections
+Following the submission of the Inspection by the Inspector to the Submitting Company, the
+Inspection will display in the ‘mySIRE’ menu, under SIRE 2.0 Inspections.
+A list of Inspections will be displayed and selecting the blue arrow icon will display the Inspection
+details screen.
+The Inspection list can be filtered by Inspection Status.
+Processing a SIRE 2.0 Inspection
+The Submitting Company will be able to view a submitted Draft Inspection Report and process the
+Inspection for Operator comment, by completing the distribution fields and selecting ‘Process
+Inspection’.
+The status of the Inspection will change to ‘Submitter Validated’ and can be viewed using the blue
+arrow icon.
+19 Inspection Management Processes – Submitting Company – Version 1.0
+The Draft Inspection Report will now be sent to the Operator for ‘Operator Comments’
+20 Inspection Management Processes – Submitting Company – Version 1.0
+Inspection Resubmission
+The resubmission process allows a Submitting Company to identify that a change is required in the
+Draft Inspection Report and for the Inspector to be notified and make the change. The changes are
+made using the Online Editor and will only allow amendment to specific questions, selected by the
+Submitting Company.
+SIRE 2.0 Inspection List Screen
+A draft inspection report can be selected for Resubmission from the SIRE 2.0 Inspection List screen
+with a status of ‘Submitted’ or ‘Submitter validated’.
+Following the review of a submitted Draft Inspection Report, a Submitting Company can mark the
+inspection for resubmission by selecting the blue arrow on the SIRE 2.0 Inspections list screen.
+Selecting the blue arrow icon against the correct draft Inspection Report name will display details
+of the draft inspection report. Here the draft inspection report can be reviewed and where found
+to be free of inspector generated errors, released to the vessel operator for their comments or,
+where there are inspector generated errors present, either opened for resubmission or withdrawn.
+Draft Inspection reports with a status of ‘Submitted’ will be available for resubmission multiple
+times before the status is updated to ‘Submitter Validated’ and the draft Inspection report is sent
+21 Inspection Management Processes – Submitting Company – Version 1.0
+for Operator comments.
+Selecting ‘Process Inspection’ will release the draft inspection report for operator comment and
+publication or, automatic publication after 14 calendar days.
+Selecting ‘Open for Resubmission’ will display the ‘Request Resubmission’ screen.
+Open Inspection for Resubmission
+From the Inspection Details screen, selecting the ‘Open for Resubmission’ button will display the
+details of the submitted CVIQ and provide the ability to inform the Inspector of the changes that
+should be considered and the reasons why.
+Resubmission Request Details
+A resubmission Inspection will only have access to the information contained in the submitted
+CVIQ. This will not include any voice memo’s, or photographs that were not selected for inclusion
+in the submitted CVIQ. Only questions selected for resubmission will be editable, the remainder of
+the CVIQ responses will be read only.
+Inspector Instructions
+The Submitting Company should provide the Inspector with an overview of the changes required in
+the ‘Inspector Instructions’ field.
+22 Inspection Management Processes – Submitting Company – Version 1.0
+Question Specific Feedback
+The Submitting Company can select each question or observation response that requires attention
+and provide the reason for the change. Only these question or observation responses are editable
+in the Online Editor by the Inspector.
+A list of the selected questions and reasons for change is created and can be edited and deleted if a
+mistake is made. The screen will also display details of the Inspection and allow a general message
+to the Inspector to be added which is displayed in the email notification.
+A list of specific questions can be selected for review, by searching for the question number and
+selecting ‘Find’.
+The ‘Add Question Response Feedback’ screen will display the CVIQ ‘Question Number’ and
+‘Question Text’ for the selected question.
+The ‘Response’ dropdown list will display all Hardware, Process and Human responses submitted
+for that question. Using the dropdown list, the relevant response should be selected.
+23 Inspection Management Processes – Submitting Company – Version 1.0
+Any existing responses for the selected question number are available to be selected for
+resubmission. Upon selection of a Response Type, any associated Negative observations or
+Positive Human Observations are displayed as read only in the panel below, with any Inspector
+comments that have been submitted. Only the selected response type is editable for the question
+in the Online Editor.
+When an observation response is selected, the associated Subject Of Concern and Nature Of
+Concern will be displayed along with any Inspector Comments to fully identify the response that
+should be editable in the resubmission. Using the ‘Question Feedback’ text box, the exact change
+can be described and considered by the Inspector.
+When ‘Question Feedback’ has been completed, selecting ‘Save’ will return the user to the
+‘Request Resubmission’ screen where the information will be displayed in a list for each CVIQ
+question that has been selected. Selecting ‘Back’ will delete the feedback and return to the
+‘Request Resubmission’ screen where the data will not be visible.
+Using the blue arrow icon will return the user to edit the feedback for the associated question.
+Selecting the red dustbin icon will delete the feedback for the associated question.
+24 Inspection Management Processes – Submitting Company – Version 1.0
+Notification to OCIMF QA
+Corrected CVIQ responses can only be resubmitted by the Inspector who submitted the original
+CVIQ on completion of the physical phase of the inspection.
+If the resubmission is to be returned to an OCIMF QA instead, selecting the tick box will send the
+request to QA instead of the original Inspector. This should only be the case when the original
+Inspector is no longer available as an active SIRE 2.0 Inspector.
+A full explanation of why this option has been selected should be detailed in the ‘Inspector
+Instructions’ text box before resubmission.
+Requesting a Resubmission
+When all feedback has been entered, selecting the ‘Request’ button at the bottom of the screen,
+will submit the resubmission request to the Inspector. Selecting back will save all entered data,
+but not send the information to the Inspector.
+The Inspection list will now display the Inspection with a status of ‘Resubmission’. The
+resubmission request is no longer editable and selecting the blue arrow will only display the details
+of the Inspection.
+Resubmission Notifications
+The Inspector who submitted the completed CVIQ for the inspection will receive an email which
+will detail all the information that has been requested for review and potential change by the
+Submitting Company.
+25 Inspection Management Processes – Submitting Company – Version 1.0
+The Submitting Company will be notified when the Resubmission has been completed and the
+amended draft inspection report is available for review.
+Review Resubmission
+Once the amended CVIQ has been resubmitted by the Inspector, the Submitting Company will be
+able to view the amended draft inspection report.
+From the SIRE 2.0 Inspections list screen the Inspection will display with a status of ‘Submitted’ and a
+type of ‘Corrected’. This type will be updated from ‘Original’ before any resubmission was
+submitted, or ‘Corrected’ if a previous resubmission process has taken place.
+Selecting the blue arrow icon will display the details of the Inspection and the resubmission
+amendments can be reviewed by selecting the ‘View Changes’ button.
+Selecting ‘View Changes’ will display the ‘Changes in inspection’ screen, which will document any
+26 Inspection Management Processes – Submitting Company – Version 1.0
+changes that were made between the resubmitted CVIQ and the Original or previously resubmitted
+CVIQ, when a resubmission has been completed multiple times.
+For each question that has been amended, all resubmitted responses will be grouped together.
+Where multiple observations or negative observations are amended for a particular response type,
+these will be divided by a darker line.
+If required, the full question text can be viewed by hovering over the Question number.
+When all amendments have been reviewed, selecting the back button will return to the Inspection
+details screen.
+From here the Submitting Company can view the full draft report by selecting ‘View Report’.
+If the Submitting Company are satisfied with the changes, they can process the draft report or send
+it back for further resubmission, using the buttons at the bottom of the screen.
+In this example, the updated response for 5.7.1 is still not clear enough, so a resubmission will be
+requested again.
+27 Inspection Management Processes – Submitting Company – Version 1.0
+When these changes are reviewed by the Submitting Company, they will be separated by date and
+the previous resubmitted value will be shown against the change.
+When all the changes required have been updated, the draft inspection report can be released to
+the vessel operator for comment by using the ‘Process Inspection’ button.
+The Inspection details screen will be displayed, where the changes screen and the draft Inspection
+Report can be viewed. The draft Inspection report may also be opened for resubmission again or
+withdrawn.
+The draft Inspection report may be opened for resubmission at any point before the vessel
+Operator has finished adding comments and released the draft inspection report for publication to
+the SIRE database.
+Resubmission following Operator comments
+If the Vessel Operator would like to raise any potential amendments with the Submitting Company
+prior to inspection report publication, this should be done outside of the system and the
+Submitting Company will have the ability to open the draft Inspection report for resubmission
+before the vessel Operator releases the draft inspection report for publication in the SIRE
+28 Inspection Management Processes – Submitting Company – Version 1.0
+database.
+If the draft inspection report is opened for resubmission at this stage, the Vessel Operator
+comments already entered will be saved and access to the Operator Comments will be removed
+until the Submitting Company releases the draft Inspection report to the vessel operator again.
+When the draft Inspection report is released for Operator Comments again, the previously entered
+vessel operator comments will be visible and additional comments can be entered prior to the
+draft Inspection report being released for publication in the SIRE database.
+Once the Inspection report has been published, it can no longer be corrected and if found to
+contain significant errors can only be withdrawn.
+If this off system communication falls outside of the 14 day automatic publication, the Inspection
+report will be automatically published with whatever information has been entered following the
+status update to ‘Submitter validated’. The 14 day period will begin again if the Inspection is set to
+‘Resubmission’. The Inspection will be published upon the completion of Operator Comments.
+Once the CVIQ has been resubmitted by the Inspector, a notification will be sent to the Submitting
+Company. The submitted report will now show as ‘Corrected’.
+Selecting the blue arrow against the Inspection from the ‘SIRE 2.0 Inspections’ screen, will display
+the Inspection details.
+Selecting ‘View Changes’ will display a list of all the changes that have been made during the
+resubmission.
+29 Inspection Management Processes – Submitting Company – Version 1.0
+Withdrawing an Inspection Report
+Where an Inspection report is purchased and a Recipient Company reviews the report and finds it
+unacceptable, the Recipient Company should feedback to OCIMF. OCIMF will then inform the
+Submitting Company who can ‘Withdraw’ the report if they agree with the findings, or they can
+address any quality issues that have been raised. No further resubmission activity can take place
+following publication of the Inspection report.
+A draft inspection report, and later an Inspection report, can be withdrawn at any time. Selecting
+the Inspection, from the Inspection list screen will display the Inspection details screen.
+From the SIRE 2.0 Inspection list screen, selecting the blue arrow will allow the Submitting
+Company to ‘Withdraw’ the inspection either before or after Publication.
+Published Inspection
+Submitted/Submitter Validated
+If the Inspection is to be Withdrawn before publication, the ‘Withdraw’ button can be selected from
+the bottom of the Inspection Details screen.
+30 Inspection Management Processes – Submitting Company – Version 1.0
+This will display the ‘Withdraw Report’ screen, where the Submitting Company should select a
+‘Withdrawal Reason’ and supply any ‘Additional Information’, before selecting the ‘Withdraw’
+button.
+Where an Inspection has been Published, selecting the blue arrow from the SIRE 2.0 Inspection list
+will display the Inspection details screen and the ability to ‘View Report’ or ‘Withdraw’.
+Selecting ‘Withdraw’ will display the ‘Withdraw Report’ screen, where the Submitting Company
+must select a ‘Withdrawal Reason’ and supply any ‘Additional Information’, before selecting the
+‘Withdraw’ button.
+A confirmation dialogue box will be displayed and selecting ‘Confirm’ will set the Inspection status
+to ‘Withdrawn’ on the Inspection List screen.
+A Withdrawn Inspection will display in the Vessel Inspection list as ‘Withdrawn’.
+31 Inspection Management Processes – Submitting Company – Version 1.0
+Audit History
+An audit trail of an Inspection is available to the submitting company against the Inspection
+on the Vessel Details screen.
+Selecting the ‘i' icon will display the status changes made to the inspection.
+32 Inspection Management Processes – Submitting Company – Version 1.0
+Auto Publishing of an Inspection
+A SIRE 2.0 draft Inspection report will be auto published 14 days after status is set to Submitter
+Validated. Auto publish will publish any Vessel Operator Comments that have been entered
+already and publish the full inspection report.
+If the vessel Operator and Submitter are in discussion off system about a change they require to
+the draft inspection report, this will not affect the 14 days timing.
+Where a draft Inspection report is sent to 'Resubmission' after the status is 'Submitter Validated'
+the 14 day clock will be restarted once the report is released to the vessel operator for their
+comments.
+Our vision
+A global marine industry that causes no harm to people or the environment
+Oil Companies
+International Marine Forum
+29 Queen Anne’s Gate
+London SW1H 9BU
+United Kingdom
+T +44 (0)20 7654 1200
+E enquiries@ocimf.org
+ocimf.org

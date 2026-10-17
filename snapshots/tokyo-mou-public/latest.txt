@@ -1,0 +1,14 @@
+Redirecting to TMOU Data, please wait
+MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL IN THE ASIA-PACIFIC REGION
+The Asia Pacific Computerized Information System (APCIS), the information system for the Memorandum of Understanding on Port State Control in the Asia Pacific Region (Tokyo MOU), is developed and hosted by the Asia Pacific Maritime Information and Advisory Services (APMIAS) under supervision of the Ministry of Transport of the Russian Federation.
+The APCIS is aimed to collect Port State Control (PSC) inspection data from the Tokyo MOU member Authorities and to provide information exchange of PSC data within the region.
+This public interface of the APCIS database is for displaying and publishing results of PSC inspections in a real-time mode. It should be understood that ship data (e.g. ship name, flag, company, etc.) displayed in the database, which are either based on information/data collected at the time of inspection or loaded periodically from IHS Maritime data, may not always reflect the status of the vessel on real time basis, Any request for correction/updating of ship data not directly related to PSC data should be made to IHS Markit.
+The Tokyo MOU (its member Authorities, the Secretariat and the APMIAS) will not be held liable for any loss, damage, or harm resulting from the use of information contained in the database, or of any reliance on its accuracy, completeness or timeliness.
+The data obtained from this site should not be used for any commercial purposes, reproduced in any other sites or any publications without prior permission by the Tokyo MOU.
+If you have any queries regarding PSC data or access to the site please contact Tokyo MOU Secretariat or APMIAS Management by e-mail.
+If you agree with terms of the disclaimer provided above you may enter the site, otherwise please leave this page.
+Please enter the solution
+Hosted by
+PSC/FSC Directorate
+Moscow, Russia
+Information message here

@@ -1,0 +1,94 @@
+Abu Dhabi National Oil Company Petroleum Ports Authority
+Home
+Ship Vetting
+ADNOC ship vetting standard
+11. SPECIFIC REQUIREMENTS
+Print Page
+11.1 Hull Type
+ADNOC Ship Vetting Standards permits only double hull tankers to load any grades of oils regardless of the flag and size of the Vessel.
+11.2 Ship’s Age Standard
+(a) This Standard recognizes that the age of a ship is an important factor that has a direct bearing on its physical condition. The following criteria regarding maximum acceptable age from date of delivery apply:
+Ship Type
+Maximum age
+Oil tankers, chemical carriers
+> 5000 DWT 20 years
+< 5000 DWT 25 years
+LPG carriers
+25 Years
+LNG carriers
+40 Years
+Bulk carriers, general/dry cargo ships, RORO and container ships
+25 Years
+Combination carriers
+15 Years
+Inland Tanker Barges
+30 Years
+Ocean Going Tanker Barges
+25 Years
+Passenger ships
+Passenger ships above 40 years of age will be assessed and accepted only on a case by case basis.
+(b) Vessel’s age shall be calculated from the delivery date as mentioned in the IOPP certificate.
+11.3 Terminals
+The ADNOC Ship Vetting process ascertains the suitability of a Vessel for use only from a marine assurance and safety perspective. However, compatibility of the Vessel with a particular terminal or berth rests with the terminal operators. The ADNOC Ship Vetting Department requires terminal operators to report any deficiencies noted on the Vessel’s calling at their terminals using the Negative Feedback on Vessel Performance form. The completed Negative Feedback on Vessel Performance forms shall be retained to build-up a historical data for each particular Vessel in the vetting system, which shall be used in future vetting exercises. Vessels with clean records are advantaged in the ADNOC Ship Vetting system.
+11.4 Maiden Voyage
+(a) Ships on their maiden voyage, i.e., first voyage after delivery, shall be assessed against a postdelivery ADNOC SIRE inspection report prior to being considered for ADNOC Group business.
+(b) Based on an assessment of the above-mentioned inspection, the Vessel may be granted a one-off call at the nominated terminal(s) after which, an operational SIRE inspection shall be required for subsequent calls.
+11.5 Manning
+(a) Manning, competency and training of all officers and crew shall, as a minimum, follow the SOLAS Convention as amended, STCW as amended, MLC and relevant IMO and ILO resolutions on minimum safe manning. Emphasis shall be placed on the sea service and type specific experience of the four (4) top ranks i.e., Master, Chief Engineer, Chief Officer and Second Engineer.
+(b) These shall be assessed as listed under the OCIMF Officers’ Experience Matrix and shall be subject to the following minimum requirements:
+Senior Officers Experience Matrix
+Years with operator
+The combined aggregate “years with operator” for Master + Chief Officer shall not be less than two (2) years. The combined aggregate “years with operator” for Chief Engineer + Second Engineer shall not be less than two (2) years.
+Years in rank
+The combined aggregate “years in rank” for Master + Chief Officer shall not be less than three (3) years. The combined aggregate “years in rank” for Chief Engineer + Second Engineer shall not be less than three (3) years.
+Years on this type of tanker
+The combined aggregate experience on the specific type of tanker shall be:For Master + Chief Officer, minimum of four (4) years, with less emphasis for Chief Engineer + Second Engineer, but not less than three (3) years.
+Years on all types of tankers
+The combined aggregate experience on all types of tankers shall be: For Master + Chief Officer, minimum of eight (8) years, with less emphasis for Chief Engineer + Second Engineer, but not less than six (6) years.
+Months onboard this tour of duty
+A minimum of fourteen (14) days duration shall lapse between the replacement of: Master and Chief Officer. Chief Engineer and Second Engineer.
+English Proficiency
+To ensure effective communication throughout all types of ship’s operations, proficiency in English language shall be “Good” as a minimum as per the decision of the person who undertakes the vetting process.
+(c) Suitability of the Vessel for ADNOC Group business with reference to the manning requirements shall be based on the above, amongst other considerations, e.g., ships with not more than three (3) homogeneous crew nationalities on board are advantaged in the ADNOC Ship Vetting system.
+(d) Ship owners/operators shall ensure that.
+(i) the OCIMF- VPQ/BPQ is updated to the latest crew change; but should not be older than thirty (30) days.
+(ii) the OCIMF officers experience matrix is updated to the latest crew change, however where there is no crew change, the uploaded matrix should not be older than thirty (30) days.
+11.6 Condition Assessment Program (CAP) and structural condition
+(a) Vessels classed as oil, chemical or LPG carriers over fifteen (15) years of age and over 20,000 DWT, shall hold a CAP 2 rating certificate for hull structure valid for five (5) years.
+(b) LNG carriers over twenty (20) years of age, shall hold a CAP 2 rating certificate for hull structure valid for five (5) years.
+11.7 Tanker management and self-assessment (TMSA)
+(a) Review of a valid TMSA report is an integral part of the ship’s evaluation process, which might affect the operators and the rating for their fleet of Vessels in ADNOC’s Ship Vetting database.
+(b) Vessel operators shall ensure that the TMSA submission on OCIMF-TMSA database shall be completed no more than twelve (12) months from the last update.
+(c) Operators must achieve a stage two (2) compliance in each TMSA element as a minimum requirement.
+(d) The ADNOC Ship Vetting Department may perform a TMSA visit audit as and when deemed necessary.
+11.8 Inspections by Port State Control including USCG (COC) Inspections
+Deficiencies and detentions as a result of PSC and/or USCG (COC) inspections which have been declared within the last twelve (12) months shall be assessed as part of the ADNOC Ship Vetting process.
+11.9 Incident Reporting & Investigation
+Vessel owners/operators shall report incidents occurring on their Vessels via IHS or the OCIMF-SIRE database, alternatively, incident report may be submitted directly to ADNOC Ship Vetting Department, as incident closure is part of the Vetting approval process.
+11.10 Protection and Indemnity Cover
+(a) All Vessels and Crafts shall be covered by a recognized underwriter for all insured items including hull and machinery.
+(b) General/dry cargo ships, bulk carriers, RORO and container ships shall be covered by a recognized P&I.
+(c) Ocean-going oil tankers, chemical carriers, LNG and LPG carriers shall be insured with a member of the International Group of P&I.
+11.11 Classification Society
+All Vessels must be classed by a classification society which is a full member of the IACS. Vessels classed by UAE Classification Society “TASNEEF” shall be considered Acceptable to the ADNOC Group. Vessels classed by TASNEEF and nominated to AGT must hold a dual classification of an IACS member along with TASNEEF.
+11.12 Offshore Offshore Crafts Fitted with Outboard Petrol Engines
+The Petroleum Ports Authority do not encourage boats fitted with outboard petrol engines to operate within the Petroleum Port Limits. However, when necessary, boats fitted with outboard petrol engines may be accepted on the basis that the following requirements are met:
+a) Outboard petrol motor
+(i) The outboard motor should be of a type which has been approved by a certified body.
+(ii) The motor should be fitted with the usual controls for hand starting, stopping, regulating speed, and moving astern.
+(iii) The motor exhaust should be below the water line.
+(iv) Primary starting should be either automatic rewind system or a pull cord round the top flywheel of the motor.
+b) Stowage of petrol for outboard motors
+(i)Where an outboard motor is fitted, a small quantity of spare petrol may be carried if it is stored in suitable containers in a specially constructed, well-ventilated compartment situated in a safe place sited whenever possible on the open deck.
+(ii) Warning notices should clearly indicate the contents of the compartment and smoking should not be permitted in the vicinity.
+(iii) The warning notice may contain instructions to jettison the petrol containers overboard in case of a fire in the vicinity of the storage area.
+c)Petrol fuel tank and pipe
+(i) Any petrol fuel tank should be specially protected against fire and explosion and separate from the engine. It must be of substantial construction of steel or other accepted material, and the joints must not depend on solder for tightness. Provision should be made for sealing the air vent when the tank is not in use to prevent spillage of fuel.
+Note:
+A steel tank constructed according to a recognized standard with rounded corners and edges is considered fire and explosion proof. Aluminum explo-foil is not accepted in tanks for explosion proofing.
+(ii)The fuel pipe may be of suitable non-metallic material, and its end connections should be self sealing. Provision should be made for shutting off the fuel at the engine, complete fuel tanks and their connections should be capable of withstanding hydraulic pressure corresponding to a head of at least 4.5 meters above the top of the tank. The maker’s Certificate of Conformity may be accepted in this respect.
+11.13 Conditional acceptance
+(a) No Vessel shall be accepted contrary to the advice of the ADNOC Ship Vetting Department unless the decision to do so is taken as per the conditional acceptance process and using the controlled form for conditional acceptance in Appendix 2, after assurance is provided that measures have been put in place to mitigate risks involved. This is to provide active intervention and management of the particular situation such that the risk profile is reduced to a tolerable level.
+(b) Conditional acceptance is a separate process that may only be used in extreme circumstances when it is business critical.
+(c) The form for conditional acceptance in Appendix 2 shall be provided by the ADNOC Ship Vetting Department if / when deemed required.
+Content of this document might become obsolete after printed date

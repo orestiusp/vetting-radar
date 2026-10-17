@@ -1,0 +1,31 @@
+Articles in this section
+Change Tablet Power Button Actions Setup
+SIRE Programme Information
+SIRE Operator - HVPQ6 Grid Row Not Editable in the Offline Particulars Editor
+Mopria - Enable Wi-Fi Direct printing
+SIRE 2.0 - Inspector - Unable to Validate or Submit Report
+SIRE 2.0 Operator - API Access Request Process
+Q88 - Requesting Access for Officer Matrix Submission
+SIRE 2.0 Operator - Inspection Request Cancellation Process
+BIRE Operator - Inspection Request Cancellation
+SIRE 2.0 - Error opening inspection. The inspection may be corrupted.
+See more
+To request a SIRE 2.0 Inspection for a vessel, use the current SIRE Inspection Request Portal. The SIRE 2.0 Inspection option will only be available when the vessel meets all required criteria and the required documents have been published.
+Check the vessel meets all of the following requirements before requesting a SIRE 2.0 Inspection:
+The vessel is designated as a tanker in SIRE.
+The vessel has been assigned a vessel photograph template.
+The vessel has a published HVPQ6.The vessel has a published PIQ document.
+How to prepare the vessel for a SIRE 2.0 Inspection
+If the SIRE 2.0 Inspection option is not available, check the vessel type first. If the vessel is not set as a tanker, update the vessel type in the Edit Vessel screen.
+To assign the correct vessel photograph template, open the Edit Vessel screen and select the appropriate template for the vessel.
+To publish the HVPQ6, open the HVPQ6 Details screen and publish the document. To publish the PIQ document, open the relevant PIQ screen and publish the document.
+Requesting the inspection
+Once the vessel meets all requirements, the SIRE 2.0 Inspection option will be available in the SIRE Inspection Request Portal. Select the vessel, choose SIRE 2.0 Inspection, and continue with the inspection request.
+If the option still does not appear after checking the vessel type, photograph template, HVPQ6, and PIQ, review the vessel setup again or contact support for further assistance.
+Related articles
+SIRE Programme Information
+SIRE 2.0 - API Access
+SIRE Instructional Video - How To Use SIRE
+SIRE - Glossary
+SIRE 2.0 JSON files
+Article is closed for comments.

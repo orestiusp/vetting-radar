@@ -1,0 +1,619 @@
+SIRE 2.0
+Inspection Management
+Processes - Vessel Operator
+Version 1.0
+March 2023
+2 Inspection Management Processes – Vessel Operator – Version 1.0
+Contents
+Contents .................................................................................................................................... 2
+Version History .......................................................................................................................... 3
+SIRE 2.0 - Operators ................................................................................................................... 4
+VESSEL INDEX ............................................................................................................................................. 4
+Add Vessel ................................................................................................................................. 4
+Vessel Photo Index ..................................................................................................................... 5
+Vessel PIQ Index ........................................................................................................................ 5
+VESSEL DETAILS .......................................................................................................................................... 6
+Inspection Request .................................................................................................................... 7
+1. VOYAGE ................................................................................................................................................. 7
+Inspection Request Details ........................................................................................................ 7
+Inspection Details ...................................................................................................................... 8
+Agent Details ............................................................................................................................. 8
+2. VESSEL .................................................................................................................................................. 8
+Vessel Details ............................................................................................................................. 8
+Invoice Company Details ........................................................................................................... 8
+3.SUBMITTING COMPANY ............................................................................................................................. 9
+4. MEMBER AGREEMENTS ............................................................................................................................ 9
+5.REQUEST SUMMARY ............................................................................................................................... 10
+Operator Inputs ....................................................................................................................... 11
+PRE-INSPECTION QUESTIONNAIRE (PIQ) ........................................................................................................ 11
+Vessel PIQ Questionnaire......................................................................................................... 11
+SIRE 2.0 VESSEL PHOTOGRAPHS.................................................................................................................. 13
+Core photograph set ................................................................................................................ 13
+Photo Template ....................................................................................................................... 14
+Edit Vessel Photographs .......................................................................................................... 15
+Uploading New Photographs .................................................................................................. 16
+Validate Photograph ............................................................................................................... 18
+Deleting a Vessel Photograph ................................................................................................. 19
+Photograph Unavailable.......................................................................................................... 19
+SIRE 2.0 Vessel Standard Photography Set Guidance .............................................................. 20
+VESSEL CERTIFICATES ................................................................................................................................. 21
+Uploading Certificates ............................................................................................................. 21
+Cancel Inspection .................................................................................................................... 23
+INSPECTION CANCELLATION - SUBMITTING COMPANY ...................................................................................... 23
+INSPECTION REQUEST CANCELLATION - OPERATOR .......................................................................................... 23
+INSPECTION BOOKING CANCELLATION – OPERATOR ......................................................................................... 24
+SIRE 2.0 Pre-Inspection Declaration - Operator ........................................................................ 25
+PIQ REVIEW............................................................................................................................................. 25
+Pending PIQ Review Grid ......................................................................................................... 26
+Operator Comments ................................................................................................................ 28
+ENTERING OPERATOR COMMENTS................................................................................................................ 28
+Inspection Resubmission ......................................................................................................... 33
+RESUBMISSION FOLLOWING OPERATOR COMMENTS ......................................................................................... 33
+Publishing an Inspection.......................................................................................................... 34
+3 Inspection Management Processes – Vessel Operator – Version 1.0
+Version History
+Version Number Description Date
+1.0 Initial Release 01 March 2023
+4 Inspection Management Processes – Vessel Operator – Version 1.0
+SIRE 2.0 - Operators
+Vessel Operators can request an Inspection upon Vessels in their fleet directly from within their
+SIRE account using the SIRE Inspection Request functionality.
+The process flow below describes the steps required by an Operator to request an Inspection via
+the SIRE Inspection Request functionality:
+SIRE Inspection Request
+Submitting Member Next Submitting Member in
+Vessel Operator
+(First in Preference List) Preference List
+Inspection Request Inspection Request
+sent only to the first sent to the next
+Requirement for a SIRE
+Submitting Member in Submitting Member
+inspection
+the preference list in the preference list
+REJECT REJECT
+Log into SIRE account and Inspection Request Inspection Request
+create Vessel Inspection notification received via notification received via
+Request the OCIMF message the OCIMF message
+centre centre
+Enter vessel and voyage
+specific information
+Request Request
+reviewed reviewed
+Select one or more
+Submitting Members in ACCEPT ACCEPT
+order of preference
+Inspection Inspection
+booking screen booking screen
+Agree to any displayed with displayed with
+Submitting Member booking details booking details
+specific agreements / pre-filled pre-filled
+declarations
+SIRE Inspection SIRE Inspection
+booking created booking created
+Phase
+SIRE 2.0 Inspections require additional elements to be maintained for each vessel.
+Vessel Index
+The SIRE Vessel Index is central to the Inspection process and provides access to a list of Vessels
+stored within the SIRE database and the ability to access details relating to a Vessel and its
+current/previous activity. The SIRE 2.0 process depends on some essential elements described
+below.
+Add Vessel
+Select ‘Add Vessel’ to create a new vessel in the SIRE system. A SIRE 2.0 Inspection requires the
+vessel to be a ‘Tanker’ and to have a photograph template associated. See Photo Template.
+5 Inspection Management Processes – Vessel Operator – Version 1.0
+Vessel Photo Index
+The Vessel Photo Index screen, shows at a glance a complete status of photographs relating to a
+Vessel and further details can be accessed using the blue arrow button, to display a list of
+photograph details stored against a Vessel. See section Edit Vessel Photographs.
+The Vessel Photograph Index provides the following information for each vessel:
+• Photograph Dates – the date taken for the most recent and oldest photograph for the vessel.
+• Number of Photographs – total number of photographs uploaded for the vessel and the expected
+number for the selected template.
+• Status – Red / Amber / Green rating for the vessel’s photography
+One or more vessel photograph locations does not have an entry.
+All vessel photograph locations have an entry, however, at least one photograph has a date
+‘Last Validated On’ over six months in the past.
+All vessel photograph locations have an entry and all entries have been validated or have a
+Photograph Taken date within the last six months.
+Vessel PIQ Index
+SIRE 2.0 introduces the Pre-inspection Questionnaire and the Vessel PIQ Index screen displays an
+overview of the status of an existing PIQ stored within the system. The screen also shows details of
+any photographs and certificates that have been uploaded to the PIQ.
+6 Inspection Management Processes – Vessel Operator – Version 1.0
+Vessel Details
+The Vessel Details screen allows full access to all details associated with the vessel and can be
+accessed using the blue arrow icon on the Vessel Index Screen.
+• Vessel Particulars – this is a living document that the Operator can update at any point within
+the lifetime of the vessel. This should be in a published state prior to an Inspection, this will be
+declared during the PIQ Review
+• Vessel Certificates- a full list of certificates should be maintained by the Operator. A snapshot
+of these is taken during the PIQ Review.
+• Online Crew Matrix – this is a living document and the Operator can update at any point
+within the lifetime of the Vessel. During the PIQ Review the Operator will confirm that this will
+be updated prior to the Inspection.
+• PCS Inspections – this a record of any PCS inspections that have taken place for the Vessel.
+• Incidents – this a record of any Incidents that have taken place involving the Vessel.
+• SIRE 2.0 Vessel Photographs – this is a full list of photographs associated with the vessel see
+Edit Vessel Photographs. A snapshot of these is taken during the PIQ Review.
+• Vessel PIQ – access to create or edit an existing PIQ see Pre-inspection Questionnaire (PIQ)
+• Inspections – a list of existing Inspections for this Vessel. For SIRE 2.0 this will include a list of
+Inspections in all states following the PIQ declaration being signed.
+7 Inspection Management Processes – Vessel Operator – Version 1.0
+Inspection Request
+The Operator Inspection Request module is an integral part of the SIRE 2.0 process. An Inspection
+Request is created from the Vessel Details screen using the ‘Create Inspection Request’ button.
+For the SIRE 2.0 phased implementation process, a screen will be displayed to allow the clear
+selection of the correct Inspection type, explaining the implications of each selection.
+Select ‘SIRE 2.0 Transition Inspection’ to create the Inspection request and select OK on the
+confirmation message that is displayed.
+The New Inspection Request process is split into 5 sections:
+1. Voyage
+2. Vessel
+3. Submitting Member Selection
+4. Member Agreements
+5. Submit Inspection Request
+1. Voyage
+Section 1. Voyage, is split into 3 sections:
+Inspection Request Details
+A new Type of Inspection called ‘SIRE 2.0’ is available to Operators within the Inspection Request
+Portal and allows the selection of a SIRE 2.0 Inspection by the Vessel Operator, which is the
+instigator of the new Inspection process.
+8 Inspection Management Processes – Vessel Operator – Version 1.0
+Inspection Details
+This section contains Location of the inspection, date range that the Vessel is at the Terminal,
+cargo on the Vessel, how long the Vessel is available for an Inspection and how the Inspector can
+get to the Vessel.
+Agent Details
+Agent Details can be entered as follows:
+2. Vessel
+Step 2. Vessel, is split into 2 sections:
+Vessel Details
+This section is prepopulated with information taken from the Vessel details screen within SIRE.
+Invoice Company Details
+All Invoice Company details can be entered as follows:
+9 Inspection Management Processes – Vessel Operator – Version 1.0
+3.Submitting Company
+The Submitting Company section allows the Operator to create a list of Submitting Companies that
+they would like to work with. The list can include up to 5 Submitting Companies and is in order of
+preference, with number 1 being the favourite.
+Typing the name in the box will display a dropdown list of available Submitting Companies. These
+will appear in the order that they are selected, but they can be deleted or moved using the icons
+against each one.
+The invitations to complete the Inspection are distributed in the selected order and are available
+for a period of 72 hours only, when the request expires and the next invitation will be issued. If no
+Submitting Companies respond to the request, the request will be cancelled and a new request will
+need to be created.
+4. Member Agreements
+Submitting Companies have the option to create agreements for Vessel Operators to sign before
+they will work with them on an Inspection Booking. This section displays the declarations setup by
+the Submitting Companies, the declarations can be downloaded and agreed to upon this screen.
+All Agreements must be set to ‘Agreed’ if the Vessel Operator wishes to proceed with the Inspection
+Request.
+10 Inspection Management Processes – Vessel Operator – Version 1.0
+5.Request Summary
+The Request Summary section contains all the information entered in the previous 4 steps. Once
+‘Next’ is selected the Inspection Request will be sent to the first Submitting Company in the list.
+The Inspection Request will be accepted by one of the Submitting Companies or cancelled if none
+of them respond or want to accept.
+The Operator will be notified if the Inspection has been accepted and a SIRE 2.0 Pre-Inspection
+Declaration - Operator is required. Whilst the request is active, the Operator should make sure
+that all vessel information is up to date.
+11 Inspection Management Processes – Vessel Operator – Version 1.0
+Operator Inputs
+There are three areas the Operator must input data for a SIRE 2.0 Inspection. This data is required
+before a SIRE 2.0 inspection can take place. This information is stored at the Vessel level and is
+viewable from the Vessel Details screen. The sections are as follows:
+• Vessel PIQ
+• SIRE 2.0 Vessel Photograph
+• Vessel Certificates
+Once these areas have been completed and an Inspection Booking has been created the PIQ
+declaration will be signed to confirm that the Operator is submitting current and accurate
+information. The signing of the Inspection declaration will trigger the creation of the Compiled
+Vessel Inspection Questionnaire (CVIQ).
+Pre-inspection Questionnaire (PIQ)
+The Pre-Inspection Questionnaire consists of a set of questions, the responses to which will
+provide additional information to the Inspector whilst undertaking a SIRE 2.0 inspection and
+trigger the inclusion of certain conditional SIRE 2.0 questions. The responses to the Pre-inspection
+Questionnaire are electronically captured within SIRE and are then made available to the
+Inspection Compiler.
+A Vessel’s Pre-Inspection Questionnaire is a living document and the Operator can update the PIQ
+at any point within the lifetime of the Vessel. After an Inspection Request is approved by a
+Submitting Company, the Vessel Operator will be required to declare that the current PIQ is up to
+date and accurate, along with reviewing all Vessel photography and certification associated with
+the Vessel.
+The SIRE 2.0 Inspection Declaration creates a snapshot of the data included within the PIQ at the
+time of generation and is then included within the SIRE 2.0 Inspection and associated audit trails.
+Vessel PIQ Questionnaire
+This is an additional questionnaire used to gather dynamic information about vessel operational history
+and additional static data, to permit the question-set compiler to assign appropriate questions to each
+bespoke inspection questionnaire. Some information gathered through the PIQ is inserted in the
+Inspection Editor and the final report as information for an inspector and report recipient respectively.
+The PIQ is not intended to be given to programme recipients as a standalone document.
+The first question in the PIQ is the selection of appropriate Vessel Type. The pre-Inspection
+Questionnaire is automatically configured based upon the Vessel Type selected. If the selected
+Vessel Type is changed, any responses entered for questions that are no longer in the newly
+selected Vessel Type are automatically removed.
+12 Inspection Management Processes – Vessel Operator – Version 1.0
+The responses to a PIQ questionnaire can have two affects upon the SIRE 2.0 Question Set:
+• Conditional Question Triggers
+• Core / Rotational Question Updates
+Conditional Question Triggers
+The response provided by the Operator to certain questions within the PIQ, will be the trigger for
+the inclusion of specific Conditional questions within the SIRE 2.0 Inspection.
+For example, PIQ Q3.15:
+PIQ Q3.15 - Has a comprehensive mooring audit in accordance with TMSA 6A.4.3 been conducted
+by a member of the shore staff during the preceding twelve months? (include all locations
+audited)
+Within the PIQ editor, the Vessel Operator will identify the operations that were subject to the audit
+in addition to the dates over which the audit took place. The dates entered and the operations
+declared will be inserted into the SIRE 2.0 Question Editor alongside conditional Question 3.15, for
+verification by the Inspector during the SIRE 2.0 Inspection.
+Core/Rotational Question Updates
+In addition to triggering the inclusion of Conditional questions within the SIRE 2.0 Inspection via
+the Inspection Compiler, PIQ questions can also capture information intended to assist the
+Inspector in responding to a SIRE 2.0 Core or Rotational Question.
+Information provided within the PIQ will be inserted directly into the Inspection Editor on the
+‘Operator-Supplied Content’ tab of the appropriate question, to allow verification whilst the
+Inspection takes place.
+Some information will also be inserted directly into the final inspection report under the section
+‘Unvalidated PIQ data’. Details of how the PIQ information is provided is detailed in: SIRE 2.0
+Question Library Question Programming Attributes which is available on the SIRE 2.0 webpage
+13 Inspection Management Processes – Vessel Operator – Version 1.0
+The accuracy of the PIQ information provided for insertion in the final inspection report is the sole
+responsibility of the vessel operator and, once submitted by acknowledging all operator
+declarations and triggering the generation of the CVIQ, cannot be corrected.
+SIRE 2.0 Vessel Photographs
+The SIRE 2.0 Inspection Report will include a set of standardised Vessel photographs which have
+been verified by the Inspector during the Vessel Inspection.
+A standard set of up to 36 or 42 photographs are required for each Vessel. Prior to the Inspection
+taking place the Vessel Operator will select from a list of pre-defined ship type photo templates
+that determine the location of each photograph that must be included.
+To ensure consistency across all vessel types, the standard photograph set has been devised with a
+core set of photographs where the majority will be applicable to all vessel types, followed by a
+small selection of vessel type specific photograph locations.
+Core photograph set
+1 Bow area from dead ahead.
+2 Hull forward end starboard side.
+3 Hull forward end port side.
+4 Hull aft end starboard side.
+5 Hull aft end port side.
+6 Transom from right astern.
+7 Forecastle port side looking towards fairleads.
+8 Forecastle starboard side looking towards fairleads.
+9 Port or starboard windlass.
+10 Forward main deck showing condition of deck (and external framing).
+11 Forward main deck showing condition of pipe-rack.
+12 One mooring winch showing brake setting arrangement.
+13 One hose crane overall view.
+14 One hose crane showing hoisting winch, stowed wire, and limit switches.
+15 Starboard manifold looking from aft to forward.
+16 Starboard manifold looking forward to aft.
+17 Aft main deck showing condition of deck (and external framing).
+18 Aft main deck showing condition of pipe rack.
+19 Poop deck looking from midships to starboard including fairleads.
+20 Aft emergency towing equipment storage arrangement.
+14 Inspection Management Processes – Vessel Operator – Version 1.0
+21 Aft emergency towing equipment deployment system.
+22 Lifeboat and davit.
+23 The emergency generator or accumulator batteries.
+24 Engine room general view showing top of main engine.
+25 One generator engine.
+26 The oil filtering equipment (Oily Water Separator - OWS).
+27 The incinerator.
+28 One boiler from the front.
+29 One boiler from the top showing control equipment.
+30 Purifier room general view.
+31 Main engine side showing local control station.
+32 Steering gear room general view showing access.
+33 Main steering gear.
+Crude / product / chemical tankers / OBO
+40 IG system pressure/vacuum-breaking (P/V) device.
+41 IG system first non-return device (deck seal or double block and bleed arrangement).
+42 One main cargo pump and, if in pump room, including bilges.
+LPG pressurised.
+50 A cargo tank liquid dome including load and discharge valve.
+51 Electric motors for deepwell pumps.
+52 Compressor / motor room internal view.
+LPG refrigerated.
+60 A cargo tank liquid dome including load and discharge valve.
+61 Electric motors for deepwell pumps.
+62 Compressor room internal view.
+LNG Membrane type.
+70 A cargo tank liquid dome including load and discharge valve.
+71 A cargo tank vapour dome including cargo system relief valves.
+72 Compressor house internal view.
+LNG Moss type.
+80 A cargo tank liquid dome including load and discharge valve.
+81 General view of one moss sphere.
+82 Compressor house internal view.
+Shuttle tanker.
+90 Bow mooring arrangement from forward looking aft showing chain stopper.
+91 Bow mooring arrangement from aft looking forward showing winch.
+92 General view of hose connection area.
+93 Hose coupling arrangement.
+94 General view forward bow thruster room.
+95 Forward bow thruster room showing one azimuth thruster.
+Vessel Photographs can be uploaded at any time and are reviewed and declared as representative
+by the Vessel Operator during the Inspection Declaration stage. The Vessel photographs are then
+made available to the Vessel Inspector at the appropriate time within the SIRE 2.0 Inspection tablet
+editor from where they can be verified as representative of the Vessel whilst conducting the
+Inspection itself.
+Photo Template
+To be able to record photographs against a Vessel, a ‘Photo Template’ setting is required in the
+‘Edit Vessel’ details screen.
+15 Inspection Management Processes – Vessel Operator – Version 1.0
+For vessels that existed within SIRE prior to the launch of SIRE 2.0, the option to set the SIRE 2.0
+Vessel Photograph Template will be presented to the user the first time the SIRE 2.0 Vessel
+Photograph repository is launched.
+If the incorrect Vessel Photograph Template has been selected, the template can be updated via
+the ‘Edit Vessel’ Details page.
+Selecting the ‘edit’ icon opens the ‘Edit Vessel’ page, from where the Photograph Template can be
+updated.
+If a vessels Photograph Template is changed, any previously uploaded photographs that are part of
+the Core photograph set are retained, however, any previously uploaded photographs for vessel type
+specific locations are automatically removed.
+Edit Vessel Photographs
+To access the Vessel Photograph Repository, users must have been assigned the ‘SIRE – Operator
+User Can Manage Vessel Photographs’ role. To edit Vessel Photographs, select ‘Edit’ from within
+the ‘SIRE 2.0 Vessel Photographs’ grid.
+The SIRE 2.0 Vessel Photographs page displays the list of photograph locations that are applicable
+to the vessel based upon the Photograph Template selected; the list can be filtered to only display
+16 Inspection Management Processes – Vessel Operator – Version 1.0
+those locations that still require a photograph to be uploaded by using the ‘Uploaded’ filter.
+For each Photograph location within the Vessel Photograph grid, the following information is
+displayed:
+• Photo Location – identifier for the photograph location within the Vessel Photograph List.
+• Photo Description – textual description of the Photograph location.
+• Uploaded – Yes / No.
+• Last Updated – date the photograph was uploaded to SIRE.
+• Last Validated On – date the photograph was last reviewed and validated by the vessel
+operator.
+Uploading New Photographs
+Selecting the ‘Edit’ icon against a location from the list will display an already uploaded
+photograph for editing or validation, or if no photograph has been uploaded then the View Image
+screen will appear.
+To add a new photograph, select ‘Choose File’ and search for an image. Use the ‘Photo Taken On’
+field to specify the date that the image was taken and select ‘Upload’.
+17 Inspection Management Processes – Vessel Operator – Version 1.0
+A timestamp will be included along with the photo uploaded date when selecting the Upload
+button and the user will be returned to the Photos screen.
+Selecting the information icon, opens a comparison pane displaying the currently uploaded
+photograph and the ideal example image.
+18 Inspection Management Processes – Vessel Operator – Version 1.0
+Validate Photograph
+The ‘View Image’ screen is accessed by selecting the edit icon against a location in the list and will
+display the current photograph and the validation option if a photograph has been uploaded for
+that location previously.
+If the Operator feels that that current image is still representative, by using the ‘Validate’ button
+the image can be re-validated instead of uploading a new image. Once the Validate button has
+been selected a timestamp will be added to the ‘Last Validated On’ field.
+19 Inspection Management Processes – Vessel Operator – Version 1.0
+Deleting a Vessel Photograph
+If a vessel photograph has been uploaded in error, the photograph may be deleted by selecting the
+delete icon.
+The user must confirm the action before the photograph is deleted from SIRE.
+Photograph Unavailable
+If a photograph is not available for any location, a reason must be provided.
+If no photograph is uploaded for a location, selecting the cross icon opens the ‘Photograph
+Unavailable’ menu, from which the reason can be selected from either:
+• Photograph was not available
+• Equipment not fitted
+Upon selecting ‘Confirm Not Available’ the photograph unavailable reason is then carried through
+to the Inspectors tablet for verification during the SIRE 2.0 Inspection.
+Following confirmation that the photograph is unavailable, the reason will be displayed in the date
+columns and the item will be counted as complete in the declaration.
+Within the final Inspection Report, the absence of an Operator supplied photograph will be
+documented and the Inspector will have the option to comment and/or supply a photograph if
+appropriate.
+20 Inspection Management Processes – Vessel Operator – Version 1.0
+Selecting the delete icon will remove this reason and a confirmation message will be displayed,
+before selecting ‘Delete Reason’ and the reason is removed.
+SIRE 2.0 Vessel Standard Photography Set Guidance
+Selecting the icon displays the guidelines for acceptable vessel photography
+along with example photographs for each of the locations.
+21 Inspection Management Processes – Vessel Operator – Version 1.0
+Vessel Certificates
+The Vessel Certificate Repository provides the Vessel Operator the ability to upload a specific set of
+certificates to the system at any time. The number and type of certificates is specific to the Vessel
+type, however, there are a standard list of general certificates for all Vessel types.
+Mandatory Certificates are uploaded by Operators to the Certificates Repository for each Vessel
+and are packaged and available within the VIP Editor.
+Once uploaded, the Certificates will only be accessed by the Inspector that is involved in the
+Inspection.
+Uploading Certificates
+To upload a certificate to the repository, select ‘Upload’ against Vessel Certificates from the Vessel
+Details screen.
+This will display Vessel Certificates Repository screen.
+To upload a new certificate, select the ‘Certificate Type’, any relevant dates and choose a copy of
+the appropriate document using the ‘Choose File’ button, before selecting ‘Upload’.
+A mandatory set of certificates is required for each vessel. Where certificate details have been
+entered into the HVPQ for the vessel, when the certificate type is selected, the entered dates will be
+displayed. Any inaccuracies should be dealt with in the HVPQ and new certificates uploaded if
+required.
+All users have the ability to download Certificates, however, only those users with the ‘SIRE
+Operator – Manage Vessel Certification’ role will have the ability to upload new Certificates.
+22 Inspection Management Processes – Vessel Operator – Version 1.0
+Only one Certificate Type can be active at one time, uploading a second certificate of the same
+type will move the current certificate to the Historic Vessel Certificates grid and increment the
+version number.
+The uploaded documents are protected from download, copying and printing. The documents
+should not be encrypted/protected prior to uploading, Only file types of docx, .jpeg, .png, .pdf,
+.xlsx can be uploaded having a maximum size of 10MB.
+Any existing Certificates can be viewed using the ‘Edit’ button.
+A set of all current Certificates can be downloaded from the vessel details screen to a zip file.
+23 Inspection Management Processes – Vessel Operator – Version 1.0
+Certificates can be provided at any time, however, at the point of completing the Pre-inspection
+Questionnaire, the Vessel Operator will be required to declare that the set of Certificates stored
+against the vessel is current and valid.
+When a certificate has expired for a vessel, a message centre alert will be sent to inform the
+Operator that the certificate has expired.
+The alert can be viewed by clicking on ‘messages’ in the top right hand corner of the screen and
+viewing the ‘Vessel Certificate Expiry Alerts’ section of the displayed screen.
+Selecting the blue arrow icon will display the ‘Vessel Details’ screen for the selected vessel.
+Cancel Inspection
+Inspection Cancellation - Submitting Company
+When a SIRE 2.0 Inspection has the status ‘Created’, ‘CVIQ Generated’ or ‘CVIQ Downloaded’, the
+Submitting Company can cancel the booking. When a booked Inspection is cancelled, email
+notifications are sent to the Vessel Operator and assigned Inspector to inform them that this has
+taken place.
+Inspection Request Cancellation - Operator
+If a vessel operator has requested an inspection but has received no confirmed booking, they may
+need to withdraw a request as the vessel may have changed itinerary or business need.
+The Vessel Operator can withdraw an Inspection Request when the request has not been accepted.
+When an Inspection is displayed on the ‘In Definition’ tab, the Inspection Request can be deleted
+24 Inspection Management Processes – Vessel Operator – Version 1.0
+by selecting the delete icon.
+When the Inspection is displayed on the ’In Progress’ tab, the Inspection Request can be deleted by
+selecting the delete icon.
+Inspection Booking Cancellation – Operator
+Once an inspection request has been accepted by a submitting company, the inspection is
+considered to have been booked.
+A booked inspection can be cancelled by selecting an Inspection from the ‘Accepted’ tab by
+clicking the blue arrow.
+The ‘Inspection Request’ page displays with the option to ‘Cancel Inspection’.
+Selecting ‘Cancel Inspection’ will display the Cancellation Inspection screen.
+A cancellation reason should be selected from the dropdown list and any additional non-
+mandatory information can be entered to support the cancellation reason.
+25 Inspection Management Processes – Vessel Operator – Version 1.0
+Selecting ‘Reject’ will return to the list of Inspections and the Inspection is not cancelled. Selecting
+‘Confirm’ will cancel the SIRE 2.0 Inspection.
+The Inspection status will now display as ‘Cancelled’ where it appears in SIRE.
+SIRE 2.0 Pre-Inspection Declaration - Operator
+Once a SIRE 2.0 Inspection Request has been accepted and the SIRE 2.0 booking is live, it will be
+visible from the ‘Vessel Details’ screen.
+PIQ Review
+The SIRE 2.0 Inspection requires the signing of the PIQ Declaration to generate the CVIQ unique
+question set.
+Selecting the PIQ Review icon will open the Pre-Inspection Questionnaire Review screen. The
+Operator should review the information that will be used to compile the question set and sent to
+the Inspector. The Operator should confirm that the following information is complete and
+representative of the current condition of the vessel.
+• Pre-Inspection Questionnaire.
+• Vessel Photography.
+• Vessel Certificates.
+• HVPQ
+• Crew Matrix
+26 Inspection Management Processes – Vessel Operator – Version 1.0
+Here confirmation of the following is required;
+• The PIQ is completed with the required information – see Vessel PIQ Questionnaire
+• The required Vessel Photography is uploaded and representative of the condition of the Vessel
+– see SIRE 2.0 Vessel Photographs
+• Evidence of Mandatory Vessel Certification is uploaded with all certifications in date - Vessel
+Certificates
+• The Crew Matrix will be updated before the Inspection takes place.
+Selecting the ‘Update’ buttons against each area, allows the review of the currently uploaded
+information.
+When all areas have been reviewed, placing a tick against each area and selecting ‘Sign
+Declaration’ completes the Inspection Request process. In addition, the HVPQ is also used to
+create questions based on conditionality and will be part of the sign declaration process.
+When the Inspection is viewed on the ‘Inspection Requests’ screen, the ‘Inspection Type’ of ‘SIRE
+2.0’ will be displayed and the ‘PIQ Review’ button is removed.
+Pending PIQ Review Grid
+The Operator’s home page will display a list of any ‘Inspections Pending PIQ Review’ for easy access
+and review.
+27 Inspection Management Processes – Vessel Operator – Version 1.0
+Selecting the blue arrow will display the PIQ Review screen for the selected vessel.
+Once the Declaration has been signed, the CVIQ will be sent to the assigned Inspector’s Tablet Device.
+28 Inspection Management Processes – Vessel Operator – Version 1.0
+Operator Comments
+Following the processing of the Inspection by the Submitting Company, the draft Inspection report
+will be received by the Operator for comments. In SIRE 2.0 Operator comments follow a more
+structured approach rather than the previous open text approach.
+Operators can comment on negative observations in addition to providing a text based comment
+to the overall inspection. There could be multiple negative observations for each response and
+they can be raised against the four response options:
+• Hardware
+• Process
+• Human factors
+• Photograph validation
+SIRE 2.0 requests that operators break their comments into four responses to cover:
+• Immediate cause
+• Root cause
+• Corrective action
+• Preventative action
+Entering Operator Comments
+The submitted Inspection will appear on the Home screen in the ‘Inspections Pending Operator
+Comments’ grid.
+Selecting the blue arrow icon against the Inspection will display the Operator Comments screen.
+Selecting ‘Enter Comments’ displays the Edit Operator Comments screen. The editor will display
+any negative observations that consist of three components - SOC, NOC and Negative comments
+that were raised during the Inspection.
+The left hand side of the screen will display an accordion view of Chapters and associated
+questions. Against each question, a number will display to indicate the number of negative
+observations raised for that question.
+29 Inspection Management Processes – Vessel Operator – Version 1.0
+When a question is selected, the right hand side of the screen will display either a list of negative
+observations for the selected question, or if only one observation has been recorded for the
+question, the edit operator comments screen will be displayed in full.
+Where multiple negative observations have been recorded, using the arrows will expand and close
+the full details for each negative observation.
+Icons indicate the type of response relating to the Inspector comment.
+Hardware -
+Process -
+Human -
+30 Inspection Management Processes – Vessel Operator – Version 1.0
+For each negative observation the Operator is required to provide comments on the root cause of
+the observation.
+The structure of comments provided differs slightly for human factors negative observations
+compared to hardware, process and photograph validation which are all free text fields.
+The Human Factors negative observations root cause should be explicitly categorised using a
+multiselect drop down list rather than free text.
+For each negative observation, supporting documents can be uploaded and managed in the
+attachments section.
+The Operator can move through the Operator comments using the ‘Next’ and ‘Previous’ buttons.
+When comments have been applied to all negative observations, they can be published by
+selecting the ‘Publish’ button.
+This will display the Publish Operator Comments screen, where a ‘General Comment’ can be added
+if required.
+31 Inspection Management Processes – Vessel Operator – Version 1.0
+Selecting ‘Save and Close’ will save the entered information but not publish the comments. This
+can be done at a later point either as described above or from the Operator Comments screen.
+Select ‘Save and Publish’ to publish immediately. This will queue the Inspection report for
+publication.
+A message centre alert will notify when the Inspection report has been published.
+Once the Inspection report is published, the ‘Inspection Booking’ status will be updated and any
+subsequent comments can be added using the speech bubble icon against the Inspection.
+Select ‘Enter Comments’ to add new responses. Select ‘Publish Changes’ to republish the
+comments.
+The published Inspection document will include the Operator comments shown against each
+appropriate question.
+32 Inspection Management Processes – Vessel Operator – Version 1.0
+And any General comments that were entered at the time of publication.
+33 Inspection Management Processes – Vessel Operator – Version 1.0
+Inspection Resubmission
+Resubmission following Operator comments
+If the Vessel Operator would like to raise any potential amendments with the Submitting Company
+prior to inspection report publication, this should be done outside of the system and the
+Submitting Company will have the ability to open the draft Inspection report for resubmission
+before the vessel Operator releases the draft inspection report for publication in the SIRE
+database.
+If the draft inspection report is opened for resubmission again, the Vessel Operator comments
+already entered will be saved, but then the Inspection will be marked as a ‘resubmission’ and
+access to the Operator Comments will be removed until the Submitting Company releases the
+draft Inspection report to the vessel operator again.
+When the draft Inspection report is released for Operator Comments again, the previously entered
+vessel operator comments will be visible and additional comments can be entered prior to the
+draft Inspection report being released for publication in the SIRE database.
+If a published inspection report is found to be inaccurate, it can no longer be opened for
+resubmission and correction, the only option is for the report to be withdrawn. This includes
+inaccurate information provided by the vessel operator through the PIQ.
+If this off system communication falls outside of the 14 day automatic publication, the Inspection
+will be automatically published with whatever information has been entered following the status
+update to ‘Submitter validated’. The 14 day period will begin again if the Inspection is set to
+‘Resubmission’. The Inspection will be published upon the completion of Operator Comments.
+34 Inspection Management Processes – Vessel Operator – Version 1.0
+Publishing an Inspection
+When Operator Comments are complete, selecting ‘Publish’ will display a confirmation message to
+check that the Operator wants to publish the Inspection.
+Select ‘Save and Publish’ will confirm the action and a message will be displayed to confirm that
+the Inspection is queued for publication.
+Our vision
+A global marine industry that causes no harm to people or the environment
+Oil Companies
+International Marine Forum
+29 Queen Anne’s Gate
+London SW1H 9BU
+United Kingdom
+T +44 (0)20 7654 1200
+E enquiries@ocimf.org
+ocimf.org

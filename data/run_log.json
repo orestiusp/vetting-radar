@@ -1,0 +1,14 @@
+{
+  "run_at": "2026-10-17T11:42:36+03:00",
+  "scope": "full",
+  "sources_checked": 77,
+  "baseline": 1,
+  "unchanged": 68,
+  "changed": 6,
+  "error": 2,
+  "note": "6 'changes' were false positives (print timestamps, relative times, visitor counters); noise filters added and the entries were discarded",
+  "errors": {
+    "uscg-psc-detentions": "HTTP 403",
+    "saudi-aramco-ports-terminals-book-jul-2025-pdf": "ReadTimeout"
+  }
+}

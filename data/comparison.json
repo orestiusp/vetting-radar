@@ -1,0 +1,211 @@
+{
+  "generated": "2026-10-17",
+  "count": 10,
+  "not_found_publicly": [
+    {
+      "owner": "Shell",
+      "note": "No current public tanker acceptance criteria found during research (2026-10-17)."
+    },
+    {
+      "owner": "Chevron",
+      "note": "Only a third-party copy of an old presentation found; not used."
+    },
+    {
+      "owner": "Saudi Aramco Ports & Terminals",
+      "note": "Public 35 MB book (Jul 2025) contains SIRE rules, but it could not be downloaded from the box for verification; row pending."
+    },
+    {
+      "owner": "SARAS (Sarroch terminal)",
+      "note": "Public PDF exists but returned a bot-challenge page to the box; row pending manual check."
+    },
+    {
+      "owner": "Petrobras",
+      "note": "Only a 2014 copy on Scribd found; not used."
+    }
+  ],
+  "rows": [
+    {
+      "id": "bp",
+      "requirement_owner": "bp shipping (vetting & clearance)",
+      "owner_type": "Oil major",
+      "document": "bp vetting & clearance web pages (vessel clearance, management of change, structural assurance)",
+      "document_date": "",
+      "applies_to": "Third-party vessels interacting with any bp asset",
+      "age_limits": "Oil/chemical tankers >5,000 dwt: max 20 years. <5,000 dwt and LPG carriers: 25 years. LNG carriers: 40 years. Combination carriers >15 years not approved.",
+      "sire_report_age": "Current operational SIRE report less than 6 months old (unless otherwise notified). Newbuilds: operational SIRE within 3 months of delivery (NBQ process may be used until then).",
+      "cap_rules": "Oil, chemical & LPG tankers >20,000 dwt: minimum CAP 2 after reaching 15 years or by end of 3rd special survey, whichever is sooner. LNG >20 years: CAP 2 by 4th special survey or 20 years, whichever earlier. CAP 2 valid max 3 years from last day of survey.",
+      "other_criteria": "Screened against latest bp SIRE plus owner profile, terminal feedback, casualty data, PSC. Owner/manager assessed via bp company assessment (TMSA-based). IGS, if fitted, must be operational and in use. Hydrostatic balanced loading not approved.",
+      "source_url": "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/vessel-clearance.html",
+      "extra_source_urls": [
+        "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/management-of-change.html",
+        "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/structural-assurance.html",
+        "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance.html"
+      ],
+      "flags": "Inconsistency on bp's own pages: the vetting-and-clearance index page says CAP 2 'after reaching 20 years of age or by fourth special survey', while the structural assurance page says 15 years / 3rd special survey for tankers >20,000 dwt. Check with bp.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "adnoc",
+      "requirement_owner": "ADNOC – Petroleum Ports Authority (Ship Vetting)",
+      "owner_type": "NOC / port authority",
+      "document": "ADNOC Ship Vetting Standards, s.9 and s.11, plus Vetting FAQs (web)",
+      "document_date": "",
+      "applies_to": "Vessels nominated to ADNOC / ADNOC Group business",
+      "age_limits": "Oil & chemical: >5,000 DWT 20 years, <5,000 DWT 25 years. LPG 25. LNG 40. Combination carriers 15. Ocean-going tanker barges 25. Inland tanker barges 30. Age from IOPP delivery date.",
+      "sire_report_age": "Latest SIRE completed within last 6 months, plus at least one ADNOC SIRE report within the previous 24 months. A fresh SIRE may be required after a PSC detention or an incident in the last 12 months. Idle-status inspection: one-off acceptance valid 3 months. SIRE-BIQ (barges): 12 months (ocean-going tanker barges 6 months).",
+      "cap_rules": "Oil, chemical or LPG carriers >15 years and >20,000 DWT: CAP 2 hull-structure certificate valid 5 years. LNG >20 years: CAP 2 hull, valid 5 years.",
+      "other_criteria": "Double hull only for oil. TMSA updated within 12 months, minimum stage 2 in every element. Crew matrix aggregates (Master+C/O): 2 yrs with operator, 3 yrs in rank, 4 yrs on type, 8 yrs on all tankers. English 'Good' minimum. PSC deficiencies/detentions in last 12 months assessed. Only SIRE reports downloaded directly from OCIMF are used.",
+      "source_url": "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards/11-specific-requirements",
+      "extra_source_urls": [
+        "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards/9-ship-inspections-and-assessment",
+        "https://ppa.adnoc.ae/en/ship-vetting/vetting-faqs"
+      ],
+      "flags": "",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "rightship",
+      "requirement_owner": "RightShip (OCIMF Third Party Vetting Contractor)",
+      "owner_type": "Vetting scheme",
+      "document": "Oil, Gas and Chemical Vessel Vetting Baseline Criteria, Revision 4.0",
+      "document_date": "2026-10-01",
+      "applies_to": "Tankers, LPG, LNG vetted by RightShip; recommended minimum baseline that customers can tailor",
+      "age_limits": "Max 25 years tankers, 25 years LPG, 35 years LNG. Case-by-case exceptions for specific trading areas (e.g. Great Lakes).",
+      "sire_report_age": "Acceptable SIRE / CDI physical examination within the previous 6 months. Unacceptable last SIRE/CDI = unacceptable until a new acceptable inspection.",
+      "cap_rules": "Tanker or LPG >20,000 DWT and 15 years or over; any LNG >20 years: CAP 2 minimum for hull structure, machinery and cargo systems, issued by an IACS member, with Level 2 FDA (simplified fatigue design analysis) or equivalent; max validity 36 months from last date of survey.",
+      "other_criteria": "3+ PSC detentions in 24 months = Unacceptable; 2 in 24 months or 1 in 12 months = subject to review. Crew matrix dated within past 30 days (Annex 1 matrix). HVPQ not updated in last 3 months = subject to review. Non-IACS class, no IG P&I, PSC-banned vessel, or Very High Risk Paris/Tokyo MoU flag = Unacceptable.",
+      "source_url": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
+      "extra_source_urls": [
+        "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria"
+      ],
+      "flags": "Baseline only: each RightShip vetting customer can set stricter rules.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "repsol",
+      "requirement_owner": "Repsol Vetting",
+      "owner_type": "Oil major",
+      "document": "Repsol Vetting – Marine Assurance Process & Safety Criteria (T&T-PROC-001/2020)",
+      "document_date": "2025-04-14",
+      "applies_to": "SIRE vessels (tankers, barges, tugs) and bulk carriers proposed for Repsol use",
+      "age_limits": "Tankers (crude/oil/bitumen/chemical) 25 years. LPG 30. LNG 40. OBO/OO/combination 15. Bunker barge 25. Barge 30. Tug/towboat 40. Age from initial delivery date.",
+      "sire_report_age": "<20 years: Repsol safety inspection or OCIMF inspection no older than 6 months, or Repsol physical inspection no older than 12 months. ≥20 years: OCIMF inspection ≤6 months AND Repsol physical ≤6 months or Repsol safety inspection ≤3 months. BIRE vessels: OCIMF report ≤12 months.",
+      "cap_rules": "Vessels ≥15 years and >5,000 MT SDWT: at least CAP 2 (GOOD) for hull, machinery and cargo handling from the 15th anniversary of delivery; certificates valid 3 years. <5,000 MT SDWT ≥15 years: thickness measurements reviewed.",
+      "other_criteria": "Non-full-IACS class rejected. Owners must keep IG P&I entry (non-IG reviewed case by case). No pre-approval: each nomination screened.",
+      "source_url": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/productos-y-servicios/vetting/repsol-vetting-process-marine-safety-criteria.pdf",
+      "extra_source_urls": [
+        "https://www.repsol.com/en/products-and-services/trading/vetting/index.cshtml"
+      ],
+      "flags": "Document says 'Updated: 06/02/2025, Applicable as of 14/04/2025'.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "moeve",
+      "requirement_owner": "Moeve (formerly Cepsa) Vetting",
+      "owner_type": "Oil major",
+      "document": "Seagoing Vessel's Acceptance Criteria (Cepsa-branded)",
+      "document_date": "2018-12",
+      "applies_to": "Vessels for Cepsa/Moeve charters, COAs and Cepsa terminals",
+      "age_limits": ">25 years not suitable. >20 years and >40,000 MT SDWT not suitable. Tankers >15 years not suitable for a new time charter (extensions case by case). >15 years not suitable for COA, exceptionally up to 18 years with CAP 1 and Cepsa physical inspection. OBO >15 years not suitable.",
+      "sire_report_age": "15–19 years: if not already inspected by Cepsa and within re-inspection period, may exceptionally be suitable with a SIRE inspection within the last six months.",
+      "cap_rules": "Crude tankers and product carriers >15 years and >20,000 DWT: minimum CAP 2 for hull, machinery and cargo systems. All vessels >20 years: CAP 2. >15,000 DWT, >15 years, carrying heavy fuel oil: CAP 1 plus Cepsa physical inspection and no PSC detentions with present technical managers in last 5 years. CAP only from IACS members; max validity 3 years.",
+      "other_criteria": "20–24 years: must be inspected by Cepsa (or within re-inspection period) before fixing. Officer matrix recommendation (combined senior officers): 2 yrs with operator, 3 yrs in rank, 6 yrs on type. IACS class only.",
+      "source_url": "https://www.moeveglobal.com/stfls/corporativo/FICHEROS/es/SEAGOING_VESSEL_S_ACCEPTANCE_CRITERIA.pdf",
+      "extra_source_urls": [],
+      "flags": "Document dated December 2018 and still Cepsa-branded; may be superseded. Two-column PDF layout, read carefully at source.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "braskem",
+      "requirement_owner": "Braskem Vetting",
+      "owner_type": "Charterer (petrochemicals)",
+      "document": "Braskem minimum Vetting Requirements",
+      "document_date": "",
+      "applies_to": "Vessels operating for Braskem",
+      "age_limits": "Oil & chemical tankers <5,000 DWT: max 25 years. >5,000 DWT: max 22 years (document text reads '22 (twenty)'). LPG: max 22. OBO/OO: max 20. Based on delivery date.",
+      "sire_report_age": "SIRE/CDI carried out no later than 6 months before end of intended operation. Oil/chem >5,000 DWT aged 20–22: SIRE/CDI no more than 4 months before intended operation.",
+      "cap_rules": "Hull CAP 2 or better: oil tankers from 15 years; chemical and gas carriers from 20 years; OBO from 10 years.",
+      "other_criteria": "No PSC detention in last 12 months; no more than 6 deficiencies in last 6 months; not banned by Paris MoU, USCG or Tokyo MoU. TMSA min level 2. IG P&I with ≥US$1bn oil spill cover. IACS class. Double hull for oil/chem. Physical inspection by Braskem for every vessel. Terminal draft/LOA limits listed.",
+      "source_url": "https://www.braskem.com/portal/Principal/arquivos/Braskem-Minimum-Vetting-Requirements.pdf",
+      "extra_source_urls": [],
+      "flags": "Age wording inconsistent in source ('22 (twenty)'). No document date shown.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "exxonmobil",
+      "requirement_owner": "ExxonMobil (MESQAC)",
+      "owner_type": "Oil major",
+      "document": "Marine Environmental, Safety and Quality Assurance Criteria – International ocean/seagoing tankers, 2017 edition",
+      "document_date": "2017",
+      "applies_to": "Tankers in ExxonMobil affiliate service",
+      "age_limits": "",
+      "sire_report_age": "Only valid OCIMF (SIRE) or CDI reports evaluated. 'Strongly Preferred' that SIRE/CDI reports are no more than six months old.",
+      "cap_rules": ">15 years and >5,000 DWT: Hull CAP grade 1 or 2 (IACS society). All tankers >15 years: CAP for machinery & cargo systems grade 1 or 2. CAP renewed every 5 years; if older than 20 years, every 30 months.",
+      "other_criteria": "Tankers >15 years must submit last special survey documentation (ESP file, thickness measurements, CAP fatigue assessment, coating reports, class status) for review.",
+      "source_url": "https://hub.rivertrace.com/hubfs/Regulations/ExxonMobil-Safety-Criteria-2017-Ocean-Going-Tanker.pdf",
+      "extra_source_urls": [],
+      "flags": "2017 edition on a THIRD-PARTY host (not exxonmobil.com). Likely outdated; no age limit stated in the sections reviewed. Treat as historical reference only.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "transmountain",
+      "requirement_owner": "Trans Mountain – Westridge Marine Terminal (Canada)",
+      "owner_type": "Terminal",
+      "document": "Vessel Acceptance Standard, Revision 4.0",
+      "document_date": "2023-09-15",
+      "applies_to": "Vessels proposed to load at Westridge / Burnaby",
+      "age_limits": "Tankers should be <15 years; up to and including 20 years may be acceptable with CAP 2 or better for both CAP Hull and CAP MC. Tugs and barges <30 years (waivable case by case).",
+      "sire_report_age": "Recorded in the SIRE or OVID database within the preceding 7 months (12 months for tugs attending barges).",
+      "cap_rules": "15–20 years: CAP rating level 2 or better for CAP Hull and CAP MC; CAP certificates required for tankers over 15 years.",
+      "other_criteria": "Flag not on latest Paris MoU blacklist (greylist needs special dispensation). Acceptable class; IG P&I meeting CLC/Bunkers 'Blue Card' cover; certified SMS; no OBO/combination carriers; not under a Trans Mountain technical hold.",
+      "source_url": "https://docs.transmountain.com/Tolls-and-Tariffs/Vessel-Acceptance-Standard.pdf",
+      "extra_source_urls": [],
+      "flags": "",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "fujairah",
+      "requirement_owner": "Port of Fujairah (UAE) – Marine Department",
+      "owner_type": "Port / terminal",
+      "document": "Notice to Mariners NM 148, Version 6 (17/01/2021), s.22; FOTT Pre-Arrival Questionnaire rev 4 (01 Nov 2024)",
+      "document_date": "2021-01-17",
+      "applies_to": "Ships calling Port of Fujairah, Fujairah Offshore Anchorage and oil terminals",
+      "age_limits": "Chemical & oil tankers aged above 25 years not permitted to call the port, offshore anchorage or oil terminals, regardless of the nature of call.",
+      "sire_report_age": "",
+      "cap_rules": "",
+      "other_criteria": "Fujairah Oil Tanker Terminals pre-arrival questionnaire asks for last SIRE inspection date/issuer and last PSC inspection (date/place/MoU).",
+      "source_url": "https://fujairahport.ae/wp-content/uploads/2021/04/NTM-148-Verson-6.pdf",
+      "extra_source_urls": [
+        "https://fujairahport.ae/wp-content/uploads/2025/01/NTM148Verson6_Attachment_1.pdf"
+      ],
+      "flags": "No SIRE age requirement stated in the sections reviewed.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    },
+    {
+      "id": "totalenergies",
+      "requirement_owner": "TotalEnergies Trading & Shipping",
+      "owner_type": "Oil major",
+      "document": "'Our Trading and Shipping Operations' web page",
+      "document_date": "",
+      "applies_to": "Vessels chartered by TotalEnergies",
+      "age_limits": "",
+      "sire_report_age": "",
+      "cap_rules": "",
+      "other_criteria": "Public page describes a vetting process (equipment condition, maintenance, crew quality, onboard procedures) but publishes no numeric criteria.",
+      "source_url": "https://totalenergies.com/company/energy-expertise/ship-market/our-trading-and-shipping-operations",
+      "extra_source_urls": [],
+      "flags": "No detailed public criteria found.",
+      "verified_on": "2026-10-17",
+      "verify_note": "Summary only. Criteria change and may be applied case by case; always verify at source before relying on it."
+    }
+  ]
+}

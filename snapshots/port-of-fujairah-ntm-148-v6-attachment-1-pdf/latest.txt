@@ -1,0 +1,106 @@
+FUJAIRAH OIL TANKER TERMINALS
+Quality, Health, Safety, Environment and Security Management System
+Document Title: FOTT PRE-ARRIVAL QUESTIONNAIRE Revision No.: 4
+Document No.: FOTT / IMS / EL14 / OPS / F08 Revision Date: 01 Nov 2024
+S.no Description
+1 Vessel Name / previous name(s) and date(s) of change:
+2 IMO Number/ Call Sign
+3 Port of Registry / IACS Class
+4 Year of Built
+5 Type of Tanker: SBT/ IMO 1/IMO 2/IMO 3
+6 LOA / Extreme breadth (m)
+7 Parallel Body Length (Ballast/Tropical Loaded Condition)
+Draught:
+a. Summer/Tropical
+8 b. Arrival Draught (Fwd/Mid/Aft)
+c. Maximum trim expected during operations
+d. Departure Draught (Fwd/Mid/Aft)
+Tonnage:
+9 a. NRT
+b. GRT
+Displacement (MT):
+a. Light
+10 b. Loaded
+c. Arrival
+d. Departure
+Dead Weight (MT):
+11 a. Summer
+b. Tropical
+Manifolds:
+a. Size (mm/inch) / Number
+b. Distance between center of manifolds (m)
+c. Height of centre of manifold from the save all/drip tray grating
+12 d. Height of centre of manifold above waterline (Ballast/Loaded)
+e. Extreme height of the centre of manifold above waterline (During
+operations)
+f. Distance inboard from manifold to ship's side/rail
+g. Distance bow to manifold & manifold to stern (BCM/SCM in use)
+Terminal loading arm connection is as per ''ASME B 16.5 STANDARD
+13 Yes No
+ANSI # 150'', please confirm suitability with ship's manifold
+a. Is the vessel fitted with an Exhaust Gas Cleaning System (scrubber)
+as per IMO 2020 regulation? Yes No
+14
+b. If yes, identify the type: Open-Loop Closed-Loop
+15 Confirm Inert gas system fitted Yes No
+16 COT's are in inert condition and Inert gas system is fully operational Yes No
+Page 1 of 2
+FUJAIRAH OIL TANKER TERMINALS
+Quality, Health, Safety, Environment and Security Management System
+Document Title: FOTT PRE-ARRIVAL QUESTIONNAIRE Revision No.: 4
+Document No.: FOTT / IMS / EL14 / OPS / F08 Revision Date: 01 Nov 2024
+17 Vessel Condition: Ballast /Loaded / Part Loaded
+18 If Loaded, type and quantity of cargo on board in MT/CBM
+Type and quantity of cargo to be discharged/ loaded in MT/CBM
+19 a. Discharge
+b. Load
+Is the ship intended to load / discharge multi grades?
+20 a. Grade
+b. Quantity
+Cargo Parameters
+a. Flash Point
+b. Sulphur (Wt%)
+21
+c. Mercaptan (PPM)
+d. Stowed cargo temperature (Multi level/Average)
+e. Hydrogen Sulphide (In vapor phase/PPM)
+a. RVP (PSI)
+22 b. Colour ASTM Applicable for Light Distillates
+c. Benzene Content (Vol %)
+23 Is High H2S tanks purged adequately to lower the content within TWA
+Yes No N/A
+limit
+24 Arrival cargo tank pressure (mm/Wg)
+Maximum DIsch in cubic meter per hour per manifold connection
+25 Number of Cargo oil pumps and Capacity
+Number of Cargo oil pumps will be operated simultaneously
+Maximum Load capacity in cubic meter per hour per manifold
+26
+connection
+27 Maximum acceptable pressure at ship's Manifolds (Bar)
+28 Is Crude Oil Washing Operation planned at the berth, if so, pre-arrival
+Yes No N/A
+checklist has been satisfactorily completed.
+Mooring type, size and number and the SWL: (mm/MT)
+a. Forward
+29
+b. Main Deck
+c. Aft
+Details and deficiencies in the ship's mooring arrangement that could
+30
+affect the safety of mooring
+Any defects of hull, machinery or equipment that could adversely
+31
+affect safe operations or delay commencement of cargo handling.
+32 Specify the area with protrusion / projection off the ship's hull
+Last SIRE inspection:
+33
+Date / Issuing Authority
+Last PSC inspection:
+34
+Date/ Place / MOU
+35 Security Level
+36 Last Port of Call
+37 Next Port of Call
+Master Name: Sign / Stamp
+Page 2 of 2

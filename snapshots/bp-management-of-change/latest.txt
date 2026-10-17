@@ -1,0 +1,53 @@
+Allow all
+Reject all
+Skip to main content
+Supply, trading & shipping
+GBp
+(
+)
+USD
+(
+)*
+Share price unavailable
+previous
+next
+GBp
+(
+Loading
+)
+USD
+(
+Loading
+)*
+Share price unavailable
+close overlay
+Home
+Documents and downloads
+Vetting and clearance
+Management of change
+Main Content
+Management of change
+Information on bp’s owner assessment processes and management of change questionnaire
+Owner assessment processes
+Owners or operating (technical and safety) managers of third party operated vessels may be assessed through the bp company assessment (BPCA) process, which involves an assessment of their safety management system. The elements of the tanker managers self-assessment tool developed by OCIMF are used as the guiding protocol in this assessment, which includes a visit by bp shipping auditors to the offices of the owner or operating manager.
+Management of change
+A management of change questionnaire (MCQ) is used to assess the level of experience and competency of staff that will be operating the vessel following a change of owner/manager. Typically, an MCQ is used when the change of management is from one acceptable company to another of similar status.
+MCQ NBQ
+xlsx /
+214 KB
+Inert gas systems (IGS) and closed operations
+IGS must be operational and in use if required under legislation. If a vessel is fitted with IGS, it must be operational and in use unless it affects the stability, safe carriage or quality of a cargo. Closed operations must be maintained during loading, carriage and discharge of all toxic and/or volatile cargoes.
+Officer requirements
+bp shipping has specific pre-joining training and management of change criteria in place to ensure officer matrix requirements are covered by extensive training and familiarization process.
+bp shipping uses CDI reports as required
+bp shipping does not routinely use CDI reports in its vessel screening process
+Age limitations
+bp shipping will not charter oil or chemical tankers more than 20-years old if those vessels are larger than 5,000 dwt. For vessels less than 5,000 dwt, and for LPG carriers, the age limit is 25 years. An upper age limit of 40 years applies to LNG carriers.
+Certain types of vessels are not approved for use in bp service, including combination carriers more than 15-years old and vessels using hydrostatic balanced loading.
+Hull configuration
+All deep-sea vessels over 600 dwt must be double hulled. Vessels over 600 dwt used on inland waterways are required to be double hulled when carrying persistent oils. All inland waterway vessels over 600 dwt and carrying flammable or hazardous cargo must be double hulled from January 1 2015.
+New builds
+A new build questionnaire (NBQ) process may be used to gain assurance of safe operations up to three months after delivery. The purpose of a NBQ is to gather information about the management and manning of a vessel that is not yet operational or has not yet received an operational inspection. An operational SIRE inspection must be completed within three months of delivery.
+MCQ NBQ
+xlsx /
+214 KB

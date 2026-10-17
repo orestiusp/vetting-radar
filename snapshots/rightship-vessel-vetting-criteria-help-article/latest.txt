@@ -1,0 +1,47 @@
+RightShip Help Centre
+Vetting & Vessel Risk Evaluation Workflow Products
+About RightShip Vetting
+RightShip's Vessel Vetting criteria
+RightShip's Vessel Vetting criteria
+As part of RightShip's vessel vetting service, we assess all nominated vessels against our Standard Vetting Baseline Criteria. This represents our recommended minimum requirements for good operational practices, based on leading practices in safety, sustainability, and seafarer wellbeing.
+We periodically review and revise our standards in line with our mission to enhance safety and sustainability in the maritime industry.
+The current Vetting Baseline Criteria, which are closely linked to the Safety Score rules, are available below:
+Download Dry Bulk Vessel Vetting Baseline Criteria
+Download Oil, Gas and Chemical Vessel Vetting Baseline Criteria
+Key Considerations
+These criteria can be customised based on the specific needs and risk profiles of each vetting customer. The tailored requirements are then used to establish final vetting rules, which guide the vetting process and inform vessel recommendations, considering factors such as safety, environmental impact, and crew wellbeing.
+These criteria cover sections for Port State Control, Incidents, Age, Inspections, Flag and Class, Human Rights, Sanctions, Structures and Machinery, P&I, Environment, Management of Change, together with Operator and Vessel performance.
+We have attempted to provide instances of clear binary failings. i.e. If a vet fails on any one of these hurdles, the vessel cannot be positively recommended at all.
+Getting started
+Customer Data Usage
+Safety Score
+Vetting & Vessel Risk Evaluation Workflow Products
+About RightShip Vetting
+Vet Request, Tracking and RFI Process
+Due Diligence Hub
+Screening (Trade Check)
+RightShip Inspections
+RightShip Inspection Report Access
+RightFLEET
+PSC RiskIQ
+Fleet Focus
+Document Management Centre
+Forms
+Commercial IQ
+LSEG Sanctions Check
+Crew Welfare Self-Assessment Tool
+List and Alerts
+Feedback Report (FBR)
+Zero Harm Innovation Partners Program
+Pre-Arrival Check
+APIs
+API Access & Authentication
+Platform Integration API
+Data Exchange API
+Environmental Review
+GHG Rating Standard
+Submitting Documentation
+CII Rating on RightShip Platform
+Energy Saving Devices
+Maritime Emissions Portal
+Management Audit

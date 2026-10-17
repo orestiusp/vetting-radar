@@ -1,0 +1,875 @@
+6200 WESTRIDGE MARINE TERMINAL OPERATIONS MANUAL
+Marine Operations Standards
+1.1 VESSEL ACCEPTANCE STANDARD
+Revision 4.0
+Document Owner: Bikramjit Kanjilal Effective Date: 2023/09/15 Reviewed Date 2023/03/20
+Subject Matter Expert:
+Petar Lolic CMR No. 23322 Document No. 6200-0001
+TABLE OF CONTENTS
+1.0 INTRODUCTION ........................................................................................................................................... 3
+1.1 Scope .................................................................................................................................................. 3
+1.2 Changes and Waivers ........................................................................................................................ 3
+1.3 Response Time ................................................................................................................................... 4
+1.4 Minimum Requirements ...................................................................................................................... 4
+1.5 Definitions ........................................................................................................................................... 4
+2.0 AUTHORITY .................................................................................................................................................. 9
+2.1 Right to Reject Vessel ........................................................................................................................ 9
+2.2 Reason to Reject Proposed Vessel .................................................................................................... 9
+2.3 Technical Hold .................................................................................................................................. 10
+3.0 VESSEL ACCEPTANCE ............................................................................................................................. 11
+3.1 General ............................................................................................................................................. 11
+3.2 Vessel Proposal ................................................................................................................................ 11
+3.3 Preliminary Acceptance .................................................................................................................... 11
+3.4 Conditional Acceptance .................................................................................................................... 12
+3.5 Multiple Call Acceptance .................................................................................................................. 12
+3.6 Vessel Physical Inspection ............................................................................................................... 12
+3.7 Withholding Petroleum Product Transfer Privilege to a Vessel at the Berth .................................... 13
+4.0 ROLES AND RESPONSIBILITY ................................................................................................................. 13
+5.0 CONTINUOUS IMPROVEMENT……………………………………………………………………………… .... 15
+6.0 RECORD KEEPING .................................................................................................................................... 15
+7.0 REFERENCES ............................................................................................................................................ 16
+7.2 Documents ........................................................................................................................................ 16
+ANNEX A VESSEL PROPOSAL ……………………………………………………………………………………...18
+ANNEX B MASTER’S DECLARATION ………………………………………………………………………………20
+Uncontrolled when Printed
+Page 2 of 25
+1.0 INTRODUCTION
+1.1 Scope
+1.1.1 Trans Mountain operates the Westridge Marine Terminal (“WMT,” “Westridge,” or the
+“Terminal”) in compliance with all Applicable Laws, Project Conditions, Company
+Policies, and recognized standard industry practices.
+1.1.2 Trans Mountain is committed to conducting all Terminal activities and operations
+(including, without limitation, the transfer of Petroleum products), in a safe and efficient
+manner.
+1.1.3 This Vessel Acceptance Standard (the “Standard”) sets out the criteria and
+requirements that must be met by any Vessel planning to conduct the transfer of
+Petroleum products at Westridge Terminal.
+1.1.4 This Vessel Acceptance Standard is intended to prevent cargo oil transfer privileges
+being granted to a vessel that may, in the reasonable belief of Trans Mountain,
+endanger the Terminal, Terminal operations, the environment, or the health or safety
+of individuals, or has the potential to adversely affect the operational efficiency or
+capability of the Terminal.
+1.1.5 Trans Mountain confirms that this Vessel Acceptance Standard is not intended to:
+• interfere with the safe operation of a Vessel;
+• interfere with, replace, or assume the obligations, responsibilities and liabilities of
+a shipper, or the owner, operator, manager, or crew of a Vessel;
+• interfere with, replace, or substitute any function or responsibility of a
+Governmental Authority, or of an Acceptable Vessel Classification Society.
+1.1.6 This Standard applies to all Vessels intending to call on Westridge Marine Terminal to
+transfer Petroleum products, including (without limitation) tankers, ocean-going
+barges, and articulated tug-barges (“ATBs”).
+1.1.7 Any Vessel that fails to comply with the requirements of this Vessel Acceptance
+Standard shall not be permitted to engage (or to continue to engage) in the transfer of
+Petroleum products at Westridge Terminal except as provided herein.
+1.2 Changes and Waivers
+1.2.1 This Standard may be amended or updated from time-to-time, in the sole and absolute
+discretion of Trans Mountain. Notwithstanding the foregoing, whenever possible,
+Trans Mountain shall notify shippers and exercise commercially reasonable efforts to
+consult with shippers up to 60 days, but always at least 30 days, prior to bringing into
+effect any changes to this Vessel Acceptance Standard, , but reserves the right to
+make immediate, urgent changes where required in the interests of public safety or
+the protection of the environment, or where such immediate change is required by a
+Governmental Authority.
+1.2.2 Any written request for waivers or exceptions to the requirements of this Vessel
+Acceptance Standard for a specific Vessel or voyage shall be assessed by Trans
+Mountain based on risk and on a case-by-case basis. The request may be granted or
+denied at the sole and absolute discretion of Trans Mountain, which discretion to be
+exercised reasonably.
+Uncontrolled when Printed
+Page 3 of 25
+1.3 Response Time
+1.3.1 Trans Mountain shall respond promptly, but always within 24 hours of receipt, with a
+written response to all correspondence related to vessel acceptances, including
+Shipper enquiries, Vessel Proposals, or any other enquiries or information received
+from Shippers or vessels. Typically, any such correspondence, if received prior to
+1100 Pacific Time, shall be responded to by 1800 Pacific Time the same day.
+1.3.2 Upon receipt of a complete Vessel Proposal, Trans Mountain’s response would consist
+of either a preliminary acceptance or a reason for rejection, or a request for additional
+information, all within the stipulated timeframe for response.
+1.4 Minimum Requirements
+1.4.1 To be considered for acceptance at the Terminal, a Vessel must meet the following
+requirements:
+1.4.1.1 Tanker Vessels should be less than fifteen (15) years old but tankers up to,
+and including, twenty (20) years of age may be acceptable provided they
+have been assessed under CAP at Rating Level 2 or better for both CAP Hull
+and CAP MC.
+1.4.1.2 Tugs and barges should be less than thirty (30) years old. This age limit may
+be waived on a case-by-case basis, depending upon specific trade route of
+the Vessel in question and upon review of its Class records.
+1.4.1.3 The Flag State of a Vessel must not be included on the most recent Paris
+MOU “Blacklist” for flag state performance. Special dispensation shall be
+required for a Vessel on the “Greylist”.
+1.4.1.4 The Vessel must be entered with an Acceptable Classification Society;
+1.4.1.5 The Vessel must be entered with an International Group P&I Club and
+maintain coverage for an oil pollution incident involving any discharge or
+threat of discharge of oil, oily mixture or oil residue from the Vessel that meets
+or exceeds “Blue Card” requirements under the 1992 Civil Liability
+Convention and the Bunkers Convention.
+1.4.1.6 The Vessel must be crewed and operated under a certified safety
+management system.
+1.4.1.7 All Vessel trading certificates, Class surveys, and records must be up to date.
+1.4.1.8 The Vessel must not be an “Ore-Bulk-Oil” or “combination” carrier.
+1.4.1.9 The Vessel must have been recorded in the SIRE or OVID database (as
+applicable) within the preceding seven (7) months, which may be extended
+to twelve (12) months for tugs that are designated to attending barges.
+1.4.1.10 The Vessel is not currently subject to a Technical Hold with Trans Mountain.
+1.5 Definitions
+1.5.1 “Acceptable Classification Society” (or “Class”) means a non-governmental
+organization that is a member of the International Association of Classification
+Societies and recognized by the Flag State of a Vessel, which certifies that a Vessel
+Uncontrolled when Printed
+Page 4 of 25
+complies with certain standards and specifications, and which ensures ongoing
+compliance with such standards and specifications.
+1.5.2 “Accepted Vessel” means a Vessel that Trans Mountain has permitted to engage or
+continue to engage in the transfer of Petroleum at Westridge Terminal in accordance
+with this Vessel Acceptance Standard.
+1.5.3 “Applicable Laws” means (i) any domestic or foreign statute, treaty, code, ordinance,
+rule, regulation, restriction, or bylaw; (ii) any judgment, order, writ, injunction, decision,
+ruling, decree, or award; (iii) any regulatory policy, practice, request, guideline, or
+directive; or (iv) any applicable regulatory approval, permit, license, directive, or
+authorization; of any Governmental Authority, or any rule or requirement of any
+applicable Acceptable Vessel Classification Society.
+1.5.4 “Bunkers Convention” means the International Convention on Civil Liability for
+Bunker Oil Pollution Damage, 2001, concluded at London on March 23, 2001.
+1.5.5 “Civil Liability Convention” means the International Convention on Civil Liability for
+Oil Pollution Damage, 1992, concluded at London on November 27, 1992.
+1.5.6 “Company Policies” means those policies and procedures adopted by Trans
+Mountain, including Trans Mountain’s Environment, Health and Safety Policy, those
+that assist Trans Mountain meet Project Conditions, and applicable to Shippers at
+Westridge Terminal, namely, this Vessel Acceptance Standard, the Trans Mountain
+ULC Petroleum Tariff Rules and Regulations Governing the Transportation of
+Petroleum, the Westridge Marine Terminal Oil Pollution Prevention Plan, the
+Westridge Marine Terminal Regulations and Operations Guide, the Westridge Marine
+Terminal Emergency Response Plan, and Trans Mountain’s Marine Mammal
+Protection Program (these documents are available at www.Transmountain.com).
+1.5.7 “Conditionally Accepted Vessel” means a Vessel that Trans Mountain has been
+reviewed under this Standard and found to be acceptable for purposes of scheduling
+to a berth at the Terminal.
+1.5.8 “Condition Assessment Program” (or “CAP”) means the specialized survey
+program, supplementary to Class, which is used to assess a Vessel's actual condition,
+based on strength evaluation, and fatigue strength analysis as well as a detailed
+inspection of its hull (“CAP Hull”) and machinery and cargo systems (“CAP MC”).
+1.5.9 “Condition of Class” means Class requirements to carry out specific measures within
+a specific time limit in order for a Vessel to retain classification with an Acceptable
+Classification Society.
+1.5.10 “Deficiency” means the failure or inability of a Vessel or its owner, operator, or
+manager to meet specified requirements of Applicable Laws, Company Policies, or
+Standard Industry Practice for Vessels.
+1.5.11 “Early Departure Procedure” (or “EDP”) means the practice whereby a vessel
+departs the terminal prior to the bill of lading having been issued, the Master having
+provided authority to the port agent to sign bills of lading after the vessel’s departure.
+Uncontrolled when Printed
+Page 5 of 25
+1.5.12 “Equasis” means an online database that collates existing safety-related information
+on ships from both public and private sources and makes it available on the internet
+(www.equasis.org).
+1.5.13 “Fouling” means the settlement, growth and accumulation of marine micro and/or
+macro-organisms on the underwater portions of a vessel.
+1.5.14 “Fleet” means a group of vessels under management of a technical management
+company or affiliated group of technical management companies.
+1.5.15 “Flag State” means the country in which a Vessel is registered and to whose laws the
+Vessel is subject.
+1.5.16 “Governmental Authority” means the Government of Canada or any other nation or
+any of its political subdivisions, whether provincial, state, or local, and any agency,
+authority, instrumentality, regulatory body, court, central bank, or other entity
+exercising executive, legislative, judicial, taxing, regulatory, or administrative powers
+or functions of or pertaining to government, including any supra-national bodies,
+including: any maritime and other applicable authorities of the country of the Vessel’s
+Flag State or registry, including Transport Canada; (ii) the Coast Guard of Canada; (iii)
+the International Maritime Organization; and (iv) any other maritime, port, terminal or
+other applicable authority having jurisdiction over terminal services to be provided by
+Trans Mountain.
+1.5.17 “International Group P&I Club” means a protection and indemnity club that provides
+mutual maritime insurance to its members, and which belongs to the International
+Group of P&I Clubs (www.igpandi.org).
+1.5.18 “Letter of Protest” (or “LOP”) means a written communication intended to convey
+and record dissatisfaction concerning some matter and holding the recipient
+responsible for any legal or financial consequences arising out of the subject matter
+being complained about.
+1.5.19 "Lifting Vessel has the meaning assigned by the definition of “Lifting Vessel” in the
+Trans Mountain ULC Petroleum Tariff Rules and Regulations Governing the
+Transportation of Petroleum.
+1.5.20 “Master’s Declaration” means a confirmation and commitment provided to Trans
+Mountain by the Vessel to fulfill, provide certain information, and undertake
+responsibilities and operating practices based on information found in Annex B of this
+document.
+1.5.21 "Nomination" has the meaning assigned by the definition of “Nomination” in the Trans
+Mountain ULC Petroleum Tariff Rules and Regulations Governing the Transportation
+of Petroleum.
+1.5.22 “OceanSmart” means the cloud-based information and workflow management
+application used by Trans Mountain to perform various Westridge Terminal operations.
+1.5.23 “Oil Company International Marine Forum” (or “OCIMF”) means the voluntary
+association of oil companies with an interest in the safe shipment and terminalling of
+crude oil, oil products, petrochemicals, and gas.
+Uncontrolled when Printed
+Page 6 of 25
+1.5.24 “Offshore Vessel Inspection Database” (or “OVID”) means the database of
+offshore inspections maintained by OCIMF.
+1.5.25 “Paris MOU” means the Memorandum of Understanding on Port State Control in
+Implementing Agreements on Maritime Safety and Protection of the Marine
+Environment, 26 January 1982, 21 ILM 1.
+1.5.26 "Petroleum" has the meaning assigned by the definition of “Petroleum” in the Trans
+Mountain ULC Petroleum Tariff Rules and Regulations Governing the Transportation
+of Petroleum.
+1.5.27 “Port State Control” (or “PSC”) means a party authorized to perform vessel
+inspections pursuant to the Paris MOU.
+1.5.28 “Project Conditions” means those requirements prescribed by the Canada Energy
+Regulator that Trans Mountain must complete and maintain to construct and operate
+the Trans Mountain Expansion Project, including those set out in Certificate of Public
+Convenience and Necessity OC-065 dated June 21, 2019, and issued by the National
+Energy Board.
+1.5.29 “Serious Incident” means any Vessel-related incident or event that causes material
+damage to a person, property, or the environment, including (without limitation) any
+incident or event that would constitute a “marine occurrence” as defined in section 3(1)
+of the Transportation Safety Board Regulations, SOR/2014-37, as amended, including
+damage that affects its seaworthiness such as foundering, grounding, collision, total
+failure of propulsion, steering or navigation equipment, or incidents causing oil spill or
+loss of containment, or serious injury or fatality.
+1.5.30 “Significant Deficiency” means the failure of a Vessel or its owner, operator, or
+manager to meet specified requirements of Applicable Laws, Company Policies, or
+Standard Industry Practice for Vessels relating to a defect in a Vessel’s structure,
+propulsion, deck, bridge or cargo equipment, or its operations, that, individually or
+collectively, pose a serious threat to safety of personnel or the Vessel or the Terminal,
+or a risk to the environment.
+1.5.31 “Significant Near-Miss” means any Vessel-related incident or event that could have
+resulted in a Serious Incident but did not due to particular circumstances.
+1.5.32 “Ship Inspection Report Program” or “SIRE” means a tanker risk assessment tool
+and database maintained by the OCIMF
+1.5.33 “Standard Industry Practice for Vessels” means the exercise of that degree of skill,
+diligence and prudence which would reasonably and ordinarily be expected from a
+skilled and experienced Master or operator engaged in the operation of a vessel, which
+includes the application of good seamanship and adherence to recommendations of
+the OCIMF such as those contained in the International Safety Guide for Oil Tankers
+and Terminals (ISGOTT).
+1.5.34 “Technical Hold” means a temporary rejection of a Vessel and/or a Fleet by Trans
+Mountain.
+Uncontrolled when Printed
+Page 7 of 25
+1.5.35 “Vessel” has the meaning assigned by the definition of “Vessel” in the Trans Mountain
+ULC Petroleum Tariff Rules and Regulations Governing the Transportation of
+Petroleum.
+1.5.36 “Vessel Notice of Readiness” means a formal notice issued by the Vessel’s Master
+to Trans Mountain after berthing at the Terminal, indicating that the Vessel is ready in
+all respects to commence the transfer of Petroleum Products.
+1.5.37 “Vessel Proposal” means the nomination of a Vessel to call on Westridge Terminal
+by a shipper using OceanSmart.
+Uncontrolled when Printed
+Page 8 of 25
+2.0 AUTHORITY
+2.1 Right to Reject Vessel
+2.1.1 Trans Mountain reserves the right to reject any Vessel proposed by a shipper that
+does not meet all of the criteria and requirements of this Vessel Acceptance Standard.
+2.2 Reason to Reject Proposed Vessel
+2.2.1 A decision by Trans Mountain to reject a Vessel shall be based upon Trans Mountain’s
+assessment of the Vessel, having regard to Applicable Laws, Company Policies, and
+Standard Industry Practice for Vessels. Reasons for Trans Mountain rejecting a Vessel
+may include the following:
+2.2.1.1 The Vessel does not comply with Applicable Laws, including (without
+limitation) health, safety and/or environmental laws and regulations.
+2.2.1.2 The Vessel does not comply with Standard Industry Practice for Vessels.
+2.2.1.3 The Vessel does not satisfy all applicable safety, vapour recovery, dimension
+or other standards and criteria imposed by the Vancouver Fraser Port
+Authority (including, without limitation, the Port of Vancouver Harbour
+Master), or the Pacific Pilotage Authority.
+2.2.1.4 The Vessel does not comply with Company Policies.
+2.2.1.5 The Vessel is subject to legal restrictions including, but not limited to,
+international or national sanctions.
+2.2.1.6 Where Trans Mountain has identified a failure on the part of the Vessel to
+meet the requirements (or other concerns regarding) a Vessel’s Flag State,
+Acceptable Classification Society, International Group P&I Club, or its
+owners, operators, or managers.
+2.2.1.7 Where a Vessel has an existing Significant Deficiency, or where corrective
+actions to remedy a Significant Deficiency in accordance with Standard
+Industry Practice for Vessels have not been taken.
+2.2.1.8 Where a Vessel has been involved in a Serious Incident within the past six
+(6) months.
+2.2.1.9 Where a Vessel has been involved in a Serious Incident and corrective
+actions have not been taken in accordance with Standard Industry Practice
+for Vessels.
+2.2.1.10 Where a Significant Deficiency exists or a Significant Near Miss or a Serious
+Incident has occurred involving one or more other vessels owned, operated,
+or managed by the same entity (or related entities) that owns, operates, or
+manages the Vessel, and where corrective actions have not been taken in
+response in accordance with Standard Industry Practice for Vessel.
+2.2.1.11 Extensive fouling or degradation of the vessel’s hull and/or superstructure.
+2.2.2 Upon deciding to reject a proposed Vessel, Trans Mountain shall promptly inform the
+affected shipper in writing, together with the reason(s) for the rejection.
+Uncontrolled when Printed
+Page 9 of 25
+2.2.3 A rejected Vessel may re-apply for acceptance after rectifying those issues that led to
+the Vessel being initially rejected.
+2.3 Technical Hold
+2.3.1 Following a Significant Deficiency, a Serious Incident, or a Significant Near-Miss, or if
+its performance at the Terminal has been subject to unusual delay for reasons not
+caused by or attributed to Trans Mountain (accumulated to over four (4) hours during
+a single berth call) or equipment failure, Trans Mountain may place a technical hold (a
+“Technical Hold”) on a Vessel until such time as the matter has been resolved to the
+satisfaction of Trans Mountain acting reasonably.
+2.3.2 Trans Mountain maintains a confidential list of vessels on Technical Hold in
+OceanSmart. A Shipper preparing a Vessel Proposal shall be issued with an alert in
+OceanSmart if the subject vessel is on Technical Hold. The Shipper may advise the
+Vessel representative to directly contact Trans Mountain on such matters.
+2.3.3 Trans Mountain encourages shippers and Vessel representatives to provide Trans
+Mountain with a report as to the cause of any Significant Deficiency, Significant Near-
+Miss or Serious Incident that might have occurred during a Vessel’s call at the
+Terminal, together with a comprehensive root cause analysis and plans for corrective
+actions and to avoid recurrence.
+2.3.4 Trans Mountain may, in its sole and absolute discretion, extend the Technical Hold to
+all Vessels in the same Fleet if it determines there is a lack of effective and systematic
+implementation of appropriate corrective actions in response to a Significant
+Deficiency or Serious Incident involving a Vessel in the fleet.
+2.3.5 Placing and removing a Technical Hold on Vessels must be approved by the Director,
+Burnaby and Westridge Terminals after taking into consideration the status of effective
+and systematic implementation of appropriate corrective actions in response based on
+a comprehensive root cause analysis by the Vessel representative.
+Uncontrolled when Printed
+Page 10 of 25
+3.0 VESSEL ACCEPTANCE
+3.1 General
+3.1.1 The requirements of this Vessel Acceptance Standard shall apply every time a Vessel
+requests to call on the Terminal, regardless of whether or not the Vessel has previously
+qualified as an Accepted Vessel and called on the Terminal. However, a single Vessel
+acceptance may permit a Vessel to berth multiple times during a single voyage to allow
+cargo to be transferred in separate lifts.
+3.2 Vessel Proposal
+3.2.1 Shippers must submit a Vessel Proposal for each nominated Vessel in OceanSmart
+which includes the information contained within Annex A.
+3.3 Preliminary Acceptance
+3.3.1 Upon receipt of a Vessel Proposal, and prior to issuing a preliminary acceptance,
+Trans Mountain shall conduct a review of the Vessel based on information available
+to Trans Mountain to confirm that the Vessel meets requirements under this Standard,
+as follows:
+3.3.1.1 The Minimum Requirements (Section 1.4);
+3.3.1.2 All Applicable Laws, including health, safety and/or environmental laws,
+regulations, or industry standards, including those applicable to vessel crew
+qualifications and applicable OCIMF recommendations; and
+3.3.1.3 Confirmation that the Vessel has no outstanding deficiencies from PSC or
+SIRE inspections that might affect marine safety, or which could endanger
+Vessel or Trans Mountain personnel, the public, or have an adverse impact
+on the environment.
+3.3.2 During the review, Trans Mountain shall consider and assess the information
+submitted in respect of the Vessel in the Vessel Proposal and also consider other
+information in Trans Mountain’s records or obtained from other sources, including, but
+not limited to:
+3.3.2.1 Databases such as SIRE, OVID or Equasis;
+3.3.2.2 Port State Control inspection databases, and any reports/information
+submitted by or on behalf of the Vessel to Port State Control; and
+3.3.2.3 Records of any previous Serious Incidents, in which the Vessel or its owner,
+operator, or manager have been involved.
+3.3.3 During the Vessel screening, Trans Mountain shall also review and confirm:
+3.3.3.1 That the Vessel is configured and equipped appropriately for safe cargo
+operations at the Terminal;
+3.3.3.2 The validity of onboard trading certificates, including insurance; and
+3.3.3.3 That there are no Deficiencies that might materially affect Terminal safety or
+have an adverse impact on the environment;
+Uncontrolled when Printed
+Page 11 of 25
+3.3.4 Trans Mountain may request additional Vessel-related information as part of the
+review, including (without limitation) any outstanding items in SIRE or information
+found in other relevant databases.
+3.3.5 The results of the review shall be communicated to the Shipper within the response
+time frame mentioned in Section 1.3.
+3.4 Conditional Acceptance
+3.4.1 Despite a Vessel having received preliminary acceptance, Trans Mountain shall not
+assign it a berth at the Terminal until Trans Mountain has received a Master’s
+Declaration (Annex B).
+3.4.1.1 Subject to all items in the Master’s Declaration being with all items answered
+in the affirmative, Trans Mountain shall conditionally accept the Vessel and
+include it to the Terminal berthing schedule and inform the Shipper and the
+Vessel.
+3.4.1.2 To avoid potential for delays or disruption, it is recommended that Shippers
+submit the Master’s Declaration when submitting a Vessel Proposal, even if
+multiple Vessels are being proposed.
+3.5 Multiple Call Acceptance
+3.5.1 Trans Mountain may consider a Vessel Proposal for the acceptance of a single Vessel
+on multiple calls in respect of the same Nomination at the Terminal if deemed
+necessary for the shipper to comply with the Trans Mountain ULC Petroleum Tariff
+Rules and Regulations Governing the Transportation of Petroleum. In such cases, the
+second and subsequent Vessel acceptances within the same Nomination will be
+considered conditional and subject to the Vessel’s performance during the first Vessel
+call at the Terminal. Trans Mountain reserves the right to rescind acceptance for the
+second and subsequent calls if a Physical Inspection of the Vessel determines that it
+does not meet the requirements of this Vessel Acceptance Standard. In any event,
+however, the following shall be submitted by or on behalf of the Vessel prior to each
+subsequent call:
+3.5.1.1 Confirmation that there has been no material change to the condition of the
+Vessel or the qualifications and experience of its operating personnel since
+its previous call.
+3.5.1.2 A completed Master’s Declaration.
+3.6 Vessel Physical Inspection
+3.6.1 A Marine Interface Supervisor appointed by Trans Mountain shall conduct a physical
+inspection and review of the Vessel once it has berthed at Westridge Terminal to verify
+the information that was reviewed by Trans Mountain during the Vessel Proposal and
+the Vessel screening (the “Physical Inspection”). The Physical Inspection shall
+typically include (without limitation) general rounds of the Vessel, confirmation that all
+items and conditions in Trans Mountain’s Ship/Shore Safety Checklist are met, and a
+review of the Master’s Declaration. In the case of barges, the Physical Inspection shall
+include any attending tug as well.
+Uncontrolled when Printed
+Page 12 of 25
+3.6.2 Typically, Trans Mountain expects that a Physical Inspection shall require
+approximately two (2) hours, commencing from the time that its Marine Interface
+Supervisor is provided with safe access to the Vessel. The Marine Interface Supervisor
+shall request and confirm that any identified Deficiencies are corrected prior to Trans
+Mountain accepting the Vessel Notice of Readiness. Trans Mountain shall issue a
+LOP with copy to the Shipper in cases where a Physical Inspection has continued
+beyond three (3) hours.
+3.6.3 If a Significant Deficiency is identified the Vessel shall be deemed to be rejected and
+may be required to vacate the berth until any corrective action is completed.
+3.7 Withholding Petroleum Product Transfer Privilege to a Vessel at the Berth
+3.7.1 Typically, Trans Mountain will commence the transfer of Petroleum Products soon
+after it has accepted the Vessel Notice of Readiness.
+3.7.2 If however, Trans Mountain determines that commencing or continuing with the
+transfer of Petroleum Products to or from a particular Vessel is likely to compromise
+the safety of Westridge Terminal or has potential to cause adverse impact on the
+environment, or is likely to adversely affect the operational efficiency or capability of
+the Terminal, in either case due to a Deficiency or other Vessel-related issue, Trans
+Mountain may, cease transfer operations immediately, and, at its sole discretion,
+withdraw or restrict the Vessel’s transfer privileges.
+3.7.3 Upon ceasing transfer operations, Trans Mountain shall inform the Vessel Master, the
+Vessel port agent, and the affected shipper in writing of the reason for its decision.
+3.7.4 Depending on the nature of the Deficiency or other Vessel-related issue that results in
+the cessation of transfer operations, Trans Mountain may permit the Vessel to remain
+at berth, or to re-berth, and to conduct/resume the transfer of Petroleum Products after
+any outstanding Deficiency or Vessel-related issue has been satisfactorily addressed.
+In those circumstances, the following process shall be followed:
+3.7.4.1 The Vessel owner, operator, or manager shall provide Trans Mountain with
+a written corrective action plan followed by a completion report once the
+Deficiency or issue giving rise to the cessation of transfer operations has
+been rectified. In most cases, Trans Mountain will also require a Class report
+as well as any documentation issued by Governmental Authority, as
+applicable.
+3.7.4.2 Prior to resuming the transfer of Petroleum product Trans Mountain shall
+reassess the Vessel, which may include, but not limited to, a further review
+of Vessel trading and survey certificates and other documentation, a Physical
+Inspection, and a review of Vessel operating practices.
+4.0 ROLES AND RESPONSIBILITY
+4.1 Trans Mountain personnel who have responsibilities within the context of this
+document include the following:
+4.1.1 Director, Burnaby and Westridge Terminals
+4.1.1.1 Ensure all applicable Trans Mountain Company Policies are followed.
+Uncontrolled when Printed
+Page 13 of 25
+4.1.1.2 Delegate the routine application of this Vessel Acceptance Standard to the
+Manager Marine Logistics.
+4.1.1.3 Review and approve all cases of Vessel rejection or Technical Hold status.
+4.1.1.4 Review all requests for waiver from any requirements under this Standard
+and either accept or deny the request.
+4.1.2 Manager, Marine Logistics
+4.1.2.1 Appoint the Marine Interface Supervisor.
+4.1.2.2 Apply the requirements of this Vessel Acceptance Standard for all Vessel
+calls at the Terminal; undertake occasional compliance checks on Vessels
+and otherwise apply all Company Policies as required.
+4.1.2.3 Review and recommend Vessel rejection or Technical Hold, or changes in
+such status.
+4.1.2.4 Review cases of Vessel delay at the Terminal and determine how similar
+delays could be avoided or mitigated in future.
+4.1.2.5 Regularly consult with shippers on marine issues and concerns, including
+with respect to the application of this Vessel Acceptance Standard.
+4.1.2.6 Review the implementation of this Standard to confirm compliance with
+operating procedures and meeting of applicable goals and objectives.
+4.1.3 Marine Interface Supervisor
+4.1.3.1 Undertake role of the onboard Terminal representative
+4.1.3.2 Conduct a Physical Inspection in accordance with this Standard and
+recommend whether a Vessel would be acceptable or denied berthing and
+petroleum transfer privileges at Westridge Terminal.
+4.1.3.3 Maintain necessary records to substantiate whether a Vessel meets all
+applicable criteria, or not.
+4.1.3.4 Conduct required onboard checks and inspections and assist as needed.
+4.1.3.5 Review, and if deemed necessary, investigate concerns about the Vessel or
+Vessel operations at the berth.
+4.1.3.6 Suspend or cease the transfer of Petroleum Products immediately where it
+is determined that commencing or continuing with the transfer could
+endanger personnel, the public, or the environment.
+4.1.4 Westridge Operations Team
+4.1.4.1 Support the Vessel-Terminal interface in accordance with Trans Mountain
+operating procedures and relevant global oil tanker and Terminal safe
+operating practices.
+4.1.4.2 Undertake Vessel mooring/unmooring, connection/disconnection of marine
+loading arms or transfer hoses, regulate the flow of petroleum products,
+immediately cease the transfer and initiate emergency response if
+necessary.
+Uncontrolled when Printed
+Page 14 of 25
+4.1.4.3 Report any concerns about the Vessel to the Marine Interface Supervisor.
+4.1.4.4 A member of this team will be designated as the onshore Terminal
+representative. For reasons of practicality, the role of Terminal representative
+will be transferred between different members of the Westridge Operations
+Team depending on shift patterns and compliance with hours of work
+agreements and regulations.
+4.1.5 Shipper Services
+4.1.5.1 Be the key point of contact on commercial matters and liaise with pipeline
+shippers as necessary.
+5.0 CONTINUOUS IMPROVEMENT
+5.1 From time to time, Trans Mountain may request to review a shipper's Vessel selection
+and proposal process to further support and refine the objectives of this Standard.
+6.0 RECORD KEEPING
+6.1 Records pertaining to all tasks undertaken and information gathered to comply with
+this procedure will be maintained in OceanSmart.
+Uncontrolled when Printed
+Page 15 of 25
+7.0 REFERENCES
+7.1 Trans Mountain encourages Shippers, Vessel owners, operators, and managers to
+familiarize themselves with these documents, which are listed here for ease of
+reference.
+7.2 Documents
+No. Document Name Remarks
+1 Port of Vancouver: Port Information Guide Provides instructions on navigating the Port of
+Vancouver.
+portofvancouver.com/portusers/marineoperations/manuals
+andregulations.aspx
+2 Trans Mountain Vessel Acceptance Standard and associated Describes the VAS and how it is implemented
+procedures and documents
+3 Pacific Pilotage Authority industry publications and notices Provides instructions on the use of pilots and
+escort tugs pertaining to the west coast of
+https://www.ppa.gc.ca/Publications%20%26%20Industry%2
+Canada.
+0Notices
+4 Transportation Safety Board Regulations, SOR/2014-37, Provides guidance on the reporting of marine
+occurrences
+https://laws-lois.justice.gc.ca/eng/Regulations/SOR-2014-
+37/page-1.html#h-810239
+5 BC Chamber of Shipping: Advisory to Ship Masters and Provides instructions on anchoring in the Port of
+Agents: Anchorage Guidelines Vancouver. Agent to provide copy to Master
+prior to vessel’s arrival.
+6 International Safety Guide for Oil Tankers and Terminals Provides general safety guidelines for oil tankers
+(ISGOTT) and terminals
+https://www.ocimf.org/publications/books/international-
+safety-guide-for-tankers-and-terminals-1
+7 Oil Company International Marine Forum Ship Inspection Provides information on required vessel
+Report Programme (SIRE) inspections
+https://www.ocimf.org/programmes/sire
+8 International Convention for the Safety of Life at Sea (SOLAS An international treaty that concerns the safety
+74) of merchant ships.
+https://www.imo.org/en/About/Conventions/Pages/Interna
+tional-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS),-
+1974.aspx
+9 Canadian Coast Guard (CCG) Notice to Mariners Informs mariners of important navigational
+safety matters affecting Canadian waters.
+notmar.gc.ca/
+Annual Notices to Mariners
+notmar.gc.ca/publications/annual-annuel/annual-notices-to-
+mariners-eng.pdf
+Uncontrolled when Printed
+Page 16 of 25
+No. Document Name Remarks
+10 Canadian Hydrographic Service (CHS) Chart No.3495 Vessel to carry Chart No.3495 for accessing
+Vancouver Harbour Eastern Portion (or equivalent) WMT.
+Vessel to carry other charts as required.
+All navigation charts must be corrected and up
+to date with recent Notices to Mariners.
+11 WCMRC Membership Agreement Must be completed prior to entering Canadian
+waters. Valid for one year.
+cosbc.ca/index.php/our-services/oil-spill-
+response/registration-process
+12 Guidelines for the Reduction of Underwater Noise from Provides information on impact of underwater
+Commercial Shipping to Address Adverse Impacts on Marine noise radiations from vessels and means to
+Life minimize it.
+intertanko.com/upload/98595/Guidelines%20For%20The%2
+0Reduction%20Of%20Underwater%20Noise.pdf
+13 ECHO Program Noise Infographic, April 2016 Provides information on impact of underwater
+noise from vessels.
+https://www.portvancouver.com/wp-
+content/uploads/2016/04/ECHO-Program-Underwater-
+Noise-Infographic-April-2016.pdf
+14 Mariner’s Guide to Whales, Dolphins and Porpoises of Useful reference guide on marine mammals on
+Western Canada the BC coast.
+https://wildwhales.org/learn/mariners-guide/
+15 Minimum standards for in-water cleaning of biofouling on Table 1 (Level of fouling scale to quantify hull
+vessels in Australian waters fouling on vessel hulls) of this document
+provides guidance on rating the degree of
+fouling on a vessel.
+16 MEPC ANNEX 26 2011 Guidelines for the control and
+management of ship’s biofouling to minimize the
+RESOLUTION MEPC.207(62)
+transfer of invasive aquatic species (including
+Adopted on 15 July 2011 any future updates to the same issued by the
+IMO/MEPC).
+https://wwwcdn.imo.org/localresources/en/OurWork/Envir
+onment/Documents/RESOLUTION%20MEPC.207[62].pdf
+Uncontrolled when Printed
+Page 17 of 25
+ANNEX A
+Vessel Proposal and Information Checklist
+The following information shall be provided by the Shipper via OceanSmart at the time of Vessel
+Proposal:
+A. General Information:
+i. Vessel name and IMO #
+ii. Load Window or Dock Window Start date:
+iii. Vessel contact information:
+iv. Ship manager’s contact information:
+B. Confirmation by the Shipper of having conducted due diligence prior to proposing the Vessel
+to confirm to the best of the Shipper’s knowledge of the following,
+i. The Vessel is not a sanctioned Vessel, is deemed seaworthy, in Class, is adequately
+insured against marine liability risks, and is operated under a certified safety and/or
+quality management system as per Applicable Laws, including all relevant Port of
+Vancouver regulations contained in the current Vancouver Fraser Port Authority Port
+Information Guide.
+ii. The Vessel, on the date of its proposal, is not subject to a health safety order, or potential
+thereof.
+iii. That the Vessel has been recorded in the SIRE or OVID database (as applicable) not
+more than seven (7) months previously and in the Shipper’s, opinion is fit to undertake
+the intended voyage.
+iv. The Vessel meets all requirements of Trans Mountain Corporation’s Vessel Acceptance
+Standard, including age of the Vessel/s.
+v. The Vessel’s officers involved in cargo operations are verbally proficient in English.
+vi. The Vessel is capable of maintaining less than 6% oxygen content in cargo tanks.
+vii. Confirm that the Vessel is able to support helicopter winching on and off the vessel of a
+marine pilot as required.
+viii. The Vessel has provided the necessary supporting documentation and Trans Mountain
+is hereby authorized to seek any additional information directly from the Vessel or its
+owner, operator, or manager.
+ix. Shipper is aware and accepts that Trans Mountain is required to share cargo oil related
+information, including grade, quantity and quality details with the vessel and its
+appointed port agent for purposes of conducting a safe product transfer, stowage,
+confirmation of custody transfer, manifest and customs’ clearance of the vessel and to
+comply with typical and customary reporting and documentation necessary at the Port
+of Vancouver.
+C. Supporting documentation
+i. Status of any open PSC deficiencies and/or Conditions of Class with planned corrective
+actions
+ii. Civil Liability Certificate (1992 Convention)
+iii. Vessel/Class Status Report (date stamp not exceeding 30 days)
+iv. Certificate of Inspection and Certificate of Documentation (applicable to US flag vessels
+only)
+v. P&I club Certificate of Entry
+vi. Vessel’s Safety Management Certificate
+vii. Last hull cleaning and propellor cleaning report
+viii. A copy of the official mooring plan of the Vessel
+ix. Cargo Tank Gas Tightness Certificate (or similar)
+x. Manifold drain line diagram
+Uncontrolled when Printed
+Page 18 of 25
+xi. Photographs of the Vessel’s stern showing the 200T escort tug towing chock and
+strongpoint.
+xii. Condition Assessment Program (CAP) certificate for hull (CAP Hull) and machinery and
+cargo systems (CAP MC). Applies to tankers over 15 years old.
+xiii. Certificate of inspection confirming that the vessel has been inspected and found free of
+FSMC (Flighted Spongy Moth Complex, previously known as AGM- Asian Gypsy Moth) prior to
+departing for Canada. Applies to vessels arriving from FSMC (Flighted Spongy Moth
+Complex) risk area (e.g., Far-east Russia, Japan, or Korea)
+D. Commitment by the shipper to undertake the following actions if the Vessel receives
+preliminary acceptance from Trans Mountain, and subsequently declared as the Lifting Vessel
+by the Shipper.
+i. Request the Vessel to immediately submit a completed Master’s Declaration (Annex B)
+with all items confirmed in the affirmative. Trans Mountain will not schedule a berth for
+the Vessel until this has been received by Trans Mountain.
+ii. Obtain a special waiver letter from the Vancouver Fraser Port Authority (i.e., the Port of
+Vancouver) and Pacific Pilotage Authority if vessel LOA exceeds 250m.
+iii. To instruct the Vessel to provide the Terminal with appropriate notices of arrival and
+otherwise conduct Vessel activities in accordance with information provided in the
+Westridge Marine Terminal Information Package (consisting of links to the Vessel
+Acceptance Standard, the Westridge Marine Terminal Regulations and Operations Guide
+and the Westridge Marine Terminal Emergency Response Plan) and otherwise follow
+local guidance to facilitate a safe, efficient, and otherwise smooth turnaround of the
+Vessel.
+iv. Request the Vessel to immediately inform the Terminal if at any time the Vessel’s actual
+operating conditions deviate from earlier provided information, or whenever there is a
+potential for change in normal Vessel operating conditions.
+v. Nominate, or cause to be nominated, a port agent, and instruct the appointed agent to
+cooperate and follow guidance from the Terminal. Preferred Port Agents shall have
+access to OceanSmart, which the agent is required to use when providing regular notices
+and updates on the vessel’s status to Trans Mountain. A list of preferred port agents is
+provided in OceanSmart.
+vi. Ensure that an arrangement for oil spill response is in place with WCMRC.
+vii. Ensure that escort tug services for loaded tankers between “Buoy QA” and ‘Buoy J” are
+requisitioned from the contracted service provider, which is currently KOTUG Canada,
+and have the vessel confirm that to Trans Mountain. (Note: Extended escort between
+Race Rocks and Buoy J will only be applicable to vessels loading oil after the
+commencement of Expanded System service.)
+viii. Instruct the Vessel to avail of Early Departure Procedures (EDP), whenever possible to
+do so.
+ix. Instruct the Vessel to procure and use pilot and tug services as required by the Port of
+Vancouver, the Pacific Pilotage Authority and Trans Mountain, and any other service
+necessary for the Vessel call.
+x. Inform the Vessel of its obligation to promptly pay any costs, taxes, duties, charges,
+levies, including any assessments imposed by the Vancouver Fraser Port Authority (i.e.,
+the Port of Vancouver).
+Uncontrolled when Printed
+Page 19 of 25
+ANNEX B
+Master’s Declaration
+The Master or a person designated by the Master, including the ship manager shall confirm the Vessel’s
+ability and agreement to comply with all items in this Declaration.
+1.0 CONFIRM VESSEL AND MASTER’S RESPONSIBILITIES
+1.1 The Master will always remain responsible for the Vessel’s safe operation and the safety of the crew.
+1.2 The Vessel is operated in accordance with a safety and/or quality management system certified in
+accordance with requirements of the International Safety Management Code (ISM) or the American
+Waterways Operators (AWO) “Responsible Carrier Program” (RCP) or similar.
+1.3 The Vessel carries ALL required and customary certificates of compliance and those shall remain valid
+during the vessel’s call at the Terminal.
+1.4 A Ship Security Plan appropriate to the Vessel’s Flag has been implemented.
+1.5 A Drug and Alcohol Policy that meets The Oil Companies International Marine Forum (OCIMF)
+recommendations has been implemented onboard.
+1.6 All persons onboard are healthy, and the Vessel is not currently subject to quarantine restrictions and
+such/similar restrictions are not anticipated to be in place for the Vessel upon its arrival at the
+Terminal.
+1.7 In case of any incident or risk of any incident within Canada’s Exclusive Economic Zone (EEZ),
+including, but not limited to, loss of power or steering, collision, grounding, oil spill, fire onboard,
+serious injury, or a marine occurrence as defined in section 3(1) of the Transportation Safety
+Regulations, the Vessel will immediately inform Marine Communications and Traffic Services
+(“MCTS”), the Canadian Coast Guard (“CCG”), and Western Canada Marine Response Corporation
+(“WCMRC”).
+1.8 The Master agrees to provide all necessary and requested support to help mitigate any emergency
+situation at the berth involving the Vessel, including (without limitation) an oil spill or threat of oil
+spill or a marine occurrence.
+1.9 The Vessel has in place appropriate marine emergencies response arrangements that satisfy all
+Applicable Laws of Canada and the USA and shall notify all Governmental Authorities appropriately
+in case of a marine emergency.
+1.10 The Master agrees to be guided by and follow Terminal instructions, unless deemed to be unsafe by
+the Master, and shall provide timely notices and updates to the Terminal (Details in Section 3 of this
+Annex).
+1.11 Vessel shall navigate within the designated marine traffic corridors and comply with relevant rules of
+Transport Canada, the Pacific Pilotage Authority, and the Vancouver Fraser Port Authority, as
+amended from time to time, always consistent with safe navigation at the discretion of the Master.
+Uncontrolled when Printed
+Page 20 of 25
+1.12 The Vessel shall procure and use pilot and tug services, which will include a suitable tug to assist in
+securing and releasing mooring lines, as required by the Vancouver Fraser Port Authority (i.e., the
+Port of Vancouver), the Pacific Pilotage Authority and Trans Mountain Westridge Marine Terminal,
+and any other services necessary for the Vessel call. A vessel less than 10,000 GT may be able to
+obtain a pilot waiver from the Pacific Pilotage Authority.
+1.13 The Vessel shall promptly pay any costs, taxes, duties, charges, levies, related to this port call,
+including any assessments imposed by the Vancouver Fraser Port Authority (i.e., the Port of
+Vancouver).
+1.14 Master shall ensure that there are a sufficient number of English speaking watchkeepers available to
+effectively communicate with others regarding navigation, loading/discharging and bunker
+operations.
+1.15 Officer and crew fatigue management shall be planned with due consideration of the expected length
+of time under pilotage and port stay activities.
+1.16 In the event of a collision, allision or grounding, the Master shall promptly obtain computerized,
+shore-based damage stability and residual structural strength information and confirms that he/she
+has the authority to do so directly without awaiting additional approval from the Vessel owner,
+operator, or manager.
+1.17 In the event of a marine occurrence that may require salvage, the Master confirms that he or she is
+authorized to promptly enter into a Lloyd's Open Form Agreement with SCOPIC clause with a salvor
+of his/her choice without having to seek additional approval from the Vessel owner, operator, or
+manager.
+1.18 To facilitate a safe and efficient turnaround at the Terminal, Trans Mountain shall share with the
+vessel various information, including information related to Trans Mountain and Shippers on the
+Trans Mountain pipeline system, as well as cargo oil related information, such as product type,
+quantity and quality details, destination, etc. which may be commercially sensitive to Trans Mountain
+or Shippers. Master shall apply due discretion and consideration in distribution of such information
+and, unless otherwise requested by the Shipper, only use it for purposes of conducting a safe product
+transfer, stowage, confirmation of custody transfer, preparation of cargo manifests and customs’
+clearance of the vessel and to comply with typical and customary reporting and documentation
+necessary at the Port of Vancouver.
+Uncontrolled when Printed
+Page 21 of 25
+2.0 CONFIRM VESSEL CONDITION
+2.1 There are no recent (within 30 days) outstanding or unaddressed observations on record in the SIRE
+database.
+2.2 There have been no recent (within 30 days) incidents involving vessel grounding, collision, oil
+pollution, fatality onboard or detention by Port State Control.
+2.3 All Vessel equipment (bridge, propulsion, mooring or cargo) is in good working order with no
+deficiencies.
+2.4 The Vessel has no structural integrity defects and all cargo and ballast tank spaces, as well as any
+ballast lines passing through oil tanks (including fuel oil tanks) have been checked and confirmed free
+of defects.
+2.5 The Vessel’s topsides and superstructure are in good cosmetic condition with clearly painted name,
+port of registry, draft marks, tug push marks, etc.
+2.6 The Vessel monitors and controls fouling of its submerged surfaces. Vessels that arrive with their
+visible submerged surfaces fouled in excess of 10% shall be issued with LOP by the Terminal.
+Extensively fouled vessels would be rejected for future calls.
+2.7 All cargo tanks are in suitable condition for carriage of the nominated cargo. The Terminal does not
+issue cargo tank preparation instructions and does not require cargo tanks to be purged.
+2.8 Arrangements have been made to limit water collecting on deck and sufficient crew shall be allocated
+to facilitate the timely monitoring and proper disposal of the water.
+2.9 Clear deck space is available for placement of shore gangway forward or aft of the manifold,
+dependent on direction the Vessel is berthed alongside.
+2.10 The Vessel’s Inert Gas system (IGS) has been checked and confirmed functioning satisfactorily, and
+cargo tanks shall be maintained with oxygen content at or below 6%.
+2.11 Portable gas meters, including H2S monitoring units, shall be used by the crew appropriately while
+the vessel is alongside. These are in good working order and have been duly calibrated.
+2.12 The Vessel’s Vapour Collection System shall be checked prior to the vessel's arrival and the piping
+system will be drained and dry and prepared for connection the Terminal’s 300 mm (12 inch) vapour
+return line. Class approved VOC (Volatile Organic Compound) Management Plan is implemented and
+available for review by the Marine Interface Supervisor.
+2.13 All cargo tank automatic level gauges in CCR, high-level and overfill alarms, etc. have been verified as
+fully functional and accurate. Certified and calibrated Manual UTI or MMC tank gauging equipment
+appropriate for closed loading are also available if necessary.
+2.14 All cargo tank and system openings and fittings are oil or gas tight and pressure relief devices are
+appropriately set.
+Uncontrolled when Printed
+Page 22 of 25
+2.15 The closing time of remotely operated cargo tank valves and other inline loading valves have been
+adjusted in accordance with recommendations in The International Safety Guide for Oil Tankers and
+Terminals (ISGOTT)
+3.0 LOCAL OPERATING GUIDANCE
+These are binding requests. Additional port call specific guidance shall be provided.
+The Master is encouraged to consult with the Vessel’s Port Agent with regard to compliance with any
+of the items included in this section of the Master’s Declaration. Additional guidance (after berthing)
+may be obtained from the assigned Marine Interface Supervisor.
+3.1 Become familiar with Terminal Regulations as provided in the Westridge Marine Terminal Regulations
+and Operations Guide (WMTROG), which includes the Westridge Marine Terminal Oil Pollution
+Prevention Plan.
+3.2 Become familiar with Trans Mountain’s Marine Mammal Protection Program (MMPP) and abide by
+requirements and guidance provided in the document.
+3.3 Review VFPA EcoAction Program requirements at https://www.portvancouver.com/environmental-
+protection-at-the-port-of-vancouver/climate-action-at-the-port-of-vancouver/ecoaction-program/
+for vessel eligibility and information.
+3.4 Secure all bilge overboard discharge valves and place under charge of the Chief Engineer while vessel
+is within Canada’s Exclusive Economic Zone (EEZ).
+3.5 Prior to arrival the vessel must enter into an agreement appointing WCMRC as the designated Spill
+Response Agency in Canadian waters.
+3.6 Use fuel in main engines and auxiliary engines appropriate for operating in the North American
+Emission Control Area for Marine Vessels and ensure fuel changeover is carried out in accordance
+with ship-specific procedures.
+3.7 If a Vessel is fitted with Exhaust Gas Cleaning Systems (“ECGS”), check to confirm if there are any
+restrictions to its use within the Port of Vancouver depending on the type of equipment, e.g., open-
+loop, closed-loop, or hybrid.
+3.8 Test controls prior to entering or getting underway in Canada's territorial sea (12 nm limit) and record
+in the ship's logbook. Tests must include, but not limited to, operating the main engines in both ahead
+and astern directions, completing steering system checks in accordance with SOLAS and checking of
+all navigation equipment. Report any deficiency immediately to Canadian Coast Guard and the
+Terminal.
+3.9 Provide 96-, 72-, 48-, 24- and 12-hours eta (estimated time of arrival) notices or upon
+passing/reaching the following locations:
+Uncontrolled when Printed
+Page 23 of 25
+3.9.1 Offshore waiting area based within five (5) nautical miles of
+Lat: 48 Deg 07’ 00” N Long: 126 Deg 07’ 00” W
+3.9.2 Westridge Marine Terminal or at an anchorage.
+Terminal recommends that arriving vessels remain at the waiting area till called to berth.
+Alternatively, in consultation with its port agent, Master may seek an anchorage if one is available.
+3.10 Receive advice from the Terminal, including the Terminal Marine Interface Supervisor appointed to
+your Vessel by the Terminal and take due consideration of such advice in the conduct of Vessel’s
+operations, unless unable to do so due to safety reasons.
+3.11 Respect the rights of the residents in surrounding neighborhoods to the Terminal and minimize noise,
+odour, or other concerns from vessel operations. Master confirms that Vessel’s main engine and
+auxiliary engines are fitted with exhaust silencers and those are well maintained and in good
+condition.
+3.12 Whether at anchor or at berth, please keep the use of deck lights to a level consistent with safety and
+operational requirements only and avoid unnecessary glare from deck lights.
+3.13 Exercise and practice good seamanship throughout the vessel’s transit with due regard to fishing and
+recreational vessels. Pay extra caution near Swiftsure Bank, where many commercial and recreational
+fishing vessels may be encountered.
+3.14 Be aware of and comply with the prevailing local practices and navigation initiatives designed to
+reduce the impact of marine shipping on marine mammals, including those communicated by the
+Enhancing Cetacean Habitat and Observation (“ECHO”) Program or any other practices required or
+requested by Government authorities.
+3.15 Please obtain a copy of Mariner’s Guide to Whales, Dolphins, and Porpoises of Western Canada and
+report to the appropriate authority any instance of the vessel striking a marine mammal or becoming
+aware of a marine mammal in distress. The publication can be downloaded from Here.
+3.16 Arrange for tug escort services from KOTUG Canada for the tanker laden passage, suitable for
+foreseeable meteorological and ocean conditions, between the Port of Vancouver boundary (“Buoy
+QA”) and “Buoy J” and provide confirmation to the Terminal. Be aware that if a suitable escort tug is
+not available then the tanker must delay its departure passage till such time as one becomes
+available. Additional guidance shall be provided by the Marine Interface Supervisor during the
+vessel’s stay at the Terminal.
+3.17 For any vessel planning a Trans-Pacific voyage, upon departure from the Juan de Fuca Straits, after
+passing “Buoy J” steer a course no more northerly than due west (270°) until the vessel is outside the
+Canadian EEZ (200 NM from the coast of Canada), weather and safe navigation permitting.
+3.18 Update the Shipboard Oil Pollution Emergency Plan (SOPEP) and the Shipboard Marine Pollution
+Emergency Plan (SMPEP) local contacts list with appropriate contact details for the Canadian Coast
+Guard and Western Canada Marine Response Corporation (WCMRC) and post a copy in the Cargo
+Control Room for information of the officer on duty.
+Uncontrolled when Printed
+Page 24 of 25
+3.19 If arriving from FSMC (Flighted Spongy Moth Complex previously known as AGM- Asian Gypsy Moth)
+risk area (e.g., Far-east Russia, Japan, or Korea) during the FSMC risk period thoroughly check the
+vessel for FSMC masses and immediately inform the Canadian Coast Guard and Terminal if any found.
+Expect considerable delay in berthing in case of FSMC infestation onboard the Vessel.
+Uncontrolled when Printed
+Page 25 of 25

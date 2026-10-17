@@ -1,0 +1,120 @@
+Marine Terminal Information System
+The Marine Terminal Information System (MTIS) aims to ensure that all marine terminals worldwide reach common high standards of safety and environmental protection.
+Login to MTIS
+Apply Now
+Help Centre
+Terminal Map
+About MTIS
+OCIMF’s Marine Terminal Information System Programme (MTIS) is a comprehensive terminal management tool, an operator training programme and a terminal/berth particulars database that supports safe terminal operations. Its objective is to compile a comprehensive database of relevant information for all of the world’s 4,000+ terminals – from the hardware available to berth measurements and transfer rates. The MTIS database provides terminal and vessel operators, along with charters and associated services, with a single, central storage of terminal specifics in a consistent format.
+The Programme works by providing terminal operators with a management self assessment tool to measure and improve performance, an operator competency and training programme and a database in which to enter and share dimensional information to facilitate safe berth requirements. With terminal information collected and shared in a common format using consistent units of measurement, schedulers and operators can better assess the compatibility of ships and terminals and ensure safe operation and environmental protection.
+The MTIS Goal
+Developed with the aim of filling the gaps that exist in the international standards for terminals, the goal of MTIS is to ensure that all terminals worldwide reach a common high standard of safety and environmental protection.
+Improving safety
+Optimising efficiency
+Increasing visibility
+OCIMF MTIS Introduction
+MTIS: Raising terminal standards
+Regulated by OCIMF, the neutral and fully independent voice of the industry, MTIS aims to raise standards across the marine terminal industry. It provides big benefits to both terminal operators and tanker shipping companies through the structured sharing of terminal information and practices.
+Developed with the main aim of improving safety and environmental protection, and with terminal operational effectiveness at the forefront of its design, this free service is available globally online to companies in the marine transportation industry.
+Reduced Administration
+A single, central and consistent source of terminal information.
+Reduced Incidents
+Higher safety standards.
+Improved Efficiency
+Better, faster matching of terminals and ships.
+Full Security
+Terminal operators retain full ownership, control and management of their data.
+Standard, Consistent Terminal Information
+MTIS offers a consolidated safety system, embracing the physical properties of the terminal, management systems and operator training.
+Developed to collect terminal information in a common format using consistent units of measurement, schedulers and operators will be able to better assess the compatibility of ships and terminals, and ensure safe operation and environmental protection.
+Through MTIS, a range of terminal management documents are available to assist operators in ongoing review and improvements efforts, including: MTPQ - Marine Terminal Particulars Questionnaire, MTMSA - Marine Terminal Management and Self Assessment, MTOCT - Marine Terminal Operator Competencies and Training.
+Free Information Sharing Platform
+With the shared aim of improving marine safety, MTIS is a free service for both Terminal Operators and terminal users - known in MTIS as Data Users. Both types of user are invited to register through the MTIS website and begin freely sharing ship-to-shore compatibility data.
+To ensure user-friendliness, MTIS has been developed as part of OCIMF’s marine management systems portfolio, and has the same look, feel and features as popular and widely used tools, such as TMSA and SIRE. Members can also be confident that security is, as ever, at the heart of software development and their information will only be shared in the ways they have specified.
+Further information about MTIS and answers to commonly asked questions can be found in the MTIS Help Centre.
+Global Integration
+With the objective to compile a comprehensive database of relevant information for all of the world’s 4,000+ terminals – from the hardware available, to berth measurements and transfer rates – MTIS will complement similar work already being done by OCIMF and its members to improve ship safety and environmental protection.
+The MTIS database will provide terminal and vessel operators, along with charters and associated services, with a single, central storage of terminal specifics in a consistent format.
+The successful global coverage of MTIS will provide the opportunity to establish a terminal identification number, similar to the IMO number adopted by the shipping industry, thereby providing the opportunity and ability for companies to integrate personal terminal management systems with MTIS to improve compatibility and safety protection levels.
+Two-factor Authentication
+To increase security, OCIMF will be rolling out two-factor authentication (2FA) in SIRE and MTIS from 4 February 2019.
+Read More
+Marine Terminal Information Booklet
+OCIMF released a new information paper, Marine Terminal Information Booklet: Guidelines and Recommendations, on 18 September.
+Read More
+89th Ports and Terminals Committee
+89th meeting: 17–18 October, Houston, USA (hosted by Hess)
+Read More
+Marine Terminal Information System Update
+The Marine Terminal Information System (MTIS) was launched in 2011 as a way to improve ship-to-shore safety management and improve communication streams between ship and terminal operators.
+Read More
+Improving Usability: MTIS Site Undergoes Feedback-Led Refresh
+In May 2018, the MTIS site underwent its biggest overhaul since launching in 2011.
+Read More
+Recent Terminals
+The latest terminals to join MTIS:
+Read More
+88th Ports and Terminals Committee
+The Ports and Terminals Committee (PTC) held their 88th meeting on 18–19 April in Singapore.
+Read More
+87th Ports and Terminals Committee
+The Ports and Terminals Committee (PTC) held their 87th meeting on 18–19 October in London, UK.
+Read More
+86th Ports and Terminals Committee
+The Ports and Terminals Committee (PTC) held their 86th meeting on 26–27 April in Houston, USA.
+Read More
+1
+2
+3
+Videos
+MTIS Tutorial - Help Centre
+Finding answers to your questions: this short video explains the MTIS Help Centre, how to use the tools to support use of the MTIS programme and how to find answers...
+Read More
+Videos
+MTIS Tutorial - Add, Update, Amend Terminal Details
+Using MTIS: This short video outlines fundamental MTIS functions, including adding, updating and amending terminal details...
+Read More
+Videos
+MTIS Tutorial - New Features & Functionality
+What’s new? This short video details new MTIS features and functionality and how they can be used to improve the MTIS experience...
+Read More
+Videos
+MTIS Tutorial - First Time Sign In And Population Tool
+MTIS account support. This short video outlines signing into an MTIS account for the first time and how to use the Population Tool to efficiently add terminal berths to an...
+Read More
+Videos
+2 Nov
+MTIS Tutorial - Help Centre
+Finding answers to your questions: this short video explains the...
+Videos
+2 Nov
+MTIS Tutorial - Add, Update, Amend Terminal Details
+Using MTIS: This short video outlines fundamental MTIS functions, including...
+Videos
+2 Nov
+MTIS Tutorial - New Features & Functionality
+What’s new? This short video details new MTIS features...
+Videos
+2 Nov
+MTIS Tutorial - First Time Sign In And Population Tool
+MTIS account support. This short video outlines signing into an...
+1
+Marine Terminal Particulars Questionnaire
+The backbone to MTIS, the Marine Terminal Particulars Questionnaire (MTPQ) assists in the collation of a global database for the world’s 4,000+ terminals.
+Read More
+MTIS Login
+With the aim of improving marine safety, MTIS is a free service for terminal operators and terminal users - known in MTIS as Data Users. In time, successful global coverage of MTIS will provide the opportunity to establish a terminal identification number, similar to the IMO number adopted by the shipping industry for vessels. This will provide the industry with the opportunity and ability for companies to integrate terminal management systems with MTIS to improve compatibility and safety protection levels.
+Terminal operators and terminal users are invited to register for MTIS here and begin freely sharing ship-to-shore compatibility data.
+LOGIN HERE
+Contact Us
+So that we can provide you with the help and support you need, when you need it, we have attempted to answer many of the frequently asked MTIS questions on our
+FAQs page
+, which can be accessed 24/7.
+If you are enquiring about a recent MTIS application, please be assured that we will be in contact with you as some as we have completed the relevant checks.
+If you still have a query, you can find the ways to contact us
+here
+.
+Members' Newsletter
+Thanks for subscribing!
+Sorry, it's not currently possible to subscribe to our newsletter at the moment. Please try again later.
+Subscribe to our email newsletter and stay up to date with the current OCIMF news.

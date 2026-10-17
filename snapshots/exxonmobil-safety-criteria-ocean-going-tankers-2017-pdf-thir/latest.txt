@@ -1,0 +1,2263 @@
+`
+MARINE ENVIRONMENTAL, SAFETY
+AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS
+IN EXXONMOBIL AFFILIATE SERVICE
+2017 Edition
+INTERNATIONAL MARINE TRANSPORTATION SINGAPORE PTE. LTD.
+8 Jurong Town Hall Road
+#11-01/06, The JTC Summit, Singapore 609434
+Singapore Pte Ltd. International Marine Transportation Singapore Pte Ltd, International Marine Transportation Limited and SeaRiver Maritime, Inc. apply these criteria
+within their respective organizations when evaluating third party seagoing tanker vessels proposed for ExxonMobil affiliate service.
+-2-
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN
+EXXONMOBIL AFFILIATE SERVICE
+INDEX
+LIST OF ABBREVIATIONS ................................................................................................... 3
+INTRODUCTION .................................................................................................................. 5
+SUITABILITY TO CARRY EXXONMOBIL AFFILIATE CARGOES ........................................ 7
+CHANGE OF OWNER AND/OR TECHNICAL OPERATOR.................................................. 7
+TANKER MANAGEMENT SELF ASSESSMENT (TMSA) ..................................................... 7
+THIRD PARTY VESSEL INSPECTIONS .............................................................................. 8
+INCIDENT NOTIFICATION AND INVESTIGATION .............................................................. 9
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIAS............ 12
+SECTION A GENERAL INFORMATION ........................................................................ 12
+SECTION B CREW MANAGEMENT .............................................................................. 13
+SECTION C CREW MATRIX REQUIREMENTS ............................................................ 15
+SECTION D NAVIGATION ............................................................................................. 17
+SECTION E SAFETY AND SECURITY MANAGEMENT ................................................ 20
+SECTION F POLLUTION PREVENTION ....................................................................... 24
+SECTION G STRUCTURAL CONDITION ...................................................................... 28
+SECTION H CARGO AND BALLAST SYSTEMS ........................................................... 31
+SECTION J INERT GAS AND CRUDE OIL WASHING SYSTEMS ............................... 36
+SECTION K MOORING.................................................................................................. 38
+SECTION L COMMUNICATIONS .................................................................................. 41
+SECTION M ENGINE ROOM AND STEERING GEAR ................................................... 42
+SECTION N GENERAL APPEARANCE AND CONDITION............................................ 45
+SECTION P SHIP TO SHIP TRANSFER SUPPLEMENT ............................................... 46
+SECTION Q ICE OPERATIONS ..................................................................................... 47
+SECTION R CHEMICAL CARRIER SUPPLEMENT ....................................................... 48
+SECTION S GAS CARRIER SUPPLEMENT.................................................................. 49
+APPENDIX A ADDITIONAL CRITERIA FOR TERM CHARTERED TONNAGE. .............. 51
+APPENDIX B DRUG AND ALCOHOL DECLARATION.................................................... 57
+APPENDIX C MESQAC COMPLIANCE DECLARATION................................................. 58
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-3-
+LIST OF ABBREVIATIONS
+ABM All Buoy Mooring
+ARPA Automatic Radar Plotting Aid
+AUS Automatic Unloading System
+BCH Code for the Construction and Equipment of ships carrying Dangerous
+Chemicals in Bulk
+BNWAS Bridge Navigational Watch Alarm System
+CAP Condition Assessment Program
+CCR Cargo Control Room
+CDI Chemical Distribution Institute
+COLREGS Collision Regulations
+COW Crude Oil washing
+CSR Common Structural Rules
+DH Double Hull
+DRS Defect Reporting System
+DWT Deadweight (Summer Deadweight in Metric Tons)
+ECDIS Electronic Chart Display and Information System
+ECM Energy Conservation Measures
+ECS Electronic Chart System
+EEOI Energy Efficiency Operational Index
+ESD Emergency Shut Down
+ESP Enhanced Survey Program
+ETA Emergency Towing Arrangement
+GMDSS Global Maritime Distress and Safety System
+GOM Gulf of Mexico
+GPS Global Positioning System
+H2S Hydrogen Sulfide
+HFO Heavy Fuel Oil
+IBC International Bulk Chemical Code
+ICS International Chamber of Shipping
+IFC Information Fusion Centre
+IGC International Code for the Construction and Equipment of ships
+carrying Dangerous Chemicals in Bulk
+IGS Inert Gas System
+IMO International Maritime Organization
+IMT International Marine Transportation Ltd
+ISF International Shipping Federation
+ISGOTT The International Safety Guide for Oil Tankers and Terminals
+ISM International Safety Management (ISM) Code
+ISPS The International Ship and Port Facility Security (ISPS) Code
+LNG Liquefied Natural Gas
+LPG Liquefied Petroleum Gas
+LR Lloyd’s Register
+MARPOL International Convention for the Prevention of Pollution from Ships
+MBM Multi Buoy Mooring
+MEG Mooring Equipment Guidelines
+MESQAC Marine Environmental, Safety and Quality Assurance Criteria
+MGO Marine Gas Oil
+MLC Maritime Labour Convention
+MSC-HOA Maritime Security Centre – Horn of Africa
+MSDS Material Safety Data Sheet
+MTISC-GoG Maritime Trade Information Sharing Centre – Gulf of Guinea
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-4-
+MWP Maximum Working Pressure
+OBO Oil Bulk Ore
+OCIMF Oil Companies International Marine Forum
+ODME Oil Discharge Monitoring Equipment
+OOW Officer of the Watch
+OPRC Oil Pollution Preparedness, Response and Coordination Convention
+OWS Oily Water Separator
+P/V Pressure/Vacuum
+PMS Planned Maintenance System
+PPE Personal Protective Equipment
+PTW Permit to work System
+RPM Revolutions Per Minute
+SEEMP Ship Energy Efficiency Management Plan
+SIGTTO The Society of International Gas Tanker and Terminal Operators
+SIRE Ship Inspection Report Program
+SMS Safety Management System
+SOLAS International Convention for the Safety of Life at Sea
+SOPEP Shipboard Oil Pollution Emergency Plan
+SPM Single Point Mooring
+SRM SeaRiver Maritime Inc
+SSP Ship Security Plan
+STCW IMO Standard of Training, Certification and Watchkeeping for
+Seafarers
+STS Ship to Ship Operation
+S-VDR Simplified Voyage Data Recorder
+SWL Safe Working Load
+TMSA Tanker Management Self-Assessment
+UKC Under Keel Clearance
+UKMTO United Kingdom Maritime Trade Operations
+UMS Unmanned Machinery Spaces
+USCG United State Coast Guard
+VDR Voyage Data Recorder
+VPMS Vessel Performance Monitoring System
+VPQ Vessel Particular Questionnaire
+VRP Vessel Response Plan
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-5-
+Introduction
+This document has been produced by International Marine Transportation (IMT) Singapore Pte
+Ltd., which jointly uses a standard methodology with International Marine Transportation Limited and
+SeaRiver Maritime Inc. to provide vetting services to all ExxonMobil affiliates engaged in marine
+transportation using third party vessels. This document is referred to in short as MESQAC and applies
+to International Ocean/Seagoing tanker vessels in ExxonMobil affiliate service, regardless of
+deadweight or vessel type and henceforth referred to either as ‘third party vessels’ or, if appropriate,
+just simply ‘vessels’.
+SeaRiver Maritime (SRM) assesses the suitability of ALL third party vessels for conducting lightering
+operations in the US Gulf of Mexico while on ExxonMobil service.
+The purpose of this document is to provide vessel operators with an understanding of the marine
+environmental, safety and quality assurance expectations of third party vessels to be considered for
+ExxonMobil affiliate service. Please note that, in this context, ‘service’ means carrying ExxonMobil
+affiliate title cargo, chartered by ExxonMobil affiliates, calling at ExxonMobil affiliate facilities, or
+carrying cargo or calling at facilities in which ExxonMobil affiliates have a joint venture interest. In
+addition, ‘vessel operator’ refers to the technical manager having day-to-day oversight of the technical
+management of the fleet vessels and their Safety Management Systems.
+Third party vessels not meeting environmental and safety expectations or criteria described as ‘MUST’
+may not be considered eligible for ExxonMobil affiliate service. If meeting certain of these expectations
+or criteria involves gas freeing or dry docking the vessel, or requires long lead times, a limited period
+for further consideration of the vessel may be granted upon receipt of written confirmation that actions
+will be taken at the earliest opportunity, and if documented mitigating procedures are in place. Vessels
+not meeting environmental and safety expectations or criteria described as ‘Strongly Preferred’ may
+be disadvantaged in the selection process versus other vessels meeting those requirements.
+Third party vessels MUST be in full compliance with all applicable international conventions, laws,
+regulations and other requirements of the country of vessel registry, and of the countries, states, and/or
+port authorities of the ports and/or places, including facilities, to which the vessel may be ordered while
+in ExxonMobil affiliate service, and/or the applicable regulations or requirements of any terminals or
+facilities in such ports or places where the vessel will load or discharge. Vessels MUST have on-board,
+all certificates, records or other documents required by the aforesaid conventions, laws, regulations
+and/or requirements.
+Vessel operators MUST familiarize themselves with information regarding vessel inspections
+contained in MESQAC. It is the responsibility of the vessel operator to ensure their vessels
+meet or exceed MESQAC expectations and criteria and can demonstrate compliance through
+an inspection report or on-board MESQAC checks. Vessel operators need to be aware of the
+potential vetting consequences and implications of not meeting ‘MUST’ or ‘Strongly Preferred’
+expectations or criteria.
+Only currently valid ship inspection reports held in databases administered by either the Oil Companies
+International Marine Forum (OCIMF) or the Chemical Distribution Institute (CDI) will be evaluated.
+It is Strongly Preferred that SIRE/CDI reports are no more than six months old.
+Questions or comments regarding MESQAC should be addressed to msscreen@exxonmobil.com
+Additional Marine Environmental, Safety, and Quality Assurance Criteria for vessels in ExxonMobil
+affiliate Term Charter service are set out in Appendix A to this publication.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-6-
+Notice:
+1. Throughout this document, unless otherwise stated, all references to industry publications,
+guidelines, recommendations and information papers refer to the latest edition available.
+Similarly, all references to governmental international/national conventions, guidelines, rules,
+regulations, resolutions and standards refer to those currently in date/force and applicable.
+2. IMT does not endorse or approve any vendor’s equipment, design, and systems or make any
+representations regarding compliance of any vessel equipment, design and systems with
+MESQAC requirements
+3. The MESQAC sets out the criteria by which IMT and its affiliates provide vetting services. It is
+not intended to provide readers with, and should not be relied upon by readers as, definitive
+or exhaustive guidance on the safe or proper operation of ships.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-7-
+SUITABILITY TO CARRY EXXONMOBIL AFFILIATE CARGOES
+Operators of third party vessels are reminded that vessels are not pre-approved for ExxonMobil
+affiliate service. All vessels are evaluated using the latest information available each time they are
+nominated for ExxonMobil service, or when calling at terminals or facilities where ExxonMobil has an
+interest.
+CHANGE OF OWNER AND/OR TECHNICAL OPERATOR
+Data for all vessels, including when taking delivery of new vessels, vessels that are sold, assigned a
+new technical operator, or change classification society, is used in the vetting process.
+IMT automatically downloads vessel- and operator-specific data from IHS Fairplay. Vessel operators
+are strongly advised to promptly notify IHS Fairplay of any of the above-mentioned changes by
+contacting IHS Fairplay at the following email address: shipsinservice@ihs.com
+Vessel operators should also directly inform IMT of all above-mentioned changes including advance
+notice of changes to the email address: Msowner@exxonmobil.com
+TANKER MANAGEMENT SELF ASSESSMENT (TMSA)
+The management and operation of vessels within a culture of safety and environmental excellence
+has been formalized with the implementation of the International Safety Management (ISM) Code.
+OCIMF’s TMSA program builds upon the ISM Code and is used as a tool to help vessel operators
+assess, measure and improve their Safety Management Systems.
+The TMSA program encourages vessel operators to assess their Safety Management Systems
+against listed key performance indicators and provides recognized best practice guidance for each
+indicator.
+Vessel operators are assessed on factors which include the effectiveness of their Safety Management
+System, fleet safety, and environmental performance. When submitting TMSAs to OCIMF, vessel
+operators must select ‘International Marine Transportation’ from the report recipient list in order to
+allow IMT vetting organizations to be able to review the operator’s TMSA submission.
+In order for a vessel to be considered for ExxonMobil affiliate service, the vessel’s operator MUST
+have submitted a TMSA with a ‘created date’ within the past twelve months and have selected
+‘International Marine Transportation’ as a report recipient. Vessels operated by a company which has
+not submitted a valid TMSA or has not achieved Stage 1 compliance may not be acceptable for
+ExxonMobil affiliate service. Further updated TMSA submissions should be submitted via www.ocimf-
+tmsa.com whenever a vessel operator considers it has made material changes to its Safety
+Management System. At the minimum, a vessel operator should make a submission at intervals not
+exceeding twelve months. By doing this, the vessel operator is able to demonstrate that its
+management has undertaken a formal review of its Safety Management System.
+It is expected that a vessel operator’s entire TMSA submission will have been reviewed and endorsed
+by its senior management as an accurate assessment of the vessel operator’s current Safety
+Management System.
+IMT may periodically request to visit a vessel operator’s offices with the primary aim of making an
+assessment as to the accuracy of an operator’s most recent TMSA submission. These visits are
+referred to as TMSA Review Meetings and use standard audit techniques to verify the accuracy of
+the TMSA submission and gauge the processes and procedures put in place to achieve the
+expectations of the sampled element.
+A structured and systematic approach is taken when conducting a TMSA review. To facilitate this, the
+IMT review team uses a proprietary document and examines the vessel operator’s most recent TMSA
+submission. It is important to note that a TMSA Review Meeting is not an audit and no written report
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-8-
+or documented non-conformances will be issued. Vessel operators will, however, be provided with
+verbal feedback during and at the end of the review and should use this opportunity to seek verbal
+clarification and understanding of IMT’s interpretation of TMSA key performance indicators.
+Following a TMSA Review Meeting, a vessel operator may be asked to re-assess its TMSA submission
+and re-submit the TMSA at the earliest opportunity. It is important that the vessel operator undertakes
+this as soon as is reasonably possible. IMT may also require the vessel operator to submit evidence
+supporting closure of an observation or misalignment noted during the TMSA review.
+For further details of the OCIMF TMSA Program, go to www.ocimf-tmsa.com.
+For assistance with any TMSA issues concerning ExxonMobil affiliate vetting please email:
+MSOwner@exxonmobil.com
+Besides the TMSA review of management system in vessel operator’s office, IMT may also request to
+carry out an on-board TMSA review on one or more of their fleet vessels. The scope of an on-board
+TMSA review is limited to the OCIMF TMSA content applicable to shipboard operations. The purpose
+of the on-board TMSA is to verify that there is effective implementation of the vessel operators Safety
+Management System throughout the operator’s organization, including on-board the vessels.
+THIRD PARTY VESSEL INSPECTIONS
+Evaluations of inspection reports of third party vessels are conducted in order to ascertain whether
+these vessels meet applicable IMT expectations. SIRE and CDI reports will be used.
+Third party vessel inspections, other than a vessel Term Chartered to an ExxonMobil affiliate, can be
+requested by contacting IMT via msinspect@exxonmobil.com;
+An inspection request for a third party vessel term chartered to an ExxonMobil affiliate should be sent
+at msterm@exxonmobil.com
+All SIRE inspections arranged by IMT will be undertaken by OCIMF accredited inspectors. Inspections
+are arranged through, and with the permission of, the vessel operator. It is necessary that the vessel
+operator advises the vessel Master and the appropriate port agent of inspection arrangements. On-
+boarding the vessel, inspectors are instructed to report to the Master, or the Officer of the Watch
+(OOW) if the Master is not available.
+Inspections arranged by IMT will be conducted in accordance with the OCIMF guidelines. On
+completion of the inspection, and prior to departing the vessel, inspectors will conduct a verbal close-
+out meeting to summarize findings with the Master or the Master’s representative. Master or the
+Master’s representatives are encouraged to repeat the findings to the inspector to eliminate any doubts
+in the understanding during the verbal close out.
+Please note that following an inspection, the vessel operator MUST respond to OCIMF / CDI explaining
+the cause and corrective actions to address the observations identified in the report. Failure to provide
+satisfactory evidence that observations have been addressed may result in the vessel being
+considered unsuitable for ExxonMobil affiliate service. Please note providing a satisfactory response
+or evidence that observations have been addressed does not guarantee the vessel being considered
+suitable for ExxonMobil affiliate service.
+INSPECTION SYSTEMS
+IMT supports the use of the OCIMF SIRE uniform vessel inspection procedure and the CDI inspection
+system. The vessel operators MUST understand these industry vessel inspection formats and
+familiarize themselves with the associated procedures and advise their Masters accordingly. It is
+required that an up-to-date Vessel Particulars Questionnaire (VPQ) be available in the SIRE/CDI
+systems.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+-9-
+INSPECTION RESULTS
+Failure to present the vessel for inspection in good condition or appearance will be regarded as
+evidence of a failure of the vessel and the vessel operator’s management systems. In this case, the
+vessel may not be considered for use following completion of corrective actions and the vessel
+operator’s eligibility for ExxonMobil affiliate service may also be adversely affected. Once a SIRE/CDI
+inspection has been carried out, the vessel operator MUST respond to the observations raised in the
+SIRE/CDI inspection report within the timeframe stipulated by OCIMF/CDI.
+Please note that the satisfactory completion of an inspection conducted by IMT does not imply and
+should not be construed as an approval of the vessel for ExxonMobil affiliate service.
+INCIDENT NOTIFICATION AND INVESTIGATION
+ExxonMobil charter party agreements and/or voyage orders contain specific instructions with regard
+to incident notification requirements and reporting procedures.
+As stipulated in the charter party agreements, vessels on charter to an ExxonMobil affiliate may be
+subject to an investigation by a representative of the vetting organizations to ascertain the cause of
+any incidents. A vessel's Master or vessel operator is required to promptly notify IMT if the vessel is
+involved in any incident, accident or casualty in accordance with the charter party and/or voyage orders
+as reflected in the list below, which is also provided for guidance to vessels not on charter to an
+ExxonMobil affiliate (see guidance below):
+DEFINITION OF INCIDENT
+Vessels involved in an incident may include, but are not limited to:
+• Fatality or work-related injury resulting in lost time incidents;
+• Collision or contact with other vessels;
+• Grounding or bottom touch;
+• Pollution, including accidental or uncontrolled release of cargo vapor or gas releases
+irrespective of the quantity released;
+• Oil spill on deck or other locations on-board including release of cargo, bunker, lube oil, or
+hydraulic oil etc.;
+• Fire or explosion;
+• Cargo system or transfer hose or arm ‘pressing’ or over pressurization due to inadvertent
+valve closure ashore or on-board;
+• Mooring related incident including rope parting, mooring equipment damage, etc.;
+• Anchoring incidents including anchor dragging, anchor fouling, anchor loss etc.
+• Structural damage including indentations, internal/external cracks etc.;
+• Allison (contact) with fixed objects including jetties, SBM, SPM, locks, bridges, buoys, ice
+etc.;
+• Failure or breakdown of vessel’s equipment including, but not limited to, main and auxiliary
+engine or cargo handling machinery and navigational equipment;
+• Drug and alcohol policy violation;
+• Cargo loss, contamination, or reaction (e.g.: solidifying, etc.);
+• Port state detentions;
+• Seizure or arrest;
+• Security related incidents including attempted and actual piracy or robbery attacks, security
+breaches etc.; and
+• Media coverage.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 10 -
+INCIDENT NOTIFICATION
+Vessels NOT on ExxonMobil affiliate charter
+Incidents as defined above which occur whilst the vessel is not on ExxonMobil affiliate charter MUST
+be promptly reported to IMT at incident@exxonmobil.com or via the OCIMF vessel incident repository
+linked to the SIRE Database, as incident closure is part of the vetting approval process.
+Vessels on ExxonMobil affiliate charter
+Incidents as defined above which occur whilst the vessel is on ExxonMobil affiliate charter MUST be
+promptly sent in line with the notification procedures detailed within the charter party and/or voyage
+orders. As defined in the charter party/voyage orders incidents MUST also be reported to
+incident@exxonmobil.com
+*Not reporting or delayed reporting of incidents whether the vessel is on ExxonMobil affiliate charter
+or not could affect vessel operator’s future eligibility for ExxonMobil affiliate service.
+INCIDENT INVESTIGATION AND CLOSURE
+Following an incident, an investigation report MUST be submitted by the vessel operator to
+incident@exxonmobil.com
+The incident investigation process MUST identify root causes and effective preventative actions taken
+to avoid re-occurrence of similar incidents on-board any of the vessels within the vessel operator’s
+fleet. Satisfactory closure of an incident is an important part of IMT’s vetting process.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 11 -
+REVIEW OF INCIDENT INVESTIGATION REPORTS
+On receipt of incident investigation report a detailed review is carried out by IMT.
+IMT’s minimum expectations from an incident investigation report are (as a minimum, but not limited
+to) as follows:
+Description Detailed sequence of the event or narrative of events.
+Photographs, pipeline diagrams, Electronic Chart and Information Display
+System (ECDIS)/ radar screenshots etc.
+Corrective actions Actions taken post incident to gain control of the situation and resume
+operations.
+Non-contributory factors Factors considered but ruled out as having caused the incident.
+e.g. Work and rest hours, rank and company experience of crew, traffic and
+weather conditions, drug and alcohol compliance; equipment maintenance etc.
+Causal factors, Any condition that if corrected, could have prevented the incident from
+Immediate causes, occurring or reduced the impact of the incident.
+Direct Causes e.g.- In the case of product release, causal factors could be:
+Incorrect cargo line up / no two man check etc.
+Root causes Basic cause (or causes) that if fixed will prevent the incident’s recurrence.
+e.g.- In the case of a spill, root causes could be:
+Inadequate behaviour based safety program (non-compliance of procedures),
+lack of management oversight / weak Safety Management System etc.
+Preventative measures Measures identified towards prevention of similar incidents fleet wide.
+Timeline to complete each identified preventative measure.
+Plans to verify the effectiveness of preventative measures.
+Lessons learned, Key learnings from this incident.;
+experience sharing Experience sharing through Safety and technical bulletins / Crew seminars.
+/ Shore management visits.
+Supporting documents • Class attendance report / latest class survey status report.
+(as applicable) • Service engineer’s / technicians’ reports.
+• Evidence of experience sharing fleet wide.
+• Regulatory authorities’ reports (e.g. port State control/flag State/water
+police etc.)
+• Crew experience matrix during the incident etc.
+It is Strongly Preferred that the vessel operator’s senior management fully endorses the incident
+investigation report before it is sent to IMT.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 12 -
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+SECTION A GENERAL INFORMATION
+A.1 The vessel operator MUST lodge an up-to-date copy of the Vessel Particulars’ Questionnaire
+(VPQ) with the OCIMF SIRE and CDI programs as applicable.
+A.2 Vessel operators are reminded of the importance of accuracy of data contained within the
+VPQ. Technical assessments (e.g. berth fit) that may affect the commercial decision will be
+based on this data.
+A.3 To ensure correct identification, the vessel operator MUST verify that the International
+Maritime Organization (IMO) number assigned to the vessel, and entered in the VPQ,
+corresponds exactly to the number in Lloyds' Register of Shipping.
+A.4 Vessel Operators MUST warrant an understanding of and compliance with the latest edition
+of the Marine Environmental, Safety and Quality Assurance Criteria (MESQAC) for vessels
+considered for ExxonMobil affiliate service.
+Vessel Operators make the above warranty by submitting a signed Blanket MESQAC
+Compliance Declaration (sample as in Appendix C) to IMT. This should be sent as an email
+attachment to the following address: msscreen@exxonmobil.com
+Vessel Operators when completing the Blanket MESQAC declaration for MUST items which
+they plan to address but that require a lead time or dry dock should:
+1. Mark the listed vessels as compliant (Yes) along with a reference to which criteria
+requires lead time or dry-dock.
+2. Include interim preventive, mitigative or contingency measures taken to temporarily
+address each case.
+3. An estimate of when it is expected such vessels will be fully compliant.
+In addition to on-board TMSA reviews, IMT may also request an on-board physical MESQAC
+check and/or on-board security checks. These check(s) may be carried out on-board one or
+more vessels within the vessel operators’ fleet.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 13 -
+SECTION B CREW MANAGEMENT
+B.1 All Masters MUST have sufficient and appropriate experience as Master or Chief Officer. For
+recently promoted Masters this should include:
+1. Recent manoeuvring experience as Chief Officer or as supernumerary on the same
+vessel or class of vessel having the same or similar handling characteristics; or
+2. Having attended an approved ship handling simulator course at an installation capable
+of simulating the manoeuvring characteristics of such class of vessel.
+[STCW Code – Section A1/12]
+B.2 All Officers in direct control of navigation, cargo and/or bunker oil handling operations on-
+board tankers for seagoing service MUST have conversational proficiency in English.
+The Safety Management System (SMS) manual(s) MUST be in a language readable and
+understood by the crew on-board.
+All officers MUST possess valid certificates and licenses required for their rank and position
+on the vessel and the intended trade. This MUST include Dangerous Cargo Endorsements as
+specified in STCW, the Code for the Construction and Equipment of Ships Carrying
+Dangerous Chemicals in Bulk (BCH), the International Bulk Chemical Code (IBC), or the
+International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in
+Bulk (IGC).
+B.3 The operator MUST ensure that Master and Deck Officers have successfully completed IMO
+Model Course 1.22 in ‘Ship Simulator and Bridge Teamwork’ at intervals not exceeding five
+years.
+B.4 Officers who have immediate responsibility for cargo transfer MUST be in possession of a
+Certificate of Specialized Training, as applicable to the type of cargo being carried.
+[STCW Code – Reg. V/1-1.3]
+B.5 It is Strongly Preferred that Master and Deck Officers successfully complete an industry
+recognized Cargo Handling Simulator course at intervals not exceeding five years.
+B.6 In addition to compliance with their Safe Manning Certificate, vessels engaged in 24-hour
+continuous operations MUST meet the following minimum requirements:
+1. For vessels greater than 16k DWT the minimum manning level MUST consist of one
+Master and at least three licensed Deck Officers, and for the engine department,
+regardless of whether or not operating Unmanned Machinery Spaces (UMS), one Chief
+Engineer and at least two licensed Assistant Engineers. On non-UMS vessels, it is
+Strongly Preferred that the engineering department minimum manning consists of one
+Chief Engineer and at least three licensed Assistant Engineers.
+2. For vessels less than 16k DWT - Minimum manning level MUST consist of one Master
+and at least two licensed Deck Officers. (It is Strongly Preferred that the minimum
+manning for these vessels consists of one Master and at least three licensed Deck
+Officers, and one Chief Engineer and at least one licensed Assistant Engineer.
+Other manning arrangements may be considered following a review on a case-by-case basis.
+This will include a review of crew competence/experience, conditions of service, leave
+rotation, equipment, and procedures to address contingencies.
+B.7 Documented procedures MUST be available to monitor record and control maximum hours
+worked and minimum rest hours to minimize fatigue in compliance with Maritime Labour
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 14 -
+Convention (MLC) 2006, STCW 2010 regulations (Sect A-VIII/1), VIQ 3.2, and Information
+paper, “Recommendations Relating to the Application of Requirements Governing Seafarers’
+Hours of Work and Rest” published by OCIMF/International Chamber of Shipping
+(ICS)/International Shipping Federation (ISF).
+B.8 The vessel operator MUST warrant that it operates under an Alcohol and Drug Policy which
+meets or exceeds the standards set out in the ICS/OCIMF publication ‘Guidelines for the
+Control of Drugs and Alcohol On-board Ships’ and current STCW and flag state requirements.
+Such policy MUST, at a minimum, contain provisions for drug and alcohol testing that includes
+unannounced testing and routine medical examinations for all officers and crew, and provides
+for all officers and crew to be so tested at least once a year through the combined Program of
+unannounced testing and routine medical examinations.
+The vessel operator makes the above warranty by (a) agreeing to the ExxonMobil Drug and
+Alcohol charter party clause and (b) submitting a signed Drug and Alcohol Blanket Declaration
+Note. Companies based in the USA and Canada with USA or Canadian flag vessels that
+respectively meet USCG or Canadian regulations for drug and alcohol testing are acceptable.
+B.9 It is Strongly Preferred that vessels are operated under a ZERO ALCOHOL policy (carriage
+and/or consumption of alcohol is prohibited on-board).
+B.10 All vessel operators MUST have documented procedures that addresses the following:
+1. Measures to discourage the smuggling of drugs and alcohol onto the vessel.
+2. Random unannounced checks for unauthorized possession and consumption of alcohol
+or drugs on-board the vessel.
+3. Drug and alcohol testing following an incident or operational anomaly.
+4. Testing where an individual is suspected of being under the influence of alcohol or
+drugs.
+5. Disciplinary action where person(s) are found or suspected to be in breach of the
+company’s drug and alcohol policy.
+In addition to the above, where vessels are not operated under a ZERO ALCOHOL policy, the
+operator MUST have documented procedures that address the following:
+1. System for controlling the issue and distribution of alcohol to individuals.
+2. Monitoring and documenting the distribution and consumption of alcohol on-board the
+vessel.
+3. Defined authority responsible for controlling the issue and distribution of alcohol
+4. On-board and shore side system to monitor issue and consumption of alcohol
+5. Method of verification for strict adherence to policy.
+B.11 At least two officers on-board MUST be trained as accident/incident investigators.
+B.12 The vessel operator MUST appoint an on-board ‘Safety Officer’ trained specific to this role.
+B.13 It is Strongly Preferred that the vessel operator has a Behaviour Based Safety (BBS)
+Program.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 15 -
+SECTION C CREW MATRIX REQUIREMENTS
+The safe operation of a vessel is a function of the competency (as per the STCW Code) and
+experience of the officers responsible for the execution of the vessel operators Safety Management
+System. Therefore, it is expected that vessels are manned with a complement that reflects an
+adequate amount of experience and familiarity with the vessel operator’s processes and procedures.
+Crew change for management level (Senior Officers/Engineers) of the same department MUST be
+staggered.
+The provisions of the following CREW MATRIX table(s) are Strongly Preferred:
+Experience Senior Deck Officers Junior Deck Officers
+Master + Chief Off. (Combined) 2nd Off. + 3rd Off (Combined)
+> Three (3) Years (Sea Time) > One (1) Year (Sea Time)
+Rank Of the three (3) years combined,
+Master should have minimum six (6)
+months and Chief Off. should have minimum six
+(6) months
+(Sea Time)
+Operator > Two (2) Calendar Years > One (1) Calendar Year
+This type of > Six (6) Years (Sea Time) N/A
+tanker
+N/A > One and a half (1.5) Years (Sea
+All types of Time)
+tanker
+Experience Senior Engineers Junior Engineers Gas / Cargo
+Chief Engr. + 2nd Engr. (Combined) 3rd Engr. + 4th Engr. Engineer (LNG
+(Combined) and LPG vessel)
+Rank > Three (3) Years (Sea Time) > One (1) Year (Sea > One (1)
+Of the three (3) years combined, Chief Time) Year (Sea Time)
+Engineer should have minimum six (6)
+months and 2nd Engineer should have
+minimum six (6) months (Sea Time)
+Operator > Two (2) Calendar Years > One (1) Calendar > Half (0.5)
+year Calendar
+Year
+This type of > Six (6) Years (Sea Time) N/A N/A
+tanker
+All types of > One and a half
+tanker N/A (1.5) Years (Sea N/A
+time)
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 16 -
+For vessel(s) less than (<) 16k DWT, where there is a reduction in the number of engineers on-board
+the vessel:
+Experience Senior Deck Officers Junior Deck Officers
+Master + Chief Off. (Combined) 2nd Off. + 3rd Off (Combined)
+> Three (3) Years (Sea Time) > One (1) Year (Sea Time)
+Rank Of the three (3) years combined,
+Master should have minimum six
+(6) Months and Chief Off. should have
+minimum six (6) months (Sea Time)
+Operator > Two (2) Calendar Years > One (1) Calendar Year
+This type N/A
+of tanker > Six (6) Years (Sea Time)
+All types of tanker N/A > One and a half (1.5) Years
+(Sea time)
+Experience Chief Engineer + Junior / Licensed Gas / Cargo Engineer (LNG and
+Assistant Engineer(s) (Combined) LPG vessel )
+> Three (3) Years (Sea Time)
+Rank Of the three (3) years combined, > One (1) Year (Sea Time)
+C/E should have minimum six (6) Months
+> Half (0.5) Calendar Year
+Operator > Two (2) Calendar Years
+This type of tanker
+> Six (6) Years (Sea Time) N/A
+All types of tanker
+N/A N/A
+SIRE ONLINE: Crew Matrix
+The Interactive Online Crew Matrix on the OCIMF SIRE website MUST be kept updated at all times
+by the vessel operator. It is Strongly Preferred that the crew matrix is updated and validated at
+intervals of not more than two months.
+It is Strongly Preferred that the years in crew matrix are recorded using a single decimal place in
+order to facilitate accurate assessments.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 17 -
+SECTION D NAVIGATION
+In addition to statutory requirements, each vessel MUST be equipped with at least the following
+equipment, which MUST be maintained in good working order and condition. It is recognized that some
+governing flag states may require ADDITIONAL equipment to that required in this section. Flag states
+may also require certain items of equipment to meet local operating standards or ‘Type Approval’.
+Each vessel MUST comply with flag state equipment requirements.
+D.1 Vessels MUST have a means to provide a warning if the vessel deviates from her intended
+course; e.g. Global Positioning System (GPS) and ECDIS (if installed on-board) cross track
+error, autopilot alarm etc. An independent magnetic off course alarm is Strongly Preferred.
+[VIQ 4.10.51]
+D.2 Vessels MUST, irrespective of Gross Tonnage, be provided with a Simplified Voyage Data
+Recorder (S-VDR) system. Voyage Data Recorder (VDR) systems MUST be of approved type
+and capable of storing navigational data, bridge audio, etc. so that the data stored can be
+retrieved and analysed. The vessel MUST have documented procedures for downloading data
+from VDR post incident or operational anomaly.
+It is Strongly Preferred that VDR data is used for evaluation of navigation practices and
+compliance with the vessel operator’s procedures.
+[VIQ 4.10.48]
+D.3 Vessels MUST be fitted with a wind speed and direction indicator in the wheelhouse.
+[VPQ 4.1.1]
+D.4 Vessels above 100k DWT MUST be fitted with a Rate of Turn (RoT) indicator.
+D.5 The vessel MUST be fitted with a gyro compass. It is Strongly Preferred that vessels have
+two gyro compasses, or one gyro compass and one transmitting magnetic compass.
+[VIQ 4.10.41]
+D.6 The vessel MUST have means of taking visual compass bearings.
+D.7 Radar:
+Vessels under 3k DWT: MUST have at least one radar fitted with a true north feature.
+Vessels over 3k DWT MUST have at least two radars, at least one of which has a true north
+feature and each being capable of being operated independently.
+It is also Strongly Preferred that 3cm and 10cm (X and S band) capability is provided via the
+combined use of two radars that can be inter-switched.
+[VPQ 4.1.4]
+D.8 One radar MUST be fitted with electronic tracking and plotting facilities unless a standalone
+Automatic Radar Plotting Aid (ARPA) is fitted.
+[VPQ4.1.7]
+D.9 Vessel own speed input to an ARPA MUST be speed through the water.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 18 -
+D.10 The vessel MUST be fitted with a depth finder. The depth finder is Strongly Preferred to have
+the capability of recording and setting of the alarm set point.
+[VIQ 4.10.17] [VPQ CH. 4.1.1]
+D.11 The vessel MUST be fitted with rudder angle indicators, azipod angle indicators (if applicable),
+speed log indicators, and propeller RPM or controllable pitch propeller pitch setting indicators
+on the bridge/wheelhouse.
+[VIQ 4.10.19] [VPQ CH. 4.13.1]
+D.12 It is Strongly Preferred that vessels are fitted with bridge wing repeaters for rudder angle,
+speed log, and propeller RPM or controllable pitch propeller pitch settings.
+[VPQ 4.1.9 & 4.1.10]
+D.13 The vessel MUST be fitted with a course recorder.
+[VPQ 4.1.1
+D.14 The vessel MUST be fitted with GPS.
+[VPQ 4.1.1]
+D.15 Real-Time (Live) Navigational Assessments by the Master MUST be conducted at least every
+three months, which MUST include as a minimum the following elements: evaluation of
+compliance with navigational procedures, compliance with Collision Regulations (COLREGS),
+bridge teamwork, Pilot/Master interface, skill sets of officers, situational awareness,
+emergency response (e.g. steering loss etc.) and bridge team communications. Observations
+identified MUST feed into the operator’s close out and verification process.
+D.16 The vessels MUST be subjected to a minimum of one annual live navigational audit conducted
+on passage by a suitably qualified and experienced person based ashore. Competencies
+listed in paragraph D.15 MUST be assessed as a minimum and gaps identified MUST be
+verified as closed during subsequent audits. It is Strongly Preferred that navigational auditors
+have appropriate Electronic Chart Display and Information System (ECDIS) and Electronic
+Chart System (ECS) training specific to the equipment on-board.
+D.17 Vessels MUST implement procedures and controls for the effective use, setting, non-muting
+and adjustments of the anti-collision and navigational safety alarms on the - ECDIS, ECS,
+Radar, GPS, echo sounder, steering gear and other bridge equipment. Authority levels for
+adjusting or altering alarm set points MUST be part of vessel operator’s Safety Management
+System.
+D.18 The Bridge Navigational Watch Alarm System (BNWAS) reset alarm MUST be fitted in the
+wheelhouse and the NOT in the chart room.
+D.19 Vessels MUST be fitted with bridge wing gyro repeaters for taking bearings.
+D.20 It is Strongly Preferred that vessels over 160k DWT, are fitted with a dual axis Doppler sonar
+speed log.
+D.21 Manuals covering navigation and bridge procedures MUST be maintained on-board and
+vessels MUST be navigated in a manner that ensures compliance with these procedures.
+To avoid errors by one individual during critical operational conditions (e.g. pilotage waters,
+heavy traffic, restricted visibility), these procedures MUST include appropriate bridge manning
+for all situations when the vessel is underway and at anchor.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 19 -
+The following publications MUST be maintained on-board: flag state or national coastguard
+agency guidance notes pertaining to the safety of navigation, e.g. U.K. Maritime and
+Coastguard Agency Guidance Notes, Merchant and Marine Notices.
+D.22 Vessels MUST maintain an up-to-date record of events in sufficient detail to restore a
+complete record of the voyage in an appropriate Deck Log Book.
+D.23 There MUST be an established system to ensure that the vessels are provided with all up to
+date and latest editions of nautical publications and charts (paper or electronic) for the
+intended route. An effective system MUST be in place to maintain these publications and
+charts (paper and electronic) and keep them up to date.
+D.24 Vessels MUST receive regular Notice to Mariners updates appropriate to their trading areas.
+The vessel MUST have updated and corrected and the most recent edition charts (paper and
+electronic) of a suitable scale for the intended trade.
+D.25 There MUST be a fully documented passage plan, approved by the Master, covering all legs
+of the voyage, both at sea and in port, including when a pilot is aboard. Special attention
+should be given to the in-port passage plan, the interface of the pilot with the Bridge
+Management Team, and in-port issues such as the effect of squat on under-keel clearance.
+As a minimum the plan should include the following elements:
+1. Appraisal: A review of all relevant information pertaining to the voyage leg should be
+carried out; all potential hazards and scenarios as appropriate should be risk assessed.
+2. Planning: A detailed written plan should be prepared, with items such as danger areas,
+tidal data, waypoints, etc. highlighted on the voyage charts (paper and/or electronic).
+3. Execution: A process must exist to ensure that the bridge team reviews the plan and
+that controls are in place to ensure it is safely executed.
+4. Monitoring: The bridge team should use all available means to monitor the passage
+including the actions of the pilot, and review against the plan.
+The passage plan MUST address all the risk and hazards associated with the voyage. When
+calling at non-routine new ports or navigational routes the passage plan MUST be reviewed
+by shore management
+D.26 Vessels MUST post, on the bridge alongside other manoeuvring data, the results of a ZIG-
+ZAG test as per IMO MSC/Circ 1053 1.3.2.
+D.27 Vessels MUST be able to demonstrate that two independent means of obtaining navigational
+data are employed to verify vessel position.
+D.28 Vessels MUST maintain a record of deviations for magnetic compasses and a record of error
+for gyrocompasses to enable corrections of bearings/courses to ‘true’ readings.
+D.29 The operation of all navigation equipment and steering gear MUST be verified prior to each
+port entry and departure. The main propulsion system MUST be tested ahead and astern.
+D.30 Comprehensive under-keel clearance (UKC) and air draft calculation(s) considering all
+significant allowances MUST be documented for the controlling depth(s) on passage. The
+calculation(s) MUST be relevant for tidal effects and speed of transit over the controlling
+depth(s).
+D.31 Vessels at anchor MUST have a licensed officer on the bridge to maintain an effective anchor
+watch, and an appropriately qualified engineering officer in the engine room if the vessel is
+not operating Unattended Machinery Spaces (UMS), or available at all times during the period
+at anchor if the vessel is operating UMS.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 20 -
+SECTION E SAFETY AND SECURITY MANAGEMENT
+E.1 Appropriate Personal Protective Equipment (PPE) MUST be provided for all anticipated
+operations. Procedures MUST be in place for the routine inspection and replacement of PPE.
+The vessel operators MUST ensure that all crew members working in hazardous areas use
+personal protective equipment (PPE) appropriate to the operations being conducted and the
+risk involved.
+E.2 Vessels MUST have means of embarkation and disembarkation in port, such as gangways
+and accommodation ladders.
+E.3 Vessels MUST operate a documented Permit to Work (PTW) system. The PTW system MUST
+have specific procedures for (but not limited to) any electrical work, hot work, enclosed space
+entry, working over the side, working aloft or at height, and lock out/tag out procedures.
+E.4 It is Strongly Preferred that operator has a ‘Stop the Job’ policy or statement. The policy or
+statement should develop and encourage a ‘Stop the Job’ culture if anyone feels unsafe or
+uncertain about any aspect of a task or operation.
+E.5 Vessels MUST carry Emergency Procedures that cover, as a minimum, action to be taken in
+the event of a collision, grounding, pollution, fire and explosion, and also gas releases from
+gas ships and toxic vapor releases from chemical carriers.
+E.6 For double hull vessels, it is Strongly Preferred that vessels are fitted with fixed gas detection
+system with recorders to sample for flammable atmospheres in all ballast tanks, cofferdams,
+or other such spaces within the hazardous zones of the vessel where flammable vapor can
+accumulate.
+E.7 In addition to statutory requirements for double hull vessels, vessels MUST have on-board a
+documented system or procedure to sample for flammable atmospheres at frequent intervals
+in all ballast tanks, cofferdams, or other such spaces within the hazardous zones of the vessel
+where flammable vapor can accumulate. The frequency of testing will be dependent on the
+voyage length, vessel condition, type of cargo etc., but MUST be clearly stated within the
+vessel Safety Management System.
+If a fixed system where the recorder is not fitted, the procedure MUST include sampling with
+portable equipment. Records of monitoring of these spaces MUST be maintained.
+[VIQ 5.25]
+E.8 Equipment no longer active (e.g., obsolete or having been replaced) MUST be clearly and
+permanently marked and isolated, or removed if it presents a hazard or could adversely affect
+the safe operation of the vessel. A system of ‘DO NOT OPERATE’ and ‘WITHDRAWN
+EQUIPMENT’ tagging is to be in place.
+E.9 A vessel having Carbon Dioxide (CO2) as a fixed firefighting extinguishing system MUST have
+two separate releasing controls.
+E.10 While in port, a vessel MUST maintain sufficient personnel on-board to handle emergency
+and security situations. The vessel operator MUST include guidelines within the Safety
+Management System to ensure compliance.
+[VIQ 3.1] [VPQ CH. 3.1]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 21 -
+E.11 Vessels which carry or may carry cargoes containing concentrations of Hydrogen Sulfide
+(H2S) MUST have on-board dedicated and certified personal devices for measuring H 2S,
+sufficient for at least every crew member working on exposed deck or area.
+[VIQ 5.31]
+Where the vessel is handling bunkers likely to contain H2S then the operator MUST have
+procedures clearly identifying the additional precautions and equipment required.
+E.12 Vessels MUST carry a minimum two of each of the following individual or multi - portable gas
+detection equipment:
+1. Explosimeters (% volume hydrocarbon and LEL analyser);
+2. Oxygen Analyzers;
+3. Toxic gas detectors or analyzers suitable for the range of products being carried;
+4. On vessels operating with Inert Gas Systems (IGS), instruments capable of measuring
+hydrocarbon content in an oxygen deficient atmosphere MUST be provided.
+It is Strongly Preferred that personal multiple gas detecting alarm units are used by each
+person working in a potentially hazardous area (as a minimum on deck during cargo, tank
+cleaning or bunkering operations, or entry into tanks, enclosed space or pump room etc.)
+[VIQ 5.27]
+E.13 Toxic gas detectors for measuring H2S MUST be certified specifically for use in air or in an
+inert gas atmosphere.
+E.14 Vessels MUST have on-board records of tests to show that all gas detection equipment (fixed
+and portable) is routinely maintained and calibrated.
+[VIQ 5.27]
+E.15 Officers on-board MUST be trained in and familiar with the use and calibration of portable
+oxygen and hydrocarbon Analyzers.
+Appropriate span and calibration gas maintenance kits and batteries (for portable gas
+detectors) to enable performance checks of the equipment MUST be carried.
+E.16 Vessels MUST have an automatic system of fire detection in the accommodation,
+wheelhouse, Cargo Control Room (CCR), laundry, drying room, fire control station, pantry and
+galley areas. It is Strongly Preferred that the fire detection system covers all cabins, in
+addition to public rooms. The auto fire detector MUST be connected to the ship main fire alarm
+system.
+E.17 Where the vessel has a CCR, it is Strongly Preferred that the CCR is equipped with an
+anemometer display and monitoring repeater with the capability to record (paper or digital)
+wind speed and direction. Dynamic Positioning (DP) vessels are Strongly Preferred to have
+additional anemometer displays on the bridge and in the engine control room designed to be
+capable of setting a minimum of two desired wind speed alarm limits with associated audible
+and visual alarms in the CCR and on deck if the set limits are exceeded.
+E.18 A vessel MUST ensure that sufficient time prior to departure is allocated to all officers, ratings,
+and contractors joining the vessel to familiarize themselves with, but not limited to:
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 22 -
+1. Personal survival techniques, medical care, emergency fire and safety equipment as
+delineated in Chapter VI, Section A-VI/1, of Standards of Training, Certification, and
+Watchkeeping for Seafarers (STCW 2010).
+2. The ship's emergency firefighting and lifesaving equipment.
+3. Equipment which they may use or operate in safely carrying out their duties.
+4. Any watch keeping, safety, environmental protection and emergency procedures or
+arrangements that they need to know to be able to carry out their assigned duties
+properly.
+5. Their duties and responsibilities under the ship's Vessel Response Plan (VRP),
+Shipboard Oil Pollution Emergency Plans (SOPEP) and Ship Security Plan (SSP) as
+applicable.
+6. The vessel operator’s drug and alcohol policy.
+E.19 Every vessel MUST have a Fire Pre-Plan to be used as a tool by emergency response
+personnel to access a ship’s spaces in preparation for firefighting. The plan should be
+prepared for every space covering the entire ship and each space should be examined for:
+1. Space location;
+2. Type of fire/fuel;
+3. Boundaries;
+4. Electrical power sources;
+5. Ventilation;
+6. Hazards contained within the space;
+7. Fire protection;
+8. Plan of attack; and
+9. Date the fire pre-plan was prepared. Such plans should be checked and approved by
+the ship management team.
+E.20 All portable ladders MUST have a unique identifying number clearly marked on the ladder.
+The company MUST have in place a procedure for regular inspection.
+E.21 All derricks, cranes and chain blocks MUST be clearly marked with their Safe Working Load
+(SWL), and where appropriate, the operating angle and identifying reference number.
+[VIQ 8.81]
+E.22 All lifting slings, strops and wires MUST have mechanical spliced eyes or manufactured
+webbed eye as applicable. All lifting slings, strops and wires MUST be marked with the SWL
+with a unique identification number.
+E.23 Portable lifting devices such as chain blocks, strops, slings, and shackles etc. MUST be
+supplied with original test certificates. These MUST be subjected to a regular periodical
+inspection and MUST be inspected prior to each use.
+[VIQ 8.81]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 23 -
+Criteria E.24 to E.30 apply to vessels transiting Piracy infested waters
+E.24 Vessels MUST at all time, whether in port or at sea, maintains adequate security measures.
+When transiting through piracy-infested areas, vessel MUST perform a region-specific risk
+assessment, use all available support, and utilize region-specific Best Management Practices
+(BMP) to enhance security and safety on-board.
+In addition to performing a risk assessment, the Vessels MUST also have a vessel-specific
+Hardening Plan which includes as a minimum detail of hardening arrangements that prevent
+access to the accommodation block, bridge, engine room and funnel casing.
+Vessels transiting these piracy infested waters MUST implement their Hardening Plan and all
+preventative and mitigating measures identified within their risk assessment.
+E.25 Vessels MUST participate in all voluntary reporting schemes applicable to its voyage routing.
+These may include but are not limited to: Maritime Security Centre Horn of Africa (MSC-HOA);
+United Kingdom Maritime Trade Operations (UKMTO); Marine Domain Awareness for Trade
+– Gulf of Guinea (MDAT-GoG); Information Fusion Centre (IFC) (Voluntary Community
+Report); and the Mediterranean Voluntary Reporting Scheme.
+E.26 Vessels MUST have copies of the Admiralty Maritime Security Planning charts (Q Series,
+paper or electronic) relevant to its planned passage on-board.
+E.27 Vessels transiting through piracy-infested areas MUST have a designated safe muster point
+so that in the event of a suspicious approach, members of the crew not required on the bridge
+or the engine control room can muster in a short-term safe haven location with nominal ballistic
+protection should the vessel be fired on with small arms.
+E.28 Vessels MUST be provided with high-intensity searchlights available on the bridge.
+E.29 It is Strongly Preferred that vessels are equipped with a citadel. Vessels with a citadel MUST
+have an independent means of communication with the vessel operator’s Security Officer.
+E.30 It is Strongly Preferred that vessels are fitted with an independent tracking device so that its
+position and speed can be monitored by the vessel operator’s Security Officer. It is Strongly
+Preferred that this tracking device has an independent transmitter from the Global Maritime
+Distress and Safety System (GMDSS) equipment and a concealed antenna.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 24 -
+SECTION F POLLUTION PREVENTION
+F.1 The vessel operator MUST provide IMT with office and after-hours telephone numbers and
+details of their shore emergency response organization in order to facilitate operator/charterer
+communications in the event of a vessel casualty or escape of cargo. This information should
+be communicated to MSOwner@exxonmobil.com and kept updated at all times.
+F.2 Cargo transfer systems MUST be hydrostatically tested annually to maximum allowable
+working pressure (MAWP). Vessels MUST have on-board records verifying annual pressure
+testing of the cargo system. Records of individual cargo valves maintenance and tests MUST
+be kept on-board and available.
+For LNG/LPG and Chemical Gas carriers refer to Section S of this document.
+[VIQ 8.21]
+F.3 Bunker transfer systems MUST be hydrostatically tested annually to the designed working
+pressure. The vessel MUST have on-board records verifying annual pressure testing of the
+bunker system.
+[VIQ 6.21] [VPQ 6.1.14]
+F.4 If the vessel is fitted with a dedicated facility or line to supply water ballast to cargo tanks from
+the segregated ballast system, there MUST be at least two-valve segregation or positive block
+(blind) between the segregated ballast system and the cargo tanks, and at least one of the
+valves MUST be fitted with a non-return device.
+F.5 Vessels MUST be fitted with a continuous deck edge fishplate that encloses the main deck
+area, from bow to stern, such that escape of cargo or bunker oil tank contents will be
+contained.
+F.6 It is Strongly Preferred on ships fitted with stern anchors that the poop deck is fully protected
+with an appropriate fish plate or gutter bar and should have a means to prevent the escape of
+liquid through the hawsepipe. For vessels with continuous decks, a transverse fishplate MUST
+be fitted aft of the last cargo tank to prevent the flow of cargo around the poop or
+accommodation deck area. A means of draining or removing oil from the enclosed deck
+containment area MUST be provided.
+[VPQ 6.1.1]
+F.7 All bunker manifolds, cargo manifolds, slop manifolds and bunker tank vents including service
+and storage oil tank vents, deck hydraulic machinery MUST have spill containment
+arrangements which are of permanent construction. The spill containment arrangement and
+its drain plugs (if provided) MUST be regularly tested for effectiveness.
+[VIQ 6.20] [VPQ 6.1.2]
+F.8 All flanged connections requiring bolts MUST be fully bolted at all times.
+F.9 All open-ended cargo, bunker or ballast pipe work and unused manifolds including pipeline
+drains and stub pieces MUST be blanked and fully bolted (or capped in the case of small
+diameter lines). Any blank flange fitted on the vessel MUST be of sufficient strength for the
+certified pipeline design working pressure.
+Bunker and cargo manifold drains MUST lead to a spill containment arrangement of
+permanent construction.
+[VIQ 6.22]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 25 -
+F.10 Blank flanges MUST be fitted on all cargo related overboard discharge pipelines, unless
+impracticable, in which case double block valves are acceptable if they are fitted with a system
+to monitor the integrity of the space between the valves.
+[VIQ 6.17] [VPQ 6.1.10]
+F.11 Scuppers MUST be effectively plugged and physically verified prior to commencement and
+during all cargo, ballast and bunker handling operations, and at all other times when in port,
+except when clearing rainwater. The scupper plugs MUST be tested for its tightness at
+frequent intervals.
+Where the ship is fitted with a scupper drain system this MUST be checked prior to arrival in
+port to ensure that the lines are clear and the valves operate correctly. Scupper drain system
+valves MUST be clearly identified and MUST be kept closed whilst the ship is in port.
+Mechanical scupper plugs are Strongly Preferred. Wooden plugs with cement are
+acceptable provided they are properly maintained.
+Scuppers on gas carriers MUST be effectively plugged during bunkering and cargo operation
+when carrying any type of pollutants (MARPOL Annex 1 and 2 in its form or if mixed with
+water).
+F.12 Pollution control equipment MUST be available in accordance with the Oil Pollution
+Preparedness, Response, and Coordination (OPRC) Convention 1990. As a minimum, the
+following equipment MUST be available:
+1. Sorbents;
+2. Non-sparking hand scoops, shovels, and buckets;
+3. Containers suitable for holding recovered waste;
+4. Emulsifiers for deck cleaning;
+5. Protective clothing; and
+6. Two non-sparking portable pumps of sufficient capacity with hoses in good operating
+condition. Unless otherwise stated in the manufacturers’ instructions, all portable pumps
+MUST be earthed when in use. For vessels fitted with fixed dump valves, portable
+pumps are not required.
+[VPQ. 6.1.5]
+F.13 Vessels MUST be fitted with at least two valves on each cargo sea chest. A system to monitor
+the integrity of the space between the valves for product leakage and sea valve integrity MUST
+be fitted, unless the sea chest is isolated from the cargo system by a spool piece or blank.
+(OCIMF publication ‘Prevention of Oil Spillages through Cargo Pump Room Sea Valves’ may
+be used as a guide).
+[VPQ. 6.1.8 & 6.1.6]
+F.14 Where installed, the cargo sea chest valves MUST be kept closed and sealed at all times
+when not in use. All portable spool pieces between the cargo pumps and sea valves, if fitted,
+MUST be removed and the pipeline ends blanked, during normal cargo operations when the
+connections to the sea valves are not required.
+F.15 Operators MUST have in place an Environmental Policy covering pollution from the following
+sources, as appropriate:
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 26 -
+1. Oil, associated products, and chemicals, Liquid Natural Gas (LNG) and Liquid
+Petroleum Gas (LPG), sludge, bilge water, tank cleaning residue;
+2. Noxious liquid substances;
+3. Sewage;
+4. Dangerous goods;
+5. Garbage;
+6. Ballast water (including the transfer of micro-organisms);
+7. Cargo vapor and engine exhaust emissions;
+8. Refrigerants, halons and chlorofluorocarbons (CFCs);
+9. Noise; and
+10. Anti-fouling paints.
+Guidelines issued by the International Chamber of Shipping (ICS) ‘Shipping and the
+Environment – a Code of Practice’ should be used as a reference.
+F.16 Vessels provided with temporary connection arrangements between cargo and ballast or
+cargo and Inert Gas Systems (IGS) or ballast and IGS MUST be equipped with dedicated
+portable spool pieces or similar arrangements, which MUST be disassembled and kept stowed
+in a conspicuous position when not in use.
+F.17 The Oily Water Separator (OWS) and Oil Discharge Monitoring Equipment (ODME) MUST be
+regularly tested and verified fully operational, prior to each use.
+The OWS and ODME MUST be calibrated by manufacturers or persons authorized by the
+manufacturer annually, or alternatively, the measuring unit sensor must be renewed.
+The OWS and ODME piping systems MUST be tamper proof and in accordance with
+MARPOL regulations and the approved system drawings.
+F.18 The switch for the electric power supply for the Engine Room OWS MUST be located on the
+Bridge.
+F.19 The vessel operator MUST have in place a procedure for inspection, testing, and replacement
+of all flexible hydraulic hoses on deck. All flexible hydraulic hoses exposed on deck MUST be
+replaced at least every 5 years.
+F.20 It is Strongly Preferred that vessels are constructed with double hull (double side shell and
+bottom) bunker tanks, lube oil tanks and other tanks and spaces containing any type of
+pollutants (MARPOL Annex 1 & 2 in its form or if mixed with water).
+F.21 It is Strongly Preferred that ballast tanks have protective coatings and that vessels comply
+with performance standards referred to in (IMO) Resolution MSC 215 (82).
+F.22 It is Strongly Preferred that vessels are provided with adequate means for quick sampling
+and visual inspection of the segregated ballast water for any oil contamination prior to
+discharge.
+[VIQ 6.31]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 27 -
+F.23 Vessels fitted with ballast water treatment systems that alters the chemistry of the ballast water
+in the tanks versus ambient seawater (namely Active Substance Systems as defined by IMO)
+MUST have on file a statement from the ballast tank coating supplier confirming compatibility
+of the ballast tank coating type with said system.
+F.24 It is Strongly Preferred that cargo and ballast overboard pipelines do NOT pass through
+bunker tanks. Vessels with cargo and ballast overboard pipelines passing through bunker
+tanks MUST have the overboard valves installed outboard of the bunker tank or if the latter
+option is not possible then as adjacent to the vessel side shell as is practical.
+F.25 Vessels MUST fully comply with the MARPOL Annex VI provisions for the control of sulphur
+emissions whilst trading in special SOx Emission Control Areas (SECAs) or Emission Control
+Areas (ECAs). When chartered for worldwide trade, the vessel MUST be capable of meeting
+relevant latest local and national marine fuel sulphur content and emission regulations, for
+example EU Directive 2012/33/EU.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 28 -
+SECTION G STRUCTURAL CONDITION
+G.1 Vessel operators of all types of tankers over 15 years of age MUST provide their most recent
+Special Survey documentation for review by IMT.
+For Oil and Chemical vessels with Enhanced Survey Program (ESP) notation IMT requires,
+as a minimum, copies of the following documents for review. Additional documentation may
+be requested.
+1. Survey Planning document for the last Special Survey;
+2. Executive Hull Summary/Condition Evaluation Report (EHS/CER) for the last Special
+Survey;
+3. All survey reports listed in the EHS/CER;
+4. All Thickness Measurement reports listed in the EHS/CER;
+5. All Hull Survey reports issued since the last Special Survey;
+6. All Thickness Measurement reports issued since the last Special Survey;
+7. Latest Condition Assessment Program (CAP) certificate and report for the Hull (for
+vessels over 5,000 tonnes DWT);
+8. Thickness Measurement report employed for the Hull CAP report (for vessels over
+5,000 tonnes DWT);
+9. CAP Fatigue Assessment (for vessels over 5,000 tonnes DWT);
+10. Latest CAP certificate and report for Machinery and Cargo systems;
+11. Latest cargo tank, ballast tank, cofferdam and void space coating condition reports; and
+12. Latest Class Survey Status report, including the section detailing Conditions of Class
+and Memoranda.
+Gas and bitumen/asphalt vessels which have not been assigned with ESP notation and are
+not subject to an Enhanced Special Survey, are still required to undertake a Special Survey.
+IMT requires, as a minimum, copies of the following documentation for review:
+1. All survey reports related to the last Special Survey;
+2. All Hull Survey reports issued since the last Special Survey;
+3. All Thickness Measurement reports relating to the last Special Survey;
+4. All Thickness Measurement reports issued since the last Special Survey;
+5. Latest CAP certificate and Hull CAP report (for vessels over 5,000 tonnes DWT);
+6. Thickness Measurement report employed for the Hull CAP report (for vessels over
+5,000 tonnes DWT);
+7. CAP Fatigue Assessment (for vessels over 5,000 tonnes DWT);
+8. Latest CAP certificate and report for Machinery and Cargo Systems;
+9. Latest ballast tank, cofferdam and void space coating condition reports; and
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 29 -
+10. The latest Class Survey Status report, including the section detailing Conditions of Class
+and Memoranda.
+Additionally, for all type of vessels that have undergone major conversion such as from single
+hull to double hull (DH), Oil Bulk Ore (OBO) to DH tanker etc., the vessel technical operator
+MUST provide the following additional document(s) for IMT review:
+1. A Certificate/Attestation from Class confirming that the vessel has been converted in
+accordance with the approved drawings and the rules and regulations of the society;
+2. Management of Change documentation for the conversion;
+3. Details of supervision of the conversion while in the shipyard; and
+4. Details of inspection on completion of the conversion and relevant trials conducted to
+verify the integrity of the conversion.
+It is essential for the submitted documentation to be complete so that reviews can be carried
+out expediently to determine if the vessel is suitable for the ExxonMobil Affiliate service.
+All communication with IMT related to this process should be directed by email to
+MSess@exxonmobil.com.
+G.2 Vessels over 15 years of age and more than 5,000 tonnes DWT MUST provide a Hull CAP
+Certificate with Grade 1 or 2 rating issued by a Classification Society which is a member of
+the International Association of Classification Societies (IACS).
+All types of tankers over 15 years of age MUST provide CAP Certificate for Machinery and
+Cargo Systems with a Grade 1 or 2 rating, issued by a Classification Society which is a
+member of IACS.
+The CAP certificate MUST be renewed every 5 years. If the vessel is older than 20 years, the
+CAP Certificate MUST be renewed every 30 months.
+[VPQ CH. 1.4.6] [VIQ 2.12]
+G.3 Aluminium anodes MUST NOT be used in CARGO tanks. If used in BALLAST tanks, they
+MUST meet the following criteria:
+1. Anodes MUST NOT be placed higher than 1.8m or higher than a position that may
+cause an impact-energy greater than 20kgm in the event of a fall;
+2. Anodes MUST be shielded from objects falling from directly overhead (specially
+designed box shields); and
+3. Anode alloys MUST contain no more than 0.02% magnesium or 0.1% silicone or MUST
+meet US Coast Guard Requirements if applicable.
+(Code of Federal Regulations - 35.01-25(b) (4). [VPQ 7.1.3]
+G.4 For vessels engaged in the carriage of chemicals or clean products, tanks MUST either be
+stainless steel or be fully coated with a coating suitable for the range of products intended to
+be carried. A record of cargo tank coating condition MUST be maintained on-board showing
+the status of the coating condition in each tank. On vessels that are used for carrying aviation
+grade kerosene, the cargo tanks, including heating coils, heat exchanger, cargo pumps, and
+cargo lines MUST be free of galvanized steel, copper, zinc, cadmium, and their alloys.
+G.5 A Vessel Special Survey or Enhanced Special Survey should not be extended and MUST be
+conducted within the Classification Society issued survey cycle for vessel age and type.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 30 -
+G.6 All steel diminution that falls within the Classification Society definition of ‘substantial
+corrosion’ or ‘renewal (minimum allowable thickness)’ MUST be repaired to the satisfaction of
+the attending Classification Society surveyor.
+Doubler plates MUST NOT be used as a permanent method of repair in way of shell plating,
+deck plating, cargo/slop tanks and fuel oil tanks.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 31 -
+SECTION H CARGO AND BALLAST SYSTEMS
+H.1 The vessel MUST have on-board cargo operation and handling procedures in addition to
+documentation showing maximum loading rates, venting capacities and the maximum
+permissible pressure and vacuum each tank can withstand.
+[VIQ 8.1]
+H.2 A detailed and documented cargo-handling plan written in the working language of the vessel
+MUST be prepared and available for every cargo or ballast operation undertaken. This cargo
+plan MUST be read and signed by all Deck Officers and the Master.
+[VIQ 8.16]
+H.3 Material Safety Data Sheets (MSDS) for all products being handled MUST be displayed.
+Where applicable, a copy of the USCG Data Guide should be on-board.
+H.4 Cargo pumps MUST have emergency stops located:
+1. in the Cargo Control Room (CCR);
+2. at manifold(s); and
+3. just outside the pump room entrance and pump room bottom (if the vessel is fitted with
+a cargo pump room).
+The Remote stops MUST be tested within 24 hours of expected cargo operations.
+[VIQ; 8.22] [VPQ. 9.6.3]
+H.5 All main cargo and ballast pumps located in a pump room, their bearings and casings MUST
+be fitted with high-temperature alarms and trips. It is Strongly Preferred that vacuum pumps
+as part of an Automatic Unloading System (AUS) are fitted with high-temperature alarms and
+trips.
+All main cargo & ballast pump drive shaft bulkhead bearings and glands located in the pump
+room MUST be fitted with high-temperature alarms monitoring system.
+It is Strongly Preferred that rotary positive displacement pumps are fitted with alarms and
+trips for high flash point cargoes, and MUST be so fitted for cargoes with flash points below
+60ºC.
+H.6 Vessels MUST have appropriate cargo and ballast logbook(s) on-board containing an up-to-
+date record of events.
+H.7 Vessels free of inherent intact stability problems are Strongly Preferred. Where the vessel is
+not free from inherent intact stability problems, the operator MUST determine all conditions of
+cargo and ballast operations where IMO stability criteria are not satisfied. Vessels that are not
+free from inherent intact stability problems or have large width cargo tanks, ‘U’ section ballast
+tanks, or double bottom tanks without watertight centreline bulkheads MUST have operating
+instructions that:
+1. Indicate the number of tanks which may be slack and still satisfy IMO stability criteria
+under all possible conditions of liquid (cargo and/or ballast) transfer;
+2. Are understandable to the officer-in-charge of transfer operations;
+3. Require no extensive mathematical calculations by the officer-in-charge;
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 32 -
+4. Illustrate corrective actions to be taken by the officer-in-charge in case of departure from
+planned values, and in case of emergency situations, such as negative stability causing
+an angle of loll; and
+5. Are prominently displayed in the approved trim and stability booklet, at the Cargo/ballast
+transfer control station, and in any computer software by which stability calculations are
+performed.
+[VIQ 8.8]
+H.8 A Class-approved cargo computer, or equivalent, MUST be provided to enable stability
+calculations prior to and at any stage of the cargo operation and to calculate hull stresses and
+MUST provide a warning (alert) of unstable or potentially unstable conditions.
+The loading computer MUST be regularly tested against Class-approved data to ensure
+operational accuracy; records of this testing are to be maintained.
+[VIQ 8.5, 8.6; 8.13; 8.10, 8.11] [VPQ CH. 9.5.5]
+H.9 Vessels MUST be fitted with bilge alarms in pump rooms, including ballast pump rooms, bow
+and stern thruster rooms, steering gear room, fore peak store and emergency fire pump room.
+H.10 Vessels carrying low flash point cargoes MUST be fitted with a fixed system capable of
+continuously monitoring for a potentially flammable atmosphere in cargo pump rooms.
+[VIQ 8.77] [VPQ. 9.13]
+H.11 The flammable gas detection system in cargo pump rooms MUST be fitted with an alarm to
+indicate the presence of significant concentrations of flammable vapor. It is Strongly
+Preferred that sensors and sampling points for monitoring flammable atmospheres are
+distributed throughout pump rooms. Ref: OCIMF Information Paper on Pumproom Safety
+(Reprinted September 1995).
+[VIQ 8.77] [VPQ. 9.13]
+H.12 Vessels MUST have pressure gauges with valves or cocks fitted, port and starboard, at each
+manifold connection outboard of cargo manifold valves.
+This requirement may be waived on application and justification for chemical carriers and
+multi-product carriers which have an excessive number of manifolds, and where acceptable
+alternate arrangements are in place
+H.13 It is Strongly Preferred that vessels are fitted with a Cargo Control Room (CCR) with
+centralized cargo pump control, valve operation and remote tank level gauges and alarms.
+H.14 Cargo tank venting MUST be through approved systems that expel vapor clear of the tank
+deck area in accordance with the International Safety Guide for Oil Tankers and Terminals
+(ISGOTT).
+Where independent full flow P/V valves are installed, they MUST be so fitted that they cannot
+be isolated from the tanks they protect and MUST be capable of flowing sufficient volume of
+gas to prevent damage at the tank’s maximum loading/discharge rates.
+[VIQ 8.35] [VPQ. 9.10.6]
+H.15 Vessels MUST be able to undertake cargo operations under controlled venting, closed
+gauging and closed sampling.
+[VPQ.9.8.1]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 33 -
+H.16 A vapor recovery system is required at certain terminals. If fitted on-board, it MUST be Class
+approved. Manifolds MUST comply with the OCIMF ‘Recommendations for Oil Tanker
+Manifolds and Associated Equipment’ and vessel personnel conducting cargo operations
+MUST be familiar with the safety implications associated with the use of vapor recovery
+systems.
+[VPQ CH.9.9.2 & 9.11.1]
+H.17 Tank level measuring devices MUST be available for all cargo tanks, slop tanks and bunker
+tanks (including storage, service and settling tanks).
+Automatic (fixed) tank gauges are Strongly Preferred. Where automatic tank gauges are
+fitted, these MUST have remote readings in the CCR.
+It is Strongly Preferred that tank level measuring devices or automatic (fixed) tank gauges
+were fitted for all cargo, slop and bunker tanks (including storage, service and settling tanks)
+are calibrated and certified at least every five years by a recognized company.
+[VPQ. 9.8.1]
+H.18 Irrespective of the automatic tank gauging system, vessels MUST be fitted with vapor locks
+capable of drawing liquid samples, and of measuring ullage, temperature, and interface with
+portable sonic tapes.
+Cargo tank vapor locks MUST be independently calibrated and certified so that measurements
+taken from them can be used with the vessel's original ullage tables.
+H.19 Portable sonic measuring tapes MUST be provided on-board to gauge each tank being topped
+off.
+Vessel MUST have sufficient portable sonic measuring tapes capable of measuring ullage,
+temperature, and interface in addition to the fixed gauging system for independent monitoring
+of ullages for tanks being topped off, along with a sufficient number of closed samplers.
+Vessels MUST annually assign a responsible officer to check the accuracy of all the portable
+sonic measuring tapes against a recently calibrated tape. At any given time, at least one tape
+MUST be within a year from the last calibration date. Calibration of tapes must be performed
+in accordance with manufacturer’s recommendations. Certificates of calibration for the
+portable sonic measuring tapes MUST be available on-board.
+It is Strongly Preferred that calibration frequency for all portable sonic measuring tapes not
+exceed five years.
+H.20 Use of portable measuring equipment, including sonic tapes and sampling devices when
+loading products in non-inerted tanks MUST be in accordance with the precautions to prevent
+electrostatic ignition recommended in ISGOTT.
+Except where tanks are fitted with perforated full depth sounding pipes, portable measuring
+and sampling devices MUST NOT be introduced into non-inerted tanks until 30 minutes after
+cargo flow to the tank stops. Vessels MUST be able to safely top off in full compliance with
+these requirements.
+If sounding pipes are fitted, they MUST be perforated, constructed to extend the full depth of
+the tank, and be effectively bonded. Full depth sounding pipes MUST be fitted to the vapor
+lock if the vessel has no IG system and carries static accumulating cargoes.
+H.21 All cargo, ballast and bunker line-up, including a manifold jumper and flexible hose line-up and
+cargo venting line-up, MUST be independently verified by at least two responsible individuals.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 34 -
+H.22 Independent high-level alarms MUST be fitted for all cargo tanks, slop tanks, fuel and diesel
+oil bunker tanks in addition to the high-level alarms incorporated in the fixed/automatic tank
+gauging system.
+The independent high-level alarms MUST have separate wires (feeders) back to the CCR.
+They MUST be used during all cargo, slop and bunker transfer operations and suitably located
+on deck and CCR to alert personnel conducting cargo, slop or bunker operations.
+Independent high-level alarms MUST be tested prior to cargo, bunker or slop operations, and
+the tests properly recorded.
+[VPQ 9.8.7.3]
+H.23 An operational high-level alarms MUST be fitted for all fuel and diesel oil service and settling
+tanks. They MUST be used during all bunker transfer operations and suitably located in the
+engine room to alert personnel conducting bunker transfer. High-level alarms MUST be tested
+at frequent intervals
+H.24 Vessel cargo and bunker manifolds and associated valves, reducers and spool pieces MUST
+be fabricated of steel. Flexible hose connections MUST be via bolted steel flanges, unless the
+connection system is supplied and designed for a specifically designated purpose. Grey cast
+iron and aluminium are NOT permitted. Ductile iron may be used if of appropriate strength,
+yield strength, and elongation.
+H.25 Vessels used for the carriage of more than one grade of cargo MUST be capable of
+maintaining a two valve or equivalent separation between grades at all times during the
+execution of the voyage, including loading and discharging operations.
+Gas carriers MUST have a distance piece connection and blind flange arrangement for
+segregation between grades. If a spool is used it should be of same thickness and material
+as the cargo pipeline flanges. It is Strongly Preferred that such spool pieces are made of
+SUS 316 material.
+[VPQ. 9.5.1]
+H.26 Vessels having conventional pump rooms MUST be equipped with at least two operational
+main cargo pumps.
+H.27 Vessels MUST have on-board documented maintenance procedures and test records that
+relate to cargo handling equipment, systems, and alarms. Cargo handling equipment,
+systems, and alarm include but are not limited to the cargo pumps, piping, valves, inert gas
+system, independent high-level alarms and cargo instrumentation. The vessel MUST have
+defined schedules within their PMS to test these equipment, systems and their alarms and
+trips.
+The vessel MUST establish and carry minimum spares for cargo handling equipment,
+systems, and alarms.
+H.28 It is Strongly Preferred that vessels are fitted with a device in their CCR capable of monitoring
+and recording the load and discharge manifold pressure outboard of each port and starboard
+manifold valve.
+H.29 All the cargo equipment such as pressure gauges, vacuum gauges, thermometers etc. MUST
+be checked annually for accuracy by a responsible vessel engineer using a recently calibrated
+and certified master gauge.
+All cargo pressure and vacuum gauges including thermometers MUST be calibrated and
+certified at least every five years by a recognized company.
+For gas carriers refer to Section S of this document.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 35 -
+H.30 Irrespective of vessel complying with the (IMO) International Convention for the Safety of Life
+at Sea (SOLAS) primary and secondary venting system, vessels MUST have fixed individual
+cargo tank pressure monitoring equipment fitted with a visual display unit installed in the CCR.
+The system shall include the manufacturer’s set high and low-pressure alarms as detailed
+within OCIMF SIRE 6 VIQ CH. 8.33, and additionally a further minimum two adjustable, user-
+defined, alarm limits which can be set as required. These alarms should provide an audible
+and visual alarm in the CCR if the set limits are exceeded.
+H.31 It is Strongly Preferred that vessels are fitted with a cargo tank pressure monitor display and
+alarm unit on the bridge in addition to the display and alarm unit installed in the CCR.
+H.32 Vessels MUST use appropriate design standard manufacturer supplied and certified cargo
+hoses compatible for the cargo being transferred. As a minimum, hoses on-board MUST meet
+the following specifications:
+1. The Maximum Working Pressure (MWP) of the cargo hoses MUST be not less than
+13.8 bar;
+2. For petroleum and chemical vessels:
+• Rubber cargo hoses MUST comply with BS EN 1765;
+• Composite cargo hoses MUST comply with BS EN 13765;
+3. For asphalt/bitumen and molten sulphur vessels: BS EN 13482.
+Vessels MUST carry cargo hose certificates on-board issued by the manufacturer confirming
+that the cargo hoses meet the appropriate European Standards (ENs)
+H.33 All cargo hoses on-board MUST be inspected prior to each use to ensure they are free of
+kinks or any other deterioration or damage. Cargo hose assembly exhibiting deterioration or
+damage MUST NOT be used. For those connections where an external gasket is used,
+vessels MUST use a new gasket for each connection compatible for the cargo being
+transferred.
+H.34 All cargo hoses on-board in service MUST have a documented inspection and testing at least
+annually to confirm their suitability for continued use. This should include:
+1. A visual check for deterioration/damage;
+2. Pressure test to 1.5 times the MWP but not less than 22.5 bar. In addition vacuum test
+smooth bore rubber cargo hoses to 0.85 bar;
+3. Permanent and/or temporary elongations; and
+4. Electrical continuity test.
+Each cargo hose MUST be marked with the test date and rated MWP, and be individually
+numbered for identification purpose linked to their certificates.
+H.35 Each cargo hose type on-board MUST have retirement age defined in consultation with the
+cargo hose manufacturer. The cargo hose on-board MUST be withdrawn from service at their
+defined retirement age but not exceeding 6 years for rubber cargo hoses and 4 years for
+composite cargo hoses.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 36 -
+SECTION J INERT GAS AND CRUDE OIL WASHING SYSTEMS
+J.1 An Inert Gas system (IGS), where fitted, MUST be used for the carriage of all petroleum
+cargoes.
+It is Strongly Preferred that all vessels, irrespective of DWT, are fitted with IGS or Nitrogen
+System as applicable to cargo type.
+J.2 An IGS, Nitrogen System, or Dry Air System where fitted, MUST be maintained in full working
+order and have documented maintenance procedures, including maintenance and test
+records. Maintenance records MUST include scrubber tower, blowers, deck seal, P/V
+breakers, P/V valves, mast risers, oxygen analyser, pumps, non-return valves, dehumidifiers
+and driers, chiller unit, fittings and instrumentation containing critical components, and
+inspection and examination of the inert gas pipe sections for corrosion or leakage.
+[VPQ. 9.15] [VIQ 9.4]
+J.3 The IGS MUST be operated as per a detailed manual approved by the vessel's classification
+society. It is Strongly Preferred that the IMO publication ‘Inert Gas’ is carried on IGS fitted
+vessels. A log of inerting and gas freeing operations MUST be maintained on-board.
+[VPQ 9.15]
+J.4 IGS or Nitrogen Systems Alarms and trips MUST be tested prior to use of the system and
+tests properly recorded. It is Strongly Preferred that IGS or Nitrogen System alarms and trips
+are tested 24 hours prior to use.
+J.5 A calibration check of the oxygen analyser MUST be carried out prior to putting IG system into
+use and records should be maintained. It is Strongly Preferred that oxygen analyser is
+calibrated 24 hours prior to a cargo discharge.
+J.6 All vessels fitted with IGS system MUST have a complete spare IGS oxygen (O2) analyser
+unit. It is Strongly Preferred that this spare IGS O2 analyser is permanently fitted as an
+additional IGS O2 analyser to serve as a back-up in case of failure of the main IGS O2 analyser.
+J.7 In regard to cargo tank pressure and vacuum protection, all vessels MUST comply with the
+provisions of SOLAS regardless of their build date.
+J.8 The IGS deck seal MUST be of the ‘Wet’ or ‘Semi-dry’ type. ‘Dry’ deck seals are not
+acceptable. For vessels delivered after 30th November 2017, ‘Semi-dry’ deck seals relying on
+venturi or equivalent are not acceptable; new ‘Semi-dry’ deck seals MUST be of the water
+displacement type. For all deck seals, the maintenance procedures (see J.2) MUST include
+frequent inspection for blocking or clogging of piping and internal openings critical to the
+function of the seal.
+Chemical carriers fitted with inert gas systems but no deck seals MUST comply with the
+enhanced requirements for block and bleed systems identified by the OCIMF paper ‘Inert Gas
+Systems: Block And Bleed Valve Arrangements For Chemical Carriers Carrying Chemicals
+And Petroleum Products’ (published January 2000).
+[VPQ 9.15.11]
+J.9 The IGS lines MUST be inspected and drained at regular intervals, and records maintained.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 37 -
+J.10 The procedure in J.9, MUST be carried out immediately in the event of a tank overfill.
+Crude oil vessels fitted with a Crude Oil Washing (COW) system MUST have clearly
+established procedures for crude oil washing. A class approved COW manual MUST be
+available on-board.
+[VIQ 8.52] [VPQ 9.15.20.1]
+J.11 All officers in charge of COW operations MUST have knowledge of the on-board COW
+procedures.
+[VIQ 8.54]
+J.12 Operators MUST establish a COW checklist to be followed by vessel staff when conducting
+operations. This checklist MUST cover pre- and post-operation checks.
+[VIQ 8.53]
+J.13 Current IMO publication of ‘Crude Oil Washing System MUST be available on-board for
+reference.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 38 -
+SECTION K MOORING
+Vessels MUST comply with the OCIMF Mooring Equipment Guidelines (MEG).
+K.1 The following table lists minimum mooring requirements by vessel size. Some terminals may
+require additional mooring lines to supplement those listed.
+VESSEL SIZE DWT NUMBER OF MOORING BREAKING
+Lines/Wires STRENGTH
+METRIC TONS
+Below 2,000 6 20
+2,001 – 3,000 6 25
+3,001 – 4,000 6 27
+4,001 – 5,000 6 29
+5,001 – 15,000 8 31
+15,001 – 20,000 10 39
+20,001 – 45,000 10 47
+45,001 – 75,000 10 53
+75,001 -100,000 12 64
+100,001 – 140,000 12 65
+140,001 – 160,000 12 74
+160,001 – 250,000 12 77
+250,001 – 400,000 16 103
+IMPORTANT NOTE
+All mooring lines for vessels 45k DWT and above required by the table MUST be fitted on self-stowing
+mooring winch drums (split type is Strongly Preferred) and fitted with brakes having a holding
+capacity in accordance with the OCIMF MEG.
+HIGH-MODULUS SYNTHETIC FIBER ROPES
+Mooring lines required by the table may be high-modulus synthetic fibre ropes with equivalent breaking
+strength. However, if so fitted, the rope manufacturer’s guidance and OCIMF MEG MUST be fully
+complied with.
+If fitting high-modulus synthetic fibre ropes in place of wire ropes, Operators MUST be aware that
+some terminals may continue to insist on wire ropes being used.
+MOORINGS - GENERAL
+K.2 Vessels MUST NOT use mooring lines (wire, high-modulus or regular synthetic fibre ropes) of
+differing elasticity, running in the same direction (i.e. mixed mooring).
+K.3 Synthetic mooring tails, if fitted to wire ropes, MUST be connected to the wire with Mandel,
+Boss or Tonsberg shackles. Where tails are fitted to high-modulus synthetic fibre ropes, the
+connection MUST be made in compliance with the recommendations laid down by the
+manufacturer of the high-modulus synthetic fibre rope.
+[VIQ 9.2] [VPQ 10.1.5]
+K.4 When used, synthetic mooring tails MUST meet the latest OCIMF guidelines.
+[VIQ 9.2]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 39 -
+K.5 Mooring wires and synthetic lines MUST be reeled on their drums in the direction which
+enhances brake holding power.
+K.6 All conventional tankers greater than 100,000 DWT other than shuttle tankers with bow
+loading system MUST be fitted with two bow stoppers.
+K.7 Conventional tankers outfitted for mooring at SPMs MUST be fitted with equipment in
+accordance with OCIMF guidelines. It is Strongly Preferred that the vessel outfitted for
+mooring at SPMs are NOT fitted with Smit type brackets.
+Refer to:
+The OCIMF ‘Recommendations for Equipment Employed in the Bow Mooring of Conventional
+Tankers at Single Point Moorings’ and OCIMF ‘Mooring Equipment Guidelines’
+K.8 Vessels intended for Multi Buoy Moorings (MBMs) MUST have closed chocks which MUST
+be of sufficient number to moor to typical MBM configurations as described in the OCIMF
+MEG. Vessels intended for specific MBM terminals MUST have sufficient closed chocks to
+meet the terminal mooring requirements.
+K.9 All mooring ropes, wires, winches, brakes, tails and shackles MUST be in good condition.
+K.10 Operators MUST ensure that winch brake holding capacity at the rendering point is tested
+annually and that the proper setting is recorded. For example, a tag, stating the proper torque,
+attached to a screw brake and provision of a torque wrench for proper setting in service. (See
+OCIMF MEG).
+[VIQ 9.5]
+K.11 It is Strongly Preferred that all mooring wires eyes have mechanically spliced eyes.
+Certificates listing the breaking strength of each wire and rope MUST be kept on-board.
+Records MUST identify the wires or rope to the winches on which they are deployed.
+K.12 Mooring winches, lines, and fittings MUST have documented maintenance procedures and
+test records. Maintenance MUST include brake and linkage inspection and overhaul, along
+with winch brake rendering tests.
+[VIQ 9.4]
+K.13 Hose lifting equipment MUST be sized so as to adequately handle the anticipated range of
+equipment.
+The following will serve as a guideline:
+Vessels up to 16,000 DWT = 1 to 5 ton SWL
+16,001 DWT to 25,000 DWT = 10 ton SWL
+25,001 DWT to 60,000 DWT = 10 ton SWL
+60,001 DWT to 160,000 DWT = 15 ton SWL
+Above 160,001 DWT = 20 ton SWL
+Gas carriers MUST meet the lifting equipment recommendations of the Society of International
+Gas Tanker and Terminal Operators (SIGTTO) Manifold Recommendations for Liquefied Gas
+Carriers.
+K.14 Vessels intended for All Buoy Berths (ABBs) MUST have closed chocks both forward and aft
+with sufficient number to moor to typical ABB mooring configurations. Vessels intended for
+specific ABB terminals MUST have sufficient closed chocks to meet the terminal mooring
+requirements.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 40 -
+K.15 The operator’s Vessel Safety Management Systems MUST identify risks associated with
+mooring operations and include appropriate safeguards against those identified risks,
+including ensuring that vessel personnel are well aware of snap-back zones whilst performing
+mooring operations.
+K.16 All anchors and anchoring systems, inclusive of stern anchoring systems, including anchor
+chain, joining shackles, windlass, stoppers, pawl bar and bitter-end) MUST be in full
+operational condition (no permanent or temporary defects or restrictions in operating).
+K.17 In line with the OCIMF MEG; separate strong points and chocks specifically for tug escort and
+pull-back duties MUST be fitted on all tankers over 20,000 DWT.
+Where ‘Emergency Towing Arrangements’ (ETA) are fitted as required by SOLAS this will
+meet the above requirements provided they are suitable for this dual purpose, and use should
+not compromise the deployment or effectiveness of the emergency towing arrangements.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 41 -
+SECTION L COMMUNICATIONS
+L.1 Vessels MUST be fitted with sufficient portable VHF or UHF intrinsically safe mobile units for
+use by key personnel involved with shipboard operations. These portable mobile units MUST
+have an adequate selection of channels available to prevent interference between vessels in
+congested ports. VHF radio telephones, required under SOLAS Reg. 6. 2.1.1, should NOT be
+used for this purpose.
+[VIQ 10.14] [VPQ11.1.11]
+L.2 Where the vessel has a Cargo Control Room (CCR) sited in the safe area, a VHF radio
+telephone MUST be fitted.
+[VPQ 11.1.9]
+L.3 The vessel MUST be fitted with satellite communication equipment capable of data and voice
+communication.
+L.4 It is Strongly Preferred that the operators have established guidelines and procedures for
+the use of social media and mobile phones by the ship's staff during normal operations and in
+the event of an emergency.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 42 -
+SECTION M ENGINE ROOM AND STEERING GEAR
+M.1 Vessels MUST be fitted with bilge alarms in the engine room. There MUST be a procedure to
+test bilge alarms weekly and a record maintained accordingly. It is Strongly Preferred that
+the bilge pump on-board the vessel has a long run alarm, and the alarm’s reliability is
+periodically tested.
+[VIQ 11.39] [VPQ 12.7.1]
+M.2 One of the steering systems for the vessel MUST operate from the emergency power supply.
+It is Strongly Preferred that all vessels, irrespective of Gross Registered Tonnage (GRT),
+comply with SOLAS Chapter II-1, Regulation 29, Para.16, and Para.20.
+M.3 Vessels greater than 16k DWT MUST be fitted with a main and an auxiliary steering system
+including two independent steering motors and hydraulic pumps.
+M.4 Main engine and steering gear MUST be tested prior to arrival and departure from port.
+Emergency steering drills MUST be carried out periodically and at least once in three months.
+Bridge and engine watch keepers MUST be familiar with the change-over procedures from
+main to emergency steering gear and operation in emergency mode.
+Clear written emergency change over instructions MUST be posted at relevant locations for
+bridge and engine watchkeepers on actions that need to be taken.
+M.5 All watch-keeping engineers MUST be familiar with local and emergency manoeuvring
+procedures of the main engine. Local and emergency manoeuvring MUST be tested during
+emergency manoeuvring drills, which MUST be carried out periodically and at least once every
+three months.
+Local and emergency manoeuvring instructions MUST be posted at all manoeuvring stations.
+M.6 It is Strongly Preferred that senior engineering officers (Chief Engr and 2nd Engr) undergo a
+recognized industry training course in main engine manoeuvring and controls.
+M.7 All Vessels MUST have a Planned Maintenance System (PMS) in place with maintenance
+routines based on manufacturer’s recommendation and vessel experience. It is Strongly
+Preferred that the Planned Maintenance System (PMS) is Class approved.
+M.8 Vessels MUST have a weekly test Program for communication equipment, lighting,
+emergency tools and local gauges at the local and emergency steering and manoeuvring
+stations.
+M.9 During engine stand-by conditions and manoeuvring (including thruster operations) in
+constrained or congested waters, vessels MUST have sufficient reserve electrical power
+available from running electrical generators such that if one were to fail, it would not affect the
+manoeuvrability of the vessel.
+M.10 The relevant procedure covering the action and recovery to be taken in case of ship’s loss of
+electrical power (black out) MUST be posted on the bridge, Engine Control Room (ECR), main
+switch board and emergency switch board for ready reference, as applicable.
+M.11 During engine stand-by conditions and when manoeuvring in constrained/congested or
+security sensitive waters, the vessel operators MUST have identified engine room manning
+criteria specified in their Safety Management System.
+M.12 Vessels MUST have a clearly identified list of critical systems and critical alarms which are
+crucial for the operational safety and manoeuvrability of the vessel.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 43 -
+M.13 Watchkeepers MUST have a clear understanding of actions to be taken for various critical
+alarms and trip indicators on the bridge and engine rooms.
+M.14 Roles and responsibilities for maintaining these critical systems (M.13 criteria) MUST be
+identified on-board and ashore. Critical systems include the main propulsion system and
+steering gear (see also TMSA Element 4). All vessels MUST have defined schedules within
+their PMS to test these critical systems and its alarms and trips.
+M.15 There MUST be procedures in place on-board vessels to address failure, disarming or
+deactivation of any critical system, alarm, control or shutdown. These procedures MUST
+clearly identify how to address short term and long term defects.
+M.16 The vessel MUST establish and carry minimum spares for critical systems and alarms.
+M.17 The vessel operator MUST identify instruments critical to the safe and efficient operation of
+the ship’s machinery, and their functionality MUST be verified at regular intervals with
+approved calibration equipment or by a certified calibration company.
+M.18 Vessels MUST have the fuel quality tested by an independent laboratory prior to putting fuel
+into use. This fuel quality assessment test MUST include both Marine Gas Oil (MGO) and
+Heavy Fuel Oil (HFO). It is Strongly Preferred that vessels subscribe to a fuel quality
+assessment Program.
+M.19 Vessels MUST subscribe to a regular lube oil analysis Program by an independently
+recognized organization, in which a minimum the lube oil of the main engine, diesel
+generators, steering gear, stern tube, deck hydraulic machinery (winches, windlass, cranes
+etc.) and cargo hydraulics valves system are tested. It is Strongly Preferred that the regular
+testing period should not exceed three months.
+M.20 Vessels MUST carry an on-board water content meter to check the water content in machinery
+circulatory lube oil systems of the main engine, diesel generators and steering every month.
+It is Strongly Preferred that the vessel also has on-board meters to check the viscosity and
+Total Base Number (TBN) content in Machinery lube oil systems of the main engine, diesel
+generators and steering gear every month.
+M.21 All flexible pressure hoses in the engine room MUST be identified and MUST be included in
+the on-board maintenance and inspection schedule.
+It is Strongly Preferred that expansion joints in the high-temperature cooling water system of
+main and auxiliary machinery should have a replacement and maintenance schedule in the
+PMS.
+M.22 Vessels MUST have a Defect Reporting System (DRS) in place. DRS on-board MUST have
+the capability of recording reported defects, follow-ups and close out.
+It is Strongly Preferred that the DRS is incorporated within the on-board PMS.
+M.23 The vessel MUST follow a documented inventory system of spares for on-board machinery.
+There MUST be objective evidence that this is kept up to date.
+M.24 There MUST be evidence that machinery or equipment under maintenance or repair has been
+satisfactorily tested on completion of repairs.
+M.25 Vessels MUST have a procedure to test the operation of all standby machinery auto start
+functions.
+M.26 For vessels which have the capability to synchronize the emergency switchboard with the
+main switchboard, the emergency generator MUST be tested on load and for a reasonable
+period of time at least once a month. For all other vessels that do not have this capability, the
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 44 -
+emergency generator MUST be tested on load and for a reasonable period of time, at least
+once every three months.
+The procedure to carry out the test of the emergency generator at reasonable load MUST be
+posted near the emergency generator.
+M.27 Vessels MUST have weekly program in place for testing emergency and critical equipment
+and machinery such as the emergency generator, fire pump, compressor, lighting, fire
+detection and alarm system etc.
+In addition to the above tests, checks MUST also be performed on fuel oil tank, lube oil and
+sump tank, cooling water tank level gauges and battery pack etc.
+M.28 A bunker transfer procedure for daily bunker transfers MUST be in place. This MUST be read
+and understood by the watch-keeping engineers.
+M.29 A bunker plan MUST be prepared by the vessel prior to the commencement of bunkering
+operations. The individuals involved in the process MUST have a clear understanding of the
+procedures, their responsibilities, and actions to be taken in an emergency. A formal risk
+assessment MUST be carried out or an existing one reviewed prior to bunkering operations.
+Vessels conducting bunkering operations from a bunker barge alongside a scheduled load or
+discharge berth MUST conduct a risk assessment identifying risks associated with
+simultaneous operations, including identifying critical phases of cargo operations. Vessel
+MUST NOT conduct any other (non-cargo) operations simultaneously during such critical
+cargo operations.
+M.30 Bunker procedures MUST address potential dangers associated with a toxic gas such as
+Hydrogen Sulfide (H2S) in the fuel. It is Strongly Preferred that the maximum H2S content in
+the bunkers to be supplied is specified by the vessel operators.
+M.31 Vessels MUST have clear written procedures for boiler operations and maintenance, including
+the exhaust gas economizer. These MUST include instructions for emergency operations
+specific to the vessel.
+M.32 Vessels MUST carry sufficient spares and have PMS procedures in place to carry out regular
+checks and maintenance on intrinsically safe and explosion proof equipment and lighting.
+M.33 Vessel’s Safety Management System MUST identify risks associated with working on
+electrical equipment and include appropriate safeguards against those identified risks,
+including providing instructions on precautions to be taken when working on ‘high voltage’ and
+‘live’ electrical equipment. The Safety Management System MUST address safeguards
+related to activities such as troubleshooting on live switchboards and the use of electrical test
+panels, if applicable.
+M.34 Vessels which have been converted to comply with sulphur emission regulations MUST have
+procedures in place for the use of Low Sulphur Marine Gas Oil (LSMGO) in Boilers.
+(Reference – INTERTANKO and OCIMF Guidance Paper on using LSMGO in Marine Boilers.)
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 45 -
+SECTION N GENERAL APPEARANCE AND CONDITION
+N.1 All vessel equipment and areas MUST be properly maintained, clean, painted, and in good
+fabric condition. All equipment MUST be in good working order.
+N.2 Hull markings MUST be correctly placed and clearly visible.
+N.3 All working area decks MUST have clearly identified and distinguished marked non-slip
+surfaces.
+N.4 The general condition of service pipe work MUST be satisfactory and it MUST be free from
+corrosion, pitting and soft patches or other temporary repairs.
+N.5 All deck openings, including watertight doors and portholes, MUST be in a satisfactory
+condition and capable of being properly secured.
+N.6 All fuel, ballast, space vents and air pipes MUST be clearly marked to indicate the spaces
+they serve.
+N.7 All alleyways and escape routes MUST be free of obstructions and their exits MUST be clearly
+marked.
+N.8 All public spaces, including smoke rooms, mess rooms, sanitary areas, food storerooms, food
+handling spaces, refrigerated spaces, galleys, and pantries MUST be clean, tidy and in a
+hygienically satisfactory condition.
+N.9 Personnel alarms in refrigerated spaces MUST be maintained in good order. These alarms
+MUST be tested periodically and records maintained.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 46 -
+SECTION P SHIP TO SHIP TRANSFER SUPPLEMENT
+P.1 All ship to ship transfers MUST be conducted per the ICS/OCIMF/SIGTTO/CDI Ship to Ship
+Transfer Guides for Petroleum, Chemicals and Liquefied Gases.
+[VPQ 13.1.1]
+P.2 The Master and at least two Deck Officers MUST have previous appropriate experience in
+Ship to Ship (STS) operations.
+P.3 Vessels MUST establish risk assessments for STS operations. These MUST include
+consideration of the constraints of the location, sea room, weather, seasonal constraints, spill
+response capabilities, comparison of vessel sizes, use of support vessels and experience of
+vessels’ personnel.
+STS locations MUST be subjected to a risk assessment and approved by the vessel operator.
+LIGHTERING IN THE GULF OF MEXICO (GOM)
+P.4 Special SRM criteria apply for STS Lightering in the Gulf of Mexico (GOM). The criteria may
+be obtained from SRM at the following email address: DS-SRM-Vetting@exxonmobil.com
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 47 -
+SECTION Q ICE OPERATIONS
+(Applicable to Vessels with an Ice Class Notation or Valid Winterization Certificate)
+Q.1 The vessel’s Safety Management System MUST identify risks associated with operations in
+sub-zero and ice conditions, and provide appropriate safeguards against those identified risks,
+including, procedures for personnel training, navigation, management of cargo and ballast
+system, operations and preparation of equipment including firefighting and lifesaving
+appliances in such conditions.
+[VIQ 13.1]
+Q.2 Vessels MUST have means to prevent the icing up of cargo tank primary and secondary
+venting arrangements; air ventilation to settling and service tanks required for the operation of
+the main propulsion plant and essential auxiliaries. It is Strongly Preferred that there are
+means to prevent icing up of air vents for ballast, bunker and fresh water tanks.
+[VIQ 13.19 &13.20]
+Q.3 Vessels MUST have means to keep at least one machinery space sea water inlet ice-free.
+[VIQ 13.5]
+Q.4 Vessels MUST have means provided for ice observation and detection. Such means may
+include searchlight of a narrow beam type, thermal imaging, ice radar or a visual lookout
+forward, this includes specific training to identify types of ice and the relative threat that ice
+poses given the vessels intended operations.
+[VIQ 13.2]
+Q.5 One of the radars fitted MUST be of a type classed as being suitable for sub-zero
+temperatures.
+[VIQ 13.11]
+Q.6 Systems MUST be in place for the routine receipt of navigational, meteorological and
+environmental data, including ice data and ice charts.
+[VIQ 13.3]
+Q.7 Personal Protective Equipment (PPE) provided MUST be suitable for sub-zero conditions.
+[VIQ 13.7]
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 48 -
+SECTION R CHEMICAL CARRIER SUPPLEMENT
+The following minimum safety criteria for chemical carriers are additional to criteria described in the
+previous sections.
+R.1 Material Safety Data Sheets (MSDS) specific to the particular product grade MUST be
+available for all chemical products on-board.
+[VIQ 8.21]
+R.2 Vessels MUST have written procedures and supporting technical drawings for cleaning and
+emission control of the cargo system.
+[VIQ 8.21 & 8.30]
+R.3 It is Strongly Preferred that vessels are provided with closed process samplers which are to
+be connected to fixed sampling points installed at pump stacks and manifolds etc. for sampling
+toxic chemical cargoes.
+R.4 When handling chemicals not previously carried either by the vessel operator or on the vessel,
+a review of the safety aspects and handling procedures MUST be carried out by the vessel
+operator and any change in procedures communicated to the vessel.
+R.5 All officers MUST be familiar and aware of the dangers associated with tank cleaning and
+ventilation operation after carriage of volatile or toxic products. A responsible officer MUST
+develop a tank cleaning plan prior to cleaning operation. All tank cleaning operations MUST
+be supervised by a responsible officer.
+[VIQ 8.30 & 8.31]
+R.6 Appropriate PPE suitable for the grade of cargo carried and associated hazards MUST be
+provided, maintained and used by all crew members.
+[VIQ 8.86]
+R.7 Showers and eye baths MUST be provided, easily accessible on deck, capable of operating
+in all ambient conditions likely to be encountered, regularly tested, and available at all times.
+[VIQ 8.85] [IBC14.3.4]
+R.8 Vessels MUST carry emergency procedures that cover, as a minimum, action to be taken in
+the event of chemical spill and pollution.
+[VIQ8.20 & 8.28]
+R.9 An updated pipeline and mimic diagram of the cargo, inert gas and venting systems MUST be
+displayed in the cargo control room.
+[VIQ 8.3]
+R.10 Cargoes which do not require heating MUST be isolated by blind flange from the heating
+system.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 49 -
+SECTION S GAS CARRIER SUPPLEMENT
+The following criteria are to be applied to LPG, LNG and chemical gas carriers and are additional to
+criteria described in the previous sections.
+S.1 Vessels MUST have, readily available, full details about the cargoes being carried including
+stowage plans and compatibility tables. Vessel Operators MUST inform IMT if the vessel has
+Certificate of Fitness to carry cargoes other than liquefied gasses.
+S.2 Gas carriers, particularly LNG carriers, MUST be aware of the phenomena of ‘rollover’ and
+have procedures on-board outlining the hazards and appropriate precautions.
+S.3 It is Strongly Preferred that LPG and chemical gas carriers are fitted with an Emergency
+Shutdown (ESD) pendant cable. Where fitted, the system MUST be tested and used.
+LNG carriers MUST be fitted with an ESD link. Where provision is available for linking ship
+and shore ESD systems, the system MUST be tested and used.
+Ref: SIGTTO - ESD Arrangements and Linked Ship/Shore Systems FOR Liquefied Gas
+Carriers
+S.4 Cargo-related pressure relief valves, alarms, trips, and emergency shutdown systems (ESD)
+MUST be used and maintained in accordance with the manufacturers' instructions and
+covered by a routine testing program with records maintained on-board.
+S.5 All cargo ullage, temperature and pressure monitoring instrumentation and cargo plant
+instrumentation MUST be regularly tested and calibrated, with records kept on-board.
+S.6 Cargo (liquid and vapor) pipelines MUST be maintained in good working order with no leaks.
+Insulation, where fitted, MUST be intact. Provision MUST be made to protect piping from
+excessive stresses due to temperature changes and movement of tanks and equipment to
+which the piping is attached.
+S.7 It is Strongly Preferred that all liquid cargo pipelines are free of expansion joints or bellows.
+Where expansion joints or bellows are unavoidable, such as on Moss type vessels, then they
+MUST be subject to approval from the Classification Society.
+S.8 All liquid cargo lines, including accessory and instrumentation lines and up to and including
+isolation valves on these small lines, MUST be constructed with welded or flanged
+connections. Flanged connections, as far as practical, shall be kept to a minimum. Final
+connections on to pressure transmitters or pressure gauges may be screw-threaded’ provided
+an isolation valve is fitted as above.
+S.9 Cargo segregation MUST be achieved without risk of liquid to vapor crossover.
+S.10 Inert gas system piping MUST be completely independent and segregated from the cargo
+system.
+S.11 Liquid spill containment arrangements MUST be appropriate for the range of cargoes carried
+and suitable for low-temperature cargoes, where applicable.
+S.12 There MUST be a system in place to routinely monitor and test, in accordance with the
+manufacturer’s instructions, all gas tight seals fitted between the compressor room and motor
+room where these are separated by a bulkhead or deck.
+S.13 Airlocks fitted to electrical motor rooms in the gas hazardous zone of the vessel MUST have
+a system for periodic testing of alarms, trips, and interlocks fitted to the vessel.
+S.14 All earth bonding and continuity straps MUST be in good condition.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 50 -
+S.15 Where LNG carriers use cargo as fuel, they MUST have procedures on-board to ensure
+compliance with the requirements of the International Code of the Construction and Equipment
+of Ships Carrying Liquefied Gases in Bulk (IGC Code) Ch.16 and precautions outlined in the
+ICS Tanker Safety Guide (Section 4.9.3.).
+Procedures should cover the whole system operation, and the routine testing and
+maintenance of the whole system, including such instrumentation which ensures the integrity
+of the fuel gas supply line (IGC Code 16.3).
+Documented records of the tests and maintenance carried out on the system MUST be
+maintained on-board
+S.16 Cargo transfer systems MUST be tested annually to the ‘working pressure’ which is the
+highest pressure the vessel would experience in normal, steady state operations. Vessels
+MUST have on-board records verifying these tests have been completed. Records of
+individual cargo valve maintenance and tests MUST be kept on-board and available.
+[VIQ 8.26 & 8.28]
+S.17 Gas carriers carrying toxic gasses MUST have at least three personal toxic gas meters
+capable of detecting such toxic gas concentrations and used by the crew members during the
+cargo operations.
+S.18 The vessel operator MUST have documented procedures for LPG and chemical gas carriers
+that address the following, as a minimum:
+1. Dedicated cargo sampling arrangement system;
+2. Drain valve arrangement;
+3. Testing of valves; and
+4. Sampling hoses.
+(Ref: SIGTTO - Liquefied Petroleum Gas Sampling Procedures.)
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 51 -
+APPENDIX A: ADDITIONAL CRITERIA FOR TERM CHARTERED TONNAGE.
+GENERAL INFORMATION
+The following criteria for vessels wishing to be directly employed in ExxonMobil affiliate term charter
+business are additional to those described in the preceding sections. It should be noted that any
+deviation from the full requirements will be subject to review on a case-by-case basis and will be
+dependent on the size of vessel, type of vessel and products carried and trading area.
+ADDITIONAL REQUIREMENTS
+REPORTING REQUIREMENTS
+All vessels employed under the terms and conditions of ExxonMobil affiliate term charter are required
+to submit within the first week of every month ‘Key Performance Indicators’ (KPI's) for the previous
+month. These are to be sent directly to the Chartered Tonnage Team Lead by e-mail to
+msterm@exxonmobil.com. The exact reporting requirements will be provided prior to the vessel being
+employed.
+THIRD PARTY VESSEL INSPECTIONS
+All term chartered vessels shall be inspected (SIRE) by IMT prior to delivery or lifting of technical
+subjects. Thereafter, all term chartered vessels MUST be inspected (SIRE) at an interval not
+exceeding SIX months; of which every alternate inspection (SIRE) will be carried out by an IMT
+appointed inspector.
+Term charter vessel inspections (SIRE) are to be requested by contacting the Chartered Tonnage
+Team Lead via the email address: msterm@exxonmobil.com. Vessel operators MUST make adequate
+and timely arrangements to meet the above requirements. Vessel operators MUST also ensure that
+the respective vessels are available to be inspected by the IMT appointed inspector if so requested.
+IMT may also carry out on-board TMSA, Physical MESQAC compliance checks and security
+inspection on-board ExxonMobil term chartered vessels as and when necessary.
+REPORTING INCIDENTS
+An incident notification related to ExxonMobil affiliate term chartered vessel MUST also be copied to
+msterm@exxonmobil.com.
+SECTION A. GENERAL INFORMATION
+No additional criteria.
+SECTION B. CREW MANAGEMENT
+B.1a Master and Deck Officers serving on term chartered vessels MUST have successfully
+completed an industry recognized cargo handling simulator course appropriate to the vessel
+type at intervals not exceeding five years.
+B.2a Master and senior Deck Officers serving on term chartered vessels MUST have successfully
+completed an industry recognized ship-handling simulator course appropriate to the
+manoeuvring characteristics of the vessel size and type at intervals not exceeding five years.
+B.3a The vessel operator MUST have implemented a Behaviour Based Safety Program.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 52 -
+SECTION C. CREW MATRIX REQUIREMENTS
+C.1a For term chartered vessels, the crew matrix requirement mentioned within section C is a
+MUST and in addition, it is a MUST that the experience of senior officers and engineers with
+the vessel operator to be:
+Experience Senior Deck Officers Senior Engineers
+Master + Chief Off. (Combined) Chief Engr. + 2nd Engr (Combined)
+> Three (3) Calendar Years > Three (3) Calendar Years
+Operator Of the three (3) years combined, Of the three (3) years combined,
+Master should have minimum six (6) Chief Engineer should have minimum
+months and Chief Off. should have six (6) months and 2nd Engineer should
+minimum six (6) months have minimum six (6) months
+(Sea Time) (Sea Time)
+C.2a It is MUST that the senior officers are given individual briefings by the vessel operator’s senior
+management to re-iterate company philosophy, expectations, KPIs and officers’
+responsibilities prior to joining the vessel.
+SECTION D. NAVIGATION:
+D.1a On vessels over 160k DWT, a dual axis Doppler sonar speed log MUST be fitted.
+D.2a On vessels over 50k DWT a rate of turn indicator MUST be fitted.
+D.3a Vessels MUST be fitted with bridge wing repeaters for:
+▪ Rudder angle;
+▪ Speed log;
+▪ Propeller RPM; and
+▪ Pitch indication (where applicable)
+D.4a The magnetic compass MUST be fitted with an off-course alarm facility.
+D.5a Every vessel MUST have a steering system that complies with:
+▪ SOLAS 11/1 Regulation 29 Paragraph 16; or
+▪ Paragraph 20, if built prior to 1st September 1984,
+D.6a Vessels MUST have two gyro compasses or, one gyro compass and one transmitting
+magnetic compass.
+[VPQ 4.1.1.3]
+D.7a Vessels MUST be fitted with a depth finder with the capability of recording, a digital display
+and alarm setting facility.
+[VIQ 4.10.34]
+D.8a Vessels MUST be fitted with two GPS units.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 53 -
+D.9a Vessel operator MUST carry out annual real time navigation audit by a competent external
+third party service provider.
+D.10a The vessel operator MUST have a policy on the training of the Chief Officer in ship-handling
+under Master’s guidance.
+SECTION E. SAFETY AND SECURITY MANAGEMENT
+E.1a Vessels MUST be fitted with an anemometer display or monitoring repeater in the CCR with
+the capability to record (paper or digital) wind speed and direction, and designed to be capable
+of setting a minimum of two desired wind speed limits with audible and visual alarms in the
+CCR and on deck if the set limits are exceeded.
+Dynamic Positioning (DP) vessels MUST have additional anemometer displays in the Engine
+Control Room (ECR)
+E.2a Personal multiple gas detecting alarm units MUST be used by each person working in a
+potentially hazardous area, including: on deck during cargo, bunkering, tank cleaning, gas
+freeing, purging and inerting operations, and entry to tanks, enclosed space, and pump rooms.
+E.3a Double hull vessels MUST be fitted with fixed gas detection system with recorders to sample
+for flammable atmospheres in all ballast tanks, cofferdams, or other such spaces within the
+hazardous zones of the vessel where flammable vapor can accumulate.
+SECTION F. POLLUTION PREVENTION
+F.1a Mechanical type scupper plugs MUST be fitted in the deck edge fishplate.
+F.2a For vessels that have the option, deck dump valves with loop seals into the slop tanks MUST
+be provided. For vessels where deck dump valves are not an option, at least 2 suitably sized
+non-sparking spill pumps MUST be provided. The discharge to the slop tank MUST be hard
+piped, with suitable connections along the deck to accommodate spill location. Unless
+otherwise stated in the manufacturer’s instructions, these portable pumps MUST be earthed
+at all times.
+For gas carriers, at least 2 suitably sized non-sparking spill pumps MUST be provided with
+sufficient storage space on-board to collect or contain oil spilled on deck.
+F.3a Vessels delivered after 30th November 2017 MUST be constructed with double hull (double
+side shell and bottom) cargo tanks, bunker tanks, lube oil tanks and other tanks and spaces
+containing any type of pollutants (MARPOL Annex 1 and 2 in its form or if mixed with water).
+F.4a Vessels MUST be provided with adequate means for quick sampling and visual inspection of
+the segregated ballast waters for any oil contamination prior to discharge.
+F.5a It is Strongly Preferred that vessels install additional independent tamper-proof equipment
+that samples the overboard discharge between the Oily Water Separator (OWS) and the OWS
+overboard valve, and records (as a minimum) oil content, flow through the oil content monitor,
+flow overboard, overboard valve position, vessel GPS position, and time.
+SECTION G. STRUCTURAL CONDITION
+G.1a Where Thermo-Mechanical Controlled Process (TMCP) steel is employed it is Strongly
+Preferred that at least the bottom plating of all cargo tanks are protected by a hard coating.
+G.2a Aluminium anodes are NOT permitted in ballast tanks.
+G.3a For vessels built to classification rules other than the Common Structural Rules (CSR) for
+Double Hull Oil Tankers, the use of high-strength steel should be limited to no more than 30%
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 54 -
+of the vessel’s steel weight. If this is exceeded, a structural analysis MUST be carried out by
+a recognized Classification Society. The analysis should incorporate a fatigue analysis that
+takes into account the anticipated trading pattern of the vessel.
+SECTION H. CARGO AND BALLAST SYSTEMS:
+H.1a The vessel MUST have MARPOL Segregated Ballast Tanks (SBT). If double-hulled, the
+vessel MUST have a continuous longitudinal bulkhead in the cargo tanks in addition to the
+longitudinal bulkheads forming the cargo block (this does not apply to vessels with cargo wing
+tanks).
+H.2a The vessel MUST be capable of handling at least three grades of cargo whilst maintaining
+double valve segregation between grades.
+H.3a The vessel MUST be equipped with at least three operational main cargo pumps.
+Reciprocating main cargo pumps are NOT acceptable.
+H.4a Cargo manifolds, bunker connections, vapor recovery connections and lifting equipment
+MUST meet OCIMF ‘Recommendations for Oil Tanker Manifolds and Associated Equipment’.
+Class approved vapor recovery connections MUST be provided forward and aft of the cargo
+manifolds.
+For gas carriers, the cargo manifolds MUST meet SIGTTO recommendations.
+H.5a Cargo valves on the manifold, sea-chest, and pump room bulkhead MUST be steel or
+approved ductile iron.
+H.6a The vessel MUST be fitted with a Cargo Control Room (CCR) with centralized cargo pump
+control, valve operation and remote tank level gauges and alarms.
+H.7a Automatic fixed tank gauges, tank level measuring devices and independent high-level alarms
+MUST be installed in all cargo, slop and bunker tanks (including storage, service, and settling
+tanks) with remote readout and alarms in the CCR.
+Automatic fixed tank gauges for all cargo, slop and bunker tanks (including storage, service,
+and settling tanks) MUST be calibrated and certified by a recognized company at intervals not
+exceeding five years.
+H.8a Term charter vessels MUST have heating coils fitted in cargo slop tank(s)
+H.9a Vessels MUST have a fixed system to monitor for flammable atmospheres in the cargo pump
+room(s), cofferdams and other spaces adjacent to the cargo block. (For example, ballast
+spaces on double side or double bottom vessels where explosive vapours may accumulate,
+sensors MUST be fitted at the top and bottom of the pump room).
+H.10a In addition, if carrying cargoes that may contain H2S, the vessel MUST have a fixed system
+to monitor for H2S in the pump room.
+H.11a The vessel MUST be fitted with a cargo tank pressure monitor display and alarm unit on the
+bridge in addition to the display and alarm unit installed in the cargo control room (H.29)
+SECTION J. INERT GAS AND CRUDE OIL WASHING SYSTEM REQUIREMENTS:
+J.1a: The vessel MUST have individual pressure/vacuum devices on each tank capable of venting
+at the maximum tank rate during loading or discharging.
+J.2a: A stand-by oxygen (O2) analyser MUST be permanently fitted as an additional IGS O2 analyser
+to serve as a back-up means in case of failure of the main O2 analyser.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 55 -
+SECTION K. MOORING
+K.1a: Vessels outfitted for mooring at SPMs MUST be fitted with Bow Chain Stoppers.
+Refer to:
+The OCIMF ‘Recommendations for Equipment Employed in the Bow Mooring of Conventional
+Tankers at Single Point Moorings’ and OCIMF ‘Mooring Equipment Guidelines’
+SECTION L. COMMUNICATIONS
+▪ No additional criteria.
+SECTION M. ENGINE ROOM AND STEERING GEAR
+▪ No additional criteria.
+SECTION N. GENERAL APPEARANCE
+▪ No additional criteria.
+SECTION P. SHIP TO SHIP TRANSFER SUPPLEMENT
+▪ Criteria to be determined by the trade.
+SECTION Q. ICE OPERATIONS – APPLICABLE TO VESSELS WITH AN ICE CLASS
+NOTATION OR VALID WINTERIZATION CERTIFICATE
+▪ Criteria to be determined by the trade.
+SECTION R. CHEMICAL CARRIER SUPPLEMENT
+▪ No additional criteria.
+SECTION S. GAS CARRIER SUPPLEMENT
+▪ No additional criteria.
+SECTION U. ENERGY EFFICIENCY AND FUEL MANAGEMENT
+U.1a Vessels MUST have systems and practices which will foster the pursuit of energy efficiency
+and Green House Gas (GHG) reduction.
+The objective is to have a proactive approach to energy efficiency and fuel management that
+includes improvement of vessel and voyage efficiencies aimed at reducing GHG emitted by
+use of auditable, prioritized methodologies.
+Systems will include identification of roles and responsibilities, with targets and methods for
+monitoring performance.
+U.2a It is Strongly Preferred that the vessel be outfitted with a Vessel Performance Monitoring
+System (VPMS) that complies with the requirements of the most recent version of ISO 19030
+Part 2.
+U.3a In order to measure progress, a baseline criterion is to be established. For compliance,
+management tools such as IMO recommended Energy Efficiency Operational Index (EEOI)
+MEPC Circ 684 may be adopted.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 56 -
+U.4a To enable monitoring, real-time performance monitoring processes could be used by both
+vessel and shore office, thus enabling implementation of prompt corrective action and
+comparison with similar vessels. This may provide benchmarking related to energy efficiency
+and process improvement.
+SECTION V. GAS-FUELLED VESSELS SUPPLEMENT
+V1.a: It is Strongly Preferred that the bunkering procedures are developed considering applicable
+recommendations of the Society for Gas as a Marine Fuel (SGMF)’s guideline.
+V2.a: It is Strongly Preferred that the vessel and bunkering source be fitted with a single, common
+Emergency Shut-Down (ESD) cable.
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 57 -
+APPENDIX B: DRUG AND ALCOHOL DECLARATION
+Drug and Alcohol Policy (sample)
+Blanket Declaration
+To: International Marine Transportation
+Email: MSOWNER@exxonmobil.com
+Re: Drug and Alcohol Policy
+The undersigned warrants and represents that it has a policy on Drug and Alcohol Abuse (‘Policy’)
+applicable to all tanker vessels which the undersigned now owns and/or operates and which, after the
+date of this certificate, the undersigned may own and/or operate. This Policy meets or exceeds the
+standards in the Oil Companies International Marine Forum Guidelines for the Control of Drugs and
+Alcohol On-board Ship. Under the Policy, alcohol impairment shall be defined as a Blood Alcohol
+Content (BAC) of 40 mg/100ml and equivalent alcohol in breath or greater; the appropriate seafarers
+to be tested shall be all vessel officers and ratings. The drug/alcohol testing and screening shall include
+unannounced testing in addition to routine medical examinations.
+An objective of the Policy should be that the frequency of unannounced testing be adequate to act as
+an effective abuse deterrent, and that all officers and ratings be tested at least once a year through a
+combined program of unannounced testing and routine medical examinations. The policy must be
+such that it meets the objective of always ensuring that prior to going on scheduled duty the blood
+alcohol content of the seafarer is theoretically zero.
+The undersigned further warrants that the Policy will remain in effect unless you are otherwise
+specifically notified and that the undersigned shall exercise due diligence to ensure compliance with
+the Policy. It is understood that an actual impairment or any test finding of impairment shall not in and
+of itself mean the undersigned has failed to exercise due diligence.
+Vessel Operator / Technical Manager based in the USA with USA flag vessels that are required to
+comply with USCG D&A regulations will be treated as compliant with ExxonMobil D&A requirement.
+The same applies to Canadian-based vessel operator and their registered vessels.
+The undersigned understands and acknowledges that while the provision of and compliance with this
+declaration is a necessary condition for the Vessel to perform ExxonMobil affiliate service**, it does
+not automatically qualify the vessel to perform ExxonMobil affiliate service**, which is the subject of a
+separate review by ExxonMobil’s independent marine quality assurance organization.
+** Please note that, in this context, ‘ExxonMobil affiliate service’ includes but not limited to:
+Chartered by ExxonMobil affiliate or carrying ExxonMobil affiliate cargo, or calling at ExxonMobil
+affiliate facilities, or Third Party facility, or at facilities in which ExxonMobil affiliate have a joint
+venture interest to load or discharge.
+Technical Operator Name:
+Technical Operator IMO Number:
+Person signing on behalf of Company:
+Title or Authority held by person signing:
+Date:
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 58 -
+APPENDIX C: MESQAC COMPLIANCE DECLARATION
+Marine Environmental, Safety and Quality Assurance Criteria (MESQAC) for Seagoing Tanker
+vessels in ExxonMobil Affiliate Service
+(Sample)
+Blanket MESQAC 2017 Compliance Declaration
+To: International Marine Transportation
+Email: MSSCREEN@exxonmobil.com
+Re: MESQAC Compliance Declaration
+This document is the undersigned vessel operator’s (technical manager’s) confirmation of its
+understanding and compliance with the Marine Environmental, Safety and Quality Assurance Criteria
+(MESQAC) for seagoing tanker vessels offered for ExxonMobil affiliate service**
+The undersigned vessel operator / technical manager warrants that it currently complies with and shall
+exercise due diligence to maintain compliance with such requirements while on ExxonMobil affiliate
+service.
+The undersigned vessel operator / technical manager further warrants that all listed vessels*, operated
+by the undersigned meet or exceed the requirements and standards in the MESQAC for seagoing
+vessels, including appendix A for vessel(s) on time charter to ExxonMobil. If additional vessel(s) enter
+service the undersigned will submit an updated Blanket Declaration for the vessel(s).
+The undersigned vessel operator / technical manager acknowledges that third party operated vessels
+that do not meet the ‘MUST’ criteria will not be considered for ExxonMobil affiliate service, unless
+meeting certain of these criteria involves gas freeing or dry docking the vessel, or requires long lead
+times, in which case a limited period for further consideration of the vessel may be granted upon
+receipt of written confirmation that actions will be taken at the earliest opportunity, and an approved
+mitigating measure is in place. The undersigned further acknowledges that third party operated
+vessels not meeting those environmental and safety expectations described as ‘Strongly Preferred’
+may be disadvantaged in the selection process versus other vessels meeting those requirements.
+The undersigned also understands and acknowledges that while the provision of and compliance with
+this declaration is a necessary condition for the Vessel to perform ExxonMobil affiliate service, it does
+not automatically qualify the vessel to perform ExxonMobil affiliate service, which is the subject of a
+separate review by IMT marine quality assurance organization.
+** Please note that, in this context, ‘ExxonMobil affiliate service’ includes but not limited to: Chartered
+by ExxonMobil affiliate or carrying ExxonMobil affiliate cargo, or calling at ExxonMobil affiliate facilities,
+or Third Party facility, or at facilities in which ExxonMobil affiliate have a joint venture interest to load
+or discharge.
+Technical Operator Name:
+Technical Operator IMO Number:
+Person signing on behalf of Company:
+Title or Authority held by person signing:
+Date:
+Page: 1 of 2
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION
+- 59 -
+Marine Environmental, Safety and Quality Assurance Criteria (MESQAC) for
+Seagoing vessels in ExxonMobil Affiliate Service
+Blanket MESQAC 2017 Compliance Declaration
+*Listed MESQAC Compliant Seagoing Vessels
+Name of Technical Operator: _____________________________
+Compliant MUST Criteria’s Date expected to
+IMO No. Vessel Name Yes / No not met be fully compliant
+Mitigation steps for not meeting MUST criteria’s that operator plans to address but require lead time /
+dry dock (As applicable)
+MUST Criteria: _________ Vessel Name(s): ___________________________________________
+Mitigation Step:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+MUST Criteria: _________ Vessel Name(s):_____________________________________________
+Mitigation Step:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Continue on next page(s) as required
+MARINE ENVIRONMENTAL, SAFETY AND QUALITY ASSURANCE CRITERIA
+FOR
+INTERNATIONAL OCEAN/SEAGOING TANKER VESSELS IN EXXONMOBIL AFFILIATE SERVICE
+2017 EDITION

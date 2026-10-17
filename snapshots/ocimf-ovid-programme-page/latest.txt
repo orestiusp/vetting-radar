@@ -1,0 +1,118 @@
+Offshore Vessel Inspection Database
+The Offshore Vessel Inspection Database (OVID) was developed in response to a request from OCIMF members to provide a database of offshore inspections broadly following the format of SIRE
+Login to OVID
+Apply Now
+HELP CENTRE
+Guidelines
+About OVID
+The Offshore Vessel Inspection Database (OVID) was developed in response to a request from OCIMF members to provide a database of offshore inspections broadly following the format of SIRE. Recognition that the offshore industry has different processes and procedures than the tanker world for assurance and chartering has been taken into account.
+The aim of OVID is to provide a robust web based inspection tool and database of inspection reports; this will be underpinned with professional, trained and accredited inspectors. In the long term it is an aspiration that OVID will form a database that is central to the selection and assurance of offshore vessels enhancing the safety of operations in the industry.
+FS 55482
+Benefits of OVID
+OVID has been designed to provide a number of positive benefits to OCIMF/Oil and Gas Producers Forum (OGP) Members and vessel managers. By using a database where inspection reports are available to OVID participating members, experience has demonstrated that inspection numbers will drop over time.
+Assurance checks as a part of the chartering process may be speeded up as the assurance personnel have access instantly to credible information on the vessel and its safety performance.
+OCIMF members have cooperated to develop a common inspection document and format that will eliminate the need for inspectors to conduct inspections using a core document and client specific supplements; this should simplify the inspection process for both inspectors and ships staff and also provide assurance personnel in the oil companies with increased confidence in the inspection report content.
+The provision of a document detailing vessel/unit principal dimensions and equipment will give vessel operators the ability to 'show case' its capabilities and provide a tool to project teams to pre screen vessels that are capable of undertaking the required activities. Having this document controlled by the vessel/unit operator allows for rapid amendment to reflect upgrading activities, and hence allowing project teams to quickly evaluate the vessels new capabilities.
+Proactive owners of offshore vessels will quickly see the benefit of keeping an active inspection on the database as it will streamline the pre chartering process and, for competent vessel operators reinforce their positive image with the clients.
+OCIMF WebServices - Integrator Notification
+If your organisation submits or consumes information via OCIMF WebServices, please ensure that this message is passed to your IT department.
+Read More
+Minimum Supported Internet Browser Version
+Important Notice: Minimum supported internet browser version changing from Monday 25th June 2018.
+Read More
+Release of Updated OVID User Interface
+OCIMF is committed to the continual improvement of its programmes and the new OVID website will be available on 11 April 2018.
+Read More
+OVID Programme Recipients and OVID Vessel Inspection Request platform
+OCIMF is making two big changes to the Offshore Vessel Inspection Database (OVID) in January 2017: we are opening up access to non-member companies and we are launching a platform to facilitate new inspection requests.
+Read More
+IMPORTANT: OVIQ1 Decommissioning
+From the 10th August 2015 it will no longer be possible to commission an OVIQ1 (7100) inspection upon a vessel. All OVIQ inspections from the 10th August onwards should be commissioned using the OVIQ2 (7105) template.
+Read More
+ID Cards
+All OVID inspectors should present their ID card at the time of boarding a vessel for an inspection. If you lose or break your ID card, please contact idcards@ocimf.org to request a new one.
+Read More
+Number of Inspections
+As of January 1st 2015, all OVID inspectors will be required to complete a minimum of 4 OVID inspections per year in order to retain their accreditation – this requirement will increase in future years.
+Read More
+Meeting Update: 17th OVID Focus Group
+17th meeting: 12–13 September, Singapore (hosted by Shell)
+Read More
+1
+2
+3
+Resources
+MODU3 7302 Questionnaire
+Download
+938.5 KB
+OVIQ4 Small Craft 7301 Questionnaire
+Download
+686.5 KB
+OVIQ4 7300 Questionnaire
+Download
+1.3 MB
+OVIQ 4 and OVIQ 3 Mapping for Users
+Download
+394.4 KB
+Español - Programmes - OVID
+Download
+1.9 MB
+中文 - Programmes - OVID
+Download
+1.1 MB
+Programmes - OVID
+Download
+1.9 MB
+Information Papers
+The Guidelines on Cybersecurity onboard Ships
+The purpose of these guidelines is to improve the safety and security of seafarers, the environment, the cargo and the ships. The guidelines aim to assist in the development of...
+Read More
+Information Papers
+Guidelines for the Control of Drugs and Alcohol in the Maritime Industry
+This information paper provides general guidance and recommendations for the maritime industry in developing and implementing controls for drugs and alcohol. It gives guidance on developing a drug and alcohol...
+Read More
+Information Papers
+The OCIMF Human Factors Approach
+...
+Read More
+Information Papers
+Offshore Vessel Management and Self Assessment 2 – FAQs (OVMSA2)
+Read More
+Information Papers
+14 Nov
+The Guidelines on Cybersecurity onboard Ships
+The purpose of these guidelines is to improve the safety...
+Information Papers
+4 Mar
+Guidelines for the Control of Drugs and Alcohol in the Maritime Industry
+This information paper provides general guidance and recommendations for the...
+Information Papers
+5 Oct
+The OCIMF Human Factors Approach
+This information paper outlines OCIMF’s approach to human factors...
+Information Papers
+18 Dec
+Offshore Vessel Management and Self Assessment 2 – FAQs (OVMSA2)
+1
+About OVMSA
+Read More
+OVID Courses
+Read More
+Self Help Portal
+Access to SIRE Programme output is available, at a nominal cost, to OCIMF members, bulk oil terminal operators, oil, power, industrial or oil trader companies that charter tankers/barges as a normal part of their business. It is also available free of charge to government bodies that supervise safety and/or pollution prevention in relation to oil tankers/barges (e.g. Port State Control authorities, MOUs, Flag State authorities, etc.).
+Read More
+FAQs
+Read More
+OVID Login
+Login here
+Contact Us
+So that we can provide you with the help and support you need, when you need it, we have attempted to answer many of the frequently asked OVID questions on our
+FAQs page
+, which can be accessed 24/7.
+If you still have a query, you can find the ways to contact us
+here
+.
+Members' Newsletter
+Thanks for subscribing!
+Sorry, it's not currently possible to subscribe to our newsletter at the moment. Please try again later.
+Subscribe to our email newsletter and stay up to date with the current OCIMF news.

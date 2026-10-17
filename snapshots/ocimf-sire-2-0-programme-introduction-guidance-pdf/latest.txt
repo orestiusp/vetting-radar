@@ -1,0 +1,559 @@
+1 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+SIRE 2.0 – Conditions of
+Participation, Policies and
+Procedures
+Version 1.0
+June 2023
+1 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+SIRE 2.0 – Conditions of Participation, Policies and Procedures
+Contents
+Document control 2
+SIRE 2.0 Conditions of participation 3
+Submitting companies 3
+Vessel operators 4
+Inspectors 5
+Programme recipients 6
+SIRE 2.0 Policies and procedures 7
+1 Inspection request, booking and cancellation 7
+1.1 Inspection request 7
+1.2 Inspection booking 8
+1.3 Inspection cancellation 9
+2 Assigning an inspector to an inspection 9
+2.1 Assigning an inspector 9
+2.2 Assigning an alternative inspector to an inspection (reassigning) 11
+3 Paper-based contingency inspections 12
+4 Submitting the CVIQ on completion of the physical phase of an inspection 13
+5 Draft inspection report quality control 13
+6 CVIQ Resubmission and/or report withdrawal 14
+6.1 CVIQ Resubmission 14
+6.2 Report withdrawal 15
+7 Vessel operator initial comments to a draft inspection report 16
+8 Vessel operator subsequent comments to a final inspection report 16
+9 Providing OCIMF with feedback on published SIRE 2.0 report quality 16
+10 SIRE 2.0 Suggestions for improvement 16
+2 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+Document control
+Doc Version Date Change
+1.0 28th June 2023 Initial release
+3 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+SIRE 2.0 Conditions of participation
+The SIRE 2.0 Inspection Programme is a fully revised inspection process, and all participants are
+required to comply, as applicable to their role, with:
+• OCIMF Programmes Code of Conduct
+• OCIMF Programmes Terms and Conditions
+• OCIMF Inspector Code of Ethics
+• SIRE 2.0 Conditions of Participation
+• SIRE 2.0 Policies and Procedures
+• Supporting SIRE 2.0 guidance and instruction documents
+The principal guidance and instruction documents for SIRE 2.0 are:
+• SIRE 2.0 Programme Introduction and Guidance
+• SIRE 2.0 Question Library Part 1 Chapters 1 to 7
+• SIRE 2.0 Question Library Part 1 Chapters 8 to 12
+Participants who have responsibilities under the SIRE 2.0 Programme include:
+• Submitting companies
+• Vessel operators
+• Inspectors
+• Programme recipients
+OCIMF tracks and conducts analysis against numerous data points from within the SIRE 2.0 process to
+recognise excellence, give guidance and ensure compliance.
+Submitting companies
+The submitting company commissioning a SIRE 2.0 inspection owns the intellectual property rights
+(IPR) in the content of the resulting published inspection report. OCIMF has an exclusive licence to
+use that content in the published inspection reports that it holds within the SIRE database and the
+reports which it provides to programme recipients. OCIMF owns the IPR in the format of the
+published inspection report. OCIMF grants the submitting company, the vessel operator and
+recipient a non-exclusive licence to use the published inspection report.
+Submitting companies must:
+• Limit their inspection commissioning activity to their business or marine assurance needs.
+• Develop internal policies and procedures to manage all aspects of their involvement in the
+SIRE 2.0 Programme including:
+o Identifying roles and responsibilities for managing SIRE 2.0 activities.
+o Provision of ship inspection training to a suitably qualified individual that they intend
+to nominate to OCIMF as a SIRE 2.0 inspector candidate.
+o The management of SIRE 2.0 inspectors holding their token, including establishing
+and monitoring:
+ Inspector compliance standards for submitting company SIRE 2.0 related
+policies and procedures.
+ Inspector onboarding and refresher training standards for:
+• Company related SIRE 2.0 policies and procedures.
+• Company ethics and compliance policies.
+4 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+Each inspector’s performance in terms of:
+
+• Time spent onboard conducting a commissioned SIRE 2.0 inspection.
+• Report accuracy.
+ Punctuality in submitting and resubmitting reports in accordance with
+internal policies and OCIMF guidance.
+ An internal process to ensure that inspectors meet all legal and immigration
+requirements to conduct an inspection in each location where they are
+instructed to travel to conduct SIRE 2.0 activities.
+o The end-to-end management of commissioned SIRE 2.0 inspections and their
+resulting inspection reports, including:
+ The acceptance criteria for a SIRE 2.0 inspection request.
+ The assignment (and reassignment) of an inspector to a booked inspection.
+ Where the submitting company wishes to set internal restrictions on the use of
+the contingency processes, the criteria for authorising full or partial paper-
+based contingency inspections,
+ The cancellation of a booked inspection.
+ Reviewing the quality of each commissioned draft SIRE 2.0 inspection
+report, including instructing inspectors to review sections of a submitted
+compiled vessel inspection questionnaire (CVIQ) and, where necessary,
+correct errors.
+ The withdrawal of draft or published inspection reports which are found to
+be unreliable or misleading.
+o The management of feedback received from:
+ OCIMF
+ Vessel operators
+ Inspectors
+• The use of published inspection reports and data for inspected vessels in accordance with
+the Programmes Terms and Conditions.
+• Maintaining the confidentiality of draft inspection reports and any information gathered
+during the inspection process.
+Vessel operators
+Vessel operators must:
+• Develop internal policies and procedures to manage all aspects of their involvement in the
+SIRE 2.0 Programme including:
+o Identifying roles and responsibilities for managing SIRE 2.0 activities.
+o The end-to-end management of requested SIRE 2.0 inspections and their resulting
+inspection reports, including:
+ The criteria for selecting submitting companies for an inspection request.
+ The minimum time before a planned inspection for requesting an inspection
+in normal circumstances.
+ The process for gathering and uploading pre-inspection information.
+ The minimum time before a planned inspection for uploading pre-inspection
+information and making operator declarations in normal circumstances.
+ The permitted exceptions to the inspection process in abnormal
+circumstances.
+ The cancellation of an inspection request.
+ The cancellation of a booked inspection.
+ The use, and any restrictions in the use, of the intrinsically safe tablet and/or
+its internal camera during a SIRE 2.0 inspection onboard a managed vessel.
+5 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+ The attendance of a superintendent during a SIRE 2.0 inspection to observe,
+but not interfere with, the inspection process.
+ The draft inspection report review and operator comment process.
+ The process to challenge draft inspection report content with:
+• A submitting company
+• OCIMF
+• Provide a wireless enabled printer, set up in accordance with OCIMF guidance, onboard each
+ship to be inspected under the SIRE 2.0 Programme.
+o Accept that if no wireless enabled printer is provided, the inspector will not be able
+to provide an observation declaration to the Master at the conclusion of an
+inspection.
+• Provide supervised access to onboard internet capability if a full or partial paper-based
+contingency inspection is necessary.
+• Maintain the confidentiality of draft inspection reports for vessels under their management
+or control.
+• Use published inspection reports for their managed vessels for internal use only and in
+accordance with Programmes Terms and Conditions.
+Inspectors
+Inspectors must:
+• Only conduct SIRE 2.0 inspections in locations where they are permitted to carry out the
+work of a ship inspector.
+o Inspectors will be required to obtain visas or work permits to comply with local
+immigration or labour laws in some locations.
+• Conduct all SIRE 2.0 inspections in accordance with all guidance documents published by
+OCIMF and, with particular focus on SIRE 2.0 Programme Introduction and Guidance
+section 1.2 Uniform Vessel Inspection Procedure.
+• Conduct all SIRE 2.0 inspections using the inspection tablet and the installed inspection
+editor unless approval is granted by the commissioning submitting company to conduct a full
+or partial paper-based contingency inspection.
+• Report inspection tablet damage or defects, or software malfunctions, in accordance with
+OCIMF instructions.
+• Manage their time to ensure that:
+o They arrive onboard a vessel properly rested to complete a full SIRE 2.0 physical
+inspection phase, or plan to pause the inspection at an appropriate point and take
+rest during the inspection.
+o The SIRE 2.0 inspection pre-boarding phase is completed before arrival at the vessel.
+o The report element for an inspection is completed before commencing the physical
+inspection phase on another vessel.
+• Ensure draft inspection report resubmission requests are completed promptly.
+• Not share their OCIMF SIRE credentials or permit anyone else to edit or submit a CVIQ or
+draft inspection report resubmission on their behalf.
+6 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+Programme recipients
+Programme recipients:
+• Must use published inspection reports and data in accordance with the Programmes Terms
+and Conditions.
+o Programme recipients should note that inspection reports must not be shared in
+anyway with a third party.
+• Should develop policies and procedures for:
+o Reviewing the quality of a SIRE 2.0 published inspection report.
+o Providing feedback to OCIMF where a published inspection report quality raises a
+concern.
+7 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+SIRE 2.0 Policies and procedures
+1 Inspection request, booking and cancellation
+• SIRE 2.0 Inspection Management Processes - Submitting Company - Version 1.0 .
+• SIRE 2.0 Inspection Management Processes - Vessel Operator - Version 1.0
+1.1 Inspection request
+All SIRE 2.0 inspection requests must be initiated in the SIRE system by a vessel operator.
+Submitting companies cannot initiate an inspection request. If an inspection of a specific vessel is
+required for business purposes, a submitting company should instruct the vessel operator to submit
+an inspection request for the vessel through the SIRE system, nominating only them as the
+submitting company.
+Vessel operator
+When a vessel operator requires a SIRE 2.0 inspection the following factors must be considered:
+• The report for the previous SIRE 2.0 inspection conducted onboard the vessel must have
+been published or withdrawn.
+• An inspection cannot be requested within 30 days of the previous inspection being
+completed without providing a legitimate reason at the time of request.
+• The available time before a requested inspection is to be undertaken to permit:
+o The upload of certificates, photographs, and pre-inspection questionnaire
+information (PIQ).
+• SIRE 2.0 Instructions for Uploading Photographs to the Photograph Repository
+• SIRE 2.0 Instructions for Uploading Certificates to the Certificate Repository
+• SIRE 2.0 Instructions for Completing the Pre-Inspection Questionnaire
+o The update of the HVPQ and Online Crew Matrix.
+It is recommended that the upload and/or update of the required PIQ, and the applicable operator
+declarations is completed not less than 48 hours, but ideally at least 96 hours, before an inspection
+is planned to commence.
+Failure to make the vessel operator declarations in sufficient time before an inspection may lead to
+cancellation of a booked inspection.
+A vessel operator should develop procedures to define:
+• The minimum time before a planned inspection that an inspection request should be made.
+• The minimum time before an inspection that the operator declarations for the upload of the
+certificates, photographs and PIQ data should be made.
+• Who is authorised to cancel an inspection request and in what circumstances.
+• Who is authorised to cancel an inspection booking and in what circumstances.
+8 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+A vessel operator may cancel an inspection request before it is accepted and an inspection booking
+once created.
+1.2 Inspection booking
+Submitting company
+When a submitting company receives an inspection request it may take one of the following actions:
+• Accept the inspection request, book the inspection and assign an inspector.
+• Accept the inspection request and book the inspection without assigning an inspector.
+• Decline the inspection request transferring the request to the next nominated submitting
+company.
+• Ignore that inspection request, which will time out after 72 hours, transferring the request
+to the next nominated submitting company.
+Where an inspection request is accepted within 30 days of another inspection booking or completed
+inspection on the same vessel, the submitting company must provide a valid reason to OCIMF for
+doing so.
+A submitting company must develop procedures to define:
+• The criteria for accepting or rejecting an inspection request considering:
+o The vessel and/or its operator.
+o The cargo being carried.
+o The vessel’s trade.
+o The elapsed period since the previous inspection.
+o The business need for the inspection.
+o Inspector availability and compliance.
+• The minimum time before a planned inspection, under normal circumstances, that an
+inspection request can be accepted and, an inspection booked.
+• The minimum time before an inspection, under normal circumstances, that an inspector
+should be assigned (or reassigned) to an inspection.
+• The exceptions to inspection booking and inspector assignment procedure in abnormal
+circumstances and the level of authority for approving exceptions.
+• Who is authorised to cancel an inspection booking and in what circumstances.
+It is recommended that:
+• Inspections are not carried out on a vessel within 30 days of the previous inspection unless
+the draft or published inspection report was withdrawn.
+• Inspectors are not routinely assigned to an inspection less than 48 hours before an
+inspection is planned to take place.
+• Submitting companies publish their expectations for vessel operators who wish to request a
+SIRE 2.0 inspection from them.
+• Submitting companies do not request an inspector assigned to a SIRE 2.0 inspection to carry
+out any additional duties while onboard. If necessary, they should instruct the inspector to
+complete the SIRE 2.0 inspection before undertaking additional duties.
+9 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+1.3 Inspection cancellation
+A SIRE 2.0 inspection booking may be cancelled by either the vessel operator or the submitting
+company at any time before the physical inspection phase commences. The cancelling party must
+provide a legitimate reason for cancelling.
+When an inspection is cancelled, the following parties will be notified by email:
+• Submitting company
+• Vessel operator
+• Assigned inspector (if any)
+Cancelling an inspection will result in the automatic removal of the CVIQ and inspection data from
+an assigned inspector’s tablet-based inspection editor and SIRE 2.0 account.
+Once the physical inspection phase has commenced, an inspection cannot be cancelled. In the
+circumstances that the Master or vessel operator demands that an inspection is terminated before
+it has been completed, the inspector is required to submit the partially completed CVIQ including all
+responses to all CVIQ questions fully or partially completed up until the time of inspection
+termination.
+2 Assigning an inspector to an inspection
+• SIRE 2.0 Inspection Management Processes - Submitting Company - Version 1.0
+• SIRE 2.0 Inspection Management Processes - Vessel Operator - Version 1.0
+• SIRE 2.0 Inspection Management Processes - Inspector - Version 1.0
+2.1 Assigning an inspector
+The SIRE 2.0 programme requires that a submitting company assigns a specified inspector to
+conduct an inspection on their behalf. This function must be managed by in-house personnel and
+under the control of the submitting company.
+Submitting company
+A submitting company has the sole responsibility to assign a named inspector to a booked inspection
+as follows:
+• At the time of accepting an inspection request and booking an inspection, or
+• At any time before an inspection is scheduled to take place which allows sufficient time for
+the inspector to properly complete the pre-board phase of an inspection.
+All inspectors considered for assignment to a specific inspection will be screened against a standard
+set of criteria by the SIRE 2.0 inspector validation tool. The validation criteria for each inspector are
+ranked as follows:
+• Red: If not met, the submitting company should not assign the inspector to the inspection.
+o Inspector is not accredited for the type of vessel to be inspected.
+o Inspector has declared an industry relationship that has been identified by OCIMF to
+create a conflict of interest with the vessel or vessel operator.
+10 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+o Current accredited inspector whose accreditation will expire during the intended
+inspection period.
+• Amber: If not met, the submitting company should avoid assigning the inspector to the
+inspection.
+o Consecutive inspection of the same vessel by the inspector for a different member.
+o Inspector has carried out an inspection (non-consecutive) onboard the same vessel
+within the previous 12 months for any member.
+o Inspector has inspected vessels operated by the same operating company on
+more than 25% of their inspections in the previous 12 months. Checks for
+conflicts with another inspection booking registered in the inspector profile
+including potential time between registered inspections and the proposed
+inspection (back-to-back).
+o Checks time between last report submission, other booked inspections and
+proposed inspection date from inspector pending tray (back-to-back inspections). If
+within 72 hours flag raised.
+o Outside region designation selected in the inspector profile.
+• Green: If not met, there are no restrictions on assigning the inspector.
+o Inspection carried out on a variant (oil, gas, chemical, etc.) which makes up less
+than 10% of this inspector's inspections in the previous 12 months.
+o Inspector has carried out fewer than 12 inspections in the previous 12 months.
+When an inspector is assigned to an inspection, the following parties will be notified by email:
+• Assigned inspector
+• Submitting company
+• Vessel operator
+It is recommended that:
+• Inspectors are not routinely assigned to an inspection less than 48 hours before an
+inspection is planned to take place.
+• A submitting company develops an internal policy for cancelling an inspection where a
+vessel operator does not provide the necessary pre-inspection information and operator
+declarations in sufficient time to permit the inspector to properly prepare for an inspection.
+Vessel operator
+Once an inspection is booked and an inspector assigned, the vessel operator must ensure, if not
+already completed, that operator declarations have been made for the vessel being inspected.
+Failure to make the operator declarations before a planned inspection will result in a failed
+inspection since the CVIQ will not be generated and directed to the assigned inspector’s SIRE 2.0
+account and tablet.
+Failure to make the operator declarations in sufficient time before an inspection may result in an
+inspection cancellation due to a submitting company’s internal policies.
+11 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+Inspector
+When an inspector is notified that an inspection has been assigned to them, they must:
+• Synchronise their tablet inspection editor with the OCIMF server and verify that the
+inspection package has been downloaded successfully.
+• Schedule time to undertake the pre-boarding phase before attending the vessel for the
+physical inspection phase.
+2.2 Assigning an alternative inspector to an inspection (reassigning)
+Submitting company
+If the inspector originally assigned to conduct a specific inspection can no longer attend the vessel
+for the physical phase, the submitting company is required to:
+• Reassign the inspection to an alternative inspector, or
+• Cancel the inspection booking.
+Assigning an alternative inspector must follow the same process as assigning the original inspector.
+This function must be managed by in-house personnel and under the control of the submitting
+company.
+When an alternative inspector is assigned to an inspection, the following parties will be notified by
+email:
+• Originally assigned inspector
+• Newly assigned inspector
+• Vessel operator
+• Submitting company
+It is recommended that:
+• Inspections are not routinely reassigned to an alternative inspector less than 48 hours
+before an inspection is planned to take place.
+Inspector
+No action is required by the originally assigned inspector as the inspection package will be
+automatically removed from their SIRE account and tablet inspection editor.
+When the newly assigned inspector is notified that an inspection has been assigned to them, they
+must:
+• Synchronise their tablet inspection editor with the OCIMF server and verify that the
+inspection package has been downloaded successfully.
+• Schedule time to undertake the pre-boarding phase before attending the vessel for the
+physical inspection phase.
+12 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+3 Paper-based contingency inspections
+• SIRE 2.0 Paper based Contingency Process - Version 1.0
+There may be circumstances when an inspection cannot be completed with an intrinsically safe
+tablet due to loss of, or damage to, the tablet or terminal restrictions on the use of the tablet. In
+such circumstances a paper-based contingency inspection may take place, subject to the following
+conditions:
+Submitting company
+A full or partial paper-based contingency inspection can only proceed with explicit permission from
+the commissioning submitting company.
+A submitting company must have an internal procedure which defines:
+• The circumstances in which full or partial paper-based contingency inspections are
+permitted.
+• The authorisation process for a full or partial paper-based contingency inspection.
+Inspector
+An inspector must not conduct a full or partial paper-based contingency inspection unless they have
+received permission from the commissioning submitting company.
+Where a full or partial paper-based inspection is conducted to comply with port or terminal
+restrictions, the inspector must record the identity of the port and terminal and give details of the
+restrictions imposed for the inspection in their SIRE 2.0 user account.
+Vessel operator
+When an inspector attends a vessel to conduct a full or partial paper-based inspection, the vessel
+operator/Master should provide the following assistance to the inspector if needed and where
+possible:
+• Access to the internet through either:
+o The vessel’s onboard Wi-Fi system –the inspector will use their own laptop or
+mobile device to connect to OCIMF’s systems.
+o The vessel’s network system –the inspector should be supervised while they
+access OCIMF’s systems.
+• Access to a wireless printer if using their own device to access OCIMF’s systems.
+• Supervised access to a network printer if using a vessel’s computer network to access
+OCIMF’s systems.
+If a full or partial paper-based contingency inspection is necessary and an inspector is unable to
+access OCIMF’s systems to download and print the full or partial CVIQ and supporting
+documentation either before boarding the vessel or when onboard the vessel, the inspection will be
+either:
+• Cancelled in the case of a full paper-based contingency inspection.
+• Submitted as a partial inspection in the case of a partial paper-based inspection.
+13 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+4 Submitting the CVIQ on completion of the physical phase of an inspection
+• SIRE 2.0 Inspection Management Processes - Inspector - Version 1.0
+An inspector will normally submit a completed CVIQ, but if the physical phase of an inspection is
+terminated before the CVIQ has been completed, the inspector must submit the CVIQ questions
+completed up until the point of inspection termination.
+Inspector
+The inspector must carefully check all CVIQ responses and supporting comments for accuracy,
+spelling and grammar and that inspection photographs, intended to be included in the draft
+inspection report, have been properly tagged before submitting the CVIQ to OCIMF.
+• A full tablet-based inspection will be submitted to OCIMF directly from the tablet-based
+inspection editor.
+• A full or partial paper-based contingency inspection will be submitted to OCIMF from the
+web-based inspection editor.
+The completed CVIQ must be submitted to OCIMF within 72 hours after the completion of the
+physical phase of the inspection.
+Once the CVIQ has been submitted to OCIMF:
+• No corrections can be made to responses or supporting comments without the submitting
+company initiating the resubmission process.
+• Photographs taken during the inspection but not tagged for inclusion in the draft inspection
+report can no longer be appended to the draft inspection report.
+The CVIQ is merged with operator supplied content at the point of receipt in the OCIMF SIRE 2.0
+system and from this time onwards is known as the draft inspection report.
+5 Draft inspection report quality control
+• SIRE 2.0 Inspection Management Processes - Submitting Company - Version 1.0
+• SIRE 2.0 Draft Inspection Report Validation Best Practice Version 1 0
+Submitting company
+A submitting company must have a process in place to verify the quality of inspector-provided
+content for every commissioned draft inspection report before it is released to the vessel operator
+for comments.
+By releasing a draft inspection report to the vessel operator, the submitting company warrants that
+the report has been subject to the submitting company’s internal SIRE 2.0 inspection report quality
+assurance procedure and is considered, to the best of their knowledge, to be free of inspector errors.
+14 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+6 CVIQ Resubmission and/or report withdrawal
+• SIRE 2.0 Inspection Management Processes - Submitting Company - Version 1.0
+• SIRE 2.0 Inspection Management Processes - Vessel Operator - Version 1.0
+• SIRE 2.0 Inspection Management Processes - Inspector - Version 1.0
+6.1 CVIQ Resubmission
+A submitting company cannot:
+• Request an inspector to export and forward a completed or partially completed CVIQ to
+them for review and editing.
+• Submit a completed CVIQ to the OCIMF database on behalf of an inspector.
+• Edit any aspect of a draft inspection report.
+If an inspector generated error or inaccuracy is detected in a draft inspection report before
+publication in the SIRE 2.0 database, the submitting company should request the inspector to
+correct the relevant sections of the CVIQ and resubmit it to OCIMF.
+Submitting company
+Prior to the release of a draft inspection report to a vessel operator, the inspector generated content
+should have been subject to review by:
+• The inspector prior to submission to OCIMF.
+• The submitting company in accordance with:
+o OCIMF instructions and guidance for reviewing a SIRE 2.0 draft inspection
+report.
+o The company’s own internal procedures.
+The draft inspection report should be verified that it is free of inspector generated errors or be subject
+to the resubmission process until it is.
+Inspector
+The inspector must review the sections of the CVIQ opened for resubmission by the submitting
+company and, where justified, update their observations/negative observations and supporting
+comments/negative comments before resubmitting the CVIQ to OCIMF.
+Vessel operator
+If a vessel operator identifies a suspected inspector error in the draft inspection report it should
+notify* the submitting company who may:
+• Accept the error identified by the vessel operator, recall the draft inspection report and
+initiate the resubmission process, or
+• Reject the grounds for a suspected error raised by the vessel operator and take no further
+action. This will result in the automatic publication of the inspection report 14 days after its
+initial release to the vessel operator unless the vessel operator releases the report for
+publication earlier.
+15 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+Some inspection report content is provided by the vessel operator through the HVPQ and PIQ and
+the accuracy of this information remains the responsibility of the vessel operator in accordance with
+its declarations when submitting the data.
+There is no process for correcting vessel operator supplied information already incorporated into a
+SIRE 2.0 inspection report.
+Notify*: Where the vessel operator wishes to notify a submitting company of a suspected error, this
+will be done outside of the SIRE 2.0 system as there is no process to communicate this information
+within the system.
+6.2 Report withdrawal
+• SIRE 2.0 Inspection Management Processes - Submitting Company - Version 1.0
+If a published inspection report is found to contain significant errors that make the report unreliable
+or misleading, the only option is to withdraw the report. Reports may also be withdrawn for the
+following reasons:
+• Conflict of interest:
+o The inspection was carried out under circumstances that could be perceived
+as a conflict of interest affecting a programme participant.
+• Conflicted report:
+o The inspection report does not accurately represent the classification, outfitting,
+physical condition or operational status as recorded during the inspection,
+according to information discovered and verified after publishing of the report.
+• Covering inspection:
+o OCIMF has completed an inquiry affecting the report and found it plausible that
+the inspection or report is biased, or insufficient time had passed from the previous
+inspection for the Technical Operator to have implemented effective change
+management to resolve previously identified negative observations.
+• Sanctions:
+o In the period between commissioning and withdrawing a report, a programme
+participant involved in the inspection became subject to sanctions that may
+affect the submitting company, if the report remains available.
+An inspection report may be withdrawn by:
+• The commissioning submitting company.
+• OCIMF with notification to the submitting company.
+If a published inspection report is withdrawn, email notifications will be made to:
+• Programme recipients that have downloaded the report.
+• Submitting company
+• Operator of the inspected vessel.
+• Inspector who conducted the inspection.
+Any costs for the purchase of a withdrawn report will be refunded by OCIMF.
+A draft or published inspection report must not be withdrawn because the Master and/or vessel
+operator:
+16 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+• Instructed the inspector to abandon an inspection before it was completed.
+• Asked or demanded the inspection report is withdrawn.
+• Was unhappy with the inspection results.
+7 Vessel operator initial comments to a draft inspection report
+• SIRE 2.0 Inspection Management Processes - Vessel Operator - Version 1.0
+Vessel operator
+A vessel operator has 14 calendar days to append their initial operator comments to the draft
+inspection report before the report will be automatically published to the SIRE 2.0 database.
+A vessel operator may release a draft inspection report for publication in the SIRE 2.0 database at
+any time before the end of the 14 calendar days.
+At the point of publication in the SIRE 2.0 database a draft inspection report is converted to a
+published inspection report and it, and the vessel operator comments, can no longer be corrected.
+However, once the report is published subsequent comments can be made.
+8 Vessel operator subsequent comments to a final inspection report
+• SIRE 2.0 Inspection Management Processes - Vessel Operator - Version 1.0
+Vessel operator
+A vessel operator may add subsequent comments to a published inspection report while it is available
+in the SIRE 2.0 database.
+Comments are cumulative and once published cannot be edited or deleted.
+9 Providing OCIMF with feedback on published SIRE 2.0 report quality
+Programme recipients are encouraged to provide feedback to OCIMF whenever there are any
+concerns about the quality of a published SIRE 2.0 inspection report to quality@ocimf.org .
+If a published inspection report is found to contain significant errors that make the report unreliable
+or misleading, the only option is to withdraw the report as described in section 6.
+10 SIRE 2.0 Suggestions for improvement
+Where a participant identifies an error, omission or opportunity for improvement in any SIRE 2.0
+published document or computer-based system, they should provide feedback to OCIMF through
+the Suggestions for Improvement portal accessed from their SIRE user account.
+• SIRE 2.0 Instructions for entering data into the Suggestions for Improvement portal Version 1
+0
+17 SIRE 2.0 Conditions of Participation, Policies and, Procedures – Version 1.0
+Our vision
+A global marine industry that causes no harm to people or the environment
+Oil Companies
+International Marine Forum
+29 Queen Anne’s Gate
+London SW1H 9BU
+United Kingdom
+T +44 (0)20 7654 1200
+E enquiries@ocimf.org
+ocimf.org

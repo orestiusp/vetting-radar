@@ -1,0 +1,517 @@
+SIRE 2.0 Programme Survey 2024/25
+Summary Report
+SIRE 2.0 Programme Survey 2024/25
+Introduction and objectives Research methodology
+OCIMF has commissioned a series of surveys to gather The research was conducted by a third-party
+feedback from users of its Ship Inspection Report communications and research agency on behalf of OCIMF.
+Programme 2.0 (SIRE 2.0) vessel inspection regime. The The research and analysis were conducted in accordance
+objective of the surveys is to collate feedback of users’ with the Market Research Society (MRS) Code of Conduct
+experience with, and opinions of, the programme to on respondent anonymity and in compliance with the Data
+understand user satisfaction and identify potential areas Protection Act.
+for improvement.
+As the use of the programme differs somewhat for each
+The surveys have been structured to provide feedback stakeholder group, a unique survey was created for each
+across four key areas: participant group. This means four separate surveys have
+ Overall programme quality (report accuracy, been conducted for SIRE 2.0 programme users. Where
+communications and IT helpdesk support) appropriate, questions have been replicated across
+ Tools and services (questionnaire, database, respondent groups for the purposes of comparison
+and services) against each other and with the previous survey
+ Programme integrity (feedback on Inspectors, policies (conducted in 2022).
+and procedures)
+ SIRE 2.0 Improvements The surveys, completed anonymously, are quantitative,
+with options for providing additional written comments for
+All four user groups of the SIRE 2.0 programme – each question.
+Submitting Companies, Programme Recipients, Vessel
+Operators and Inspectors – have been surveyed about The survey links were distributed by OCIMF through the
+the aspects of the programme that apply to their use and SIRE Portal in early April 2025 and closed for responses
+interaction with the inspection regime. eight weeks later, in late May 2025. Follow-up emails
+were sent during this data collection period to encourage
+participation and build the largest possible dataset.
+It is important to note that this year’s survey only reflects
+Respondent profile on SIRE 2.0, which officially replaced the previous regime
+SIRE (VIQ7) on 2 September 2024. Questions reflect the
+The total target sample were all registered users within nature of the new regime and respondents were informed
+the SIRE 2.0 Portal – these are active users of the of the focus on SIRE 2.0 and asked to provide their
+inspection programme. feedback accordingly.
+A total of 1,089 respondents participated in the SIRE 2.0
+survey during the 2024/25 data collection period. This
+compares to 1,107 total respondents in 2022/23, the last
+time the survey was conducted. Where possible, results Key Findings and analysis
+(based on percentages of respondents answering each
+question) are compared within this report. The following pages report on the key findings across
+all four SIRE 2.0 surveys. Statistical analysis shows the
+It is important to note that the response rates differ percentages based on those answering each question.
+considerably between respondent groups. For Submitting
+Companies and Programme Recipients in particular,
+the response rates are low and as such, the statistical
+significance of results and analysis for these two user
+groups is less robust.
+2
+SIRE 2.0 Programme Survey 2024/25
+Executive summary
+The SIRE 2.0 programme survey was sent to all SIRE 2.0 For Inspectors, 81.41% rated the Inspector’s Account Home
+Submitting Companies, Programme Recipients, Vessel Page as Good or Very Good, and 70.94% expressed the same
+Operators and Inspectors. Feedback was gathered across view for the Desktop Report Editor. However, only 49.74%
+several key areas, including programme quality, report rated the Inspection Tablet positively, with 32.35% describing
+accuracy, communication, technical tools, Inspector it as Average and 17.92% providing negative ratings.
+conduct, and the integration of human factors. Each
+question offered the chance to give further commentary Regarding the Harmonised Vessel Particulars
+or qualification for the provided answers if respondents Questionnaire (HVPQ 6), 75.00% of Programme Recipients
+wanted to elaborate further. and 65.56% of Vessel Operators Agreed it captures
+necessary vessel assurance information. Similarly, 75.00%
+Programme Recipients gave the highest ratings for SIRE of Recipients said it provides better information. On the
+2.0’s quality, with 35.29% Very High and 47.06% High. Compiled Vessel Inspection Questionnaire (CVIQ), 68.77%
+Vessel Operators rated it 19.44% Very High and 47.29% of Vessel Operators said it covers the right scope, and
+High, while Submitting Companies rated 17.53% Very 78.09% of Inspectors said it includes appropriate questions
+High and 42.27% High. Submitting Companies had for safety assessment. Additionally, 75.82% of Inspectors
+the most Average ratings at 34.02%, versus 27.67% for found CVIQ’s content and format aid accurate reporting.
+Vessel Operators and 11.76% for Programme Recipients.
+Negative ratings were low: 5.88% of Programme Understanding SIRE 2.0’s enhancements and Human
+Recipients, 5.61% of Vessel Operators, and 6.18% of Factors principles was widely seen as improving
+Submitting Companies. inspections. Among Submitting Companies, 74.49%
+understood Human Factors, and 76.53% saw benefits
+Programme Recipients and Submitting Companies were of including Human Factors assessment across the
+asked if they agreed that SIRE 2.0 reports accurately inspection procedure. For Programme Recipients, a total of
+describe vessel safety and standards. 82.36% of 81.25% Agreed and Strongly Agreed, and a total of 75.70%
+Programme Recipients Agreed or Strongly Agreed; of Vessel Operators’ Agreed and Strongly Agreed.
+compared to 62.25% of Submitting Companies. 5.88%
+of Programme Recipients and 14.29% of Submitting Inspector performance was also assessed. Among
+Companies Disagreed with the statement. Submitting Companies, 69.07% rated Inspector integrity
+High, and 54.64% rated their knowledge and experience
+58.82% of Programme Recipients Agreed or Strongly High. For Vessel Operators, 75.87% Agreed Inspectors were
+Agreed that the programme reduces repeat inspections, knowledgeable, 69.36% saw them as impartial, and 67.43%
+compared to 36.73% of Submitting Companies. said reports reflected vessel conditions.
+Meanwhile, 25.51% of Submitting Companies were neutral,
+and 25.51% Disagreed or Strongly Disagreed. Only 5.88% Regarding professionalism, 88.42% of Vessel Operators
+of Programme Recipients Disagreed, with none Strongly confirmed Inspectors were courteous, 90.18% said
+Disagreeing. Compared to 2022/23, respondents feel SIRE inspections were thorough, and 85.29% noted Inspectors
+2.0 leads to more repeat inspections than the previous paid close attention to guidance.
+regime did.
+Feedback on the need for improvements to the SIRE
+Ratings of tools used in the SIRE 2.0 platform received 2.0 programme revealed that 66.32% of Submitting
+mainly positive feedback. The website was rated Very Good Companies, 58.82% of Programme Recipients, and 54.35%
+or Good by 76.53% of Submitting Companies and 88.24% of Inspectors sought enhancements to SIRE 2.0. 47.85% of
+of Programme Recipients. The Inspection Request Portal Vessel Operators believed improvements were necessary.
+was rated Very Good or Good by 71.13% of Submitting Additional feedback and suggestions are being reviewed
+Companies, 58.82% of Programme Recipients, and 80.56% and considered by OCIMF.
+of Vessel Operators.
+Overall, stakeholders expressed ongoing support for the
+objectives of SIRE 2.0 and provided detailed feedback on
+how the system can evolve to enhance usability, fairness,
+and effectiveness across the industry.
+3
+SIRE 2.0 Programme Survey 2024/25
+Overall programme quality
+Three respondent groups (Submitting Companies,  Programme Recipients were most positive that SIRE 2.0
+Programme Recipients and Vessel Operators) were asked reports reflect vessel safety and operational standards
+about their views on the quality of the SIRE 2.0 programme, (82.36% Agree/Strongly Agree), compared to Submitting
+the accuracy of SIRE 2.0 reports and the extent to which SIRE Companies (62.25%). Submitting Companies had more
+2.0 helps to improve safe operating standards. neutral (13.27% vs 5.88% for Programme Recipients)
+ Satisfaction with the SIRE 2.0 programme is high. and negative responses (14.29% vs 5.88% for
+Combined High and Very High ratings were strongest Programme Recipients).
+among Programme Recipients (82.29%), followed by
+Vessel Operators (66%) and Submitting Companies
+(59.53%). Submitting Companies also had the highest
+Average rating (34.02%), while negative ratings
+remained low.
+How would you rate the quality of the current SIRE 2.0 as a whole?
+100
+80
+60
+40
+20
+0
+Respondents Very high High Average Low Very low
+Vessel Operators 19% 47% 28% 5% 1%
+Submitting Companies 18% 42% 34% 5% 1%
+Programme Receipients 35% 47% 12% 6% 0%
+SIRE 2.0 reports accurately describe the safety and operational standards of the vessel
+100
+80
+60
+40
+20
+0
+Respondents Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+Submitting Companies 13% 49% 13% 13% 1% 2%
+Programme Recipients 18% 65% 6% 6% 0% 6%
+4
+SIRE 2.0 Programme Survey 2024/25
+Overall programme quality
+ Most Inspectors viewed SIRE 2.0 favourably: 51.27% 25.51% remained neutral and 25.51% Disagreed
+Agreed, 30.71% Strongly Agreed (81.98% total). or Strongly Disagreed. 4.08%, indicated they did
+ Submitting Companies and Programme Recipients not know. Of the Programme Recipients, 58.82%
+were also asked if SIRE 2.0 helps reduce the number Agreed or Strongly Agreed with the statement.
+of repeat inspections on the same vessel. 36.73% of Neutral responses accounted for 23.53%, while
+Submitting Companies Agreed or Strongly Agreed, 5.88% Disagreed. 12%, indicated they did not know.
+Inspectors: SIRE 2.0 continuously improves the safe operating standards of a vessel/fleet
+100
+80
+60
+40
+20
+0
+Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+The SIRE 2.0 programme helps reduce the number of repeat inspections on the same vessel
+100
+80
+60
+40
+20
+0
+Respondents Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+Submitting Companies 12% 24% 26% 22% 3% 4%
+Programme Recipients 24% 35% 24% 6% 0% 12%
+5
+SIRE 2.0 Programme Survey 2024/25
+Tools and services
+Respondents were asked to rate (from Very Good to  Vessel Incident Reports were mostly rated Good
+Poor) their use of key tools/processes within the SIRE 2.0 (42.86%) but had 9.18% Poor ratings. TMSA Reports
+inspection regime that are most pertinent to them, as not were well-rated (19.59% Very Good, 51.55% Good). Port
+all users interact with the tool in the same way or have State Control Reports had mixed feedback (16.49% Very
+access to the same tools or functionality. Good, 38.14% Good, 8.25% Poor).
+ Submitting Companies reported generally positive  The Programme Message Centre (25% Very Good, 50%
+experiences. The SIRE 2.0 website scored highest Good) and User Profile Management (52.04% Good,
+(41.84% Very Good, 34.69% Good). Web Services/API no negatives, 7% Never Used) were well-received. The
+Availability received mixed feedback (30.61% each Very Inspection Request Portal was positively rated (22.68%
+Good/Good, 20.41% Never Used). Billing and invoicing Very Good, 48.45% Good), though 16.49% Never Used it.
+had moderate satisfaction (23.71% Very Good, 37.11%
+Good, ~33% Never Used).
+Submitting Companies: Questionnaire & Database Recipients
+Very good Good Average Poor Very poor Never used
+SIRE website
+API availability
+Billing & Invoicing
+Vessel Incidents Report
+TMSA Reports
+PSC Repository
+Message Centre
+Profile M'gt
+Insp. Req. Portal
+0 10 20 30 40 50 60 70 80 90 100
+Tools and Services Very good Good Average Poor Very poor Never used
+SIRE 2.0 Website 42% 35% 15% 3% 1% 4%
+API Availability 31% 31% 17% 0% 1% 20%
+Billing & Invoicing 24% 37% 7% 0% 0% 32%
+Vessel Incident Reports 15% 43% 17% 9% 0% 15%
+TMSA Reports 20% 52% 16% 2% 0% 10%
+PSC Repository 16% 38% 24% 8% 1% 12%
+Message Centre 25% 50% 15% 1% 1% 8%
+Profile M’gt 22% 52% 18% 0% 0% 7%
+Insp. Req. Portal 23% 48% 10% 2% 0% 16%
+6
+SIRE 2.0 Programme Survey 2024/25
+Tools and services
+ Programme Recipients were satisfied with most Port State Control Reports were positive (23.53% Very
+services. The SIRE 2.0 website was highest rated Good, 47.06% Good, no negatives).
+(47.06% Very Good, 41.18% Good, no negatives). Web  The Programme Message Centre and User Profile
+Services/APIs and Billing/Invoicing each had ~35% Very Management were well-rated, with minimal non-use.
+Good and Good, with ~29% Never Used. The Inspection Request Portal was split, with 35.29%
+ Vessel Incident Reports scored well (35.29% Very Very Good, 23.53% Good, and 41.18% Never Used.
+Good, 41.18% Good). TMSA Reports had equal Very
+Good/Good ratings (29.41%) but 35.29% Never Used.
+Programme Recipients: Questionnaire & Database Recipients
+Very good Good Average Poor Very poor Never used
+SIRE website
+API availability
+Billing & Invoicing
+Vessel Incidents Report
+TMSA Reports
+PSC Repository
+Message Centre
+Profile M'gt
+Insp. Req. Portal
+0 10 20 30 40 50 60 70 80 90 100
+Tools and Services Very good Good Average Poor Very poor Never used
+SIRE 2.0 Website 47% 41% 12% 0% 0% 0%
+API Availability 35% 35% 0% 0% 0% 29%
+Billing & Invoicing 29% 35% 6% 0% 0% 29%
+Vessel Incident Reports 35% 41% 6% 0% 0% 18%
+TMSA Reports 29% 29% 6% 0% 0% 35%
+PSC Repository 24% 47% 6% 0% 0% 24%
+Message Centre 24% 41% 12% 0% 0% 24%
+Profile M’gt 24% 59% 6% 0% 0% 12%
+Insp. Req. Portal 35% 24% 0% 0% 0% 41%
+7
+SIRE 2.0 Programme Survey 2024/25
+Tools and services
+ Vessel Operators rated SIRE 2.0 tools positively, with the Desktop Report Editor was viewed more favourably, with
+Vessel Inspection Request Portal, Officers Crew Matrix, 70.94% positive, 23.82% Average, and 5.23% negative.
+and TMSA Reports each receiving over 78% positive  The Inspector’s Account Home Page achieved the
+feedback. Negative ratings were low across all tools. highest satisfaction at 81.41% positive and 17.80%
+ Inspectors rated four key SIRE 2.0 tools. The Inspection Average. The OCIMF Self-Service Knowledge Base
+Tablet received 49.74% positive feedback, with 32.35% also performed well, with 75.20% positive and
+rating it as Average and 17.92% rating it as negative. The 22.43% Average.
+Vessel Operators: Questionnaire & Database Ratings
+Very good Good Average Poor Very poor
+HVPQ editor
+Officers Crew Matrix
+Submitting comments
+Vessel Incident Reports
+PSC Repository
+TMSA
+Insp. Req. Portal
+0 20 40 60 80 100
+Tools and Services Very good Good Average Poor Very poor
+HVPQ editor 22% 43% 20% 8% 6%
+Officers Crew Matrix 26% 53% 16% 3% 1%
+Submitting comments 22% 48% 22% 6% 2%
+Vessel Incident Reports 17% 50% 29% 3% 1%
+PSC Repository 20% 51% 26% 2% 1%
+TMSA 20% 59% 20% 1% 1%
+Insp. Req. Portal 24% 56% 17% 2% 1%
+Inspectors: tools and services ratings
+Very good Good Average Poor Very poor
+Inspector tablet
+Editor software
+Account homepage
+OCIMF self-service
+0 20 40 60 80 100
+Tools and Services Very good Good Average Poor Very poor
+Inspection tablet 14% 36% 32% 15% 3%
+Editor software 20% 51% 24% 5% 1%
+Account homepage 27% 55% 18% 0% 1%
+OCIMF self-service 23% 53% 22% 2% 0%
+8
+SIRE 2.0 Programme Survey 2024/25
+Questionnaire feedback
+Across the survey, questions were asked about the which provides the template of questions Inspectors cover
+Harmonised Vessel Particulars Questionnaire 6 (HVPQ 6) and accompanying guidance notes.
+and the Compiled Vessel Inspection Questionnaire (CVIQ),
+Programme Recipients: HVPQ 6 captures information Vessel Operators: HVPQ 6 captures information
+necessary to evaluate vessels for assurance necessary to evaluate vesself for assurance
+100 100
+80 80
+60 60
+50% 49%
+40 40
+25%
+19% 16% 20%
+20 20
+6% 8% 4% 3%
+0 0
+Strongly Agree Unsure Disagree Strongly No Strongly Agree Unsure Disagree Strongly No
+agree disagree opinion agree disagree opinion
+Programme Recipients: HVPQ 6 provides Vessel Operators: CVIQ covers the
+improved information to the assurance process correct scope to evaluate the vessels
+100 100
+80 80
+60 60 55%
+50%
+40 40
+25% 20%
+19% 20
+20 14%
+6% 7%
+1% 3%
+0 0
+Strongly Agree Unsure Disagree Strongly No Strongly Agree Unsure Disagree Strongly No
+agree disagree opinion agree disagree opinion
+Inspectors: CVIQ Rating
+100
+80
+60
+40
+20
+0
+Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+C
+ VIQ has the right questions to enable the inspector to report on how critical safety equipment and activities such as navigation, cargo operations and
+engineering are managed on board vessels
+The content and format of the CVIQ enables the inspector to report on the actual safety and operational condition of vessels accurately
+HVPQ 6 provides improved information to the inspection process
+9
+SIRE 2.0 Programme Survey 2024/25
+Programme integrity and user understanding
+Participating groups were asked to rate the programme’s or opinion. These questions were asked to gather feedback
+integrity and user understanding. Each group was asked relavant to the conduct of programme users and its impact
+questions relating to their engagement with other on the overall integrity and impartiality of SIRE 2.0 reports.
+programme users and asked to rate their experience and/
+Submitting companies’ view on Inspector integrity and conduct
+100
+80
+60
+40
+20
+0
+Respondents Very high High Average Low Very Low
+Integrity of the 25% 57% 17% 0% 1%
+SIRE 2.0 Inspectors
+Experience/knowledge 12% 66% 20% 2% 0%
+of the SIRE 2.0 Inspectors
+Vessel Operators’ perception of SIRE 2.0 Inspectors and programme effectiveness
+100
+80
+60
+40
+20
+0
+Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+S
+ IRE 2.0 inspectors attending my vessels are knowledgeable
+SIRE 2.0 inspectors attending my vessels are impartial
+SIRE 2.0 reports reflect the actual condition of vessels in my fleet
+The SIRE 2.0 programme improves the operating standards of my vessel/fleet
+Vessel Operator’s views on Inspectors
+Based on SIRE 2.0 Inspections Based on the SIRE 2.0 inspections Based on SIRE 2.0 Inspections
+of your vessels, was the conduct of your company’s vessels, did of your vessels, did the
+of the Inspector professional the inspectors spend enough Inspector pay close attention
+and courteous? time to complete the inspections to all the questions and
+on all parts of the vessels? associated guidance?
+Yes 88.42% 90.18% 85.29%
+No 5.79% 4.74% 6.30%
+I do not know 5.79% 5.09% 8.41%
+10
+SIRE 2.0 Programme Survey 2024/25
+Programme integrity and user understanding
+ Submitting Companies showed strong support for  Programme Recipients showed strong understanding
+SIRE 2.0 and its Human Factors initiatives, with 77.55% across all areas. 82.35% recognised how SIRE 2.0
+recognising its enhancements to the inspection will enhance the inspection programme, 87.50%
+programme, 74.43% understanding OCIMF’s guiding understood OCIMF’s guiding principles, and 81.25%
+principles, and 76.53% valuing the benefits of human valued the benefits of human factors assessments.
+factors assessment.
+Vessel Operators: Understanding of SIRE 2.0 and human factors (HF)
+My organisation understands
+how SIRE 2.0 will enhance the
+inspection programme
+My organisation understands
+OCIMF guiding principals on
+Human Factors and application
+of Performance Influencing
+Factors (PIFs)
+I understand how human
+factors assessment in SIRE 2.0
+inspections will benefit vessel
+operators and crew
+0 20 40 60 80 100
+Statement Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+My organisation understands
+how SIRE 2.0 will enhance the 31% 47% 16% 3% 0% 3%
+inspection programme
+My organisation understands
+OCIMF guiding principals on
+Human Factors and application 28% 47% 14% 7% 1% 3%
+of Performance Influencing
+Factors (PIFs)
+I understand how human
+factors assessment in SIRE 2.0
+31% 46% 14% 5% 1% 3%
+inspections will benefit vessel
+operators and crew
+Programme Recipients: Understanding of SIRE 2.0 and human factors (HF)
+My organisation understands
+how SIRE 2.0 will enhance the
+inspection programme
+My organisation understands
+OCIMF guiding principals on
+Human Factors and application
+of Performance Influencing
+Factors (PIFs)
+I understand how human
+factors assessment in SIRE 2.0
+inspections will benefit
+vessel operators and crew
+0 20 40 60 80 100
+Statement Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+My organisation understands
+how SIRE 2.0 will enhance the 29% 53% 18% 0% 0% 0%
+inspection programme
+My organisation understands
+OCIMF guiding principals on
+Human Factors and application 38% 50% 13% 0% 0% 0%
+of Performance Influencing
+Factors (PIFs)
+I understand how human
+factors assessment in SIRE 2.0
+25% 56% 13% 6% 0% 0%
+inspections will benefit vessel
+operators and crew
+11
+SIRE 2.0 Programme Survey 2024/25
+Programme integrity and user understanding
+ Vessel Operators showed strong support for SIRE 2.0 understood OCIMF’s guiding principles, and 75.70%
+and its Human Factors principles. 82.20% recognised its valued the benefits of human factors assessments.
+enhancements to the inspection programme, 78.71%
+Vessel Operators: Understanding of SIRE 2.0 and human factors (HF)
+My organisation understands
+how SIRE 2.0 will enhance the
+inspection programme
+My organisation understands
+OCIMF guiding principals on
+Human Factors and application
+of Performance Influencing
+Factors (PIFs)
+I understand how human
+factors assessment in SIRE 2.0
+inspections will benefit vessel
+operators and crew
+0 20 40 60 80 100
+Statement Strongly agree Agree Unsure Disagree Strongly disagree No opinion
+My organisation understands
+how SIRE 2.0 will enhance the 25% 57% 14% 2% 1% 1%
+inspection programme
+My organisation understands
+OCIMF guiding principals on
+Human Factors and application 21% 57% 16% 3% 1% 1%
+of Performance Influencing
+Factors (PIFs)
+I understand how human
+factors assessment in SIRE 2.0
+25% 51% 16% 5% 2% 1%
+inspections will benefit vessel
+operators and crew
+Are the questions and guidance notes My organisation advises OCIMF of
+in the SIRE 2.0 inspection report template any issues concerning the behaviour of work
+adequate and appropriate? quality of SIRE 2.0 inspectors
+Programme Recipients Submitting Companies Programme Recipients Submitting Companies
+100 100
+80 80
+60 60
+40 40
+20
+20
+0 Yes No I do not know
+0 Strongly Agree Unsure Disagree Strongly No
+agree disagree opinion
+12
+SIRE 2.0 Programme Survey 2024/25
+SIRE 2.0 Improvements
+The data highlights varying levels of support for with 58.82% in favour of changes. Inspectors were more
+improvements to SIRE 2.0 across different groups. divided, though a slight majority of 54.35% expressed
+Submitting Companies showed the strongest support, a desire for improvements. Vessel Operators showed
+with 66.32% of respondents favouring improvements. the lowest level of support, with 47.85% indicating they
+Programme Recipients also demonstrated clear support, would not like to see changes.
+Are there any improvements you would like to be made to the SIRE 2.0 programme?
+Yes No
+100
+80
+60
+40
+20
+0
+Submitting Companies Programme Recipients Vessel Operators Inspectors
+Common themes shared across all groups
+All groups
+Repetition of observations
+ Repeated observations for the same issue (especially under Human Factors or across multiple
+roles) were criticised as unnecessary and burdensome.
+ Concerns that repetitive findings inflate report length and distort actual risk.
+Complexity and lack of usability in guidance
+ Question guidance is too lengthy, detailed, and sometimes poorly structured or contradictory.
+ Requests for simplified, user-friendly language and formatting.
+ Sub-bullet and reference structure within questions is confusing, especially for cross-referencing.
+Technical platform limitations
+ Tablet freezes, printer connectivity issues, and slowness during certain time zones.
+ Report submission, certificate uploads, and data entry are time-consuming and inefficient.
+ Strong demand for better interface, quick-link navigation, and export options (PDF/XML).
+13
+Our vision
+A global marine industry that causes no harm to people or the enviornment
+Oil Companies
+International Marine Forum
+29 Queen Anne’s Gate
+London SW1H 9BU
+United Kingdom
+T +44 (0)20 7654 1200
+E enquiries@ocimf.org
+ocimf.org

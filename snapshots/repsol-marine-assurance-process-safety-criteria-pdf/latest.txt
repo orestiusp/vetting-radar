@@ -1,0 +1,898 @@
+Copy printed by user
+Remember that you can check the latest version on myrepsolnet
+REPSOL VETTING
+MARINE ASSURANCE PROCESS & SAFETY CRITERIA
+APPLICABLE TO SIRE VESSELS (TANKERS, BARGES AND TUGS) AND BULK CARRIERS
+• For vessels under OCIMF-OVID program, refer to “Repsol Vetting Process and Criteria
+for Offshore Vessels” (90-00023PR)
+• For all river transportation used in E&P projects in Peru and Ecuador, “Repsol Vetting
+Process and Criteria for River Vessels engaged into E&P Projects”. (90-00022PR)
+• For Floating Production Storage Offloading units (FPSO & FSO), refer to “Vetting and
+marine safety criteria for F(P)SOs”. (90-00044PR)
+Reference: T&T-PROC-001/2020 (90-00001PR)
+Updated: 06/02/2025
+Applicable as of 14/04/2025
+.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Index
+Purpose and preliminary comments .............................................................................................................. 2
+Scope of Application ....................................................................................................................................... 2
+Effective date .................................................................................................................................................... 2
+Repsol Vetting Assurance Process ............................................................................................................... 2
+IV.1 VESSELS UNDER REPSOL GROUP COMMERCIAL INTEREST ...................................................... 2
+IV.2 FOLLOW UP PROCESS OF VESSELS WITH THE SATUS OF ACCEPTABLE................................. 5
+IV.3 VESSEL INSPECTION REQUEST ....................................................................................................... 5
+IV.4 VESSEL RATED AS NON ACCEPTED ................................................................................................ 6
+IV.5 ASSURANCE PROCESS FOR SPECIAL VESSELS ........................................................................... 7
+Repsol Marine Safety Criteria ......................................................................................................................... 8
+V.1. Age ........................................................................................................................................................ 8
+V.2. Coating condition and substantial corrosion of tanks and void spaces: ................................................ 8
+V.3. Incident Reports .................................................................................................................................... 8
+V.4. Classification Society ............................................................................................................................. 8
+V.5. Class Information ................................................................................................................................... 9
+V.6. Condition Assessment Programme (CAP) and Thickness Measurement Reports ............................... 9
+V.7. Crew .................................................................................................................................................... 10
+V.8. Crew and Level of Certificates Criteria ................................................................................................ 11
+V.9. Dry Docking ......................................................................................................................................... 11
+V.10. Flag .................................................................................................................................................... 11
+V.11. Hull Design ........................................................................................................................................ 11
+V.12. Hull Structural Fatigue Analysis ........................................................................................................ 11
+V.13. New Building Vessels ........................................................................................................................ 11
+V.14. Port State Control .............................................................................................................................. 12
+V.15. Protection and Indemnity Clubs (P&I) ............................................................................................... 13
+V.16. OCIMF Reports and Repsol Inspection Reports ............................................................................... 13
+V.17. SIRE HVPQ/BPQ .............................................................................................................................. 13
+V.18. Technical Operator ............................................................................................................................ 13
+V.19. Vessel Equipment Criteria ................................................................................................................. 14
+V.20. Vessel History with Repsol ................................................................................................................ 15
+Additional Criteria for Special Vessels ........................................................................................................ 16
+Useful contact details .................................................................................................................................... 16
+Appendix I: Documents required ......................................................................................................................... 17
+Appendix II: Abbreviations ................................................................................................................................... 18
+Annex III: Definitions ............................................................................................................................................. 19
+que le corresponden como empleados del Grupo Repsol, salvo autorización expresa y por escrito de Repsol, S. A. en otro sentido. Cualquier revelación a terceros, copia, distribución, reproducción, comunicación pública o transformación,
+total o parcial no autorizados, está totalmente prohibida. Repsol se reserva el ejercicio de las acciones que le correspondan ante cualquier infracción que contravenga lo dispuesto en este apartado
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Purpose and preliminary comments
+In accordance with the mandate of the global corporate norm 00-00462NO, this document aims to establish the
+safety and environmental guidelines and criteria (Marine Safety Criteria) as well as the evaluation process for
+vessels proposed for use by Repsol.
+This process ensures that vessels comply with applicable international and/or national regulations, as well as other
+relevant maritime safety regulations.
+Vessels that pass the evaluation will be designated as Acceptable in the Repsol Vetting database and this status
+will be communicated to the counterparties making the requests.
+It should be noted that compliance with the requirements outlined herein, or a vessel being rated as Acceptable in
+the assurance process, does not entitle the Owner or Operator to have the vessel chartered or employed by Repsol.
+Furthermore, it does not impose any duty or obligation on Repsol to charter or employ the vessel.
+Repsol, along with its employees, agents, or contractors, shall bear no liability whatsoever to any Owner, Operator,
+or Third Party regarding the acceptance or non-acceptance of any particular vessel.
+Scope of Application
+This procedure applies to any vessel proposed to be used by Repsol which type are included in Annex II of the
+global corporate norm 00-00462NO.
+As a general rule, these are vessels tendered for charter or owned by Repsol, vessels that transport Repsol cargo,
+as well as vessels that visit terminals owned or operated by Repsol.
+The compatibility of the vessels with the terminals in which they operate, the evaluation of the products in transit
+on board the evaluated vessels or the suitability of the vessels for the transport of the product for which the vessel
+is requested, as well as the use of Inert gas for handling volatile products is not contemplated in this procedure.
+Effective date
+14/04/2025
+Repsol Vetting Assurance Process
+IV.1 VESSELS UNDER REPSOL GROUP COMMERCIAL INTEREST
+A. Evaluating Vessels Proposed for vessels part of a COA, SPOT and STC:
+1. Evaluation Process: The Repsol Vetting Assurance process for a vessel proposed by a counterparty for
+a voyage includes, but is not limited to, the following steps:
+o MSCs Compliance Check: Ensure the vessel and its technical operator comply with the applicable
+Marine Safety Criteria (MSCs).
+o Historical Record Review: Examine the vessel’s historical record available in the Repsol Vetting
+database, including but not limited:
+• Previous vessel inspections
+• Audits of its technical operator
+• Feedback on operations conducted by the vessel at Repsol Group terminals
+• Incident reports
+o Third-Party Information Review: Review available information from third parties on the technical
+operator and vessel, such as:
+• Port State Control (PSC) reports
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+• Oil Companies International Marine Forum (OCIMF) data, including the Tanker Management
+and Self Assessment (TMSA)
+• Harmonised Vessel Particulars Questionnaire (HVPQ)
+• Ship Inspection Report Programme (SIRE)
+• Other relevant sources
+2. Validity of Approval:
+Approval of a vessel for Repsol use is valid only for the specific request. If the vessel is proposed for
+subsequent use, it must undergo an evaluation again by the Repsol Vetting Department. It should not be
+assumed that an approval in the past will mean the vessel will be approved for another Repsol use in the
+future.
+B. Evaluating Vessels proposed to be contracted by time (long term contract*): LTC (TC>/= 6 months) or
+logistics services contract
+*Time charter contracts for vessels with LTC vocation (>6 months) but for commercial reasons the contract is
+divided into two or several STCs (<6 months) will be evaluated as LTC
+1. Assurance Process Before Initial Agreement Signing:
+Evaluation and Inspection: Vessels proposed for a long-term contract must undergo a detailed
+evaluation and inspection.
+o The detailed evaluation includes, in addition to the standard check, collecting information from
+technical operator, the result of this evaluation will be communicated to the commercial department
+requesting the vessel. If the commercial department confirms the interest in the contract, then a
+physical inspection will be arranged as well as an audit of its technical operator Safety Management
+System if deemed necessary.
+1.1 Audit of Technical Operator:
+o The Safety and Environmental Protection Management System of the vessel’s technical
+operator must be reviewed and accepted before lifting the technical subjects of the charter party
+or signing the service contract.
+o If not audited in the previous 2 years with satisfactory results by Repsol Vetting, the technical
+operator’s Safety and Environmental Protection Management System must be audited by
+Repsol Vetting.
+o Audits can be conducted either before or after lifting the technical subjects of the contract or
+signing the service contract, depending on the initial review outcome.
+o Subsequent audits will be conducted at intervals not exceeding 2 years provided that the
+relationship with the technical operator which originated the initial audit prevails.
+1.2 Physical Inspection of Vessel:
+o The vessel must undergo a Repsol physical inspection by a Repsol Vetting Inspector at the
+owner’s expense.
+o This inspection must be conducted within three months prior to lifting the technical subjects of
+the contract or signing the service contract.
+o Subsequent Repsol physical inspections will be conducted at the owner’s expense at intervals
+not exceeding 12 months for vessels under 15 years of age and not less than 6 months for
+vessels over that age.
+2. Assurance Process of New Building Vessels:
+Evaluation Requirements: In addition to the requirements mentioned in the Marine Safety Criteria
+(MSCs), the following steps must be taken:
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+2.1 Attendance at Vessel Trials:
+o Repsol representatives are required to attend vessel trials before delivery. This includes sea
+trials, gas trials, DP trials, or other applicable trials.
+2.2 Audit of Technical Operator:
+o If not audited in the previous 2 years with satisfactory results, the vessel’s technical operator’s
+Safety and Environmental Protection Management System must be audited by Repsol Vetting.
+o Audits can be conducted either before or after lifting the technical subjects of the contract or
+signing the service contract, depending on the initial review outcome.
+o Subsequent audits will be conducted at intervals not exceeding 2 years.
+2.3 Physical Inspection of Vessel:
+o The vessel must pass a Repsol physical inspection at the owner’s expense on the first
+commercial voyage with cargo, preferably during the unloading operation or, in the case of
+LNGs, during the gassing up, cooling down, and first loading operation.
+o Subsequent Repsol physical inspections will be carried out at the owner’s expense at intervals
+not exceeding 12 months until the vessel reaches 15 years of age, and then at intervals not less
+than 6 months.
+3. Assurance Process Before Renewal of Existing Agreement:
+3.1 Evaluation of Vessel Performance:
+o The renewal of the contract is subject to the evaluation of the vessel’s performance during the
+previous contract period.
+o Before renewal, aspects of the vessel’s performance will be reviewed, it will include but not
+limited:
+• Results of the inspections carried out by Repsol on the vessel.
+• Changes and performance of its technical operator, as well as the development of its Safety
+Management System (OCIMF-TMSA).
+• Feedback received about the vessel from the Group’s terminals on the operations
+conducted.
+• Incidents that might have occurred during the contract period.
+• Information from third parties about the vessel, such as PSC and OCIMF data.
+o The result of the evaluation will be communicated to the commercial department requesting the
+renewal.
+3.2 Physical Inspection Requirement:
+o Renewal will be subject to the result of a Repsol physical inspection at the owner’s expense if
+the vessel has not passed a safety or Repsol physical inspection in the last three months with
+positive results
+o A positive result in the renewal of a time contract for a vessel does not interrupt the periodicity
+of the physical inspections that correspond to the vessel due to its age.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+IV.2 FOLLOW UP PROCESS OF VESSELS WITH THE SATUS OF ACCEPTABLE
+Process for Monitoring the Performance of Vessels Used by Repsol:
+1. Monitoring Process:
+o Safety Inspections:
+• Any ship operating in Repsol Group terminals is subject to Safety Inspections carried out by
+Repsol inspectors. Under certain circumstances Safety Inspections can be done in outside
+Repsol Group Terminals.
+o Operational Evaluations:
+• The operations of vessels in Repsol Group Terminals are evaluated by a Repsol
+representative at the terminal. (90-00005DC)
+• The evaluation report is sent to Repsol Vetting.
+o Review of External Information:
+• Vessels considered acceptable for Repsol’s business are subject to review of:
+• Port State Control (PSC) inspections
+• Incidents
+• Third-party SIRE reports
+• Any other relevant events that may occur during the acceptability period.
+2. Follow-Up and Rejection:
+o Information reviewed as a result of the follow-up process may lead to the rejection of the vessel (i.e., the
+vessel being rated as Non-Accepted) at any time.
+3. Factors Affecting the Acceptable Vessel Status:
+o More generally the status of the vessel may be affected by changes such as:
+• Safety and operational systems
+• Repsol Vetting status of its Technical Operator
+• Changes in name, technical operator, crew, flag, etc.
+• Incidents or terminal negative feedback reports
+• PSC detentions or Memoranda or Conditions of Class.
+4. Reporting Requirements:
+o Technical Operators are required to report any of the mentioned events to Repsol Vetting whenever they
+occur.
+IV.3 VESSEL INSPECTION REQUEST
+1. Request Submission:
+o Inspection requests must be submitted through the OCIMF web platform at least five days in advance.
+o Requests can be made for the following purposes:
+• To obtain a new OCIMF SIRE inspection.
+• To seek lifting of a Non-Accepted status by Repsol.
+• For vessels older than 20 years not physically inspected by Repsol Vetting in the last 6
+months neither subject to a safety inspection in previous 3 months.
+2. Inspection Process:
+o After the inspection, the SIRE report will be uploaded to the OCIMF website, and the technical operator
+must respond to it.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+o Additional to the OCIMF-SIRE process, Repsol Vetting will send its physical inspection report to the
+technical operator, including observations from the OCIMF report and any possible non-compliance with
+Repsol Vetting’s Marine Safety Criteria (MSC). The technical operator must then respond to the
+observations included in the Repsol Vetting Physical inspection report following the OCIMF-SIRE
+response pattern to vetting@repsol.com
+o Responses and actions taken, along with a global overview of the inspection report and the vessel’s
+historical records, will be used to conclude the assessment of the vessel.
+o A document with the result of this evaluation will be sent to the technical operator.
+3. Inspection Costs:
+o The cost of the vetting inspection will be at the owner’s expense.
+o The inspection is performed independently and has no legal connection with any possible Spot or Time
+Charter Agreement that might be signed with the vessel’s owners.
+4. Repsol Physical Inspection:
+o Under certain circumstances and with prior agreement between Repsol Vetting and the technical
+operator, a “Repsol Physical Inspection” can be carried out based on OCIMF-SIRE inspection guidelines
+to determine the vessel’s suitability for use by Repsol.
+o The cost of the inspection will be at the owner’s or technical operator’s expense.
+o The “Repsol Physical Inspection” request must be sent at least five days in advance to
+vetting@repsol.com.
+IV.4 VESSEL RATED AS NON ACCEPTED
+1. Common Reasons for Non-Accepted Status:
+o Result of a safety inspection.
+o Result of a physical inspection.
+o Negative result of the assurance process.
+o Poor performance at Repsol Group Terminals.
+o Loss of acceptability of the technical operator.
+2. General Rule for Lifting Non-Accepted Status:
+o Lifting a Non-Accepted status generally requires a new evaluation which might include among other
+options, a new inspection of the vessel.
+3. Special Cases:
+o Change of Technical Operator:
+• If there has been a change of technical operator after the inspection in which the vessel was
+rejected, the necessity of a new inspection will be assessed.
+o Loss of Acceptability of Technical Operator:
+• Vessels with a Non-Accepted status due to the loss of acceptability of their technical
+operator will remain in that condition until the reasons for the technical operator’s rejection
+have been resolved.
+4. Additional Notes:
+o The inspection to lift the Non-Accepted status must be requested during a cargo (loading/unloading)
+operation in which neither Repsol nor its Group Terminals are part of the voyage.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+o A new inspection request does not guarantee acceptance of the vessel. Inspection dates will be scheduled
+based on inspector availability.
+o Vessels rated as Not Accepted in two consecutive Repsol inspections will not be considered for a new
+inspection until three months have passed since the last inspection.
+IV.5 ASSURANCE PROCESS FOR SPECIAL VESSELS
+Special Vessel Categories
+A. Floating Storage:
+o The evaluation will follow the standard assurance process.
+o If the floating storage is over 15 years old, the SIRE on which the process is based must have been
+carried out in the last three months.
+B. Vessels Calling at Repsol Terminals Only for Bunkering, Nitrogen Blanketing, and Slops Discharge,
+o These vessels are not subject to the standard assurance process.
+o Acceptability for the requested operation will be obtained with the positive evaluation of the following
+documents, which must be sent to vetting@repsol.com:
+• Updated list of Class Conditions and Inspection Memoranda.
+• A complete P&I entry certificate.
+C. Tugboats Used at Repsol Terminals owned or operated by Repsol:
+o A vetting assessment with an acceptable result, including a Repsol Physical Inspection, must be obtained.
+o A new vetting assessment will normally not be required for a period of 12 months, regardless of the
+tugboat’s age.
+o During this period, tugboats may be subject to safety inspections.
+D. Vessels other than tanker dedicated to lubricants delivery:
+o Vessels dedicated to lubricants delivery must obtain an acceptable result in a vetting evaluation.
+o The evaluation will follow the standard assurance process and must include a physical inspection by
+Repsol.
+o A new vetting evaluation will normally not be required for a period of 12 months, regardless of the vessel’s
+age.
+o During the 12-month validity period, vessels may be subject to safety inspections during operations.
+E. Other Vessels:
+o There may be other vessels subject to this procedure as part of the scope of the corporate norm 00-
+00462NO but not listed.
+o The evaluation and follow-up of such vessels will depend on the nature of the activity in which they are
+involved and the risk they might pose to the organization.
+o These cases will be determined on a case-by-case basis.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Repsol Marine Safety Criteria
+V.1. Age
+a) Vessel age limits are indicated in the following table:
+Vessel Type Age Limit
+OBO / OO / Combination Carriers 15 years
+Tanker (Crude/Oil/Bitumen/Chemical) 25 years
+Dry Cargo 25 years
+LPG 30 years
+Bunker barge 25 years
+Barge 30 years
+Tugboat/Towboat 40 years
+LNG 40 years
+b) The age of a vessel is calculated from its initial delivery date. Rebuilding dates will not be taken into account.
+V.2. Coating condition and substantial corrosion of tanks and void spaces:
+o The condition of the coating must not be considered “poor condition”.
+o Vessels having areas with substantial will not be accepted.
+V.3. Incident Reports
+a) Evaluation of Records
+o Records of incidents and investigation reports will be evaluated as part of the vetting process.
+b) Incident Report Submission
+o Incident reports are received daily into the Repsol Vetting database.
+o Owners are encouraged to send their incident reports to the OCIMF repository database.
+o These reports feed directly into the Repsol Vetting database, eliminating the need to send the reports to
+Repsol separately.
+o if an incident is not available in the OCIMF repository, the technical operator must send the investigation
+report when required by Repsol Vetting.
+V.4. Classification Society
+Vessels classed by societies that are not full members of the International Association of Classification
+Societies (IACS) will be rejected.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+V.5. Class Information
+a) Review of Class Information:
+o Class information will be reviewed and may result in vessel rejection.
+o Technical Operators are encouraged to close any Condition of Class and similar class items before the
+due date established by Class.
+b) Vessels Undergoing Dry Docking or Repairs:
+o Any vessel undergoing dry docking or repairs proposed for Repsol use could be subject to an evaluation
+only after the shipyard period or repair has concluded.
+o The vessel’s flag and/or class documentation must be available, reviewed, and accepted before the
+evaluation.
+V.6. Condition Assessment Programme (CAP) and Thickness Measurement Reports
+a) Thickness Measurement
+o Thickness measurements carried out during the previous survey will be reviewed for vessels 15 years old
+or more and below 5000 MT SDWT.
+b) CAP Rating Requirements
+o Vessels 15 years old or more and over 5000 MT SDWT will need at least a CAP 2 (GOOD) rating for hull,
+machinery, and cargo handling system upon the 15th anniversary of their delivery date.
+o Evidence of completion of this survey and the rating achieved must be provided when final certificates
+are not available.
+o Such certificates will have a validity of 3 years from the date of the completion of the survey (effective
+date).
+c) Dry Cargo Vessels
+o Dry Cargo vessels more than 15 years old and with a SDWT greater than 500 MT must submit the
+executive summary of the hull of their ESP corresponding to the third renewal study.
+o Dry Cargo vessels 15 years old or more and over 20000 MT SDWT will need at least a CAP 2 (GOOD)
+rating for hull, machinery, and cargo handling system upon the 15th anniversary of their delivery date.
+o Evidence of completion of this survey and the rating achieved must be provided when final certificates
+are not available.
+o Such certificates will have a validity of 3 years from the date of the completion of the survey (effective
+date).
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+V.7. Crew
+a) OCIMF Officer Matrix
+o The OCIMF Officer matrix will be reviewed and cross checked with the requirements set in the table
+below:
+Calendar time with On board sea time On board sea time
+Rank
+Technical Operator in Rank on Type of Tanker
+Master & Chief Aggregate not less Aggregate not less Aggregate not less
+Officer than 2 years than 3 years than 6 years
+Chief Engineer & Aggregate not less Aggregate not less Aggregate not less
+SPOT & COA
+2nd Engineer than 2 years than 3 years than 6 years
+2nd Officer & 3rd Aggregate not less
+N/A N/A
+Officer than 1 years
+Master Aggregate not less Aggregate not less 3 years
+Chief Officer than 2 years than 3 years 2 years
+TIME Chief Engineer Aggregate not less Aggregate not less 3 years
+CHARTERS than 2 years than 3 years
+2nd Engineer 2 years
+2nd Officer & 3rd Aggregate not less
+N/A N/A
+Officer than 1 years
+b) Certification for Gas Engineers
+o Gas Engineers on Time Charter LNG vessels must be certified at least as 2nd Engineer as per STCW
+III/2.
+c) Officer Rotation
+o The following groups of Officers will not be changed at the same time:
+• Master and Chief Officer
+• Chief and 2nd Engineer
+o No more than two-thirds of the total number of Ratings and no more than half of the total number of
+Officers are to be changed at the same time.
+d) Drug and Alcohol Policy
+o A formal Drug and Alcohol policy must be implemented that complies with OCIMF guidelines.
+o The policy must include an unannounced alcohol and drug test by an external body at intervals not
+exceeding 12 months.
+o Technical Operators of dry cargo vessels not yet in compliance with this policy must adapt their Drug and
+Alcohol policy to include the requirements of this MSC no later than 12 months from the date this
+document comes into force.
+e) Language Requirements for Log Books
+o Time chartered vessels whose common working language is neither English nor Spanish should fill in the
+Official Log Books in one of these languages, in addition to the flag requirements.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+V.8. Crew and Level of Certificates Criteria
+a) Watch System
+o All vessels under LTC must comply as minimum with the Master plus three deck Officers as the bridge
+manning team.
+o For no LTC vessels It is strongly recommended to have a Master plus three deck Officers as the bridge
+manning team.
+b) Certification for Officers and Crew
+o All Officers must be certified with the advanced course, as defined in the current STCW, for the type of
+tanker on which they serve.
+o Crew members directly involved in cargo operations, such as pumpmen or gasmen, must also have the
+same advanced courses.
+o For those who do not yet have the certificates, the Technical Operator must provide them with the course
+as soon as possible. Technical Operators must include these courses in the training program provided to
+seafarers
+V.9. Dry Docking
+Dry-Dock Survey
+o For vessels 15 years of age and over, inspection of the outside of the ship’s bottom should be carried out
+with the ship in dry-dock with class intervention at intervals not exceeding 36 months.
+V.10. Flag
+The flag will be taken into account in the evaluation of the vessel.
+V.11. Hull Design
+Double Hull
+As defined in MARPOL and IBC Code for all oil and chemical tankers respectively. Gas carriers and asphalt
+carriers’ hull structures are not subject to this definition
+o Tanker vessels which are not double hull will be rejected.
+V.12. Hull Structural Fatigue Analysis
+Comprehensive Fatigue Analysis
+o Vessels longer than 150 meters and older than 15years proposed for a Long-Term Contract (LTC) will
+need a comprehensive fatigue analysis.
+V.13. New Building Vessels
+Required Documents:
+Technical operator will provide the following documents, in addition to the usual documents required for the
+standard evaluation process.
+A. Two Matrices
+1. Senior Officers Matrix
+o This matrix should include the following details for the vessel’s Senior Officers:
+• Officer Qualifications
+• Nationality
+• Certificate of Competency
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+• Issuing Country
+• Tanker Certificate
+• Specialized Tanker Training
+• Years with Operator
+• Years in Rank
+• Years on this type of tankers
+• Years on all types of tankers
+• Weeks stood by in yard
+• Senior deck officers and senior engine officers should have attended the last 8 weeks of the
+ship’s construction period.
+Note:
+• Senior Deck Officer: Captain or Chief Officer
+• Senior Engine Officer: Chief Engineer or Second Assistant Engineer (or equivalent)
+2. Site Team Matrix
+o This matrix should include the technical operator representatives who attended the vessel
+construction at the shipyard (site team), with the following details:
+• Names
+• Nationalities
+• Position in the company organization
+• Years with the company
+• Previous experience in new building
+• Arrival date on site
+B. Supporting Documentation
+o Provide all supporting documentation, including:
+• Interim Class Certificate
+• Any relevant conditions of class applied to the vessel at the time of delivery
+• A copy of the Continuous Synopsis Record
+C. Repsol Previous Experience with the vessel technical operator:
+o Repsol’s previous experience with the Technical Operator will be considered.
+V.14. Port State Control
+a) Evaluation of Records
+o Records of PSC will be reviewed and evaluated, the scope of the analysis will depend upon the recent
+results of the inspections
+b) Criteria for Rejection
+o Records of detentions and deficiencies identified, along with corresponding corrections, will be evaluated
+and might result in vessel rejection.
+o Vessels detained twice or more over the last three years, detained in their last PSC inspection, or black-
+listed by the European Union will be rejected.
+o Vessels detained or having serious deficiencies in their last PSC inspection, or with serious deficiencies
+in all PSC inspections in the previous year, will not be considered Acceptable for Time Charter.
+c) Submission of PSC Reports
+o Port State Control inspection reports are received regularly into the Repsol Vetting database.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+o Owners are encouraged to send their Port State Control inspection reports to the OCIMF repository
+database. These reports feed directly into the Repsol Vetting database, eliminating the need to send the
+reports to Repsol separate.
+o If a Port State Control report is not available in the OCIMF repository, the technical operator must send it
+as well as the actions taken to correct any deficiencies that may have been identified when requested by
+Repsol Vetting.
+V.15. Protection and Indemnity Clubs (P&I)
+P&I Club Membership
+o Owners guarantee that they (and/or Technical Operators) shall maintain full entry of the chartered vessel
+in a P&I Club which is a member of the International Group of P&I Clubs.
+o A copy of a P&I Certificate of entry for a vessel not insured with a member of the International Group of
+P&I Clubs will be reviewed by the Repsol Insurance Department on a case-by-case basis.
+V.16. OCIMF and Repsol Inspection Reports
+OCIMF Reports are an important tool in the assurance process of the tankers and barges
+a) Vessels under SIRE program less than 20 Years Old
+o These vessels will be required to have a Repsol Safety inspection or OCIMF inspection no older than 6
+months or Repsol Physical inspection no older than 12 months, which have been considered as
+acceptable.
+b) Vessels under SIRE program of 20 Years Old or More
+o Additional to an OCIMF inspection no older than 6 months, these vessels will be required to have a Repsol
+Physical inspection no older than 6 months or a Repsol Safety inspection no older than 3 months which
+have been rated as Acceptable.
+c) Vessels under BIRE program
+o Regardless of the vessel’s age, these vessels will be required to have an OCIMF inspection report
+available no older than 12 months.
+V.17. OCIMF HVPQ/BPQ
+a) HVPQ/BPQ Submission
+o Vessels under the SIRE/BIRE program, regardless of the vessel’s age, will be required to have an OCIMF
+HVPQ/BPQ duly filled in and properly updated within the previous 6 months on the OCIMF website.
+o Inaccurate information might lead to the rejection of the vessel.
+V.18. Technical Operator
+This point outlines the requirements and evaluation criteria for technical operators of vessels subject to the Repsol
+Vetting assurance process in accordance with corporate standard 462.
+a) Safety and Environmental Protection Management System
+o Technical operators must have developed and implemented a safety and environmental protection
+management system in accordance with the provisions of SOLAS.IX-ISM Code.
+b) OCIMF TMSA Requirements
+o Technical operators of tankers (oil, chemical, gas), including fuel supply barges, must have information
+on their safety and environmental protection management system referenced to the OCIMF TMSA
+available in OCIMF.
+o Comments on how each element/stage is complied with should be recorded in the TMSA.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+o This information must be updated at least annually.
+o The OCIMF TMSA of the technical operator of the vessel proposed for a voyage with Repsol will be
+evaluated to meet the established minimum criteria.
+c) Audits by Repsol Vetting
+o Safety Management Systems of Technical Operators are subject to audits by Repsol Vetting:
+• Technical Operators having vessels in Time Charter (TC) with Repsol, before or during the
+contract and at intervals not exceeding two years.
+• Technical operators whose fleets are frequently used.
+• Technical Operators that, for any reason, an audit is deemed necessary to verify compliance
+with the required standard.
+o Should the outcome of the global review after the audit be negative, the Technical Operator will be rated
+as Not Accepted and its entire fleet put under “technical hold” status. This situation will last until the
+Technical Operator has implemented all the improvements and measures in its procedures indicated by
+Repsol Vetting and their implementation has been reassessed.
+d) Non-Accepted Rating
+o A Technical Operator could be rated as “Non-Accepted” as a result of its performance (Repsol vetting
+assessments, Repsol inspections, Repsol Terminal feedback). In such cases, its entire fleet will be
+deemed as Non-Accepted.
+V.19. Vessel Equipment Criteria
+1. Additional for LPG/Gas Carriers Equipment
+The vessels must be provided with at least 3 remote positions for manual activation of the ESD (Emergency
+Shut Down) fail-safe design.
+2. Bridge Equipment
+In addition to the standard SOLAS requirements, vessels must be fitted with:
+a) It is strongly recommended for at least one of the RADARs available on board to be fitted with an
+Automatic Radar Plotting Aid (ARPA).
+b) Two sets of satellite positioning systems, i.e., GPS.
+3. Cargo and Ballast Equipment
+a) Deck seal of the dry type shall not be accepted.
+b) A fixed monitoring system with visual and acoustic alarm for detection of flammable gases in void spaces
+and ballast tanks is strongly recommended to be fitted and operational.
+• Alarm signals are to be automatically displayed in the place where the operations are
+normally controlled/monitored.
+• If a system is not fitted or not operational, procedures for daily monitoring of the above-
+mentioned spaces must be implemented, and records with gas concentration readings shall
+be made available for inspection.
+c) All cargo and slop tanks must be fitted with high-level alarms and an independent high-high level alarms
+(independent from the main fixed ullage monitoring system).
+• Residual tanks must be fitted with an independent high-high level alarm, if the installation is
+not yet available, it should be provided no later than the vessel’s next dry dock.
+d) Cargo handling operations must be performed under closed system conditions.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+• When the fixed closed ullaging system is temporarily out of service and loading or
+discharging operations are carried out, this must always take place in a closed condition.
+• If this is the case, the ship must have hermetic measuring tapes (UTIs or similar) in sufficient
+number to be used in the tanks where loading or unloading operations are being carried out.
+• The hermetic tapes available on board must be subject to an annual calibration program.
+This program must consider that at least one of the units must be calibrated and certified
+annually by a recognized entity.
+e) Cargo pumps emergency stop activation points must be located :
+• Cargo Control Room (if fitted),
+• On the main deck at the manifold area (Port and Starboard) or a suitable location/s to allow
+easy and fast activation.
+• cargo pump-room at its entrance and at the lower platform
+• On the poop deck if a stern discharge line is fitted. If installation is not yet available, it should
+be provided no later than the vessel’s next dry dock
+f) The accuracy of all control equipment must be checked annually, and results recorded.
+• The equipment referred to includes, but is not limited to: reference pressure gauge and
+thermometer, all other pressure gauges, vacuum gauges, thermometers, as well as alarms,
+trips, etc.
+• The calibration of the reference pressure gauge and thermometer must be certified by a
+recognized entity.
+4. Engine Room & Steering Gear Equipment
+The engine room must be fitted with a high-level bilge alarm, with at least two (2) sensors
+5. Firefighting Equipment
+A fixed fire detection and alarm system must be provided in:
+• Engine room,
+• Cargo pump room.
+For the purposes of this criterion, spaces such as the main deck trunk room in which the cargo pumps
+are located are considered a cargo pump room.
+• Forecastle or any other spaces in the forward area containing sources of ignition. If
+installation is not yet available, it should be provided no later than the vessel’s next dry dock.
+• Accommodation area.
+6. Pollution Prevention Equipment
+a) A cargo pump room bilge high-level alarm, with at least two (2) sensors, located at port and starboard
+side preferably, is to be fitted and fully operational.
+For the purposes of this criteria, spaces such as the main deck trunk room in which the cargo pumps are
+located are considered a cargo pump room.
+b) Storage and service bunker tanks must have high-level alarms.
+V.20. Vessel History with Repsol
+Repsol vetting inspections, incidents and terminal feedback will be evaluated.
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Additional Criteria for Special Vessels
+A. Vessels dedicated to bunker delivery:
+New crewmember familiarization: every new crewmember, before taking over cargo responsibilities, must
+participate in at least three bunker loading and discharge operations.
+B. Oil/Bulk/Ore (OBO) and Combination Carrier vessels:
+a. 10 years old, or more, which in her last port operated with dry cargo will not be Acceptable,
+b. Of any age, will not be Acceptable for Time Charter.
+Oil/Bulk/Ore (OBO) and Oil/Ore (OO) vessels will need to have tunnels monitored for the presence of
+hydrocarbon gases. See section V.19.3.b) for requirements.
+C. Dry cargo and container vessels must comply with the marine safety criteria except for the following items:
+V.7.a), V.11, V.13 A1 , V.16.a), V.16b), V.17, V.18b), V.19.3 and V.19.6 a)
+D. Tugboat, must comply with the marine safety criteria except for the following items: V.7.a) & c), V.8.a), V.9,
+V.11, V.13 A1 , V.16.a), b) , V.17, V.18b), V.19.2 and V.19.3
+E. Towboat or push tugboat, must comply with the marine safety criteria except for the following items: V.7.a)
+& c), V.8.a), V.9, V.11, V.13 A1, V.18.b), V.19.2 and V.19.3
+F. Vessels exclusively dedicated to operate in Inland Waters, must comply with the marine safety criteria
+except for the following items: V.7.a) V.8 a), V.9, V.13 A1 and V.19.2.
+G. OCIMF Barges European Inland Region (Ex-EBIS) must comply with the marine safety criteria except for
+the following items: V.7.a) & c), V.8.a), V.9, V.13 A1, V.17, V.18.b), and V.19.2.
+H. Vessels other than tanker dedicated to lubricants delivery, must comply with the marine safety criteria
+except for the following items: V.4, V.5, V.7.a) & c), V.8, V.9, V.13 A1, V.18.b), V.19.2, V.19.3, V.19.4. & V.19.6,
+I. US Barge and Towboat:
+a. Ocean going must be classed by a Classification Society which is a member of IACS. Those vessels used
+on inland waterways only may not be required to be classed with a Classification Society.
+b. Must have a SIRE BIQ available which was performed during cargo operations within the previous 12
+months.
+c. Must comply with the marine safety criteria except for the following items: V.7.a) &.c),V.8.a), V.9, V.13
+A1, V.18b), and V.19.2
+Useful contact details
+• Vetting issues: vetting@repsol.com
+• Operator meetings and TMSA issues: vetting@repsol.com
+• Incidents notification:
+o Vessels chartered by Repsol, vessels transporting Repsol’s cargoes, and vessels visiting terminals owned
+or operated by Repsol: incidents to be reported via web following instructions received from charters or
+using as alternative incidentshipping@repsol.com
+o Other cases: vetting@repsol.com
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Appendix I: Documents required
+OBO / OO /
+Crude / Oil Gas Dry Cargo Combinati Inland
+Tugboat
+/ Chemical Carrier / Container on waters
+Carriers
+≥15 years &
+>5000 SDWT;
+CAP ѵ ѵ ѵ ѵ ѵ ѵ ≥Dry Cargo 15
+years & >20000
+SDWT
+≥15 years &
+<=5000 SDWT
+Thickness
+ѵ ѵ ѵ ѵ ѵ ѵ Dry Cargo >=15
+Report
+years >=500
+sdwt
+≥15 years &
+Condition <5000 SDWT
+Evaluation ѵ ѵ ѵ ѵ Dry Cargo >=15
+Report / ESP years >=500
+sdwt
+Fatigue LTC>15 years &
+ѵ ѵ ѵ ѵ ѵ ѵ
+analysis >150mts length
+Updated every 6
+HVPQ/BPQ ѵ ѵ ѵ ѵ ѵ
+months max.
+Updated
+TMSA ѵ ѵ ѵ
+annually
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Appendix II: Abbreviations
+• ARPA: Automatic Radar Plotting Aid
+• BIQ: Barge Inspection Questionnaire
+• BPQ: Barge Particulars Questionnaire
+• CAP: Condition Assessment Programme
+• COA: Contract Of Affreightment
+• DP: Dynamic Positioning
+• EBIS: European Barge Inspection Scheme
+• ESD: Emergency Shut Down
+• FPSO: Floating Production Storage and Offloading
+• FSO: Floating Storage and Offloading
+• GPS: Global Positioning System
+• HVPQ: Harmonized Vessel Particulars Questionnaire
+• IACS: International Association of Classification Societies
+• IBC: International Bulk Chemical
+• ICS: International Chamber of Shipping
+• IMO: International Maritime Organization
+• ISM: International Safety Management
+• LNG: Liquid Natural Gas
+• LPG: Liquid Petroleum Gas
+• MARPOL: International Convention for the Prevention of Pollution from Ships
+• LTC: Long Time Charter.
+• OBO: Oil Bulk Ore
+• OCIMF: Oil Companies International Marine Forum
+• OO: Oil Ore
+• P&I: Protection and Indemnity
+• PSC: Port State Control
+• SDWT: Summer Dead Weight Tonnage
+• SIRE: Ship Inspection Report Programme
+• SOLAS: Safety of Life at Sea
+• STC: Short Time Charter
+• STCW: Standards of Training, Certification and Watchkeeping
+• TC: Time Chartered
+• TMSA: Tanker Management Self Assessment
+• UTI: Ullage Temperature Interface
+• VIQ: Vessel Inspection Questionnaire
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+Annex III: Definitions
+For the purpose of these procedures, the following definitions apply:
+• Acceptable means the vessel can be used within the scope described above and is the only rating that allows
+such use. This rating results from a favorable assessment based on information that we have deemed positive
+and sufficient. The rating of the vessel may be affected by any changes concerning safety and operational
+systems, changes of name, technical operator, crew, flag, etc., as well as any incident or terminal negative
+feedback report, PSC detention or Memoranda or condition of Class. (See also “Assurance process”)
+• Assurance Process means the procedure whereby a vessel´s suitability for Repsol use is determined
+resulting in the status of “Acceptable” or “Non-Accepted” being assigned. The ship-shore compatibility or it´s
+fitness for nominated cargo is not considered in this Assessment.
+• Barge, for the purpose of these procedures, means a vessel carrying goods in rivers, inland navigation, lakes
+and ports, not sailing on open sea or bays and restricted by Flag Administration to inland water navigations.
+• OCIMF Barges European Inland Region, for the purpose of these procedures, means a vessel carrying
+goods in European rivers and not sailing in open water or at sea.
+• CAP, an independent and thorough scheme of inspections of the actual condition of the Hull, Machinery and
+Cargo Systems of a vessel. It is applicable as defined in the present Rules and of the Classification Society.
+• Cargo means any kind of material subject to a contract of transportation, mainly crude oil, oil products,
+chemical products, LPG, LNG, Lubricants, Liquid fertilizers and dry bulk cargoes.
+• Chief Officer and 2nd. Engineer terminology considered equivalent to 1st. Officer and 1st. Asst. Engineer for
+the purpose of these procedures.
+• Class or Classification Society, a non-government organization that established and maintains standards
+for the construction and classification of vessels.
+• COA Vessel means vessels included in a contract of affreightment to lift a fixed or determinable quantity of
+cargo of a specified type over a given period of time.
+• Floating storage means any vessel used to store cargo for commercial reasons but does not include
+FSO/FPSO.
+• Incident means an event, or a sequence of events, that has resulted in any of the following which has occurred
+directly in connection with the operations of a ship that endangered or, if not corrected, would endanger the
+safety of the ship, its occupants or any other person or the environment:
+o the death of, or serious injury to, a person.
+o the loss of a person from a ship.
+o the loss, presumed loss or abandonment of a ship.
+o material damage to a ship.
+o the stranding or disabling of a ship, or the involvement of a ship in a collision.
+o material damage to marine infrastructure external to a ship, that could seriously endanger the safety of
+the ship, another ship or an individual; or
+o severe damage to the environment, or the potential for severe damage to the environment, brought about
+by the damage of a ship or ships
+• ISM Code means the International Management Code for the Safe Operation of Ships and for Pollution
+Prevention as adopted by IMO.
+• Non Accepted means vessel that has been rejected as result of the Assurance Process
+Copy printed by user
+Remember
+Repsol Vetting Marine that you can Process
+Assurance check the latest version on
+& Safety myrepsolnet
+Criteria
+• Non-propelled barge means a barge without self-contained propulsion and manned only during cargo
+operations.
+• Observations, non-compliance with:
+o International and/or national regulations as well as OCIMF and ICS recommendations.
+o Repsol Vetting Process & Marine Safety Criteria.
+• OCIMF, is a voluntary association of oil Companies with an interest in the shipment and terminals of crude oil,
+oil products, petrochemicals and gas with a focus on marine safety and technical matters.
+• P&I Full entry certificate, showing cover as per the standard P & I Rules of the Club in which the vessel is
+entered.
+• Poor coating condition, general breakdown of coating over 20% or more and hard scale at 10% or more in
+areas under consideration.
+• Repsol Vetting, the technical unit within Repsol responsible for establishing guidelines for safety and
+environmental evaluation process for each type of vessel used within the Repsol system, monitor the
+compliance with the rules applicable to them and managing vetting assessments and physical inspection when
+required.
+• Safety Inspection, non-announced inspection carried out on vessels rated as acceptable by Repsol Vetting.
+The inspection can be restricted, focusing only on crew manning, inert gas system safe use, engine room
+housekeeping, etc. or it can be a complete inspection focusing on all the areas of the vessel, safety
+management system, etc.
+• SDWT means the number of tons of cargo and bunkers, including stores, lubricating oil and fresh water that a
+vessel can transport on a summer draft.
+• Self-propelled barge means a barge with a self-contained propulsion system.
+• Single voyage means period between first port of loading and last port of discharging operations of a certain
+cargo under a charter party. It should not exceed three months.
+• SIRE inspection, Repsol Inspection follows a standardised format laid down in the OCIMF VIQ and is
+submitted, if there is prior agreement with the vessel´s owner´s / operator´s, to the OCIMF/SIRE database.
+• Spot vessel means vessels contracted for a single voyage and not included in a COA.
+• Substantial corrosion means average wastage in excess of 75% of the allowable local limit recorded in the
+last Class survey report.
+• Technical Operator means an entity dealing with the responsibility for operation of the ship and which, on
+assuming such responsibility, has agreed to take over all the duties and responsibilities imposed by the ISM
+code and, where applicable, holds the Document of Compliance.
+• TC vessels means vessels contracted for a fixed period.
+• TMSA, a best practice guide completed by tanker operators to indicate the standard of their safety
+management system against listed key performance indicators as defined in OCIMF publication “Tanker
+Management Self Assessment, a best-practice guide for vessel operations”.
+• Towboat or push tugboat means a boat which is acting as the propulsive unit of a non self-propelled barge.
+• Tugboat means a boat that maneuvers self-propelled vessels by pushing or towing them.
+• Type of tanker means oil tankers, OBO (combination carriers), chemical tankers or gas tankers of any size.
+• Vessel means a craft engaged in the carriage of goods by river/sea or engaged in towing or pushing such
+craft, including oil tankers, chemical carriers, gas carriers, general cargo vessels, push tugs which are part of
+integrated tug barge units, time chartered tugs, non-propelled barges and self-propelled barges.

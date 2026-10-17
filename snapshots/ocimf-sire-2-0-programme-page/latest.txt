@@ -1,0 +1,516 @@
+About 2.0
+Training Videos
+Fact Sheets
+Resources
+FAQs & Glossary
+Back To Top
+SIRE 2.0
+Login to SIRE
+Apply Now
+HELP CENTRE
+OCIMF’s Ship Inspection Report Programme (SIRE) was originally launched in 1993 to specifically address concerns about sub-standard shipping. It is one of OCIMF’s most significant safety initiatives and in 2005 barges and small vessels were incorporated into the SIRE programme.
+The SIRE programme is a unique tanker risk assessment tool of value to charterers, ship operators, terminal operators and government bodies concerned with ship safety. Participation in the SIRE programme is on an entirely voluntary basis and the programme has established itself as a major source of technical and operational information to prospective charterers and other programme users.
+The SIRE system is a database of up-to-date information about tankers and barges. Essentially, SIRE has focused tanker industry awareness on the importance of achieving satisfactory tanker quality and general ship safety standards. Since its introduction, this voluntary SIRE Programme has received industry-wide acceptance and participation by OCIMF members, programme recipients and ship operators. OCIMF is in no doubt that better informed vetting decisions are leading to improvements in the quality of ships, accelerating its continuing drive for safer ships and cleaner seas.
+The SIRE programme is underpinned by a database of up-to-date information. Since its introduction, more than 180,000 inspection reports have been submitted to SIRE. Currently there are over 22,500 reports on over 8000 vessels for inspections that have been conducted in the last 12 months. On average, programme recipients access the SIRE database at a rate of more than 8000 reports per month.
+FS 55482
+Suggestions for Improvement (SFI) portal
+Access the portal from a SIRE account and support OCIMF to continually improve SIRE 2.0
+Contact the support desk for help
+The Support Desk is available to help with any aspect of the Programmes applications.
+GET IN TOUCH
+Embedding human factors into SIRE 2.0 inspections
+View SIRE 2.0 Training Videos – Human Factors to find out more
+LEARN MORE
+Digitising tanker inspections
+Find out how to use the tablet camera and voice recorder here
+Download
+SIRE 2.0
+Developed alongside industry and the OCIMF membership, the new and updated Ship Inspection Report Programme, SIRE 2.0, will future proof the tanker inspection process in line with evolving risks, technology and expertise.
+The digitalised inspection programme will transform how inspections are conducted and will support industry efforts to continuously enhance safety.
+The SIRE 2.0 programme is predicated on a uniform inspection protocol that comprises the following:
+The pre-inspection element – This element consists of information provided by the operator through the following:
+The Harmonised Vessel Particulars Questionnaire (HVPQ)
+The Pre-Inspection Questionnaire (PIQ)
+The Certificate Repository
+The Photograph Repository
+The Inspection Declaration
+The Inspection element – This element consists of the following phases:
+The pre-boarding phase, and
+The physical Inspection phase.
+The Report Element – This element requires the inspector to verify the accuracy of all information entered in the inspection editor during the pre-boarding and physical inspection phases. The inspector is then required to check the spellings and grammar of all comments and negative observations, validate the inspection and finally submit the inspection dataset to the SIRE report database.
+Inspection reports
+Inspection reports are available for download from the report index for a period of 12 months from the date of receipt and are maintained in the database for 2 years. SIRE access is available, at a nominal cost, to OCIMF members, bulk oil terminal operators, port authorities, canal authorities, oil, power, industrial or companies which charter tankers/barges as a normal part of their business. It is also available, free of charge, to Governmental bodies which supervise safety and/or pollution prevention in respect of oil tankers/barges (e.g. port state control authorities, MOUs, etc). Applicants wishing to participate in the SIRE Programme are required to obtain formal applications and are asked to submit their request via email.
+SIRE 2.0 Training Videos
+OCIMF has developed a series of short training videos as part of its commitment to provide ongoing support for inspectors, officers, crew, vetters and operators. These videos will help stakeholders develop a clearer understanding of the inspection programme and of the processes within a SIRE 2.0 inspection.
+Human Factors
+Technical
+Factsheets for Industry
+Find out more about the key aspects of the inspection process and reporting outcomes delivered through the digitalised, updated and enhanced SIRE 2.0 tanker inspection regime in the factsheets below.
+SIRE 2.0 Overview
+Read More
+SIRE 2.0 Marine Assurance
+Read More
+SIRE 2.0 Inspections
+Read More
+SIRE 2.0 Inspectors
+Read More
+SIRE 2.0 Reporting
+Read More
+Programmes Quality Assessors
+Read More
+SIRE Tablet Based Inspections
+Read More
+SIRE Tablet Comfort Guide
+Read More
+1
+2
+3
+Resources for Programme Users
+The resources below are aimed at supporting Programme Participants, Programme Recipients, Vessel Operators and Inspectors in their understanding of SIRE 2.0.
+203.3 KB
+ProgrammeIntroduction and GuidanceVersion 1
+Download
+3.7 MB
+Question LibraryPart 1
+Download
+169.3 KB
+Programme user guide to SIRE 2.0 documents
+This overview indicates which guidance documents are applicable to each programme user group, but it is advisable to review all documents for full familiarisation.
+Download
+395.1 KB
+SIRE 2.0 Conditions of Participation Policies and Procedures
+This guidance document provides comprehensive instructions and essential information for all SIRE 2.0 participants, including submitting companies, vessel operators, inspectors, and programme recipients. It outlines the key policies, procedures, and processes.
+Download
+967.8 KB
+SIRE 2.0 Ergonomic Guidance for using an Inspection Tablet
+This document provides advice on using tablets ergonomically, including images of how to carry tablets and accessories, guidance on mitigating identified ergonomic risk factors, and potential solutions to these issues.
+Download
+70.7 KB
+SIRE 2.0 VIQ7 Inspection Management Process Comparison
+This easy-to-use Excel spreadsheet provides insight into each task and compares VIQ7 and SIRE 2.0 procedures. It also includes useful links to guidance documentation.
+Download
+217 KB
+SIRE 2.0 Rules for use of the Tablet Camera and Voice Recorder
+This document provides clear guidance and rules for the use of the Tablet Camera and Voice Recorder.
+Download
+270.2 KB
+SIRE 2.0 Draft Inspection Report Validation Best Practice
+The document’s purpose is to guide submitting companies on best practices for reviewing and validating SIRE 2.0 draft inspection reports prior to their publication in the SIRE 2.0 programme database.
+Download
+3.7 MB
+SIRE 2.0 Inspection Management Processes Submitting Company
+The document guides submitting companies on inspection management processes, including inspection requests, accepting requests, allocating inspectors, compliance reports, inspection cancellations, resubmissions, withdrawal of inspection reports, and audit history.
+Download
+4 MB
+SIRE 2.0 Inspection Management Processes Vessel Operator
+The document guides vessel operators through inspection management processes, including inspection requests, operator input, inspection cancellations, pre-inspection declarations, inspection resubmissions, and inspection publishing.
+Download
+10 MB
+SIRE 2.0 Inspection Management Processes Inspector
+The document guides inspectors through inspection management processes, including tablet editor, capturing observations, media options available on the tablets, tracking of and contingency inspections, partial paper-based inspections, incomplete inspections, and inspection resubmissions.
+Download
+1 MB
+SIRE 2.0 Instructions for entering data into the Suggestions for Improvement portal
+The document provides information on the Suggestions for Improvement (SFI) Portal and step-by-step instructions on how to access it.
+Download
+464.4 KB
+SIRE 2.0 Inspection Report Format
+This gives information on the inspection report format and captured information, including vessel and operator particulars, CVIQ questions completed by inspectors and unvalidated PIQ responses
+Download
+244.7 KB
+SIRE 2.0 Universal Interpretations
+This document gives information on advanced training and evaluating crew performance so that a potential charterer can better understand what a vessel operator has done to maintain and monitor standards onboard.
+Download
+146 KB
+SIRE 2.0 Question Library Question Programming Attributes
+This Excel spreadsheet provides a library of questions (including HVPQ or PIQ) that could be asked and the correct response to each question.
+Download
+2.7 MB
+SIRE 2.0 Paper-Based Contingency Process Instructions for Submitting Companies and Inspectors
+This document provides step-by-step guidance on the paper-based contingency process, which can be completed onboard in cases where a tablet cannot be used, including partial paper-based inspections, online editors, incomplete inspections, and report changes.
+Download
+253 KB
+SIRE 2.0 Inspection Opening Meeting Checklist
+This is a step-by-step guide on what is required from the inspector/quality assessor, the master, officers, and other staff when introducing themselves, the format of the meeting and a useful checklist.
+Download
+239.3 KB
+SIRE 2.0 Inspection Closing Meeting Checklist
+This is a step-by-step guide on what is required at the closure of the meeting, explaining the observation declarations and a useful checklist.
+Download
+1.4 MB
+SIRE 2.0 Negative Observation Module Explanation
+Any non-compliance identified during inspections should be recorded in the inspection editor. This document provides insight into the negative observation module and the classification of a subject of concern (SOC) and nature of concern (NOC).
+Download
+6.5 MB
+SIRE 2.0 Instructions for Uploading Photographs to the Photograph Repository
+This is a step-by-step guide on how to upload photographs and a defined list of photographs required. The inspector uses the images to verify the condition and insert them in the final report.
+Download
+1.1 MB
+SIRE 2.0 Instructions for Completing the Pre-Inspection Questionnaire
+A guide on how to complete a Pre-Inspection Questionnaire (PIQ). In combination with the HVPQ, this will ensure appropriate questions are assigned to each inspection, additional information is given to inspectors during inspections and a more detailed inspection report is produced.
+Download
+631.9 KB
+SIRE 2.0 Instructions for Uploading Certificates to the Certificate Repository
+This provides step-by-step instructions on how to upload certificates to the certificate repository version as well as a list of specific vessel certificates that must be uploaded.
+Download
+102.7 KB
+SIRE 2.0 to VIQ7 Comparative Analysis
+This Excel document provides a comparative analysis of the differences between SIRE 2.0 questions and the VIQ7 questions.
+Download
+3 MB
+SIRE 2.0 Question Library Part 2: Chapters 8 to 12
+This document lists questions that might be asked during SIRE 2.0 inspections focusing on cargo and ballast systems, mooring and anchoring, machinery spaces, general appearance and conditions, and ice operations.
+Download
+3.7 MB
+SIRE 2.0 Question Library Part 1: Chapters 1 to 7
+This document lists questions that might be asked during SIRE 2.0 inspections focusing on vessel, operator, and inspection specifics, certification, crew management, navigation, communication, safety management, pollution prevention, and maritime security.
+Download
+203.3 KB
+SIRE 2.0 Programme Introduction and Guidance
+This guide informs all SIRE 2.0 Programme participants (stakeholders) of how the inspection process has been designed and the expectations for its implementation.
+Download
+SIRE Inspector Accreditation
+The aim of the SIRE Inspector Accreditation course is to train candidates to conduct inspections and compile inspection reports on behalf of the OCIMF member who submits reports into the SIRE database.
+The SIRE inspector accreditation programme is organised by OCIMF, however Inspectors
+must
+gain sponsorship from one of the SIRE submitting members before applying for a place.
+Read More
+Self Help Portal
+Access to SIRE Programme output is available, at a nominal cost, to OCIMF members, bulk oil terminal operators, oil, power, industrial or oil trader companies that charter tankers/barges as a normal part of their business. It is also available free of charge to government bodies that supervise safety and/or pollution prevention in relation to oil tankers/barges (e.g. Port State Control authorities, MOUs, Flag State authorities, etc.).
+Learn More
+Frequently Asked Questions and Glossary of Terms
+Additional information and guidance is available in the Frequently Asked Questions and Glossary of Terms section.
+Membership and Participation
+How can I join the programme?
+There are restrictions on who can qualify to receive SIRE reports. The SIRE Programme is required to operate under the programme guidelines which have been filed with the European Commission and the Federal Trade Commission.
+The guidelines stipulate the following non-OCIMF Members who can qualify for programme output:
+Bulk oil/gas terminal operators, oil, power, industrial or oil trader companies which in-charter ships/barges as a normal part of their business, Governmental bodies which supervise safety and/or pollution prevention in respect of ships/barges(e.g. port, canal and State Authorities), inspection reports, vessel/barge particular questionnaires and vessel index listings can be electronically downloaded to the users computer using the internet.
+What is the differential pricing of SIRE reports?
+Full OCIMF Members (£47 per report) Recipient (Non-Members) (£58 per report). If the report is to be forwarded to a 3rd Party Vetting Agent, a supplement will be payable of £10 per report. Full OCIMF Members downloading more than 1,000 tanker reports receive 30% discount on total cost. Barge reports, members & non-members £20 per report. VPQs, BPQs and index downloads are free of charge.
+General and SIRE 2.0
+What is required to ensure flawless data integration from SIRE 2.0 to a member company's system?
+If there are questions after reviewing the API integration documentation here:
+Sire 2.0 API Access
+please contact the Support desk via email,
+This email address is being protected from spambots. You need JavaScript enabled to view it.
+Does the SIRE 2.0 programme affect how vessel operators and report recipients use Q88?
+There is no connection between the SIRE 2.0 Programme and Q88.
+Is the SIRE 2.0 programme bow tie analysis and the inspection compiler able to recognise common issues across similar types of vessels in the industry or an operator's fleet and assign questions to an inspection to probe any concerns?
+The OCIMF bowtie risk assessment process was used to risk rank and categorise all SIRE 2.0 Questions into either core or rotational. Each inspection will be compiled to include all core questions and a selection of rotational questions applicable to a vessel to be inspected.
+OCIMF does not perform any datamining or analysis of inspection data to identify concerns within any individual company fleet. The inspection compiler algorithm does not consider past inspection performance of an individual vessel or a fleet of vessels when generating a Compiled Vessel Inspection Questionnaire (CVIQ). It considers information provided by the vessel operator through the Harmonised Vessel Particulars Questionnaire (HVPQ) and Pre-Inspection Questionnaire (PIQ) when selecting the pool of questions that will be used by an inspector for any given inspection.
+OCIMF will undertake analysis of anonymised inspection data for its internal use only to evaluate the effectiveness of the SIRE 2.0 inspection programme and identify inspection trends and emerging concerns, which could inform the development of industry best practices and SIRE 2.0 Campaign questions.
+One of the benefits of SIRE 2.0 is the data provided through purchased SIRE 2.0 reports will enable report recipients to undertake considerable analysis of an operator’s managed fleet, if they wish to do so.
+Does SIRE 2.0 use risk ratings to rank its questions?
+OCIMF has ranked each SIRE 2.0 question using risk assessment models (also known as ‘bowties’) developed in collaboration with the OCIMF membership. The ranking process determines how a question will be managed and allocated within the inspection programme. Questions which are identified as being Core, i.e., related to significant risks onboard a vessel as defined by OCIMF members, will be assigned to all inspections where the question is relevant to the vessel being inspected, whilst questions identified as being Rotational, i.e., not related to a significant risk as defined by OCIMF members will be allocated on an occasional basis.
+Whilst OCIMF has used a bowtie risk assessment model to determine whether questions are Core or Rotational, the end user of a report must make their own determination of relative risk posed to their organisation by each question based on their own evaluation of a question and its supporting guidance.
+What is the role of Quality Assessors and what experience, and training do you need to become one?
+The Quality Assessors are responsible for the day-to-day assessment and verification of the quality of all facets of the OCIMF programmes, including Programmes Participants and third-party contractors. They play a vital role in the development, implementation, and continuous improvement of OCIMF policies and procedures under SIRE/BIRE and OVID – monitoring and reporting on the effectiveness of the rules governing the programmes.
+Quality Assessors are recruited based on their extensive seafaring experience. They provide a diverse and balanced mix of SIRE, BIRE and OVID inspectors, vetting experts, human factors and other relevant skills. They have also been given bespoke training by OCIMF to fully equip them for the role.
+Can OCIMF expand on the human factor enhancements in SIRE 2.0?
+Human factors within SIRE 2.0 inspections are explained from different stakeholder perspectives in SIRE 2.0 Training Videos – Human Factors available on the website.
+Are there any plans to enforce the rest hours for the inspectors under SIRE 2.0, especially in cases where there is extensive travel required for inspections?
+Inspectors must not endanger their own safety, or that of others, by conducting any inspection related activities without adequate rest hours. OCIMF will audit and enforce compliance with its policies and procedures that are applicable to all SIRE 2.0 programme participants, including inspectors.
+What did OCIMF do to help programme recipients with the SIRE 2.0 IT integration?
+OCIMF set up an engagement forum for all companies who had integrated their IT systems with the SIRE web services to provide support, and share information, experience, and expertise on SIRE 2.0 IT integration. A dedicated mailbox was set up to enable effective routing and timely resolution of queries.
+OCIMF also issued guidance materials to Programme Recipients.
+What is OCIMF doing to ensure a consistent quality of inspections in all areas of the world?
+The four key focus areas of SIRE 2.0 are Accuracy, Capability, Reliability, and Adaptability.
+Some of the measures that will support these key areas are:
+• The SIRE 2.0 Question Library – All questions and their supporting guidance have been rewritten to provide well defined expectations around how they should be prepared for by the vessel crew and answered by the inspector. See SIRE 2.0 Question Library Part 1 Chapters 1 to 7, SIRE 2.0 Question Library Part 2 Chapters 8 to 12
+• SIRE 2.0 Policies and Procedures have been drafted to ensure that all aspects of the inspection process are well described and defined.
+• Quality Assessors have been engaged to monitor and audit all aspects of the inspection process so that weaknesses and non-conformities can be identified and addressed.
+• Inspectors have received comprehensive technical and non-technical skills training in preparation for the SIRE 2.0 Programme rollout.
+• An inspector Continuous Professional Development Programme has been developed to provide ongoing training, support, and evaluation for each inspector.
+• The inspection tablet provides significant data to permit the monitoring of how an inspection is conducted by the assigned inspector. Analysis of inspection data will permit undesirable behaviours to be identified and corrected.
+• The inspection booking process has been updated to permit enhanced analysis of inspection activity globally. The OCIMF Quality Assurance team will be able to identify and follow up on poor inspection management practices by vessel operators, submitting companies and inspectors.
+Are the same questions always assigned to an inspection or is there a dynamic element to the inspection?
+OCIMF has developed an inspection compiler which uses an algorithm to create a bespoke Compiled Vessel Inspection Questionnaire (CVIQ) for each vessel inspection.
+Will EBIS inspectors be capable of rating a SIRE 2.0 inspection report without any training on SIRE 2.0?
+The SIRE 2.0 Programme does not include barges. Report recipients will be responsible for ensuring that personnel assigned to review inspection reports on their behalf have sufficient skill and knowledge to evaluate the content.
+Do inspectors need access to superintendent inspection reports and comprehensive specialised audit reports?
+An inspector will be required to verify that a vessel operator has completed:
+• Onboard superintendent inspections declared through the PIQ by reviewing inspection reports generated in accordance with TMSA3 12.1.2
+• Onboard comprehensive specialist audits declared through the PIQ by reviewing audit reports generated in accordance with TMSA3 4.4.5, 5.2.2, 5.3.3, 5.4.1, 6.4.2, and 6A.4.3
+Does SIRE 2.0 provide vessel operators with a standard root cause analysis tool when providing their response to negative observations?
+SIRE 2.0 has standardised the operator response categories. There are no plans to offer a standard root cause analysis tool, except for human-based negative observations, although this may be a consideration for future improvement.
+Will tanker management and self assessment (TMSA) be aligned with SIRE 2.0 in the future?
+One of the key objectives of SIRE 2.0 is to align SIRE and TMSA. TMSA mainly considers shore-based management, whereas SIRE 2.0 mainly considers ship-based management.
+If there are variable questionnaires for the same vessel, how would this be seen as a consistent measure against each vessel? How will companies benchmark vessel performance or analyse trends related to findings/areas of concern when the inspection questions set will be different for each inspection?
+SIRE 2.0 will reduce the overall number of questions assigned to an inspection with the expectation that an inspector will take the appropriate time to examine and report more accurately on the hardware, process and human related aspects linked to the top-level question.
+Core questions will be fixed and regularly applied every time a vessel is inspected and therefore predictable to programme participants. Rotational questions will be allocated over several inspections in a manner which is unpredictable to programme participants.
+New hardware, process, and human (task based) response tools have been developed for SIRE 2.0. These will enable the inspector to codify negative observations and identify the subject and nature of concern which will permit data mining to detect weaknesses in company and ship level management practices.
+Is SIRE 2.0 more of an audit rather than an inspection?
+The SIRE 2.0 inspection process is an inspection and not an audit. It has been designed to evaluate how a vessel is managed by considering the material condition of the vessel and its hardware and how the vessel crew conduct their day-to-day duties in accordance with company procedures.
+The inspection process will consist of:
+• Inspecting the vessel structure, machinery, and equipment.
+• Interviewing officers and crew to verify they can conduct their duties safely in accordance with company procedure.
+• Reviewing company procedures, where necessary, to verify their existence and that officers and crew were familiar with their content.
+Will the risk-based nature of the SIRE 2.0 programme result in different vessels being inspected to different standards?
+The rotational questions assigned to each inspection will vary but the overall composition of each Compiled Vessel Inspection Questionnaire (CVIQ) will remain consistent across all SIRE 2.0 inspections.
+Inspector training on SIRE 2.0 will prepare inspectors to conduct each inspection in accordance with the CVIQ generated for a particular inspection.
+Are psychological characteristics of SIRE inspectors assessed during the pre-accreditation process and are there specific expectations that would affect their final assessment?
+The current eligibility criteria for applicant inspectors are available on the OCIMF website. OCIMF does not conduct physical or psychological assessments of the applicants. It is the responsibility of the sponsoring company to carry out such assessments in line with their in-house processes and standards.
+Will OCIMF provide industry benchmarking on inspection and ranking of negative observations or any similar picture?
+OCIMF currently does not intend to provide any form of statistics for the purposes of benchmarking or ranking of negative observations. Such ranking or analysis is for individual companies to do as part of their in-house vetting processes.
+With all the new technology and demands on the inspector, what is the added cost to the operator for a SIRE inspection?
+The financial cost of a SIRE 2.0 inspection is a contractual matter between the Submitting Company – the company commissioning the inspection - and the operator. OCIMF cannot get involved in such financial issues for anti-trust/competition reasons.
+Will OCIMF streamline the upload of information (certificates, photos and PIQ data) to avoid unnecessary overload and burden on the vessel operators?
+The SIRE 2.0 Programme and all software interfaces have been developed to minimise the workload on company and vessel staff. The information and inspection material processes have been updated as far as possible based on feedback from operators during the trial inspection programme and will not be changed in the short term. OCIMF continues to review all aspects of the SIRE 2.0 processes to identify opportunities for future improvement.
+How does OCIMF ensure that the same rotational questions are not assigned to a vessel at each successive inspection?
+OCIMF has developed an algorithm for generating a Compiled Vessel Inspection Questionnaire (CVIQ) which changes the rotational questions assigned to a vessel for each inspection in a non-predictable manner.
+The questions assigned to a vessel for each inspection are registered in the OCIMF database and the inspection compiler checks against this when creating a new inspection.
+However, it is impossible to discount that the same rotational question will not be assigned to consecutive inspections on the same vessel. A vessel’s crew should be ready and able to address any question that is applicable to a vessel.
+Does the SIRE 2.0 programme make comprehensive specialised audits for engineers, navigation, cargo operations and mooring and anchoring operations mandatory?
+The SIRE 2.0 Programme does not make any comprehensive specialised operator audits mandatory. Questions that evaluate comprehensive specialised operator audits are conditional on the information provided by a vessel operator through the Pre-Inspection Questionnaire (PIQ). If a vessel operator takes the opportunity to demonstrate best practice by reporting that a comprehensive specialised audit has been carried out within the timeframe covered by the PIQ, then a verification question may be assigned to the CVIQ.
+Before declaring that a comprehensive specialised audit has been conducted, vessel operators are advised to consider the guidance provided by TMSA3 and the specific questions in the SIRE 2.0 question library.
+Considering that the SIRE 2.0 programme will require more work by vessel and office staff to prepare for an inspection and the final report will have enhanced content, will the frequency of inspections remain the same?
+Each SIRE 2.0 Inspection report will remain active on the SIRE database for 12 months. The report recipients will determine whether a report available on the database is acceptable for their marine assurance purposes.
+A SIRE 2.0 inspection provides the vessel operator and crews greater opportunity to demonstrate their best practices and increase the confidence of the report recipient on how well the vessel is managed on an ongoing basis. The analysis of one or more SIRE 2.0 reports on a vessel could therefore influence the decision of the report recipient on the inspection interval/frequency applicable to the vessel in line with their in-house vetting criteria.
+Will providing the inspector with the list of open defects automatically result in a negative observation for each piece of defective equipment reported?
+Where a vessel has reported defective equipment through a defect reporting system in accordance with TMSA3 4.1.2, the defective equipment will not necessarily result in a negative observation.
+Where defective equipment is observed during an inspection which had not been entered in the defect reporting system, this will result in a negative observation if the equipment is required to be carried or fitted to comply with any rule or regulation applicable to the vessel.
+The issue of a Condition of Class or a Short Term Certificate by a Classification Society or Flag Administration, as a result of defective equipment, will result in a negative observation.
+If a specific SIRE 2.0 question is based around a piece or pieces of equipment that are defective, then a negative observation will be raised irrespective of whether a defect report had been entered into the defect reporting system.
+Will a SIRE 2.0 report that is acceptable to one report recipient be acceptable to all report recipients?
+Report recipients will be responsible for ensuring that personnel assigned to review SIRE 2.0 inspection reports on their behalf have sufficient skills and knowledge to evaluate the content.
+OCIMF will provide guidance, tools and/or familiarisation materials in English to facilitate consistent and uniform understanding/interpretation of SIRE 2.0 report/data.
+The acceptability of an inspection report and how the interpretation of its content is applied in the vetting decision making process rest with each report recipient based on their own internal screening criteria.
+Will OCIMF be harmonising the frequency of inspections under the SIRE 2.0 programme?
+Each SIRE 2.0 Inspection remains active on the SIRE database for 12 months. Report recipients determine whether reports available on the database are acceptable for their business purposes.
+OCIMF does not get involved in vetting decisions of third-party companies and cannot specify to a submitting company or report recipient what frequency an inspection should be carried out on any vessel.
+Tablets Hardware Software
+How do I connect using Wi-Fi direct?
+To connect via Wi-Fi Direct, you will need to ensure the printer is not connected by cable to the network and enable Wi-Fi Direct mode in your printer. Please refer to the printer manufacturer’s support page for details.
+Do inspectors have a way to safely carry the tablets? Is there a bag to accommodate the tablets?
+Each tablet is provided with a carrying case and strap so that an inspector can keep their hands free and the tablet secure while moving around the vessel. See Tablet Comfort Guide, SIRE 2.0 Ergonomic Guidance for using an Inspection Tablet
+Is the tablet provided with a pen for touchscreen purposes?
+OCIMF does not supply a touchscreen pen with the tablet.
+Does OCIMF provide a Bluetooth keyboard and mouse with the tablet?
+OCIMF does not supply a bluetooth keyboard and mouse with the tablet. If an inspector wishes to connect their own devices this is easily done.
+What happens if the inspector loses or damages the tablet?
+• In the short term the inspector can complete a booked inspection using the full paper-based contingency process, see SIRE 2.0 Technical Training Videos (Module 8), providing the submitting company commissioning the inspection approves.
+• The process for repairing or replacing a damaged or lost tablet is detailed in the Inspector Tablet Purchase Agreement.
+If the tablet crashes in the middle of an inspection, does the tablet save whatever is recorded at that point of time?
+The inspection editor will autosave the inspector's responses periodically to permit the reinstatement of an inspection at a point just before the software or hardware freezes.
+What condition types can the selected tablet operate under?
+The Ex-Rated Ruggedized Tablet is accredited to operate with the following protection type IP68 dust-/waterproof | MIL-STD-810H | usable from -20 °C to +60 °C
+How will the tablets be protected against the risk of cyber-attacks?
+OCIMF has engaged with a globally recognized MDM specialist provider. An Enterprise-class product has been selected by one of the world-leading platform providers, Microsoft InTune, together with a robust patch management strategy which will be governed by the OCIMF Secretariat.
+Is the completion of the questionnaire done in offline mode or is this via 4/5G? If by 4G/5G would this not be a large amount of data?
+The inspection tablet needs to be connected to the internet using Wi-Fi before an inspection to allow inspection data to be transferred from the OCIMF server to the tablet, and then again once the inspection has been validated and is ready for submission to OCIMF. The inspection editor software does not need to be connected to the internet during the physical inspection.
+What is the printer requirement for printing the observation declaration at the end of the inspection?
+The Mopria Print Service has been installed as the standard printer service. Any Vessel Operator wishing to receive a printed version of the observation declaration will need to provide a Mopria certified printer with the Wi-Fi Direct functionality enabled.
+In the event that the Mopria certified printer is part of a network, to allow the tablet to identify the printer the Operator must disconnect the printer from the network temporarily and enable the Wi-Fi Direct functionality. Doing this will allow the tablet to see the Wi-Fi Direct stand-alone printer automatically.
+Vessel operators may visit Mopria website for list of certified printers: https://mopria.org/certified-products.
+Which printers are compatible with Mopria Print Service?
+Go to the Mopria Certified Printers page to see the latest list of certified devices: https://mopria.org/certified-products
+Why are devices greyed out in the printer device list?
+Printers may be greyed out if they were used previously, but then disconnected or the printer is offline/powered off.
+How do I monitor print jobs and view the print queue?
+While a print job is being sent to the printer, pull down the notification bar at the top of your Android device screen to view either a message or a progress bar. Tap on the bar to Cancel or Restart a print job. After the print job completes, the information is no longer available.
+How do I cancel a print job?
+From the printer control panel: Tap the “Cancel” button.
+From the Print dialog box: Tap the “Cancel” button.
+From your mobile device screen: Pull down a notification bar from the top of the screen or tap on the print progress screen, then tap the “Cancel” button.
+What is the expected lifespan of the ISAFE tablet battery?
+The isafe tablet battery has been verified as having sufficient capacity to complete a ten hour inspection with a margin in reserve. The manufacturer indicates that the battery performance is expected to be largely retained for four to five years of expected use.
+In cold weather, battery life is considerably reduced. Does the tablet come with a spare battery?
+No. The battery cannot be changed by the user. The tablet will be returned for service if battery life deteriorates.
+Pre-Inspection
+What is the timeframe for a CVIQ to be submitted before the vessel is attended to be inspected?
+The CVIQ will be generated as soon as a vessel operator declares that the photoset, certificates and PIQ have been completed. Vessel operators and Submitting Companies should plan and book inspections whilst considering the needs of the SIRE 2.0 inspection programme. They should coordinate to ensure that the vessel operator declaration is made not less than 48 hours prior to the planned inspection.
+Can an inspector see the previous inspections on the vessel going to be inspected?
+Negative observations raised against Core questions will be carried forward to the next inspection for the inspector's information when considering the same question. The observations will be displayed in the Operator Supplied Content tab. The information will not be carried forward to the inspection report and the inspector is not required to make any comment relating to the previous negative observation unless the situation that gave rise to the negative observation was still present and unresolved.
+How are inspectors allocated under SIRE 2.0?
+An inspection is assigned to an individual inspector by a submitting company based on a set of compliance rules.
+When will vessel operators be able to upload photographs, certificates and their responses to the Pre-Inspection Questionnaire (PIQ), how much time will be allowed to submit this information, and how often should this information be refreshed?
+The SIRE 2.0 inspection process necessitates that the vessel operator and submitting company consider the preparatory work required by the inspector when requesting or accepting an inspection.
+The standard set of photographs should be updated if those on the SIRE 2.0 database are no longer representative of the vessel’s condition. It is recommended that photographs are updated at approximately six-month intervals.
+It is recommended that a vessel operator has all pre-inspection work completed before they request an inspection so the inspection booking process is not delayed while the necessary information is provided. The certificate repository and Pre-Inspection questionnaire must be updated before each inspection.
+Will conditional questions based on a vessel's operational history and TMSA submissions of the operator be published similarly to the SIRE VIQ 7?
+The conditional SIRE 2.0 Questions that may be included in a CVIQ are part of the SIRE 2.0 Question Library. The conditionality that results in a question being included in the pool of applicable questions for any given vessel is provided in the SIRE 2.0 Question Library: Question Programming Attributes document, available on our website.
+Conditional questions will be generated based on the operator’s responses to various HVPQ and PIQ questions. If inaccurate declarations are made these may result in a conditional question being included in the CVIQ, and may result in a negative observation to the conditional question.
+Will HVPQ be revised to accommodate new operators, updates, or vessel data i.e., standard photos included in the HVPQ?
+The HVPQ6 has been released and will be live by the time SIRE 2.0 starts the phased transition
+A Pre-inspection questionnaire (PIQ) has been developed as part of the SIRE 2.0 programme to provide additional information relating to a vessel’s recent operational history as well as to provide clarification around static vessel attributes not currently available through HVPQ.
+Standard photosets, certificates and the PIQ are separate data inputs and do not form part of the HVPQ.
+What notice is required to change the inspector if he/she cannot attend?
+The reassignment of an inspection is the responsibility of the submitting company. When reassigning an inspection, the submitting company is responsible for making sure that the newly assigned inspector has sufficient time to complete the pre-board work (an allowance of four hours free time) before going onboard for the physical inspection.
+Will a Compiled Vessel Inspection Questionnaire (CVIQ) be available to operators prior to an inspection?
+No. A vessel crew is expected to be prepared to address any SIRE 2.0 question that is relevant to their vessel and to demonstrate how well they manage the vessel on a day-to-day basis.
+How long before a scheduled inspection will the inspector have access to the Compiled Vessel Inspection Questionnaire (CVIQ), and how soon should a vessel operator provide the certificates, photos and answers to the Pre-Inspection Questionnaire?
+The inspector will receive an assigned inspection in their tablet as soon as the vessel operator has completed the operator declaration that all pre-inspection information has been provided and the submitting company has accepted the booking and assigned an appropriate inspector.
+OCIMF expects vessel operators to upload all required information at least two days before a scheduled inspection so that the assigned inspector will have time to review the material provided before boarding the vessel to be inspected.
+OCIMF expects each submitting company to develop its own internal processes for accepting inspection requests considering the time required for an inspector to familiarise themselves with the CVIQ and vessel before boarding.
+How much extra work will the SIRE 2.0 programme generate for vessel crew and the office staff when preparing for an inspection?
+The upload of certificates and photographs and completion of the Pre-Inspection Questionnaire (PIQ) takes approximately several hours for each ship. Once the initial upload has been completed, maintenance of information required for an inspection will require less effort on each occasion since the data is maintained within the SIRE 2.0 account for each vessel.
+Inspection
+Does the vessel's senior management team have the opportunity to challenge any observation(s) before it is uploaded on the platform in SIRE 2.0? How does SIRE 2.0 allow for discussion of observations prior to the finalisation of the report?
+The inspector will complete the inspection report as they progress the inspection using the inspection editor software. All negative observations will need to be written up prior to the closing meeting. The inspection editor software will collate all negative observations into a PDF document called the “Observation Declaration”, which can be printed onboard using a ship’s wireless printer.
+The Inspector will discuss the negative observations recorded during the inspection with the Master who will have the opportunity to provide additional evidence which may result in the inspector modifying an observation should the circumstances merit this.
+A finalised Observation Declaration can then be printed and signed by both the Master and the Inspector. All changes to observations are recorded by the inspection editor software.
+How do you measure the time taken to prepare and on board a SIRE 2.0 inspection, time for preparation and App time used on board for the actual inspection?
+The inspection editor software will record the following:
+• The date and times of all interactions with an active inspection both before and after a physical inspection.
+• The date, time and GPS position of the start, suspension, resumption, and completion of a physical inspection.
+• The date and times of all observations recorded (positive and negative) during a physical inspection.
+• The step count of an inspector during a physical inspection.
+Are inspectors required to answer all questions during an inspection on board with comments?
+No – comments are required when certain responses are provided – the inspection editor software gives a clear indication where this is required. Inspectors are free to add comments where they consider doing so will add value to the report. All comments supporting negative observations and human observations that exceed expectations must be completed while onboard and presented in the closing meeting. Other comments can be added after the inspector has left the vessel.
+Will inspections still be possible in the offshore environment, STS etc?
+Yes.
+When will the inspection report be available to the submitting company, vessel operator and then published on the OCIMF SIRE database?
+The submitting company will see the inspection report as soon as the inspector completes and submits the inspection report to them.
+A vessel operator will see the inspection report once the submitting company has validated it and released the report to the vessel operator for their comments.
+The vessel operator will have 14 days to add their comments to the inspection report before they either release the report for publication or the report is published automatically without operator comments.
+Bearing in mind there will be several answers to (or ways to approach) questions asked by an inspector during an inspection, how will OCIMF assure that an inspector will not consider an answer inappropriate just because it is not what they want to hear or is not how they would have performed the task?
+SIRE 2.0 has been designed to enable inspectors record observations objectively. Observations will be supported by objective evidence and using a defined set of PIFs to further inform and provide context on the observations.
+Will an inspector request crew to perform specific tasks or will they only observe the tasks being undertaken as part of the normal work of the vessel during the inspection?
+The SIRE 2.0 process requires that the inspector observes officers and crew performing their normal day-to-day activities.
+There are SIRE 2.0 questions which require the inspector to interview officers and crew on aspects of their duties which may not be undertaken during the inspection, such as the use and demonstration of Life Saving Appliances (LSA) or Fire Fighting Appliances (FFA). Inspectors will consider the seniority of an officer or crew member when interviewing or requesting a demonstration from any individual.
+Officers and crew should expect to be interviewed by the inspector on any of their duties which are covered by the SIRE 2.0 Question Library.
+Capable officers can get overwhelmed by nervousness during inspections. Does SIRE 2.0 help address this to some extent?
+Inspectors have been trained to better understand the impact the inspection has on crews, understanding the importance of language and choice of words, and are mindful of the impact their interactions can have with crew members.
+Crew nervousness and fear are a significant performance influencing factor (PIF) in their own right. Sometimes, this may be due to the inspection itself, or perhaps it may be a pre-existing factor amongst a crew. But in either case, where it is evident during an inspection, this is something that should be recognised and reported by the inspector. So yes, the intention is that SIRE 2.0 might help address this.
+Are night-time and non-discharging inspections acceptable under SIRE 2.0?
+The Submitting Company decides whether to accept a night-time or non-discharge operation inspection request from a vessel operator.
+The individual report recipient, in accordance with their internal vetting policies and processes, decides whether to accept a non-discharge operation inspection report.
+Is the inspection report completed as the inspection is carried out onboard, and uploaded automatically?
+Most of the inspection report will be completed during the physical inspection. However, the inspector will still be required to do a quality check to make sure that their spelling and grammar is correct and to enter additional detail that they feel is necessary for accuracy and completeness. The validation and submission of the report will take place after an inspector has left a vessel.
+Will the Performance Influencing Factor (PIF) result in inspectors making "suggestions" and noting them as "observations"?
+No. Inspectors will select the most appropriate PIF from a prescribed drop-down list made available to them in the SIRE 2.0 response tool.
+In VIQ7 the emphasis in the closing meeting is mostly about KPIs on number of observations. How will SIRE 2.0 change this perception?
+SIRE 2.0 encourages a move away from a snapshot yes/no approach to providing richer, more meaningful insight that can be acted upon. It will ensure observations are given context and will result in more detailed, reliable, granular and comparable marine assurance data, helping the report recipient better understand how well a vessel is managed based on a qualitative assessment and not the number of observations.
+Is there flexibility in the system to account for last-minute delays or issues that require inspectors to be switched at short notice?
+The SIRE 2.0 Inspection Programme requires that all participants conduct inspection booking and scheduling to consider the needs of the overall inspection process. Although inspections can be reassigned to another inspector shortly before an inspection is scheduled to take place, this should not be undertaken without considering whether an assigned inspector will have sufficient time to complete the necessary pre-work before boarding the vessel for the physical inspection.
+The OCIMF inspection booking system will record vessel operator and submitting company booking practices to permit analysis and identify where poor inspection management is routinely occurring.
+Does the tablet need to be online throughout the inspection?
+The tablet device does not need to be online during a physical inspection. The inspection editor software will synchronise with OCIMF databases whenever the tablet device is connected to the internet and the editor is logged in. Inspection report information will not be transmitted to the OCIMF database until the inspector validates and submits a report.
+Master and Chief Engineers are tasked with doing performance (Human Factor) reviews after contract completion of 2 to 6 months. Is OCIMF asking SIRE inspectors to do this after an 8-hour inspection?
+No. OCIMF is not asking inspectors to carry out performance reviews that would normally be done by a Master. SIRE 2.0 questions tend to have a hardware element, Process element, or human element. On the SIRE 2.0 training course, inspectors will learn about human factors that help people to be successful, and the things that can get in the way of effective execution of critical tasks. They will also learn non-technical skills, including approaches to encourage open and constructive engagement with crews, methods for gathering and organising evidence, and managing critical conversations.
+Will an inspector verify random actual certificates when aboard?
+The inspector will be expected to verify that a vessel is managing its statutory certificates effectively and this will include a limited sampling and verification of certificates.
+Will the inspector be able to add questions to the Compiled Vessel Inspection Questionnaire (CVIQ) if they see a concern that is not covered by a core or rotational question assigned to the inspection?
+The CVIQ generated for an inspection is a fixed set of questions that includes all questions necessary to permit an inspector to accurately report on the condition and management of a vessel.
+The document SIRE 2.0 Programme: Introduction and Guidance, available on our website provides an explanation of how an inspector will report on a concern not specifically covered by a question included in the CVIQ.
+Can the vessel and inspector record the verbal questions asked by an inspector and the responses by the crew respectively?
+OCIMF has developed comprehensive rules for the conduct of SIRE 2.0 inspections which prohibits inspectors from:
+• Taking a video or audio recording of the inspection with either the SIRE 2.0 Inspection tablet or a personal device.
+• Taking photographs with a personal device other than the designated SIRE 2.0 tablet device.
+Inspectors are permitted to:
+• Take photographs using the OCIMF supplied tablet device in accordance with the OCIMF rules for the use of the camera.
+• Make their own voice memos using the OCIMF supplied tablet device in accordance with the OCIMF rules for the use of the voice recorder.
+Whilst vessel staff are free to make written notes to record the conduct of the inspection, they are not to make audio or video recording of the inspection without the express permission of the inspector and the Submitting Company. Recording of photographic images that includes the inspector must only be taken with the express permission of the inspector.
+OCIMF recognises that certain areas on a vessel may have CCTV or other recording devices in operation, but as a courtesy, the inspector should be made aware of where these devices are in operation. An inspector may decline to conduct an opening or closing meeting in a space that is being used solely for the purpose of recording the meeting.
+Are vessel operators able to give feedback on the inspector who has conducted an inspection onboard their vessel?
+There are no immediate plans to introduce a feedback process for vessel operators or crew to provide feedback on inspectors directly to OCIMF. This matter is under consideration and may be introduced in the future.
+Post-Inpsection Report Writing
+Are operators still required to respond to observations raised in a SIRE 2.0 inspection. Is there any proposal to involve the inspector concerned in reviewing the responses?
+SIRE 2.0 provides the vessel operator with the opportunity to provide operator comments to all negative observations before the inspection report is published. The Submitting Company and/or a Programme Recipient is responsible for contacting the vessel operator if they require further information. The SIRE 2.0 programme does not include any requirement or process for an inspector to review and comment on operator comments appended to an inspection report.
+Can observations and comments be amended after the report has been saved?
+The report can be amended up until the time it is submitted. All changes to the report before, during and after the physical inspection are tracked.
+How long will a SIRE 2.0 inspection report remain valid for?
+All reports available in the database are valid, but it is up to the Programme Recipient purchasing the report to decide whether a particular report meets their requirements or their use of the programme. OCIMF’s role is to make the report available for 12 months.
+Does OCIMF or SIRE 2.0 submitting companies require that an inspector records a minimum number of positive observations during a SIRE 2.0 inspection?
+No. There is no requirement for an inspector to record a minimum number of positive (or negative) observations. An inspector is required to report accurately and completely on what is observed during an inspection.
+How long does a vessel operator have to provide their comments to a SIRE 2.0 inspection before the final report is published?
+The vessel operator has 14 days to provide their initial operator comments for each negative observation from the day the inspection report is released by the submitting company.
+The vessel operator may continue to add subsequent comments once an inspection report has been published, normally 12 months.
+SIRE 2.0 inspectors can record "positive human based observations", are these only possible under the human response tool or is this option available under hardware and process response tools as well?
+The term positive observation in the context of SIRE 2.0 specifically refers to an observation that an observed person’s (OP) demonstration or explanation of a task exceeded normal expectations. These observations can be easily identified in the final inspection report as the comment text is green to highlight them and the negative observation comment text is red.
+The hardware and process response tools do not have positive observations as defined above.
+A full explanation of the response tools can be found in the OCIMF document SIRE 2.0 Programme: Introduction and Guidance, found on our website.
+Can two or more ships inspection reports be run in parallel?
+Yes, the inspection editor software can have more than one active inspection in progress.
+Will the master be able to add comments to the tablet during the closing meeting?
+No, the master will not be able to add comments to the tablet during the closing meeting. However, the master will have the opportunity to add comments to a printed observation declaration if the vessel operator provides access to a standalone wireless printer. If access to a wireless printer is not provided by the vessel operator, the master will have to make manual notes of the observations and there will be no opportunity to add comments to and sign the declaration.
+The observation declaration is a compilation of all negative observations and human observations that exceed expectations which is produced by the inspector at the closing meeting and signed by both the inspector and master.
+How will OCIMF consider the number of observations from a SIRE 2.0 inspection considering that there will be an increase under SIRE 2.0?
+SIRE 2.0 requires a shift in mindset from a focus on quantitative (number of observations) to a more qualitative assessment of the inspection report. The SIRE 2.0 Programme has been developed to evaluate how well a vessel is managed by its operator and crew. The CVIQ contains a balanced set of questions which will collectively provide a report recipient with better understanding of the safety culture onboard the vessel as indicated by the overall nature - and not number - of observations on hardware, process and human factors.
+SIRE 2.0 presents greater opportunity for report users to carry out more effective and deeper analysis of multiple observations both positive and/or negative.
+Can one defect or deficiency lead to more than one negative observation under SIRE 2.0?
+The response tools assigned to each SIRE 2.0 question must be addressed based on the guidance provided. It is possible that the hardware, process, and human response tools assigned to a single question could all result in one or more negative observations.
+A negative observation under one SIRE 2.0 question could potentially lead to one or more negative observations under other questions assigned to the CVIQ.
+Will human factor comments now be required only for observations raised or for all comments included in the report?
+An inspector is required to provide supporting comments to give context to why the execution of a human based task or activity exceeded expectation, was largely as expected, or not as expected.
+Who will review the quality of a SIRE 2.0 inspection report before it is published and how will this be done?
+A submitting company is responsible for reviewing each inspection report commissioned by them for quality before releasing it to the vessel operator for comments and subsequent publication on the OCIMF database. How the report review is carried out will be subject to the internal processes of the submitting company who would also be expected to consider the OCIMF Policies, Procedures and guidance for report validation.
+Terminals
+What if a terminal does not allow electronic equipment?
+Where a terminal prohibits the use of the tablet camera, but there is no restriction on the use of the tablet itself, the camera function can be demonstrably disabled.
+What is OCIMF doing to ensure that the intrinsically safe tablets used in the SIRE 2.0 programme will be acceptable in ports and terminals around the world?
+OCIMF has developed a terminal advocacy programme to:
+• Inform ports and terminals of the benefits to the oil, gas and chemical transportation industry by supporting the SIRE 2.0 Programme within their facilities.
+• Identify ports and terminals which have restrictions on the use of intrinsically safe tablets.
+• Identify ports and terminals which have restrictions on the use of use of cameras embedded in an intrinsically safe tablet
+• Provide detailed information on the use of intrinsically safe tablets within SIRE 2.0 Programme through a tablet factsheet which includes:
+o The safeguards in place to ensure that an intrinsically safe tablet is used in accordance with ISGOTT guidance and all port and terminal regulations.
+o The safeguards in place to ensure that security and privacy concerns regarding the use of intrinsically safe cameras
+• Engage with ports and terminals which have concerns over the use of an intrinsically safe tablet and/or the use of photography during an inspection onboard a vessel while in a port or terminal.
+Photographs
+Is there an expectation that photographs are uploaded before every SIRE 2.0 inspection?
+It is recommended that photographs are refreshed by the vessel operator at approximately six-month intervals. However, they must be refreshed whenever the condition of the vessel materially changes. Photographs can remain in the SIRE database for up to a year without being refreshed if the vessel operator is confident that they remain representative. It is the responsibility of the vessel operator to ensure that the photographs uploaded to the SIRE 2.0 vessel photo repository remain representative of the vessel’s true condition as near enough to the time of the inspection.
+Why doesn't OCIMF use the SIRE 2.0 programme, and the functionality to add photographs to inspection reports, as an opportunity to share best practices?
+The identification of best practice is best left to individual vessel operators and their internal programmes.
+OCIMF has many publications which include industry best practice gained from a wide variety of contributors within its membership and the industry. In many cases the guidance to SIRE 2.0 questions is based on best practice and the principal objective of an inspection is to verify that a vessel is being operated in alignment with existing industry best practice and statutory requirements.
+What happens if the latest photographs are not available at the time of booking an inspection?
+It is the vessel operator’s responsibility to ensure that up to date photographs are uploaded to the OCIMF SIRE 2.0 vessel photo repository before an inspection is booked. A negative observation will be recorded if a photograph is not uploaded by the vessel operator. The absence of photographs will be visible to the report recipient who will form their own opinion on whether to accept the vessel.
+Does OCIMF give clear guidance on the standard set of photographs required for each vessel?
+The details of the standard set of photographs are provided in the OCIMF document SIRE 2.0 Instructions for Uploading Photographs to the Photograph Repository available on the website.
+The SIRE 2.0 photo repository provides a sample photograph for each standard photograph location.
+Has OCIMF developed any guidance for inspectors to ensure that photographs taken during inspections do not violotate privacy and security concerns?
+Inspectors should be guided by OCIMF document SIRE 2.0 Rules for the use of the Tablet Camera and Voice Recorder available on the website.
+Are photographs required for each negative observation?
+An inspector is expected to provide a photograph to support a negative observation wherever this will add value to the report.
+Can an inspector use the inspection tablet to take photographs and record video clips?
+The SIRE 2.0 tablet-based camera can only be used by an inspector to take still photographs under strict compliance with OCIMF rules and local regulations.
+Photographs taken during an inspection can only be appended to an inspection report. The inspector cannot export the photographs from the tablet and, photographs not appended to the submitted report will be deleted automatically once an inspection report has been published.
+Can a vessel operator see all the photographs an inspector takes during an inspection?
+The final inspection report includes all the photographs the inspector has uploaded with the inspection report package.
+Any photographs taken during an inspection but not uploaded with the inspection report package are automatically deleted from the inspection tablet once the final inspection report is published.
+The inspector cannot export the photographs or use them for something else.
+Why does a vessel operator have to upload photographs when an inspector could take them during an inspection?
+The standard set of photographs provided by the vessel operator will provide the report recipient with an objective view of a vessel’s fabric and cosmetic condition.
+There are ports and terminals where photography is not allowed, therefore relying on the inspector to take a full set of photographs is not a reliable means of providing a pictorial record of a vessel’s condition.
+The vessel crew will be able to provide photographs which can be taken at their convenience in the weeks leading up to an inspection.
+The standard photograph set will provide a common understanding of a vessel’s condition shared by both a vessel’s operator and a potential charterer.
+Who will have access to the photographs used in the SIRE 2.0 programme?
+The standard photographs provided by the vessel operator will be embedded in the final report along with photographs submitted by the inspector during the inspection.
+Report recipients who have purchased a report will be able to use a secure web viewer to access all photographs made available in the final report. No photographs used in the SIRE 2.0 programme will be available to the general membership or published by any other means.
+Inspector Training & Accreditation
+Are SIRE 2.0 inspectors subject to a physical audit every three years?
+Yes. Inspectors are required to undergo quality assessments by Programmes Quality Assessors who work exclusively for OCIMF. The actual interval of the assessment/appraisal may change depending on the performance of individual inspectors.
+Glossary of Terms
+Certificate Repository
+An on-line OCIMF database holding electronic copies of vessel trading certificates and documents, provided by the vessel operator.
+Compiled Vessel Inspection Questionnaire (CVIQ)
+A unique, vessel-specific set of questions compiled for each vessel inspection.
+Harmonised Vessel Particulars Questionnaire (HVPQ)
+Questionnaire for documenting and communicating permanent and infrequently changing information relating to a vessel, its construction, outfitting and certification.
+Inspection Compiler
+OCIMF software that uses algorithms to select questions from the SIRE Question Library to create a unique vessel-specific VIQ for each inspection.
+Inspection Declaration
+A declaration, made by the vessel operator that all data, photographs, and certificates provided in connection with a SIRE inspection are accurate, complete and in accordance with the instructions provided.
+Inspection Editor
+An OCIMF proprietary software application loaded onto the Inspection Tablet that allows an inspector to gather and record information during an inspection, including photographs, and create a SIRE report.
+Inspection Tablet
+A dedicated, intrinsically safe tablet computer used by the inspector solely to complete a SIRE inspection.
+Performance Influencing Factors
+Performance Influencing Factors is a collective term for those factors that are known to influence or shape human performance. They can enhance and assist human performance, or they can degrade and obstruct it.
+Photograph Repository
+An on-line OCIMF database holding photographs of vessels, provided by the vessel operator.
+Pre-inspection Questionnaire (PIQ)
+An on-line questionnaire, completed by the vessel operator, providing information about the vessel, and supplementing the Harmonised Vessel Particulars Questionnaire (HVPQ).
+Question types
+· Core – Minimum questions required to meet the fundamental risk assessment criteria, as defined by OCIMF.
+• Rotational – A non-core question assigned to a vessel on an occasional basis.
+• Campaign - A new (or existing rotational) question assigned to every inspection for a fixed period in response to an incident or industry trend.
+• Conditional – A question assigned to verify an aspect of a vessel’s operational history or operator’s oversight activities of the vessel.
+SIRE 2.0 Question Library
+An OCIMF database containing all current inspection questions.
+SIRE Report Database
+An OCIMF database containing all applicable data collected by the inspector during an inspection.
+Members' Newsletter
+Thanks for subscribing!
+Sorry, it's not currently possible to subscribe to our newsletter at the moment. Please try again later.
+Subscribe to our email newsletter and stay up to date with the current OCIMF news.
