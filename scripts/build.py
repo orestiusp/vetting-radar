@@ -39,6 +39,7 @@ _IC = {
  "pulse":'<path d="M3 12h4l3-8 4 16 3-8h4"/>',
 }
 def icon(n, cls="ico"): return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true">{_IC[n]}</svg>'
+# Header/footer logo (icon). To swap: replace with the chosen concept's icon SVG (viewBox 0 0 64 64 works too); size is set in CSS (.brand svg).
 LOGO = '<svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14" fill="none" stroke="#5fd3f3" stroke-width="2"/><circle cx="16" cy="16" r="8.5" fill="none" stroke="#5fd3f3" stroke-width="1.5" opacity=".6"/><path d="M16 16 26 7" stroke="#5fd3f3" stroke-width="2" stroke-linecap="round"/><circle cx="16" cy="16" r="2.4" fill="#5fd3f3"/><circle cx="21.5" cy="11.8" r="1.6" fill="#fff"/></svg>'
 
 def fmt_date(s):
@@ -48,13 +49,16 @@ def fmt_date(s):
         return dt.date.fromisoformat(s[:10]).strftime("%d %b %Y")
     except Exception: return s
 
-def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0):
+def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None):
     pre = "../" * depth
+    doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
     nav = "".join(f'<a href="{pre}{h}"{" class=\"on\" aria-current=\"page\"" if h==base else ""}>{l}</a>' for h, l in NAV)
     sub_href = f"{pre}index.html#subscribe"
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)} · Vetting Radar</title><meta name="description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
+<title>{e(doc_title)}</title><meta name="description" content="{e(desc)}">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Vetting Radar"><meta property="og:title" content="{e(doc_title)}"><meta property="og:description" content="{e(desc)}">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="{e(doc_title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
 <link rel="alternate" type="application/json" href="{pre}data/changes.json">
 <script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></head><body>
 <a class="skip" href="#content">Skip to content</a>
@@ -115,9 +119,9 @@ dates_html = "".join(f"""<li class="card date">{calic(c['date'])}<div><b>{e(c['t
 nk = nxt[0] if nxt else None
 up_key = [c for c in nxt if c["date"] > TODAY.isoformat()]
 nk = up_key[0] if up_key else nk
-HERO_H1 = "Know what changed before your next inspection."
+HERO_H1 = "Know what changed before your next screening."
 HERO_SUB = "We watch OCIMF, CDI, RightShip, oil-major and terminal criteria every day, and tell you what changed, with the source."
-page("index.html", "Tanker vetting rule changes, tracked daily", f"""
+page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
 <section class="hero"><div class="wrap"><div>
 <span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
 <h1>{HERO_H1}</h1><p class="sub">{HERO_SUB}</p>
