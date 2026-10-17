@@ -54,7 +54,9 @@ def fmt_date(s):
         return dt.date.fromisoformat(s[:10]).strftime("%d %b %Y")
     except Exception: return s
 
-def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts=""):
+# GoatCounter visitor stats (cookie-free); left off admin.html and the newsletter email copies
+GOATCOUNTER = '<script data-goatcounter="https://vettingradar.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts="", stats=True):
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
@@ -82,7 +84,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}compare-checklist.html">Pre-screening checklist</a></li><li><a href="{pre}compare-terminals.html">Terminal requirements</a></li><li><a href="{pre}reports.html">Reader reports</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
-<script src="{pre}app.js"></script>{scripts}</body></html>"""
+<script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w").write(doc)
 
@@ -403,7 +405,7 @@ page("submit.html", "Post a reader report", section="reports.html",
 <div class="card rr-card" id="rr-mine" hidden><h2 class="sm" style="margin-top:0">Your reports</h2><ul class="rr-mine"></ul></div></div>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
-page("admin.html", "Moderation", full_title="Moderation · Vetting Radar", head='<meta name="robots" content="noindex,nofollow">',
+page("admin.html", "Moderation", full_title="Moderation · Vetting Radar", stats=False, head='<meta name="robots" content="noindex,nofollow">',
      body=f"""<section class="pagehead"><div class="wrap"><p class="kicker">Admin</p><h1>Reader reports moderation</h1><p>Admins only. Step 1: bot check (pending). Step 2: publish (bot-approved).</p></div></section>
 <div class="wrap page" id="rr-admin">{RR_SOON}
 {rr_join("Admin sign-in", "Only e-mails on the admin list can moderate.")}
@@ -462,7 +464,7 @@ for md in sorted(glob.glob(P("newsletter", "issue-*.md"))):
     name = os.path.basename(md)[:-3]
     issues.append((name, fm))
     page(f"newsletter/{name}.html", fm.get("title", name), f'<div class="wrap page prose issue">{body}{signup_card}</div>', depth=1)
-    open(P("newsletter", name + ".html"), "w").write(open(os.path.join(DIST, "newsletter", name + ".html")).read().replace('href="../', 'href="../dist/'))
+    open(P("newsletter", name + ".html"), "w").write(open(os.path.join(DIST, "newsletter", name + ".html")).read().replace('href="../', 'href="../dist/').replace(GOATCOUNTER, ""))
 arch = "".join(f'<li><a class="row" href="newsletter/{n}.html"><span class="badge org">#{e(fm.get("issue",""))}</span><span class="t">{e(fm.get("title", n))}</span><time>{fmt_date(fm.get("date",""))}</time></a></li>' for n, fm in reversed(issues))
 page("newsletter.html", "Newsletter", pagehead("Newsletter", "The weekly brief", "What changed in vetting rules, who it affects and the dates ahead. Five minutes, every item sourced.") + f"""<div class="wrap page grid"><div>
 <h2 class="sm" style="margin-top:0">Archive</h2><ul class="card list">{arch}</ul><p class="note" style="margin-top:14px">Issues are also sent and archived on <a href="{BEEHIIV_URL}" rel="noopener">Beehiiv</a>.</p></div><aside class="side">{signup_card}</aside></div>""")
