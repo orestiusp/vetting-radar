@@ -64,6 +64,19 @@ def normalise(text):
         lines.append(ln)
     return "\n".join(lines) + "\n"
 
+CTRL = re.compile(r"[\x00-\x08\x0b-\x1f\x7f]")
+def fingerprint(text, kind="html"):
+    """Order- and layout-insensitive fingerprint: the multiset of words.
+    Ignores pdftotext version/layout differences (dot leaders, control chars, column order)
+    and pages that merely reshuffle the same items; any added/removed/edited word still changes it."""
+    t = CTRL.sub("", normalise(text))
+    t = re.sub(r"(?:\.\s?){2,}", " ", t)          # table-of-contents dot leaders
+    if kind == "pdf":
+        # pdftotext versions split/move glyphs around control characters; compare the multiset of characters instead
+        return hashlib.sha256("".join(sorted(re.sub(r"[\W_]", "", t.lower()))).encode()).hexdigest()
+    toks = re.findall(r"\w+(?:[.,:%/'’-]\w+)*%?", t.lower())
+    return hashlib.sha256(" ".join(sorted(toks)).encode()).hexdigest()
+
 def fetch(src, attempts=2):
     last = None
     for i in range(attempts):
@@ -106,6 +119,13 @@ def process(src, state):
     if st.get("hash") == h:
         return sid, st, None, "unchanged"
     old = open(latest).read() if os.path.exists(latest) else None
+    fp = fingerprint(text, kind)
+    old_fp = st.get("fp") if (st.get("fp_v") == 2 and st.get("fp")) else (fingerprint(old, kind) if old is not None else None)
+    st["fp_v"] = 2
+    if old is not None and old_fp == fp:
+        # same words, only layout/order/noise differs: not a content change; keep the stored snapshot to avoid churn
+        st["fp"] = fp
+        return sid, st, None, "unchanged"
     if old is not None and normalise(old) == text:
         # only noise-filter rules changed: refresh the stored snapshot/hash silently
         with open(latest, "w") as f: f.write(text)
@@ -115,7 +135,7 @@ def process(src, state):
     with open(os.path.join(d, f"{stamp}.txt"), "w") as f: f.write(text)
     with open(latest, "w") as f: f.write(text)
     first = st.get("hash") is None
-    st.update(hash=h, chars=len(text), kind=kind, last_changed=ts.isoformat(timespec="seconds"))
+    st.update(hash=h, fp=fp, chars=len(text), kind=kind, last_changed=ts.isoformat(timespec="seconds"))
     if first or old is None:
         st["baseline_at"] = ts.isoformat(timespec="seconds")
         return sid, st, None, "baseline"

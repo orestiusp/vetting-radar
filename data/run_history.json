@@ -16,7 +16,8 @@
       "ocimf-sire-programme-survey-2024-25-pdf",
       "ocimf-annual-report-2026-pdf",
       "ocimf-bulletins"
-    ]
+    ],
+    "note": "first CI run: 3 'changes' were false positives (pdftotext version differences, reordered list items); discarded and a layout/order-insensitive fingerprint added; IOMOU returns 403 to GitHub runners"
   },
   {
     "run_at": "2026-10-17T11:42:36+03:00",
