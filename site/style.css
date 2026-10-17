@@ -229,3 +229,22 @@ footer.site .tm{margin:10px 0 0;font-size:.76rem;color:#7f97ab;max-width:440px}
   nav.main{justify-content:space-between;gap:0}nav.main a{padding:6px 5px;font-size:.84rem}}
 @media(max-width:374px){.brand{font-size:1.25rem}.brand svg{width:36px;height:36px}nav.main a{padding:6px 3px;font-size:.78rem}}
 @media(max-width:340px){.brand{font-size:1.08rem;gap:8px}.brand svg{width:32px;height:32px}header.site .btn.sm{padding:6px 9px}}
+/* fixed-width logo column: same tile for every row, combined orgs overlap inside the same box */
+.list a.row{grid-template-columns:44px minmax(0,1fr) auto;gap:14px}
+.lc-logo{display:flex;align-items:center;justify-content:center;width:44px}
+.olgs.fix{position:relative;width:44px;height:32px;display:block;flex:none}
+.olgs.fix .olg{position:absolute;inset:0;width:44px;height:32px;min-width:0;padding:4px}
+.olgs.fix .olg img{height:auto;max-height:22px;max-width:100%;margin:auto}
+.olgs.fix .olg.fb{width:32px;height:32px;left:6px;border-radius:50%;font-size:.6rem}
+.olgs.fix.two .olg{width:27px;height:20px;padding:2px;inset:auto}
+.olgs.fix.two .olg:first-child{left:0;top:0}
+.olgs.fix.two .olg:last-child{right:0;bottom:0;box-shadow:-1px -1px 0 2px #fff}
+.olgs.fix.two .olg img{max-height:15px}
+/* small fixed variant for the dates strip meta line */
+.olgs.fix.xs{width:30px;height:20px}
+.olgs.fix.xs .olg{width:30px;height:20px;padding:2px;border-radius:5px}
+.olgs.fix.xs .olg img{max-height:14px}
+.olgs.fix.xs .olg.fb{width:20px;height:20px;left:5px;font-size:.5rem}
+.olgs.fix.xs.two .olg{width:20px;height:15px;padding:1px}
+.olgs.fix.xs.two .olg img{max-height:11px}
+@media(max-width:560px){.list a.row{grid-template-columns:44px minmax(0,1fr);gap:4px 12px}.list a.row .lc-logo{grid-row:1/3}.list time{order:0;grid-column:2}}

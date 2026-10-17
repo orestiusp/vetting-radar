@@ -94,7 +94,7 @@ def org_keys(owner):
 def initials(name):
     w = [x for x in re.split(r"[\s/–-]+", name) if x and x[0].isalnum()]
     return (w[0][:3] if len(w) == 1 or w[0].isupper() and len(w[0]) <= 4 else "".join(x[0] for x in w[:2])).upper()
-def orglogo(owner, depth=0, size=""):
+def orglogo(owner, depth=0, size="", fixed=False):
     out = ""
     for k in org_keys(owner) or [None]:
         m = ORG_LOGOS.get(k, {}) if k else {}
@@ -103,7 +103,8 @@ def orglogo(owner, depth=0, size=""):
             out += f'<span class="olg {size}{" dark" if m.get("dark_bg") else ""}" title="{e(name)}"><img src="{"../"*depth}assets/logos/{e(m["file"])}" alt="{e(name)} logo" loading="lazy"></span>'
         else:
             out += f'<span class="olg fb {size}" title="{e(name)}" aria-label="{e(name)}">{e(initials(name))}</span>'
-    return f'<span class="olgs">{out}</span>'
+    n = len(org_keys(owner) or [None])
+    return f'<span class="olgs{" fix" if fixed else ""}{" two" if fixed and n > 1 else ""}{(" " + size) if fixed and size else ""}">{out}</span>'
 
 def pagehead(kicker, title, lede):
     return f'<section class="pagehead"><div class="wrap"><p class="kicker">{kicker}</p><h1>{title}</h1><p>{lede}</p></div></section>'
@@ -140,14 +141,14 @@ UPD_BY_ID = {u["id"]: u for u in updates}
 ok_sources = sum(1 for s in sources if state.get(s["id"], {}).get("hash"))
 last_run = runlog.get("run_at", "")
 pending = [c for c in changes if not _pub(c)]
-rows_html = "".join(f"""<li><a class="row" href="updates.html#{e(u['id'])}">{orglogo(u['owner'])}
+rows_html = "".join(f"""<li><a class="row" href="updates.html#{e(u['id'])}"><span class="lc-logo">{orglogo(u['owner'], fixed=True)}</span>
 <span class="t">{e(u['headline'])}<small><span class="badge {e(u['impact'])}"><span class="dot"></span>{e(u['impact'].title())}</span> {e(u['owner'])}</small></span><time datetime="{e(u['date'])}">{fmt_date(u['date'])}</time></a></li>""" for u in UPD[:5])
 mon = (f'{icon("pulse")}<span>{len(pending)} change{"s" if len(pending)!=1 else ""} detected by the monitor, awaiting review. <a href="updates.html#monitor">View</a></span>' if pending
        else f'{icon("check")}<span>Monitor checked {ok_sources} sources on {fmt_date(last_run)}. No unreviewed changes.</span>')
 nxt = sorted([c for c in calendar if c["date"] and len(c["date"]) == 10 and (c.get("end") or c["date"]) >= TODAY.isoformat()], key=lambda c: c["date"])
 def calic(d):
     x = dt.date.fromisoformat(d); return f'<span class="cal-ic" aria-hidden="true"><span class="m">{x.strftime("%b")}</span><span class="d">{x.day}</span></span>'
-dates_html = "".join(f"""<li class="card date">{calic(c['date'])}<div><b>{e(c['title'])}</b><span class="src-id">{orglogo(c['owner'], 0, 'xs')}{fmt_date(c['date'])}{(' – ' + fmt_date(c['end'])) if c.get('end') else ''}</span></div></li>""" for c in nxt[:3])
+dates_html = "".join(f"""<li class="card date">{calic(c['date'])}<div><b>{e(c['title'])}</b><span class="src-id">{orglogo(c['owner'], 0, 'xs', fixed=True)}{fmt_date(c['date'])}{(' – ' + fmt_date(c['end'])) if c.get('end') else ''}</span></div></li>""" for c in nxt[:3])
 nk = nxt[0] if nxt else None
 up_key = [c for c in nxt if c["date"] > TODAY.isoformat()]
 nk = up_key[0] if up_key else nk
