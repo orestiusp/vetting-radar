@@ -17,13 +17,17 @@ off the repo (env vars / secret files only).
    insert into public.admins (email) values ('admin@example.com'), ('you@example.com') on conflict do nothing;
    ```
 3. Check: `select tablename, rowsecurity from pg_tables where schemaname = 'public';` → all `true`.
+3b. Then run the files in [`migrations/`](migrations/) in name order (security hardening: no auto-grants on new
+    objects, RLS on by default, per-network vote throttle, admin only via e-mail-link sessions).
+    Offline test: [`tests/pglite_security_test.mjs`](tests/pglite_security_test.mjs).
 
 ## B. Dashboard (cannot be done from SQL)
 
 4. **Authentication → URL Configuration**
    - Site URL: `https://vettingradar.com`
-   - Redirect URLs: `https://vettingradar.com/submit.html`, `https://vettingradar.com/admin.html`
-     (for local testing also `http://localhost:8765/**`).
+   - Redirect URLs: `https://vettingradar.com/submit.html`, `https://vettingradar.com/admin.html` only.
+     For local testing add `http://localhost:8765/**` temporarily and remove it again afterwards
+     (a localhost entry lets a sign-in link be redirected to whatever runs on the user's port 8765).
 5. **Authentication → Sign In / Providers → Email**: enabled, magic link / OTP on.
    Turn **"Allow new users to sign up"** on (members join by magic link). Password sign-in is not used by the site.
 6. **Authentication → Emails → SMTP**: the built-in mailer is for testing only (very low hourly limit, Supabase branding).

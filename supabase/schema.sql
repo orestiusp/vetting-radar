@@ -280,3 +280,7 @@ grant execute on function public.bot_review(uuid, text, text)       to service_r
 
 -- ---------------------------------------------------------------- admins (edit, then run)
 -- insert into public.admins (email) values ('you@example.com') on conflict do nothing;
+
+-- ---------------------------------------------------------------- after this file
+-- Run supabase/migrations/*.sql in name order. 20261018_security_hardening.sql and 20261018b_admin_session_hardening.sql
+-- replace cast_vote() and is_admin() above with hardened versions (vote throttle, e-mail-link-only admin sessions).

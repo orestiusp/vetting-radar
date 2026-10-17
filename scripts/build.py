@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the static Vetting Radar site into dist/ from data/*.json, sources.json and newsletter/*.md."""
-import json, os, shutil, html, datetime as dt, re, glob
+import json, os, shutil, html, datetime as dt, re, glob, hashlib, base64
 import markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -55,8 +55,41 @@ def fmt_date(s):
     except Exception: return s
 
 # GoatCounter visitor stats (cookie-free); left off admin.html and the newsletter email copies
-GOATCOUNTER = '<script data-goatcounter="https://vettingradar.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
-def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts="", stats=True):
+# Versioned script + SRI (https://www.goatcounter.com/help/countjs-versions): the browser refuses it if it ever changes.
+GOATCOUNTER = ('<script data-goatcounter="https://vettingradar.goatcounter.com/count" async src="https://gc.zgo.at/count.v5.js" crossorigin="anonymous" '
+               'integrity="sha384-atnOLvQb9t+jTSipvd75X2yginT4PjVbqDdlJAmxMm+wYElFmeR6EmLP5bYeoRVQ"></script>')
+BH_ATTRIBUTION = '<script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script>'
+# ---------- security headers as <meta> (GitHub Pages cannot send headers) ----------
+# Inline <script> blocks are allowed by hash (computed per page in page()), so no 'unsafe-inline' for scripts.
+# Not possible in <meta>: frame-ancestors, report-uri, HSTS. admin/submit get a JS frame-buster instead of frame-ancestors.
+SUPABASE_ORIGIN = "https://kfxroqikspadmpjqiwkl.supabase.co"
+CSP = {
+    # public pages: own files, Supabase, Beehiiv embed, GoatCounter, Turnstile (planned)
+    "site": {"default-src": "'self'",
+             "script-src": f"'self' https://cdn.jsdelivr.net https://subscribe-forms.beehiiv.com https://gc.zgo.at https://challenges.cloudflare.com",
+             "style-src": "'self' 'unsafe-inline' https://subscribe-forms.beehiiv.com https://fonts.googleapis.com",
+             "font-src": "'self' https://fonts.gstatic.com",
+             "img-src": "'self' data: https:",
+             "connect-src": f"'self' {SUPABASE_ORIGIN} https://vettingradar.goatcounter.com https://subscribe-forms.beehiiv.com",
+             "frame-src": "https://subscribe-forms.beehiiv.com https://embeds.beehiiv.com https://challenges.cloudflare.com",
+             "form-action": "'self' https://*.beehiiv.com", "base-uri": "'self'", "object-src": "'none'", "upgrade-insecure-requests": ""},
+    # pages holding a Supabase session (admin.html, submit.html): no third-party script except SRI-pinned supabase-js / GoatCounter, and Turnstile
+    "session": {"default-src": "'none'",
+                "script-src": "'self' https://cdn.jsdelivr.net https://challenges.cloudflare.com https://gc.zgo.at",
+                "style-src": "'self' 'unsafe-inline'", "img-src": "'self' data: https://vettingradar.goatcounter.com",
+                "connect-src": f"{SUPABASE_ORIGIN} https://vettingradar.goatcounter.com", "frame-src": "https://challenges.cloudflare.com",
+                "form-action": "'self'", "base-uri": "'none'", "object-src": "'none'", "upgrade-insecure-requests": ""},
+}
+FRAMEBUST = "<script>if(window.top!==window.self){document.documentElement.style.display='none';window.top.location=window.self.location.href;}</script>"
+def _security_meta(doc, kind):
+    hashes = " ".join("'sha256-%s'" % base64.b64encode(hashlib.sha256(m.encode()).digest()).decode()
+                      for m in re.findall(r"<script>(.*?)</script>", doc, re.S))
+    pol = dict(CSP[kind]); pol["script-src"] += (" " + hashes if hashes else "")
+    if kind == "session": pol["script-src"] += " " + "'sha256-%s'" % base64.b64encode(hashlib.sha256(FRAMEBUST[8:-9].encode()).digest()).decode()
+    csp = "; ".join((k + " " + v).strip() for k, v in pol.items())
+    ref = "same-origin" if kind == "session" else "strict-origin-when-cross-origin"
+    return f'<meta http-equiv="Content-Security-Policy" content="{csp}"><meta name="referrer" content="{ref}">' + (FRAMEBUST if kind == "session" else "")
+def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts="", stats=True, csp="site"):
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
@@ -74,7 +107,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <link rel="apple-touch-icon" href="{pre}brand/apple-touch-icon.png">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{SITE_URL}/brand/og-image.png"><meta name="twitter:title" content="{e(doc_title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
 <link rel="alternate" type="application/json" href="{pre}data/changes.json">{head}
-<script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></head><body>
+{BH_ATTRIBUTION if csp == "site" else ""}</head><body>
 <a class="skip" href="#content">Skip to content</a>
 <header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{logo("h")}<span>Vetting <span class="r">Radar</span></span></a>
 <nav class="main" aria-label="Main">{nav}</nav><a class="btn sm" href="{sub_href}">Subscribe</a></div></header>
@@ -85,6 +118,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
+    doc = doc.replace('<meta charset="utf-8">', '<meta charset="utf-8">' + _security_meta(doc, csp), 1)  # CSP first, before any script
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w").write(doc)
 
@@ -380,7 +414,7 @@ page("reports.html", "Reader reports: requirements members met in practice", sec
 <div id="rr-list">{RR_SOON}</div>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
-page("submit.html", "Post a reader report", section="reports.html",
+page("submit.html", "Post a reader report", section="reports.html", csp="session",
      desc="Share a tanker vetting requirement you met in practice. Members only, reviewed before publishing.",
      body=pagehead(f'{RR_PILL}<span>User-declared · not official</span>', "Add what you faced", "Share one requirement you met in practice. Members only, reviewed before it goes public.", "rr-head") + subnav("reports.html") + f"""
 <div class="wrap page rr-narrow" id="rr-submit">{RR_SOON}
@@ -401,7 +435,7 @@ page("submit.html", "Post a reader report", section="reports.html",
 <div class="card rr-card" id="rr-mine" hidden><h2 class="sm" style="margin-top:0">Your reports</h2><ul class="rr-mine"></ul></div></div>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
-page("admin.html", "Moderation", full_title="Moderation · Vetting Radar", stats=False, head='<meta name="robots" content="noindex,nofollow">',
+page("admin.html", "Moderation", full_title="Moderation · Vetting Radar", stats=False, csp="session", head='<meta name="robots" content="noindex,nofollow">',
      body=f"""<section class="pagehead"><div class="wrap"><p class="kicker">Admin</p><h1>Reader reports moderation</h1><p>Admins only. Step 1: bot check (pending). Step 2: publish (bot-approved).</p></div></section>
 <div class="wrap page" id="rr-admin">{RR_SOON}
 {rr_join("Admin sign-in", "Only e-mails on the admin list can moderate.")}

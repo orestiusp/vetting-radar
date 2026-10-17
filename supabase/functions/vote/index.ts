@@ -20,7 +20,9 @@ Deno.serve(async (req) => {
 
   let b: { report_id?: string; voter_id?: string; value?: number; token?: string };
   try { b = await req.json(); } catch { return json({ error: "bad request" }, 400); }
-  if (!b.report_id || !b.voter_id || ![1, -1].includes(Number(b.value)) || !b.token) return json({ error: "bad request" }, 400);
+  const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+  if (!UUID.test(String(b.report_id)) || !UUID.test(String(b.voter_id)) || ![1, -1].includes(Number(b.value)) ||
+      typeof b.token !== "string" || b.token.length > 2048) return json({ error: "bad request" }, 400);
 
   const form = new FormData();
   form.append("secret", Deno.env.get("TURNSTILE_SECRET_KEY") ?? "");
@@ -29,7 +31,8 @@ Deno.serve(async (req) => {
   if (ip) form.append("remoteip", ip);
   const ts = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", { method: "POST", body: form })
     .then((r) => r.json()).catch(() => ({ success: false }));
-  if (!ts.success) return json({ error: "bot check failed" }, 403);
+  // also require the token to have been issued for our own site (not replayed from another domain)
+  if (!ts.success || !["vettingradar.com", "www.vettingradar.com"].includes(ts.hostname)) return json({ error: "bot check failed" }, 403);
 
   const url = Deno.env.get("SUPABASE_URL")!, key = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
   const r = await fetch(`${url}/rest/v1/rpc/cast_vote`, {
