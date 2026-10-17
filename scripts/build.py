@@ -209,7 +209,7 @@ RR_HOME = (f'<section class="block tight" style="padding-bottom:0"><div class="w
            '<div class="rr-cnt"><b id="rr-home-n">–</b><span id="rr-home-l">published reports</span></div>'
            '<div class="rr-cta"><a class="btn rr" href="reports.html">See reports</a><a class="btn rr-o" href="submit.html">+ Add what you faced</a></div></div></div></section>')
 
-# ---------- sponsor slots (direct-sold; data in site/data/sponsors.json; no third-party scripts, no cookies) ----------
+# ---------- sponsor slots (direct-sold; data in site/data/sponsors.json; the slots themselves load no third-party scripts and set no cookies) ----------
 SPONSOR_FILE = os.environ.get("VR_SPONSORS_FILE") or P("site", "data", "sponsors.json")  # override = local preview only
 SPONSOR_SLOTS = ("home", "table", "reports")
 def _sp_ok(x):
@@ -512,7 +512,7 @@ page("advertise.html", "Advertise on Vetting Radar", desc="Sponsor the Vetting R
 </div></section>
 <section class="adv-sec"><h2>Editorial independence</h2>
 <p>Sponsors never influence the content: which changes are reported, how criteria are summarised or what reader reports are published. Sponsored items are always labelled “Sponsor”. We do not place sponsorship from organisations whose rules we track next to their own criteria.</p>
-<p class="note">Placements are sold directly. No ad networks, no tracking scripts, no cookies.</p></section>
+<p class="note">Placements are sold directly. No ad networks, no ad tracking, no cookies.</p></section>
 <section class="adv-contact"><div><h2>Get in touch</h2><p>Tell us what you'd like to promote and when. We'll reply with availability.</p></div>
 <a class="btn" href="{ADV_MAIL}">{icon("mail")}customer@vettingradar.com</a></section></div>""")
 open(os.path.join(DIST, "sponsor.html"), "w").write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Advertise on Vetting Radar</title>'
