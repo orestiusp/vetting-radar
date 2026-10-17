@@ -89,7 +89,7 @@
     var mv = myVotes()[r.id];
     var meta = ['Faced ' + my(r.faced_on)]; if (r.vessel_type) meta.push(VT[r.vessel_type] || r.vessel_type);
     return '<article class="rr-item' + (stale ? ' stale' : '') + '" data-id="' + esc(r.id) + '">' +
-      '<div class="rr-meta"><span class="rr-badge">User report</span>' + (r.example ? '<span class="rr-ex">Example</span>' : '') +
+      '<div class="rr-meta"><span class="rr-tag">User-declared</span>' + (r.example ? '<span class="rr-ex">Example</span>' : '') +
       (withOwner ? '<span class="rr-own">' + esc(ownerName(r)) + '</span>' : '') +
       '<span class="pill">' + esc(CATS[r.category] || r.category) + '</span>' +
       (stale ? '<span class="rr-staletag" title="No confirmation in the last 12 months">Stale</span>' : '') + '</div>' +
@@ -140,11 +140,11 @@
     $$('details.rr').forEach(function (d) {
       var mine = list.filter(function (r) { return r.owner_id === d.getAttribute('data-owner'); });
       var n = $('.rr-n', d), body = $('.rr-body', d), post = 'submit.html?owner=' + encodeURIComponent(d.getAttribute('data-owner'));
-      n.textContent = '(' + mine.length + ')';
+      n.textContent = mine.length ? mine.length + ' report' + (mine.length === 1 ? '' : 's') : 'No reports yet';
       d.classList.toggle('has', mine.length > 0);
       body.innerHTML = (DEMO ? '<p class="rr-demo">Demo mode · sample data, not real reports</p>' : '') +
-        (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">No reader reports yet.</p>') +
-        '<p class="rr-actions"><a href="' + post + (DEMO ? '&demo=1' : '') + '">Post a report</a><span>·</span><a href="reports.html' + (DEMO ? '?demo=1' : '') + '">All reader reports</a></p>';
+        (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">Nobody has shared one yet. Faced a requirement here? It takes a minute.</p>') +
+        '<p class="rr-actions"><a href="' + post + '">+ Add what you faced</a><span>·</span><a href="reports.html">All reader reports</a></p>';
     });
     var h = location.hash.slice(1), target = h && document.getElementById(h);
     if (target && target.tagName === 'DETAILS') target.open = true;
@@ -152,7 +152,23 @@
   function fillStrip(list) {
     var s = $('#rr-strip'); if (!s) return;
     var owners = {}; list.forEach(function (r) { owners[r.owner_id] = 1; });
-    $('.rr-strip-n', s).textContent = list.length ? list.length + ' published report' + (list.length === 1 ? '' : 's') + ' across ' + Object.keys(owners).length + ' owner' + (Object.keys(owners).length === 1 ? '' : 's') + '.' : 'No reports yet.';
+    $('.rr-strip-n', s).textContent = list.length ? list.length + ' report' + (list.length === 1 ? '' : 's') + ' across ' + Object.keys(owners).length + ' owner' + (Object.keys(owners).length === 1 ? '' : 's') + '.' : 'No reports yet. Be the first.';
+  }
+  // homepage callout count
+  function fillHome(list) {
+    var n = $('#rr-home-n'); if (!n) return;
+    var owners = {}; list.forEach(function (r) { owners[r.owner_id] = 1; }); var k = Object.keys(owners).length;
+    n.textContent = list.length;
+    $('#rr-home-l').textContent = list.length ? 'report' + (list.length === 1 ? '' : 's') + ' · ' + k + ' owner' + (k === 1 ? '' : 's') : 'reports yet · be the first';
+  }
+  // local demo: keep ?demo on reader-report links so previews stay in demo mode
+  function demoLinks(root) {
+    if (!DEMO) return;
+    $$('a[href^="reports.html"], a[href^="submit.html"]', root).forEach(function (a) {
+      var h = a.getAttribute('href'); if (/[?&]demo=/.test(h)) return;
+      var i = h.indexOf('#'), base = i < 0 ? h : h.slice(0, i), hash = i < 0 ? '' : h.slice(i);
+      a.setAttribute('href', base + (base.indexOf('?') < 0 ? '?' : '&') + 'demo=' + encodeURIComponent(DEMO) + hash);
+    });
   }
   // reports.html
   function fillList(list) {
@@ -295,7 +311,7 @@
             var list = rows.filter(function (r) { return r.status === p[0]; }), el = $(p[1]);
             $('.rr-qn', el.parentNode).textContent = '(' + list.length + ')';
             el.innerHTML = list.length ? list.map(function (r) {
-              return '<article class="rr-item rr-mod" data-id="' + esc(r.id) + '"><div class="rr-meta"><span class="rr-badge">User report</span>' + (DEMO ? '<span class="rr-ex">Example</span>' : '') +
+              return '<article class="rr-item rr-mod" data-id="' + esc(r.id) + '"><div class="rr-meta"><span class="rr-tag">User-declared</span>' + (DEMO ? '<span class="rr-ex">Example</span>' : '') +
                 '<span class="rr-own">' + esc(ownerName(r)) + '</span><span class="pill">' + esc(CATS[r.category] || r.category) + '</span></div>' +
                 '<p class="rr-text">' + esc(r.requirement) + '</p><div class="rr-foot"><span>Faced ' + esc(my(r.faced_on)) + (r.vessel_type ? ' · ' + esc(VT[r.vessel_type] || r.vessel_type) : '') + '</span><span>Submitted ' + esc(String(r.created_at).slice(0, 10)) + '</span>' +
                 (r.bot_reason ? '<span>Check: ' + esc(r.bot_reason) + '</span>' : '') + '</div>' +
@@ -325,18 +341,19 @@
 
   // ---------- boot ----------
   function boot() {
-    var reads = $$('details.rr').length || $('#rr-strip') || $('#rr-list');
+    var reads = $$('details.rr').length || $('#rr-strip') || $('#rr-list') || $('#rr-home');
     if (reads && (LIVE || DEMO)) {
       fetchPublished().then(function (list) {
         list.forEach(function (r) { BY_ID[r.id] = r; });
-        fillBoxes(list); fillStrip(list); fillList(list);
+        fillBoxes(list); fillStrip(list); fillList(list); fillHome(list); demoLinks();
         $$('details.rr, #rr-list').forEach(bindVotes);
       }).catch(function () {
         $$('details.rr .rr-body').forEach(function (b) { b.innerHTML = '<p class="rr-empty">Reader reports are unavailable right now.</p>'; });
+        var hn = $('#rr-home-n'); if (hn) { hn.textContent = '–'; $('#rr-home-l').textContent = 'reports'; }
         var l = $('#rr-list'); if (l) l.innerHTML = '<div class="rr-none"><p>Reader reports are unavailable right now. Please try again later.</p></div>';
       });
     }
-    initSubmit(); initAdmin();
+    initSubmit(); initAdmin(); demoLinks();
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
 })();

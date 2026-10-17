@@ -19,7 +19,7 @@ runlog = load(P("data", "run_log.json"), {})
 TODAY = dt.date.today()
 CAT = {"sire":"SIRE / OCIMF","tmsa":"TMSA","cdi":"CDI","vetting-criteria":"Vetting schemes","oil-major":"Oil majors","terminal":"Terminals & ports",
        "psc":"Port State Control","industry":"Industry bodies","news":"OCIMF news","regulation":"IMO"}
-NAV = [("updates.html","Updates"),("table.html","Compare"),("calendar.html","Calendar"),("sources.html","Sources"),("newsletter.html","Newsletter")]
+NAV = [("updates.html","Updates"),("table.html","Compare"),("reports.html","Reader reports"),("calendar.html","Calendar"),("sources.html","Sources"),("newsletter.html","Newsletter")]
 GROUP = {"sire":"scheme","cdi":"scheme","tmsa":"scheme","vetting-criteria":"scheme","oil-major":"major","terminal":"terminal","psc":"psc"}
 GROUP_LABEL = {"scheme":"Inspection scheme","major":"Oil major","terminal":"Terminal","psc":"Port State Control"}
 IMPACT_LABEL = {"high":"High impact","medium":"Medium impact","low":"Low impact"}
@@ -58,7 +58,10 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
-    nav = "".join(f'<a href="{pre}{h}"{" class=\"on\" aria-current=\"page\"" if h==base else (" class=\"on\"" if h==section else "")}>{l}</a>' for h, l in NAV)
+    def _nav(h, l):
+        cls = " ".join(c for c in ("rrnav" if h == "reports.html" else "", "on" if h in (base, section) else "") if c)
+        return f'<a href="{pre}{h}"{f" class=\"{cls}\"" if cls else ""}{" aria-current=\"page\"" if h == base else ""}>{l}</a>'
+    nav = "".join(_nav(h, l) for h, l in NAV)
     sub_href = f"{pre}index.html#subscribe"
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(doc_title)}</title><meta name="description" content="{e(desc)}">
@@ -111,8 +114,8 @@ def orglogo(owner, depth=0, size="", fixed=False):
     n = len(org_keys(owner) or [None])
     return f'<span class="olgs{" fix" if fixed else ""}{" two" if fixed and n > 1 else ""}{(" " + size) if fixed and size else ""}">{out}</span>'
 
-def pagehead(kicker, title, lede):
-    return f'<section class="pagehead"><div class="wrap"><p class="kicker">{kicker}</p><h1>{title}</h1><p>{lede}</p></div></section>'
+def pagehead(kicker, title, lede, cls=""):
+    return f'<section class="pagehead{(" " + cls) if cls else ""}"><div class="wrap"><p class="kicker">{kicker}</p><h1>{title}</h1><p>{lede}</p></div></section>'
 
 SITE_URL = "https://vettingradar.com"
 BEEHIIV_URL = "https://vetting-radar.beehiiv.com"
@@ -159,32 +162,6 @@ up_key = [c for c in nxt if c["date"] > TODAY.isoformat()]
 nk = up_key[0] if up_key else nk
 HERO_H1 = "Know what changed before your next screening."
 HERO_SUB = "We watch OCIMF, CDI, RightShip, oil-major and terminal criteria every day, and tell you what changed, with the source."
-page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
-<section class="hero"><div class="wrap"><div>
-<span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
-<h1>{HERO_H1}</h1><p class="sub">{HERO_SUB}</p>
-<div class="ctas"><a class="btn" href="#subscribe">{icon("mail")}Get the weekly brief</a><a class="btn ghost" href="table.html">Compare requirements {icon("arrow")}</a></div></div>
-<div class="panel" aria-label="Monitor status"><h2>{icon("radar")}Monitor status</h2>
-<div class="kpis"><div class="kpi"><b>{len(sources)}</b><span>sources watched</span></div><div class="kpi"><b>{len(comp['rows'])}</b><span>owners compared</span></div>
-<div class="kpi"><b>{len(updates)}</b><span>reviewed updates</span></div><div class="kpi"><b>{dt.date.fromisoformat(last_run[:10]).strftime('%d %b') if last_run else '—'}</b><span>last check</span></div></div>
-{f'<div class="nextup">{icon("calendar")}<span>Next: <b>{e(nk["title"])}</b> · {fmt_date(nk["date"])}</span></div>' if nk else ''}</div>
-</div></section>
-<section><div class="wrap"><div class="tiles">
-<a class="card tile" href="updates.html"><span class="ic">{icon("bell")}</span><h3>Change alerts</h3><p>Rule changes from OCIMF, CDI, RightShip and oil majors, in plain words.</p><span class="go">See updates {icon("arrow")}</span></a>
-<a class="card tile" href="table.html"><span class="ic">{icon("columns")}</span><h3>Who requires what</h3><p>Age, SIRE and CAP limits side by side, with sources.</p><span class="go">Compare {icon("arrow")}</span></a>
-<a class="card tile" href="calendar.html"><span class="ic">{icon("calendar")}</span><h3>Key dates</h3><p>Effective dates, launches, campaigns and consultation deadlines.</p><span class="go">Open calendar {icon("arrow")}</span></a>
-</div></div></section>
-<section class="block"><div class="wrap two">
-<div><div class="sechead"><div><p class="kicker">Reviewed</p><h2>Latest changes</h2></div><a href="updates.html">See all updates →</a></div>
-<div class="card"><ul class="list">{rows_html}</ul><div class="monitor-note">{mon}</div></div></div>
-<div><div class="sechead"><div><p class="kicker">Coming up</p><h2>Next dates</h2></div><a href="calendar.html">Calendar →</a></div><ul class="dates">{dates_html}</ul></div>
-</div></section>
-<div class="wrap"><div class="trust" role="list"><span role="listitem">{icon("radar")}{len(sources)} sources watched daily</span><span role="listitem">{icon("link")}Every item linked to its source</span><span role="listitem">{icon("shield")}Independent</span></div></div>
-<section class="block" style="padding-top:8px" id="subscribe"><div class="wrap"><div class="subscribe">
-<div><p class="kicker">Free weekly brief</p><h2>One email. Every vetting rule change.</h2><p style="margin:0">Read in five minutes, every item sourced.</p>
-<ul><li>{icon("check")}What changed and who it affects</li><li>{icon("check")}Key numbers and what to do</li><li>{icon("check")}Dates coming up</li></ul></div>
-<div class="formbox">{signup}</div></div></div></section>
-""")
 
 # ---------- updates ----------
 mon_items = "".join(f"""<div class="card item"><div class="meta"><span class="tag auto">{'Reviewed' if _pub(c) else 'Detected · unreviewed'}</span><span>{fmt_date(c['detected_at'])}</span><span>{e(c['owner'])}</span></div>
@@ -205,24 +182,60 @@ CMP_TABS = [("table.html", "Requirements table", "columns"), ("compare-checklist
             ("compare-frequency.html", "Inspection frequency", "calendar"), ("compare-terminals.html", "Terminals", "pin"), ("compare-crew.html", "Crew matrix", "crew"), ("reports.html", "Reader reports", "chat")]
 def subnav(cur):
     return '<nav class="subnav" aria-label="Compare pages"><div class="wrap">' + "".join(
-        f'<a href="{h}"{" class=\"on\" aria-current=\"page\"" if h == cur else ""}{" class=\"rrtab\"" if h == "reports.html" and h != cur else ""}>{icon(i)}{l}</a>' for h, l, i in CMP_TABS) + "</div></nav>"
+        f'<a href="{h}"{(" class=\"on rron\"" if h == "reports.html" else " class=\"on\"") + " aria-current=\"page\"" if h == cur else ""}{" class=\"rrtab\"" if h == "reports.html" and h != cur else ""}>{icon(i)}{l}</a>' for h, l, i in CMP_TABS) + "</div></nav>"
 
 # ---------- reader reports (user submitted; never official data) ----------
-RR_DISCLAIMER = ('<p class="rr-disclaimer"><span class="rr-badge">User report</span> Reader reports are personal experiences shared by members. '
-                 'They are not verified and do not represent the position of any oil major, terminal or organisation. Always check official requirements.</p>')
+RR_PILL = f'<span class="rr-badge">{icon("chat")}Reader reports</span>'
+RR_DISCLAIMER = (f'<p class="rr-disclaimer">{RR_PILL}<span>User-declared experiences shared by members. Not verified and not the position of any oil major, '
+                 'terminal or organisation. Always check official requirements.</span></p>')
 RR_SCRIPTS = '<script src="config.js"></script><script src="reports.js"></script>'
 RR_SHORT = {"fujairah": "Port of Fujairah", "totalenergies": "TotalEnergies"}
 RR_OWNERS = [{"id": r["id"], "name": RR_SHORT.get(r["id"]) or CP["owners"].get(r["id"], {}).get("name") or re.split(r" \(| – ", r["requirement_owner"])[0],
               "type": r["owner_type"], "href": f'table.html#row-{r["id"]}', "logo": orglogo(r["requirement_owner"], fixed=True)} for r in comp["rows"]]
 RR_OWNER_IDS = {o["id"] for o in RR_OWNERS}
 RR_JSON = '<script id="vr-owners" type="application/json">' + json.dumps(RR_OWNERS, ensure_ascii=False).replace("</", "<\\/") + '</script>'
-def rrbox(owner_id):  # collapsed box below an owner's official criteria; reports.js fills it
-    return (f'<details class="rr" id="rr-{e(owner_id)}" data-owner="{e(owner_id)}"><summary><span class="rr-badge">User report</span>'
-            f'<b>Reader reports <span class="rr-n">· coming soon</span></b><span class="rr-sub">Reported by users, not official</span></summary>'
+def rrbox(owner_id):  # owner bar below the official criteria; reports.js fills it
+    return (f'<details class="rr" id="rr-{e(owner_id)}" data-owner="{e(owner_id)}"><summary>{RR_PILL}'
+            '<span class="rr-n">Coming soon</span><span class="rr-sub">User-declared · not official</span>'
+            f'<a class="rr-add" href="submit.html?owner={e(owner_id)}">+ Add what you faced</a></summary>'
             '<div class="rr-body"><p class="rr-empty">Reader reports coming soon.</p></div>'
             '<p class="rr-fine">Personal experiences, not verified. Not official requirements.</p></details>')
-RR_STRIP = ('<div class="rr-strip" id="rr-strip"><span class="rr-badge">User report</span><span><b>Reader reports</b> · Reported by users, not official. '
-            '<span class="rr-strip-n">Coming soon.</span></span><a href="reports.html">See reader reports →</a></div>')
+RR_STRIP = (f'<div class="rr-strip" id="rr-strip">{RR_PILL}<span><span class="rr-strip-n">Coming soon.</span> <span class="rr-sub">User-declared, not official.</span></span>'
+            '<span class="rr-strip-a"><a class="btn sm rr" href="reports.html">See reports</a><a class="btn sm rr-o" href="submit.html">+ Add what you faced</a></span></div>')
+RR_HOME = (f'<section class="block tight" style="padding-bottom:0"><div class="wrap"><div class="rr-home" id="rr-home"><span class="rr-ic">{icon("chat")}</span>'
+           '<div><p class="rr-kick">Reader reports · user-declared</p><h2>What vetting really asked for</h2>'
+           '<p class="lede">Requirements members met in practice, owner by owner. Reviewed before publishing, never official.</p></div>'
+           '<div class="rr-cnt"><b id="rr-home-n">–</b><span id="rr-home-l">published reports</span></div>'
+           '<div class="rr-cta"><a class="btn rr" href="reports.html">See reports</a><a class="btn rr-o" href="submit.html">+ Add what you faced</a></div></div></div></section>')
+
+# ---------- index page (after the reader-report snippets it uses) ----------
+page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
+<section class="hero"><div class="wrap"><div>
+<span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
+<h1>{HERO_H1}</h1><p class="sub">{HERO_SUB}</p>
+<div class="ctas"><a class="btn" href="#subscribe">{icon("mail")}Get the weekly brief</a><a class="btn ghost" href="table.html">Compare requirements {icon("arrow")}</a></div></div>
+<div class="panel" aria-label="Monitor status"><h2>{icon("radar")}Monitor status</h2>
+<div class="kpis"><div class="kpi"><b>{len(sources)}</b><span>sources watched</span></div><div class="kpi"><b>{len(comp['rows'])}</b><span>owners compared</span></div>
+<div class="kpi"><b>{len(updates)}</b><span>reviewed updates</span></div><div class="kpi"><b>{dt.date.fromisoformat(last_run[:10]).strftime('%d %b') if last_run else '—'}</b><span>last check</span></div></div>
+{f'<div class="nextup">{icon("calendar")}<span>Next: <b>{e(nk["title"])}</b> · {fmt_date(nk["date"])}</span></div>' if nk else ''}</div>
+</div></section>
+<section><div class="wrap"><div class="tiles">
+<a class="card tile" href="updates.html"><span class="ic">{icon("bell")}</span><h3>Change alerts</h3><p>Rule changes from OCIMF, CDI, RightShip and oil majors, in plain words.</p><span class="go">See updates {icon("arrow")}</span></a>
+<a class="card tile" href="table.html"><span class="ic">{icon("columns")}</span><h3>Who requires what</h3><p>Age, SIRE and CAP limits side by side, with sources.</p><span class="go">Compare {icon("arrow")}</span></a>
+<a class="card tile" href="calendar.html"><span class="ic">{icon("calendar")}</span><h3>Key dates</h3><p>Effective dates, launches, campaigns and consultation deadlines.</p><span class="go">Open calendar {icon("arrow")}</span></a>
+</div></div></section>
+{RR_HOME}
+<section class="block"><div class="wrap two">
+<div><div class="sechead"><div><p class="kicker">Reviewed</p><h2>Latest changes</h2></div><a href="updates.html">See all updates →</a></div>
+<div class="card"><ul class="list">{rows_html}</ul><div class="monitor-note">{mon}</div></div></div>
+<div><div class="sechead"><div><p class="kicker">Coming up</p><h2>Next dates</h2></div><a href="calendar.html">Calendar →</a></div><ul class="dates">{dates_html}</ul></div>
+</div></section>
+<div class="wrap"><div class="trust" role="list"><span role="listitem">{icon("radar")}{len(sources)} sources watched daily</span><span role="listitem">{icon("link")}Every item linked to its source</span><span role="listitem">{icon("shield")}Independent</span></div></div>
+<section class="block" style="padding-top:8px" id="subscribe"><div class="wrap"><div class="subscribe">
+<div><p class="kicker">Free weekly brief</p><h2>One email. Every vetting rule change.</h2><p style="margin:0">Read in five minutes, every item sourced.</p>
+<ul><li>{icon("check")}What changed and who it affects</li><li>{icon("check")}Key numbers and what to do</li><li>{icon("check")}Dates coming up</li></ul></div>
+<div class="formbox">{signup}</div></div></div></section>
+{RR_JSON}""", scripts=RR_SCRIPTS)
 
 # ---------- table ----------
 def cell(v):
@@ -350,18 +363,18 @@ RR_CATS = [("crew", "Crew experience"), ("vessel_age", "Vessel age"), ("inspecti
 RR_VT = [("crude", "Crude tanker"), ("product", "Product tanker"), ("chemical", "Chemical tanker"), ("lpg", "LPG carrier"), ("lng", "LNG carrier"), ("other", "Other")]
 _oopts = "".join(f'<option value="{e(o["id"])}">{e(o["name"])}</option>' for o in RR_OWNERS)
 _copts = "".join(f'<option value="{k}">{v}</option>' for k, v in RR_CATS)
-RR_SOON = '<div class="rr-soon card" id="rr-soon"><span class="rr-badge">User report</span><p><b>Reader reports coming soon.</b> Members will be able to share requirements they met in practice, clearly separated from official criteria.</p></div>'
+RR_SOON = f'<div class="rr-soon card" id="rr-soon">{RR_PILL}<p><b>Reader reports coming soon.</b> Members will be able to share requirements they met in practice, clearly separated from official criteria.</p></div>'
 def rr_join(title, lede):
-    return (f'<div class="card rr-card" id="rr-join" hidden><h2>{title}</h2><p class="note">{lede}</p>'
+    return (f'<div class="card rr-card rr-accent" id="rr-join" hidden><h2>{title}</h2><p class="note">{lede}</p>'
             '<form class="rr-joinf" novalidate><label class="rr-l" for="rr-email">Email</label><div class="rr-inline"><input id="rr-email" name="email" type="email" autocomplete="email" required placeholder="you@example.com">'
-            f'<button class="btn" type="submit">{icon("mail")}Email me a sign-in link</button></div><p class="rr-msg" role="status" hidden></p></form>'
+            f'<button class="btn rr" type="submit">{icon("mail")}Email me a sign-in link</button></div><p class="rr-msg" role="status" hidden></p></form>'
             '<p class="note rr-small">No password. We use your email only to sign you in; it is never shown with your reports.</p></div>')
 
-page("reports.html", "Reader reports: requirements members met in practice", section="table.html",
+page("reports.html", "Reader reports: requirements members met in practice", section="reports.html",
      desc="Requirements tanker people say they met in practice, shared by members, reviewed before publishing, and kept separate from official vetting criteria.",
-     body=pagehead("Compare", "Reader reports", "What members met in practice. Reviewed before publishing, never official.") + subnav("reports.html") + f"""
+     body=pagehead(f'{RR_PILL}<span>User-declared · not official</span>', "Reader reports", "What members met in practice. Reviewed before publishing, never official.", "rr-head") + subnav("reports.html") + f"""
 <div class="wrap page"><div class="rr-top"><p class="intro">Each report is one member's experience with an oil major or terminal, checked by a bot and the editor before it appears. Vote if it matches yours.</p>
-<a class="btn" href="submit.html">{icon("chat")}Post a report</a></div>
+<a class="btn rr" href="submit.html">{icon("chat")}Add what you faced</a></div>
 <div class="controls rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Owner"><option value="">All owners</option>{_oopts}<option value="other">Other</option></select>
 <select id="rr-fc" aria-label="Category"><option value="">All categories</option>{_copts}</select>
 <label class="rr-chk"><input type="checkbox" id="rr-fs"> Hide stale</label><span class="note"><b id="rr-count">0</b> reports</span></div>
@@ -369,13 +382,13 @@ page("reports.html", "Reader reports: requirements members met in practice", sec
 <p class="note rr-legend"><span class="rr-staletag">Stale</span> no confirmation in 12 months · <a href="table.html">Official criteria</a></p>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
-page("submit.html", "Post a reader report", section="table.html",
+page("submit.html", "Post a reader report", section="reports.html",
      desc="Share a tanker vetting requirement you met in practice. Members only, reviewed before publishing.",
-     body=pagehead("Compare", "Post a reader report", "Share one requirement you met in practice. Members only, reviewed before it goes public.") + subnav("reports.html") + f"""
+     body=pagehead(f'{RR_PILL}<span>User-declared · not official</span>', "Add what you faced", "Share one requirement you met in practice. Members only, reviewed before it goes public.", "rr-head") + subnav("reports.html") + f"""
 <div class="wrap page rr-narrow" id="rr-submit">{RR_SOON}
 {rr_join("Join to post a report", "Membership is free. Enter your email and we'll send a one-time sign-in link.")}
 <div id="rr-post" hidden><div class="rr-who note"></div>
-<form class="card rr-card rr-form" id="rr-form" novalidate>
+<form class="card rr-card rr-accent rr-form" id="rr-form" novalidate>
 <div class="rr-f"><label class="rr-l" for="rr-owner">Oil major or terminal</label><select id="rr-owner" name="owner" required><option value="">Select…</option>{_oopts}<option value="other">Other</option></select></div>
 <div class="rr-f" id="rr-other" hidden><label class="rr-l" for="rr-oo">Which one?</label><input id="rr-oo" name="owner_other" maxlength="60" placeholder="Oil major or terminal name"></div>
 <div class="rr-f"><label class="rr-l" for="rr-cat">Category</label><select id="rr-cat" name="category" required>{_copts}</select></div>
@@ -385,7 +398,7 @@ page("submit.html", "Post a reader report", section="table.html",
 <fieldset class="rr-rules"><legend>Posting rules</legend>
 <label class="rr-chk"><input type="checkbox" name="rule_docs" required> No confidential documents or copied text (SIRE/CDI reports, charterer emails).</label>
 <label class="rr-chk"><input type="checkbox" name="rule_names" required> No vessel, person or company names.</label></fieldset>
-<button class="btn" type="submit">Submit for review</button><p class="rr-msg" id="rr-form-msg" role="status" hidden></p>
+<button class="btn rr" type="submit">Submit for review</button><p class="rr-msg" id="rr-form-msg" role="status" hidden></p>
 <p class="note rr-small">Reviewed by a bot check, then by the editor. Your name and email are never shown.</p></form>
 <div class="card rr-card" id="rr-mine" hidden><h2 class="sm" style="margin-top:0">Your reports</h2><ul class="rr-mine"></ul></div></div>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
