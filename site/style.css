@@ -53,3 +53,8 @@ footer.site .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:
 .prose{max-width:780px}.prose h1{font-size:1.7rem}.prose table{margin:10px 0;background:#fff;border:1px solid var(--line)}
 .pill{display:inline-block;padding:2px 8px;border-radius:6px;background:#eef1f4;font-size:.78rem}
 .pill.err{background:#fde8e7;color:var(--major)}.pill.ok{background:#e7f6ec;color:var(--ok)}
+.signup .bh-form{min-height:60px;margin:6px 0}
+.signup .bh-form iframe{max-width:100%;min-height:430px!important}
+.signup .bh-fallback a{font-weight:600}
+.prose .signup{margin-top:28px}
+@media (max-width:900px){.signup .bh-form iframe{min-height:490px!important}}

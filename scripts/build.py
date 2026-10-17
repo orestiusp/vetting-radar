@@ -34,7 +34,8 @@ def page(fname, title, body, desc="Independent tracker of tanker vetting ruleboo
     nav = "".join(f'<a href="{pre}{h}" class="{"on" if h==os.path.basename(fname) else ""}">{l}</a>' for h, l in NAV)
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)} · Vetting Radar</title><meta name="description" content="{e(desc)}"><link rel="stylesheet" href="{pre}style.css">
-<link rel="alternate" type="application/json" href="{pre}data/changes.json"></head><body>
+<link rel="alternate" type="application/json" href="{pre}data/changes.json">
+<script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></head><body>
 <header class="site"><div class="wrap"><a class="brand" href="{pre}index.html"><span class="dot"></span>Vetting Radar</a><nav class="main">{nav}</nav></div></header>
 {body}
 <footer class="site"><div class="wrap"><div>Vetting Radar is independent and not affiliated with OCIMF, CDI, RightShip, INTERTANKO, any oil major, terminal or employer. Public sources only — <b>always verify at source</b>.</div>
@@ -43,11 +44,10 @@ def page(fname, title, body, desc="Independent tracker of tanker vetting ruleboo
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w").write(doc)
 
-signup = """<div class="card signup"><h3 style="margin-top:0">Get the weekly change log</h3>
-<p class="note">One email a week: what changed in SIRE, CDI, TMSA, oil-major and terminal criteria, with the source links.</p>
-<form onsubmit="alert('Newsletter signup is not live yet (placeholder).');return false;"><input type="email" placeholder="you@company.com" aria-label="Email">
-<button class="btn" type="submit">Subscribe (coming soon)</button></form>
-<p class="note">Placeholder: will be connected to a newsletter provider at launch. No data is collected yet.</p></div>"""
+BEEHIIV_URL = "https://vetting-radar.beehiiv.com"
+BEEHIIV_SUBSCRIBE = BEEHIIV_URL + "/subscribe"
+signup = f"""<div class="card signup" id="subscribe"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div>
+<p class="note bh-fallback"><a href="{BEEHIIV_SUBSCRIBE}" rel="noopener">Subscribe on Beehiiv</a> · free, unsubscribe any time.</p></div>"""
 sponsor_box = """<div class="card"><span class="tag minor">Sponsor slot</span><h3 style="margin:6px 0">Reach tanker vetting & marine assurance teams</h3>
 <p class="note">One sponsor per issue and one on the comparison table. <a href="sponsor.html">Details →</a></p></div>"""
 
@@ -144,11 +144,12 @@ for md in sorted(glob.glob(P("newsletter", "issue-*.md"))):
     body = markdown.markdown(raw, extensions=["tables"])
     name = os.path.basename(md)[:-3]
     issues.append((name, fm))
-    page(f"newsletter/{name}.html", fm.get("title", name), f'<main><div class="wrap prose">{body}</div></main>', depth=1)
+    page(f"newsletter/{name}.html", fm.get("title", name), f'<main><div class="wrap prose">{body}{signup}</div></main>', depth=1)
     open(P("newsletter", name + ".html"), "w").write(open(os.path.join(DIST, "newsletter", name + ".html")).read().replace('href="../', 'href="../dist/'))
 arch = "".join(f'<li><a href="newsletter/{n}.html">{e(fm.get("title", n))}</a> <span class="note">{e(fm.get("date",""))}</span></li>' for n, fm in reversed(issues))
 page("newsletter.html", "Newsletter", f"""<main><div class="wrap grid"><div><h1 style="margin-top:0">The Vetting Radar newsletter</h1>
 <p>A short weekly email: what changed in vetting rulebooks, why it matters on board and in the office, and the dates coming up. Every item links to its source.</p>
+<p>New issues are sent and archived on <a href="{BEEHIIV_URL}" rel="noopener">Beehiiv</a>.</p>
 <h2>Archive</h2><ul>{arch}</ul></div><aside class="side">{signup}</aside></div></main>""")
 
 # ---------- sponsor ----------
