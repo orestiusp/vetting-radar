@@ -7,7 +7,34 @@
     "title": "RightShip tanker vetting baseline criteria Revision 4.0 in force",
     "summary": "Rev 4.0 (dated 1 Oct 2026) rewrites the Oil, Gas & Chemical baseline. Revisions log: expanded vetting policy and Safety Score treatment; new 'unknown vessel attributes' rule; consolidated PSC rules (3+ detentions in 24 months = Unacceptable); Category A/B vs C/D incident review periods; refined age/CAP/SIRE-CDI/crew matrix/HVPQ rules (max age 25 tanker / 25 LPG / 35 LNG; CAP 2 with Level 2 FDA, 36-month validity; crew matrix ≤30 days; HVPQ ≤3 months).",
     "source_url": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "RightShip baseline criteria Rev 4.0 now in force",
+    "id": "rightship-rev4",
+    "group": "scheme",
+    "impact": "high",
+    "affects": [
+      "Tankers",
+      "LPG",
+      "LNG",
+      "Chemical"
+    ],
+    "headline": "RightShip tightens tanker PSC, age, CAP and paperwork rules (Rev 4.0)",
+    "key_numbers": [
+      "Max age 25 yrs tanker / 25 LPG / 35 LNG",
+      "3+ PSC detentions in 24 mo = Unacceptable",
+      "CAP 2 from 15 yrs (>20k DWT)",
+      "CAP valid 36 months",
+      "SIRE/CDI ≤ 6 months",
+      "Crew matrix ≤ 30 days",
+      "HVPQ ≤ 3 months"
+    ],
+    "changed": [
+      "Rewritten baseline, dated 1 Oct 2026",
+      "New rule: unknown vessel attributes (e.g. class, flag, P&I, ownership) = Unacceptable until verified",
+      "PSC detention, deficiency and close-out rules consolidated",
+      "Incident review periods split: Category A/B vs C/D"
+    ],
+    "what_to_do": "Check each vessel's RightShip profile for unknown attributes and recent PSC detentions."
   },
   {
     "date": "2026-09-15",
@@ -17,7 +44,27 @@
     "title": "CDI announces AEPS questionnaire – new SIR chapters 15–24",
     "summary": "CDI's 'Alternative Energy & Power Supply' questionnaire adds chapters 15–24 to the 10th Edition Ship Inspection Report (biofuels, methanol/ethanol, ammonia, LPG and LNG as fuel, WAPS, onshore power, fuel cells, ShaPoLi/EPL, onboard carbon capture), with section/question renumbering. Official launch scheduled Monday 14 December 2026.",
     "source_url": "https://www.cdim.org/psp/cdim.wp_news",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "CDI adds SIR chapters 15–24 (AEPS questionnaire)",
+    "id": "cdi-aeps",
+    "group": "scheme",
+    "impact": "high",
+    "affects": [
+      "All CDI vessel types"
+    ],
+    "headline": "CDI adds 10 alternative-fuel chapters to the SIR and renumbers questions",
+    "key_numbers": [
+      "New chapters 15–24",
+      "Launch Mon 14 Dec 2026",
+      "10th Edition SIR"
+    ],
+    "changed": [
+      "New AEPS questionnaire: biofuels, methanol/ethanol, ammonia, LPG/LNG as fuel",
+      "Also WAPS, onshore power, fuel cells, ShaPoLi/EPL, onboard carbon capture",
+      "Section and question numbering will change",
+      "Applies to all vessel and inspection types CDI covers"
+    ],
+    "what_to_do": "Remap CDI question numbers in your pre-vetting checklists before 14 Dec 2026."
   },
   {
     "date": "2026-09",
@@ -27,7 +74,25 @@
     "title": "OCIMF launches revised SIRE Cat-1 inspector training",
     "summary": "First run in London 7–11 Sep 2026: a seven-week blended course (online asynchronous + face-to-face workshops) with staged assessments; 14 OCIMF member organisations attended.",
     "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-163-september-2026",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "Revised SIRE Cat-1 inspector training launched",
+    "id": "ocimf-cat1",
+    "group": "scheme",
+    "impact": "low",
+    "affects": [
+      "Tankers"
+    ],
+    "headline": "OCIMF runs its revised SIRE Cat-1 inspector course for the first time",
+    "key_numbers": [
+      "7-week blended course",
+      "First run 7–11 Sep 2026",
+      "14 member organisations"
+    ],
+    "changed": [
+      "Online learning plus face-to-face workshops in London",
+      "Staged assessments for new inspectors"
+    ],
+    "what_to_do": ""
   },
   {
     "date": "2026-09",
@@ -37,7 +102,23 @@
     "title": "Revised information paper: Safety Critical Equipment and Spare Parts Guidance",
     "summary": "OCIMF published the revised paper (replaces the 2018 first edition): a risk-based approach to identifying, documenting and maintaining safety-critical equipment and spares within an ISM-aligned SMS. Relevant to SIRE 2.0 defect/PMS questions.",
     "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-163-september-2026",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "Revised Safety Critical Equipment & Spares guidance",
+    "id": "ocimf-sce",
+    "group": "scheme",
+    "impact": "medium",
+    "affects": [
+      "All"
+    ],
+    "headline": "OCIMF updates its guidance on safety-critical equipment and spares",
+    "key_numbers": [
+      "Replaces 2018 edition"
+    ],
+    "changed": [
+      "Risk-based approach to identifying critical equipment and spares",
+      "Covers documenting and maintaining them within an ISM-aligned SMS"
+    ],
+    "what_to_do": "Compare your SMS critical-equipment and spares procedures with the revised paper."
   },
   {
     "date": "2026-09",
@@ -47,7 +128,24 @@
     "title": "MEG5: industry survey and MEG4 comment register open until 23 Oct 2026",
     "summary": "OCIMF is developing the 5th edition of the Mooring Equipment Guidelines and seeks practitioner feedback via a 20–30 minute survey and a MEG4 comment register; both close 23 October 2026.",
     "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-163-september-2026",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "MEG5 survey open until 23 Oct 2026",
+    "id": "ocimf-meg5",
+    "group": "terminal",
+    "impact": "medium",
+    "affects": [
+      "All"
+    ],
+    "headline": "OCIMF asks practitioners to shape the next Mooring Equipment Guidelines (MEG5)",
+    "key_numbers": [
+      "Closes 23 Oct 2026",
+      "Survey: 20–30 min"
+    ],
+    "changed": [
+      "Survey on the 5th edition of MEG",
+      "MEG4 comment register open in parallel"
+    ],
+    "what_to_do": "Send your mooring feedback through the survey before 23 Oct 2026."
   },
   {
     "date": "2026-03",
@@ -57,7 +155,24 @@
     "title": "OCIMF committee plans TMSA3 and MEG4 revisions and SIRE question-guidance updates",
     "summary": "The P&A Tankers, Barges & Terminal Interfaces committee (Houston, 17–18 Mar 2026) was briefed on a revised way of working for revising MEG4 and TMSA3, plans for the Programmes Modernisation Project and plans for revisions to SIRE question guidance. No publication dates announced.",
     "source_url": "https://www.ocimf.org/news-and-events/newsletter/issue-157-march-2026",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "TMSA3, MEG4 and SIRE guidance revisions planned",
+    "id": "ocimf-pipeline",
+    "group": "scheme",
+    "impact": "medium",
+    "affects": [
+      "Tankers"
+    ],
+    "headline": "TMSA3, MEG4 and SIRE question guidance are heading for revision",
+    "key_numbers": [
+      "No dates announced"
+    ],
+    "changed": [
+      "Committee briefed on a new way of revising MEG4 and TMSA3",
+      "Plans to revise SIRE question guidance",
+      "Programmes Modernisation Project under way"
+    ],
+    "what_to_do": ""
   },
   {
     "date": "2026-09-01",
@@ -67,7 +182,25 @@
     "title": "PSC Concentrated Inspection Campaign on cargo securing (1 Sep – 30 Nov 2026)",
     "summary": "Joint CIC on loading, stowage and securing of cargo units and cargo transport units, applied alongside routine PSC inspections; one CIC inspection per ship per MoU. Limited relevance for tankers.",
     "source_url": "https://parismou.org/paris-and-tokyo-mous-launch-2026-concentrated-inspection-campaign-on-cargo-securing/",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "Paris & Tokyo MoU CIC on cargo securing",
+    "id": "psc-cic-2026",
+    "group": "psc",
+    "impact": "low",
+    "affects": [
+      "All"
+    ],
+    "headline": "Paris and Tokyo MoUs check cargo securing in a joint campaign",
+    "key_numbers": [
+      "1 Sep – 30 Nov 2026",
+      "1 CIC inspection per ship per MoU"
+    ],
+    "changed": [
+      "Focus: loading, stowage and securing of cargo units",
+      "Runs alongside routine PSC inspections",
+      "Limited relevance for tankers"
+    ],
+    "what_to_do": ""
   },
   {
     "date": "2025-10-01",
@@ -77,6 +210,25 @@
     "title": "SIRE 2.0 Focused Inspection Campaign on ship hardening (Q7.2.1)",
     "summary": "Started 1 Oct 2025 for a minimum of six months; inspectors address Q7.2.1 on every SIRE 2.0 inspection; interim review planned Feb 2026. A TANKEROperator article by OCIMF's Programmes Director (Apr/May 2026, third-party source) says the FIC concludes end of March 2026.",
     "source_url": "https://www.ocimf.org/document-libary/1058-press-release-focused-inspection-campaign-29-oct-2025/file",
-    "verified_on": "2026-10-17"
+    "verified_on": "2026-10-17",
+    "short_title": "SIRE 2.0 focused campaign on ship hardening (Q7.2.1)",
+    "id": "ocimf-fic-hardening",
+    "group": "scheme",
+    "impact": "low",
+    "affects": [
+      "Tankers"
+    ],
+    "headline": "SIRE 2.0 inspectors check ship hardening (Q7.2.1) on every inspection",
+    "key_numbers": [
+      "Started 1 Oct 2025",
+      "Minimum 6 months",
+      "Interim review Feb 2026"
+    ],
+    "changed": [
+      "Q7.2.1 Ship hardening and access control asked on every SIRE 2.0 inspection",
+      "Checks crew familiarity with company hardening procedures and plans",
+      "A third-party article says the campaign ended March 2026"
+    ],
+    "what_to_do": "Review company procedures and ship-hardening plans, as OCIMF recommends."
   }
 ]
