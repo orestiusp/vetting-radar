@@ -1,0 +1,1112 @@
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 1/29
+F: +90 322 634 23 23
+CEYHAN
+TOROS TARIM SANAYİ VE TİCARET
+A.Ş.
+TERMINAL INFORMATION AND PORT
+REGULATIONS
+1
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 2/29
+F: +90 322 634 23 23
+INDEX
+SUBJECT PAGE
+1. PORT / TERMINAL DESCRIPTION 3
+2. PRE - ARRIVAL INFORMATION 4
+3. NAVIGATION 5-7
+4. GENERAL INFORMATION 7-8
+5. TECHNICAL DATA 9-11
+6. LOADING AND UNLOADING OF BULK CARGO VESSELS 12
+7. NOTES FOR TANKERS 12 - 13
+8. MOORING and HOSE CONNECTION 13
+9. PLANNING AND SAFETY 14 - 15
+10. CONDITIONS OF OPERATIONS / SAFETY 15 - 16
+PRECAUTIONS
+11. MOBILITY 16 - 18
+12. CONTACT DETAILS 19
+13. APPENDIX 1 - TOROS TARIM PORT LOCATION 20
+14. APPENDIX 2 - MOORING LAY OUT OF BERTHS 21 - 24
+15. APPENDIX 3 - BERTH 1-2-6 PARTICULARS FOR 25 - 28
+TANKERS
+16. APPENDIX 4 - OPERATION ENVELOPE OF HOSES AT 29 - 31
+BERTH 1-2-6-9-10
+17. APPENDIX 5 – AMMONIA ARM OPERATING ENVELOPE 32
+2
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 3/29
+F: +90 322 634 23 23
+1. PORT / TERMINAL DESCRIPTION
+Location: The port of Toros is located in the Gulf of Iskenderun approximately 80 km East of
+Adana. See Appendix 1.
+Anchorage Areas
+1-) Ships carrying dangerous goods (tankers), battleship which work with nuclear energy,
+ships which to be decided to wait in quarantine by authorities and ships which to be
+degassed (No.1 Anchorage Area)
+1) 36° 49' 06" K - 35° 57' 00" D
+2) 36° 47' 00" K - 35° 58' 48" D
+3) 36° 47' 00" K - 36° 01' 12" D
+4) 36° 51' 12" K - 36° 01' 12" D
+5) 36° 51' 48" K - 35° 59' 12" D”
+2-) Ships carrying non-dangerous goods (bulk carriers) and battleships
+(No.3 Anchorage Area)
+1) 36º 52' 18" K - 035º 59' 18" D
+2) 36º 51' 42" K - 036º 01' 36" D
+3) 36º 52' 48" K - 036º 02' 18" D
+4) 36º 53' 30" K - 036º 00' 06" D
+3-) Ships carrying non-dangerous goods (bulk carriers) and battleships
+(No.4 Anchorage Area)
+1) 36º 46' 00" K - 035º 52' 00" D
+2) 36º 46' 00" K - 035º 53' 12" D
+3) 36º 47' 36" K - 035º 54' 30" D
+4) 36º 47' 36" K - 035º 53' 24" D”
+Pilot Stations:
+1) 36º 52' 30" K – 035º 58' 48" D
+2) 36º 51' 21" K – 035º 57' 18" D
+3) 36º 50' 18" K – 035º 56' 24" D
+4) 36º 47' 00" K – 035º 56' 00" D
+3
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 4/29
+F: +90 322 634 23 23
+Terminal Coordinates:
+West Jetty (Berth No 1-2-3-9-10) Shore side 36° 55’ 00’’ N 035° 58’ 54’’ E
+Sea side 36° 53’ 97’’ N 035° 59’ 06’’ E
+East Jetty (Berth No 4-5-6-7-8) Shore side 36° 55’ 12’’ N 035° 59’ 18’’ E
+Sea side 36° 54’ 30’’ N 035° 59’ 34’’ E
+General overview: The port has 2 jetties (finger type), the west jetty has three berths can handle
+vessels of up to 80,000 dwt and the east jetty has six berths can handle vessels of up to 110,000
+dwt.
+Cargo handled: Dry bulk cargoes including grains, feed grains, fertilizers, sulphur, clinker,
+minerals, pet coke and coal etc.
+Liquid cargoes include edible oils, chemicals, petroleum products, acids and ammonia.
+Break bulk cargo includes bagged products, crated products and Ro-Ro operation.
+Traffic Schemes: Approximately 6.000.000 mton of cargo from 500 vessels handled annually.
+Max size: West Jetty: 80,000 Dwt. East Jetty, 110,000dwt.
+Load Line zone: Summer.
+ISPS: The port facility complies with the ISPS code.
+UNLOCODE: TR TGT
+2. PRE-ARRIVAL INFORMATION
+INFORMATION: Prior to arrival at the Terminal, the Master or the agent shall provide the
+following information the
+1. ETA's: Notify ETA 72, 48, 24 and 4 hours (LT-Local time) prior to arrival.
+2. DWT, NRT, GRT, fore and aft drafts.
+3. Cargo name, quantity to be loaded / unloaded.
+4. Cargo plan if required by Terminal.
+5. For tankers, Number and size of connections and unloading capacity if required by Terminal.
+Documentation required before arrival and sent by agent via email:
+Documents to Be Send For All Ships
+1. Cargo Stowage Plan and Cargo Hold Dimension Table
+2. Waste Form
+3. Last 10 Ports
+4. Ballast Reporting Form
+5. Freshwater Demand
+Documents To Be Send For Only Tankers
+6. Cargo Ship Safety Construction Certificate
+7. Cargo Ship Safety Equipment Certificate
+8. Classification Certificate
+9. Document of Compliance
+10. Safety Management Certificate
+Communications VHF: The terminal and pilot can be contacted on VHF Ch 16 and 13.
+4
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 5/29
+F: +90 322 634 23 23
+Health regulation: All ships entering to the Terminal controlled by Coastal Sanitary Office.
+The Masters of the vessels at Terminal should inform the Coastal Sanitary Office, their agents
+and Terminal in case of any illness and death on board.
+Customs & Immigration: All controls related with cargo and vessel like custom, police, health
+dept. and harbor master are made when vessels are at anchor.
+Standard message: All ships entering to the Terminal should contact with Ankaş A.Ş. Pilot and
+their agent.
+Flags: All the ships berthed to the platforms should hang the Turkish flag on the bridge stick and
+their own flag on the aft ward from sunrise to sunset. The Turkish Flag should be in good
+condition.
+Notice of readiness: All the ships entering to the Terminal should tender their NOR to their
+agent.
+3. NAVIGATION
+Port limits: Toros lies within the Ceyhan port limits.
+Coordinates:
+a) 36º 34' 03" K – 035º 33' 24" D
+b) 36º 25' 15" K – 035º 35' 57" D
+c) 36º 44' 54" K – 036º 03' 12" D
+d) 36º 55' 18" K – 036º 02' 14" D
+Sea buoys, fairways and channels: None.
+Pilotage: Compulsory. Available from Ankaş A.Ş. Iskenderun Branch. Boarding speed should
+be between 3 knots and 5 knots. Pilot ladder should be convenient according to IMPA
+(International Maritime Pilots’ Association) Standarts.
+Tugs: Compulsory towage for berthing and unberthing. The tugs are equipped for firefighting.
+There are seven mooring crafts and they have ASD and conventional propeller.
+5
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 6/29
+F: +90 322 634 23 23
+According to Port Regulations, vessels’ tug requirements are as below:
+Vessel Gross Vessel Type Required Required bollard Remarks
+Tonnage tugs (min) pull (min)
+2000 - 5000 All Vessels 1 16 Min 16 ton
+5001 - 15000 All Vessels 2 32 Each one min 16 ton
+15001 - 30000 All Vessels 2 60 Each one min 30 ton
+30001 - 45000 All Vessels 2 75 Each one min 30 ton
+Non - Dangerous
+More than 45000 2 90 Each one min 30 ton
+goods transporters
+LPG, Combustible,
+45001 - 75000 Explosive and 3 90 Each one min 30 ton
+Chemical tankers
+LPG, Combustible,
+more than 75000 Explosive and 3 120 Each one min 30 ton
+Chemical tankers
+All tonnage LNG vessels 3 150 Each one min 30 ton
+Anchorages: There is a large anchorage area, about 1 nm offshore. The holding ground is
+reported to be good. See anchorage area coordinates at the beginning of the page.
+Vessels should contact the Ankaş A.Ş. Iskenderun Branch for permission through VHF channel
+16/14 before drop anchor.
+Principal navigation aids: Three tugboats, one pilot boat, two mooring boats and one service
+boat available 24 hours for aids.
+Coast Guard: Available at Botaş.
+Tidal range and current: Range 0.4 m. and no current.
+Dock density: 1026 – 1027 kg/m3.
+Weather: Prevailing winds: SW'ly.
+Charts: BA 2187, 2185, 2632; Turkish 33, 334. Admiralty Pilot NP49.
+Mooring arrangements: See mooring layout. (Appendix 2)
+Mooring Information and Restrictions: It is prohibited to moor a vessel at the Terminal
+without the permission of the Terminal Manager.
+The vessel nominated by Ankaş A.Ş. is berthed by Arpaş & Uzmar and Pilots with required
+number of tugs indicated in regulations.
+Berthing during daylight hours only for Berth No 1 and 2; and sailing 24 hours for all berths.
+When the wind speed is exceeding over 5 beaufort (17-21 knots) vessels do not berth to piers.
+When the wind speed is exceeding over 6 beaufort (22-27 knots) loading/unloading of vessels
+is stopped and hose(s) is/are disconnected.
+When the wind speed is exceeding over 7 beaufort (28-33 knots), berthed vessels are unberthed.
+Fenders: Berth no 1 and 2 has Leg Type Panel fenders, Berth no 3-4-5-6-7-8 have Arch Type
+fenders, Berth no 9 and 10 have Omega Type fenders.
+Cancellation: Under adverse conditions the Terminal Manager, Master of a vessel or the
+Loading Master may order the cancellation of a scheduled berthing at any stage of the
+operation.
+Ropes, wires and winches: The vessel is secured alongside with suitable ropes/wires, which
+are to the satisfaction of the Ankaş Pilot. Mooring ropes or wires shall only be fastened to the
+proper fixtures provided for this purpose. If utilized self-tensioning winches must not be used
+6
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 7/29
+F: +90 322 634 23 23
+in automatic mode and winch brakes must be kept hardened up except when moorings are
+being tended. Terminal doesn’t prefer usage of wire ropes for mooring, but in case of usage
+wire ropes, some part of ropes should be nylon or polypropylene which comes across to the
+Quick Release Hooks.
+Embarking and Disembarking: Embarking and disembarking of vessel is carried out through
+berths by ship or shore gangway. In an emergency situation vessel crew can abandon the vessel
+by boat.
+Accommodation ladder/Ship’s gangway: Supplied by ship and landed to the platform of the
+berth agreed by ship and terminal.
+Min. Parallel Body Length: MPBL is 35 m for berth no 1-2, 40 m for berth no 6, 15 m for berth
+no 9-10 for tankers.
+Emergency procedure: The vessel berthed should keep enough number of crew on board and
+be ready for underway at any time.
+In any emergency condition, ship should contact with Terminal and Pilot by VHF 13/16, mobile
++90 530 767 64 81 (Terminal Manager).
+In the event of emergency services being required, i.e. Police, Fire ,Ambulance, Coastguard,
+these may be obtained via Terminal Manager, Loading Master or Pilot Station by calling on
+VHF 13/16.
+4. GENERAL INFORMATION
+Repairs: Any repairs which cause immobilization are not allowed when vessels alongside.
+Workshops for repairs available in Iskenderun, 80 km. Repair needs must be sent to the ship’s
+agent who will provide them.
+Dock Facilities: No docking facilities.
+Fresh water: Fresh water available at all berths by pipe.
+Provisions: Available by ship chandler in Iskenderun.
+Bunker : Available as ex-trucks only by bunker suppliers.
+Garbage: All the rubbish, trash and litter is collected by the Terminal according to demand from
+vessels. The garbage should be prepared, grouped and packed into eight categories (except for
+cargo residues) by vessel according to MARPOL 73/78 before deliver to the shore. The vessels
+that want to refuse to garbage our terminal should be sorted according to the categories of
+garbage and should be put in the garbage containers on the pier by putting them in the color
+coded garbage bags given by the terminal representative. For the other waste, please contact with
+terminal representative. Also Terminal and Vessel should fill “Waste Delivery Receipt Form”
+form after delivery of garbage. (A-copy of the form should be taken and kept by vessel).
+Waste reception facilities: 3200 m3 slop, 500 m3 sludge, 40 m3 bilge water, 40 m3 bilge
+(without water), 1000 m3 slop (without water), 1000 m3 wasted oil, 60 m3 CatY, 52 m3 CatZ,
+capacity available at the Terminal.
+Pollution: All kind of pollution including oily bilge water and sewage water discharging is
+prohibited during ships stay in the port.
+7
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 8/29
+F: +90 322 634 23 23
+De-ballasting: Discharging of dirty ballast to the sea strictly forbidden. Only clean ballast can be
+discharged from segregated ballast tanks.
+Damage: Damages occurred during loading/unloading are repaired by Terminal before
+underway.
+Photography:Photography is prohibited unless authorized by Loading Master and if necessary a
+work permit issued.
+Medical facilities: Plant health Service, dispensary, a physician and ambulance available every
+time.
+The nearest hospital is approx 30 km in Ceyhan.
+Working hours: Throughout 24 hours.
+Crew Change: Available.
+Surveyors: Located at Iskenderun.
+Officials and Visitors: No visitors are allowed abroad ships berthed alongside. Only Terminal
+employees, authorities, authorized personnel, agents, custom officers are admitted to the ships.
+Fumigation: Available in Iskenderun, 80 km.
+Nearest railway: Approx. 15 km.
+Public holidays: New Year's Day, April 23, May 1, May 19, July 15, Aug 30, Oct 29.
+Religious holidays: Seker (3 days) and Kurban (4 days), no specific date (lunar calendar).
+Transport/Nearest airport: Adana airport 82 km.
+Consuls: There are consulates of most countries in Ankara, 450 km.
+Banks: Nearest banks in Ceyhan 30 km and Adana 82 km. ATM is available at the Terminal
+gate.
+Time: GMT +2 (GMT +3 in summer).
+International dialing code: +90.
+Territorial waters: Limit of 6 nm in the Aegean Sea along with a limit of 12 nm in the Black
+Sea and Mediterranean Sea for territorial waters.
+Capital city: Ankara.
+Currency: The unit of currency in Turkey is the Turkish Lira (TL).
+Capital airport(s): Ankara (ANK) (Esenboga) is 28km NE of the Ankara city.
+Istanbul Atatürk (ALL) and Sabiha Gokcen (SAW) are at the city limits of Istanbul.
+National airline: THY Turkish Airlines.
+8
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 9/29
+F: +90 322 634 23 23
+5. TECHNICAL DATA
+Berths:
+Names/No’s: There are 3 loading / unloading berths available on the west jetty and 6 loading /
+unloading berths available on the east jetty.
+Max. DRAFT (m.)
+Berth Max. DWT Max. LOA (m) Max. Beam (m)
+Fore Aft Even Keel
+28 m for bulk carriers,
+1 40.000 185 -- -- 10,5
+tankers no restriction.
+2 40.000 212 No restriction -- -- 11,5
+3 3.000 100 15 -- -- 4,8
+4 110.000 270 42 13,0 13,5 13,0
+5 110.000 270 42 13,0 13,5 13,0
+6 40.000 190 No restriction 9,5 10,5 9,5
+25 m for bulk carriers,
+7 40.000 220 10,0 11,0 10,0
+tankers no restriction.
+8 3.000 100 15 4,5 5,0 4,5
+9 80.000 235 No restriction 15,5 16,5 15,5
+10 80.000 235 No restriction 15,5 16,5 15,5
+Ro-Ro 8.000 120 20 8,0 8,0 8,0
+Airdraft:
+Berth Maximum permissible airdraft (for vessels from sea level to hatch, for tankers
+No from sea level to the manifold)
+1 22 m for cargo vessels, 14 m for tankers.
+2 14 m for tankers
+3 No restriction.
+4 25 m for cargo vessels.
+5 25 m for cargo vessels.
+6 14 m for tankers.
+7 19 m for cargo vessels.
+8 No restriction.
+9 17 m for tankers
+10 17 m for tankers
+9
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 10/29
+F: +90 322 634 23 23
+Cargo handling equipments:
+Berth No Equipments
+4 2 Jetty grab cranes SWL 17 ton mounted on tracks, with capacity of 400 mt/h each
+5 2 Jetty grab cranes SWL 30 ton mounted on tracks, with capacity of 600 mt/h each
+7 2 Jetty grab cranes SWL 20 ton mounted on tracks, with capacity of 580 mt/h each
+Conveyor system:
+Two lines conveyor system (two incoming) connects the berth no 4, 5 and 7 to the warehouses
+and bagging/truck loading units.
+Incoming Lines: One line with capacity of 800 mt / hour connects the berths no 5, 7 to the
+warehouses and bagging / truck loading units.
+One line with capacity of 600 mt / hour connects the berths no 4, 7 to the warehouses and
+bagging/truck loading units.
+Nominal loading/unloading capacities (bulk):
+Berth No Unloading Capacity (mton/day) Loading Capacity (mton/day)
+1 (liquid) 23.000 17.000
+2 (liquid) 23.000 17.000
+3 1.500 1.500
+4 15.000 15.000
+5 22.000 22.000
+6 (liquid) 5.000 5.000
+7 21.000 21.000
+7 (liquid) 5.000 5.000
+8 1.500 1.500
+9 23.000 17.000
+10 23.000 17.000
+Liquid loading/Unloading Capacities:
+Loading and Unloading Capacity Pipe diameter
+Berth No Product Type
+(mton/hours) (inches)
+1-2 Phosphoric Acid 500 14
+1-2 Black Product (Oils) 700 14
+1-2 White Product (Oils) 750 12
+1-2 White Product (Oils) 925 14
+1-2 Chemical 970 14
+2 Ammonia 170 6
+All Water 50 4
+All Air ------ 3
+6-7 Styrene Monomer 350 10
+10
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 11/29
+F: +90 322 634 23 23
+6-7 Styrene Monomer 350 10
+6-7 Caustic Soda 150 8
+6-7 Chemical products 150 8
+6-7 Chemical products 150 8
+6-7 Chemical products 150 8
+6-7 Mono Ethylene Gylcol 200 8
+6-7 Vegatable Oil 200 8
+6-7 Sulphuric Acid 300 12
+Facilities:
+Bagging units no 1-2 each has 3 lines with an aggregate total capacity of 8,000 tpd, which
+enables simultaneous bagging of 2 different cargoes and simultaneous loading of 6 trucks.
+There are 6 mobile bagging units; each has 2 lines with an aggregate total capacity of 16,000 tpd.
+Units can operate independently, within the Terminal, as well as in any other Turkish port or
+location.
+Bagging unit no 3 has 10 lines with a total capacity of 14,000 tpd, which enables simultaneous
+bagging of 2 different cargoes and simultaneous loading of 10 trucks.
+Cargo weight determination:
+Quantity of grain determined by batch weighers in the flat grain silo elevator or draft survey
+during loading / unloading.
+Bagged cargo quantities determined by counters on the bagging unit during loading, by truck
+weighbridge during unloading.
+Bulk cargo quantities determined by draft survey or by truck weighbridge during
+loading/unloading.
+Mobile equipment:
+4 bobcat, 8 loaders, 1 street sprinkler, 1 street sweeping truck, 1 slop/oily bilge water/sludge
+collection truck.
+Storage:
+Covered storage: Flat grain: 4 chambers, capacity 60,000t, loading by belt conveyor / trippers
+and unloading by underground belt conveyor / front end loaders.
+Dry bulk warehouse: Capacity 2 x 50,000t, loading by belt conveyors / trippers, unloading by
+front end loaders/belt conveyors.
+Multi cell warehouse for fertilizers: Capacity 1 x 35,000t, 1 x 32,000t, loading by belt
+conveyor / trippers, unloading by front end loaders / belt conveyors.
+Bagged cargo warehouse: Capacity 1 x 17,000t, loading / unloading by forklifts.
+Open storage: Concrete storage space for coal, capacity nearly 57650 m2 ( A Type Bonded
+Warehouse)
+Non paved storage space for coal, capacity nearly 500,000 m2.
+Additional storage space for general purpose with capacity 275,000m2.
+Tank farm: There are 21 multipurpose tanks for petroleum products and chemicals, total
+capacity 210.179 m3 composed of:
+6 x 20000 m3, 7 x 10,000 m3, 2 x 5,000m3, 2 x 2,500m3, 1 x 2,000m3,
+2 x 1,500 m3, 1 x 1,000 m3
+Two tanks for ammonia: 1 x 14670 m3, 1 x 7330 m3.
+11
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 12/29
+F: +90 322 634 23 23
+Six tanks for phosphoric acid: 1 x 5000 m3, 1 x 3410 m3, 2 x 2760 m3, 1 x 2670 m3, 1 x 1880
+m3.
+The tank farm is equipped with pumping stations, truck loading and unloading platforms, heating
+system and dedicated pipeline connections to the main platform of West Jetty, berth no 1,2,9 and
+10.
+6. LOADING AND UNLOADING OF BULK CARGO VESSELS
+PRINCIPLES
+1. The Master has signed a letter acknowledging receipt of these Terminal Regulations.
+2. The Master / Chief Officer and the Terminal Representative have jointly completed the Ship
+/ Shore Safety Check List for Loading or Unloading Dry Bulk Cargo Carriers.
+3. The Master / Chief Officer should prepare a cargo plan and deliver to the terminal and there
+should be an agreement between the master and terminal representative on all stages of the
+cargo plan.
+4. There should be an agreement for de-ballasting.
+5. The Master / Chief Officer / Duty Officer and terminal representative should contact during
+loading / unloading with the communication system mentioned on SSSCL.
+6. Loading / unloading should be carried out according to the rules mentioned on BLU Code.
+7. NOTES FOR TANKERS
+See berth particulars for tanker berth no 1, 2 and 6 in Appendix 3, hose envelopes in
+Appendix 4 and ammonia loading arm operating envelope in Appendix 5.
+Definitions
+Approved Equipment
+Equipment of a design that has been tested and approved by an appropriate authority such as a
+government department or classification society. The authority should have certified the
+equipment as safe for use in a specified hazardous atmosphere.
+The Company
+Toros Tarım Sanayi ve Ticaret A.Ş.
+Flammable (also referred to as ‘Combustible’)
+Capable of being ignited and of burning. For the purpose of these regulations the terms
+‘’flammable’’ and ‘’combustible’’ are synonymous.
+Terminal Manager
+The Terminal Manager appointed by the Company in Turkey and includes his authorized
+deputies and assistants.
+Hot Work
+Work involving sources of ignition or temperatures sufficiently high to cause the ignition of a
+flammable gas mixture. This includes any work requiring the use of welding, burning or
+soldering equipment, blow torches, some power driven tools, portable electrical equipment
+which is not intrinsically safe or contained within an approved explosion - proof housing and
+internal combustion engines.
+Main Deck
+12
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 13/29
+F: +90 322 634 23 23
+The main deck of a tanker is the steel plating forming the top of the cargo tanks, cofferdams and
+pump rooms.
+Master
+The Master shall be understood to mean the Master or his duly authorized deputy or any person
+who for the time being is in charge of the vessel.
+Naked Lights
+Open flames or fires, lighted cigarettes, cigars, pipes or similar smoking materials, mobile
+telephone, any other unconfined sources of ignition, electrical and other equipment liable to
+cause sparking while in use, and unprotected light bulbs.
+Operations
+The loading / unloading or transfer of petroleum products, gauging, sampling and all other
+ancillary activities.
+Loading Master (or Person)
+A person appointed by the Company or master of the vessel and empowered to take all decisions
+relating to a specific task, having the necessary knowledge and experience for that purpose.
+Pre-arrival information
+Prior to arrival at the Terminal, the Master, at the request of the Shipping Agents will provide
+the following information. The shipping Agents will pass the information on to the Company
+on its receipt:
+- Incoming tankers telex ETA via Agents at least 72 hours before arrival at Toros.
+- Last cargo, last port and destination.
+- Quantity (mtons), of cargo to be loaded / unloaded.
+- Confirm number, size and disposition of cargo loading / unloading manifold connections.
+- Ship particulars
+- Stowage plan
+Damage
+The Master of an arriving vessel:
+-Which has sustained damage which affects or is likely to affect her sea-worthiness, or from
+which any dangerous or flammable substances is escaping or is likely to escape must inform
+the local agent and Loading Master and the vessel shall not proceed.
+-Except with the permission of the Terminal Manager and in accordance with his directions.
+-The Master of a vessel, which sustains damage within the water, controlled by Toros, shall
+immediately notify the Loading Master of such damage and shall thereafter act as directed by
+the Loading Master.
+8. MOORING and HOSE CONNECTION
+Ropes and wires
+The vessel is secured alongside with suitable ropes, which are to satisfaction of the Ankaş A.Ş.
+Minimum of three sets mooring lines (nylon or manila) each consisting of three or two ropes
+are required for a safe mooring. There are Quick Release Hooks on Berth no 1-2-3-6-7-9 and
+10.
+Winches
+13
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 14/29
+F: +90 322 634 23 23
+Mooring ropes or wires shall only be fastened to the proper fixtures provided for this purpose.
+If self-tensioning winches are utilized, they must not be used in automatic mode and winch
+brakes must be kept hardened up except when moorings are being tended.
+Wire reeling and hose lifting
+Tankers must be adequately equipped with 3 tons crane / derrick to hoist 10” cargo hose from
+shore to the ship manifold and again from ship manifold to the shore in a safe and efficient
+manner.
+Deck watching
+A strict watch is to be kept on the moorings and manifold area throughout the loading
+operation.
+Emergency towing wires
+Towing wires shall be provided and secured to the seaside bow and aft with the towing eyes
+maintained just above water level, and sufficient slack maintained on deck.
+9. PLANNING AND SAFETY
+Operations
+Operations shall not commence until:
+Receipt of regulations
+The Master has signed a letter acknowledging receipt of these Terminal Regulations.
+Check list
+The Master / Chief Officer and the Loading Master have jointly completed the Ship / Shore
+Safety Check List.
+Procedures and communications
+The master has confirmed with the Loading Master that all relevant valves aboard and ashore
+are properly set, that the agreed operational procedures, emergency procedures and
+communications are understood and will be adhered to.
+Loading / unloading
+Request loading / unloading rates are consistent with the design capability of the vessel /
+Terminal and should be mentioned at “Pre-cargo Conference Record” before commence to
+pump.
+Independent Inspector
+The cargo receivers/shippers or owners may appoint an independent inspector to inspect tanks,
+witness operations and confirm quantities loaded / discharged on/from board.
+Papers required on arrival
+-Quantity of product
+-Experience factor
+-Last cargo type
+-OBQ (On Board Quantity)
+-Loading port quantity including OBQ
+-NOR
+Notices (Notices must be display as follows)
+At Accommodation Ladder in English stating:
+WARNING
+NO NAKED LIGHTS
+NO SMOKING
+NO UNAUTHORISED PERSONS
+14
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 15/29
+F: +90 322 634 23 23
+Emergency actions
+On arrival at the Terminal the Master and the Loading Master shall discuss action to be taken
+in the event of emergency. This shall include procedures and means of communications and
+Emergency shutdown operation.
+In the event of emergency services being required i.e. Police, Fire, Ambulance, Coastguard;
+these may be obtained by the Loading Master, Terminal Manager or the Control Room by
+calling direct on VHF Channel 13 / 16 from Terminal or Ankaş A.Ş pilots.
+Emergency shutdown procedures
+Before start of loading / discharging the Terminal Loading Master and the ship's staff must be
+taken first action for the emergency shutdown procedures and must be written in the Terminal
+“Ship / Shore Safety Check List”, such as remote control hydraulic valve, remote control
+pneumatic valve etc. Emergency stop buttons are provided on the ship to stop the loading
+pumps (in terminal) in case of emergency
+For loading operations before cargo operations commencing, remote control equipment is
+given to tanker to stop the pumps in an emergency situation.
+10. CONDITIONS OF OPERATIONS / SAFETY PRECAUTIONS
+Personnel
+Sufficient personnel under the supervision of a Responsible Officer shall be available at all
+times to deal with operations and any emergency.
+Language
+An officer with good command of the English Language must remain on deck or in the cargo
+control room at all times. In addition a crew member with a good command of the English
+Language must remain on deck at all times.
+Communications
+The officer must carry the approved portable VHF radio provided by the vessel for ship / shore
+communication.
+Also, Terminal will give Portable UHF to ship for operation communication. The Portable Uhf
+should be in Channel Terminal (check on the Uhf screen).
+Doors, ports and windows
+In the accommodation, all external doors, ports and similar openings which lead directly from
+the tank deck to the accommodation or machinery spaces (other than the pump room), or
+which overlook the tank deck at any level, or which overlook the poop deck forward of the
+funnel should be kept closed. A screen door cannot be considered a safe substitute for an
+external door.
+Additional doors and ports may have to be kept closed in special circumstances, or due to
+structural peculiarities of the tanker.
+If doors have to be opened for access they should be closed immediately after use.
+Doors that must be kept closed should be clearly marked, but in no case should doors be locked.
+Manifold connections
+Manifold connections either in use or blanked shall be fully bolted. Where spools and/or
+reducers are utilized they are also should be fully bolted.
+Central air conditioning and mechanical ventilating systems
+Intakes of central air conditioning or mechanical ventilating systems should be adjusted to
+prevent the entry of petroleum gas, if possible by re-circulation of air within the enclosed spaces.
+If at any time it is suspected that gas is be in drawn into the accommodation, central air
+15
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 16/29
+F: +90 322 634 23 23
+conditioning and mechanical ventilating systems should be stopped and the intakes covered or
+closed.
+Window type air conditioning
+Window type air conditioning units which are not certified as safe for use in the presence of
+flammable gas or which draw air from outside the superstructure must be electrically
+disconnected and any external ventilators or intakes covered or closed.
+Venting
+Venting of cargo spaces must only take place through the vessel’s fixed venting system. The
+cargo tank venting system should be set for the operation concerned and if required the outlets
+should be protected by devices to prevent the passage of flame. Where appropriate high velocity
+vents should be set in the operational position to ensure the high exit velocity of vented gas.
+Prescribed signals
+All vessels berthed to the platforms should hang the Turkish Flag on the bridge stick and their
+own flag on the aft ward from sunrise to sunset.
+Changes in operation
+The officer shall give verbal notice to the loading Master 15 minutes before any variation to the
+agreed loading pattern or alteration to operations and before completion of any section the
+operation.
+11. MOBILITY
+Main engine readiness
+A vessel alongside must be maintained a state of full readiness to vacate the berth at short notice.
+Testing of main engines and steering gear
+Prior to departure, the vessel’s main engine and steering gear are to be tested in the presence of
+the Pilot.
+Boiler fires
+So as not to immobilize the vessel, boiler fires should only be extinguished when the Master, in
+consultation with the Loading Master and Marine Superintendent ashore, decides that the boiler
+fires constitute an undue hazard.
+Repair / maintenance work
+Repair / maintenance work involving hot or cold work or the use of naked lights is prohibited
+unless, in exceptional circumstances, the permission of the Terminal Manager has been
+requested and granted in writing. Repair / maintenance work includes but is not restricted to
+boiler and boiler tube cleaning, chipping and scraping, hull painting, testing or servicing of
+electrical equipment, (including radar and domestic electrical equipment), and the retrofitting of
+any equipment.
+If permission is granted to undertake repair/maintenance, a detailed list of work and contracted
+shore personnel; employed on a vessel must be given to the Terminal Manager before the work
+commences.
+Smoking
+Smoking on the piers and on the deck of tankers is strictly prohibited except in those enclosed
+spaces on board of the tankers and on the piers specifically designated and agreed by the
+terminal and the vessels.
+16
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 17/29
+F: +90 322 634 23 23
+Alcohol / Drug regulation
+All personal use, storage, distribution and/or sale of drug and alcohol are prohibited within the
+port. Intoxicated personnel to/from ship will not be given permission to enter the berth area
+unless escorted by the vessels master or chief officer. Such incidents will be reported.
+Naked lights
+The use of naked lights is prohibited.
+Photography
+Photography is prohibited unless authorized by the Loading Master and if necessary a work
+permit issued.
+Fire precautions
+The vessel’s firefighting equipment, including main and emergency fire pumps, shall be ready
+for immediate use. The fire main system should be pressurized or be capable of being
+pressurized at immediate notice.
+Fire hoses fitted with spray / jet nozzles shall be uncoiled and connected to the fire main on the
+main deck, one forward and one aft the vessel’s manifold. Two portable fire extinguishers,
+preferably of the foam type, shall be placed adjacent to the manifold. Where monitors are
+provided they should be pointed towards the manifold and be ready for immediate use.
+In case of fire break out on board, the Master shall raise the alarm by sounding the recognized
+alarm signal consisting of a series of long blasts on the vessel’s whistle / siren, each blast being
+not less than ten seconds duration, supplemented by the sounding of the vessel’s fire alarm and
+shall notify the Terminal or Ankaş A.Ş. Pilot via VHF Ch.14 / 16 or by telephone + 90 530 767 64
+81 (Terminal Manager).
+Same procedure must be carry out if fire break out on another vessel.
+Radio transmitters
+The vessel’s radio station transmission equipment, except low energy transmitters such as are used
+for satellite and VHF communications, shall not be used within the Restricted Area and aerials
+shall be earthed.
+Portable VHF / UHF sets, lamps and hand lamps
+Portable VHF / UHF sets must be of an approved type.
+Portable lamps and hand lamps, electric or otherwise to be approved and explosion proof. The
+use of portable electric lamps and equipment on flexible cables is prohibited within the cargo
+tanks and adjacent or over the tank deck.
+Portable telecommunication systems
+The use of portable telecommunication (Mobile telephone) systems is prohibited and must be
+switch off in the restricted area and during on the service boot onboard voyage.
+Prevention of sparks
+Opening and closing of hatches, connecting and disconnecting loading booms and any other
+operation on deck involving the use of metal instruments shall be carried out in a manner that
+avoids the generation of sparks.
+Funnel smoke
+Boiler tube blowing is prohibited. Excessive funnel smoking or any emission of must be
+immediately stopped.
+Galley stoves
+17
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 18/29
+F: +90 322 634 23 23
+The use of galley stoves and other cooking equipment shall be permitted provided the Master
+and Loading Master agree no hazard exists.
+Movement of tugs and other craft
+During operations no vessel shall be allowed alongside the vessel unless approval has been given
+by the Terminal and agreed by the Master.
+Tank washing and gas freeing
+Tank washing and gas freeing of cargo tanks, (including Inert Gas purging), is not permitted
+without the written approval of the Terminal. This may be granted subject to all safety,
+environmental and operational requirements being complied with and berth availability. Such
+safety and operational requirements will be in accordance with the provisions The International
+Safety Guide for Oil Tankers and Terminals.
+Crude Oil Washing
+COW is not permitted while vessel alongside.
+Weather precautions
+Operations shall be stopped during severe electrical storms, high winds or still air conditions at
+the discretion of either the Master or Loading Master. The vessel’s fixed venting system must be
+battened down and all apertures confirmed closed.
+Weather criteria during loading / unloading
+The terminal is very rarely closed due to heavy weather and vessels are rarely required to vacate
+the berth. The Loading Master/Pilot will discuss the prevailing weather conditions and forecast
+with the Master on board and agree the operation.
+When the wind speed is exceeding over 6 beaufort (22-27 knots) loading / unloading of vessels
+is stopped and the hoses are disconnected from vessels’ manifold.
+When the wind speed is exceeding over 7 beaufort (28-33 knots) berthed vessels are un-berthed
+with the agreement Ankaş A.Ş.Pilot, Toros Terminal Manager / Loading Master and Master of
+the vessel.
+Rescue Boat/Life Boat Drill
+Lowering and launching of rescue boat/life boat drill is not permitted without the written
+approval of the Terminal and Harbour Master.
+Emergency Shutdown Actions
+In emergency situations described below, loading / unloading must be shutdown:
+If any spillage occurs,
+1. If any leakage occurs on lines or hoses/arm
+2. If any fire occurs,
+3. If any bad weather occurs (see Weather criteria during loading/unloading item)
+4. If the vessel’s IGS does not work
+5. If the communication between ship and shore disconnected.
+In these situations loading / unloading operations must be stopped via emergency shutdown
+button on jetty or remote commander of ship / shore.
+18
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 19/29
+F: +90 322 634 23 23
+12. CONTACT DETAILS:
+Port Authority: Ceyhan Regional Port Chairmanship
+Adress: Kurt Pınarı Kasabası İncirli Mahallesi No :28/1 01920 Ceyhan / ADANA
+Tel: + 09 322 639 21 39, +90 505 642 05 53
+Contact name and title: Mustafa Yılmaz / Delegate of Harbour Master
+Email: ceyhan.liman@udhb.gov.tr
+Terminal Authority / Operator: Toros Tarım Sanayi ve Ticaret A.Ş.
+Address: Ceyhan, PK: 83, TR - 01920 Ceyhan - Adana, Turkey
+Tel: +90 322 634 2222, Fax: +90 322 634 2323, Telex: 63840 TORS TR
+Email: ceyhan.fabrika@toros.com.tr
+Saip Onurhan KADIOGLU / Terminal Manager
+Email: s.onurhan.kadioglu@toros.com.tr
+Port / Terminal Operator (Head Office): Toros Tarım Sanayi ve Ticaret A.Ş.
+Address: ESENTEPE MAHALLESİ, BÜYÜKDERE CADDESİ, NO: 209, TEKFEN TOWER
+KAT: 19 ve 20, ŞİŞLİ, İSTANBUL
+Tel: +90 212 357 02 02, Fax: +90 212 357 0231, Telex: 28179 TUND TR
+Email: toros@toros.com.tr
+Contact Name: Aydın Erdemir / Terminal Marketting Assistant General Manager
+Email: aydin.erdemir@toros.com.tr
+Huseyin BAYRAKLI / Sales and Marketing Manager
+Email: huseyin.bayrakli@toros.com.tr
+Port Facility Security Officer (PFSO):
+Address: PK 83, TR-01920 Ceyhan-Adana, Turkey
+Tel: +90 322 634 2222, Fax: +90 322 634 2323, Telex: 63840 TORS TR
+Contact Name: Mr. Mehmet PUSAT / PFSO - Email: mehmet.pusat@toros.com.tr
+19
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 20/29
+F: +90 322 634 23 23
+20
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 21/29
+F: +90 322 634 23 23
+21
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 22/29
+F: +90 322 634 23 23
+22
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 23/29
+F: +90 322 634 23 23
+23
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 24/29
+F: +90 322 634 23 23
+24
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 25/29
+F: +90 322 634 23 23
+APPENDIX 3
+BERTH 1 PARTICULARS FOR TANKERS
+BERTH NO 1
+BERTH POSITION 36° 54’ 26’’ N - 035° 59’ 02’’ E
+MINIMUM WATER DEPTH IN APPROACHES 14 meters
+UNDER KEEL CLEARENCE IN APPROACHES 3 meters
+UNDER KEEL CLEARENCE ALONGSIDE 0,5 meter
+MAXIMUM DRAFT PERMITTED 10,50 meters Even Keel
+MAXIMUM DWT PERMITTED 40.000 dwt
+MAXIMUM LENGTH OVERALL 185 meters
+MINIMUM LENGTH OVERALL 40 meters
+MINIMUM PARALLEL BODY LENGTH 35 meters
+MAXIMUM BEAM ALLOWED No restriction
+MAXIMUM BOW TO MANIFOLD DISTANCE 110 meters
+MAXIMUM STERN TO MANIFOLD DISTANCE 100 meters
+MAXIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 14 meters
+MINIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 2 meters
+Crude Oil, Gasoline, Kerosen, Fuel oil,
+PRODUCTS HANDELED* Gas oil
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE* 10 inches*150 ASA flange
+PRODUCTS HANDELED** Phosphoric Acid
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE** 1* 8 inches*150 ASA flange and
+1*10 inches *150 ASA flange
+IS BERTH EQUIPPED WITH A VAPOR RECOVERY
+SYSTEM NO
+MINIMUM SWL OF VESSEL'S CRANE/DERRICK
+REQUIRED 3 mton
+25
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 26/29
+F: +90 322 634 23 23
+BERTH 2 PARTICULARS FOR TANKERS
+BERTH NO 2
+BERTH POSITION 36° 54’ 26’’ N - 35° 59’ 02’’ E
+MINIMUM WATER DEPTH IN APPROACHES 15 meters
+UNDER KEEL CLEARENCE IN APPROACHES 4 metres
+UNDER KEEL CLEARENCE ALONGSIDE 0,5 meter
+MAXIMUM DRAFT PERMITTED 11,50 meters Even Keel
+MAXIMUM DWT PERMITTED 40.000 dwt
+MAXIMUM LENGTH OVERALL 212 meters
+MINIMUM LENGTH OVERALL 40 meters
+MINIMUM PARALLEL BODY LENGTH 35 meters
+MAXIMUM BEAM ALLOWED No restriction
+MAXIMUM BOW TO MANIFOLD DISTANCE 110 meters
+MAXIMUM STERN TO MANIFOLD DISTANCE 100 meters
+MAXIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 14 meters
+MINIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 2 meters
+PRODUCTS HANDELED* Crude Oil, Gasoline, Kerosen
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE* 10 inches*150 ASA flange,
+PRODUCTS HANDELED** Ammonia, Phosphoric Acid
+1*8 inches*300 ASA flange, 1* 8
+inches*150 ASA flange and
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE**
+1*10 inches *150 ASA flange,10 inches*
+DN200,1*8 inches ANSI
+IS BERTH EQUIPPED WITH A VAPOR RECOVERY
+SYSTEM NO
+MINIMUM SWL OF VESSEL'S CRANE/DERRICK
+REQUIRED 3 mton
+26
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 27/29
+F: +90 322 634 23 23
+BERTH 6-7 PARTICULARS FOR TANKERS
+BERTH NO 6-7
+BERTH POSITION 36° 54’ 47’’ N - 35° 59’ 29’’ E
+MINIMUM WATER DEPTH IN APPROACHES 12 meters
+UNDER KEEL CLEARENCE IN APPROACHES 1 meters
+UNDER KEEL CLEARENCE ALONGSIDE 0,50 meters
+F:9,50 m - A: 10,50 m /
+MAXIMUM DRAFT PERMITTED
+If Even Keel: 9,50m
+MAXIMUM DWT PERMITTED 40.000 dwt
+MAXIMUM LENGTH OVERALL 190 meters
+MINIMUM LENGTH OVERALL 50 meters
+MINIMUM PARALLEL BODY LENGTH 40 meters
+MAXIMUM BEAM ALLOWED No restriction
+MAXIMUM BOW TO MANIFOLD DISTANCE 110 meters
+MAXIMUM STERN TO MANIFOLD DISTANCE 100 meters
+MAXIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 14 meters
+MINIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 1 meters
+Stryen monomer, Caustic Soda, LAB,
+Methanol, Phosphoric Acid, and Edible
+PRODUCTS HANDELED* oils.
+8 inches*150 ASA flange for C. soda
+10 inches*150 lbs flange for S.
+Monomer
+8 inches*150 ASA flange for Chemicals
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE* 8 inches*150 ASA flange for Chemicals
+8 inches*200 for Vegetable Oil,
+10 inches*150 ASA flange for
+Chemicals
+IS BERTH EQUIPPED WITH A VAPOR RECOVERY
+SYSTEM NO
+MINIMUM SWL OF VESSEL'S CRANE/DERRICK
+REQUIRED 3 mton
+27
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 28/29
+F: +90 322 634 23 23
+BERTH 9-10 PARTICULARS FOR TANKERS
+BERTH NO 9-10
+BERTH POSITION 36° 54’ 18’’ N - 35° 59’ 11’’ E
+MINIMUM WATER DEPTH IN APPROACHES 15 meters
+UNDER KEEL CLEARENCE IN APPROACHES 4 metres
+UNDER KEEL CLEARENCE ALONGSIDE 0,5 meter
+max.Fwd 16,50 max.Aft.15,50
+MAXIMUM DRAFT PERMITTED Even Keel 15,50 meters
+MAXIMUM DWT (DT) PERMITTED 80.000 dwt (104.557 DT)
+MAXIMUM LENGTH OVERALL 235 meters
+MINIMUM LENGTH OVERALL 40 meters
+MINIMUM PARALEL BODY LENGTH 15 meters
+MAXIMUM BEAM ALLOWED No restriction
+MAXIMUM BOW TO MANIFOLD DISTANCE 120 meters
+MAXIMUM STERN TO MANIFOLD DISTANCE 110 meters
+MAXIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 17 meters
+MINIMUM HEIGTH OF MANIFOLD ABOVE
+WATER LEVEL 4 meters
+PRODUCTS HANDELED* Paraxylene
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE* 10 inches*150 ASA flange,
+PRODUCTS HANDELED** Chemicals
+1*8 inches*300 ASA flange, 1* 8
+inches*150 ASA flange and
+TO BE VESSEL'S MANIFOLD DISCHARGE SIZE**
+1*10 inches *150 ASA flange,10 inches*
+DN200,1*8 inches ANSI
+IS BERTH EQUIPPED WITH A VAPOR RECOVERY
+SYSTEM NO
+MINIMUM SWL OF VESSEL'S CRANE/DERRICK
+REQUIRED 3 mton
+28
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 29/29
+F: +90 322 634 23 23
+29
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 30/29
+F: +90 322 634 23 23
+30
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 31/29
+F: +90 322 634 23 23
+31
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 32/29
+F: +90 322 634 23 23
+Appendix5: Ammonia Arm Operating Envelope
+32
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 33/29
+F: +90 322 634 23 23
+33
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 34/29
+F: +90 322 634 23 23
+34
+DOKÜMAN NO TRM-KE-002
+TERMINAL INFORMATION AND PORT REGULATIONS REVİZYON NO 6
+YAYIM TARİHİ 01.01.2015
+Sarımazı Mah. Botaş Yolu Cad.
+No:56 01920 Ceyhan / Adana
+T: +90 322 634 22 22 /244 SAYFA NO 35/29
+F: +90 322 634 23 23
+Kontrollü Kopya Sayısı
+Tarih Rev. No Rev. Tarihi Rev. Nedeni Dağıtım Yapılan
+Miktar
+Sorumlu
+Gözden Geçirme
+03.03.2015 1 03.03.2015
+Nedeniyle
+Gözden Geçirme
+22.06.2015 2 22.06.2015
+Nedeniyle
+Gözden Geçirme
+17.03.2016 3 17.03.2016
+Nedeniyle
+Amonyak dolum kolu
+21.11.2016 4 21.11.2016
+çalışma aralığı eklendi.
+Public days, cargo
+handling equipment ve
+07.12.2016 5 07.12.2016
+liquid unloading/loading
+kısımları güncellendi.
+Garbage ve Waste
+30.01.2017 6 30.01.2017 Reception Facilities
+kısımları güncellendi.
+Terminalin İskenderun
+Liman Başkanlığı’na
+bağlanması sonucu değişen
+10.08.2017 7 10.08.2017 demirleme sahaları , pilot
+istasyonları , römorkaj ve
+pilotaj
+hizmetleri,güncellendi
+İskele 9-10’ ait bilgiler
+24.05.2024 8 24.05.2024
+eklenmiştir.
+35

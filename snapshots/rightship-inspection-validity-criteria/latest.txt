@@ -1,0 +1,112 @@
+RightShip Help Centre
+RightShip Inspections
+RightShip Inspection Validity Criteria
+To optimise consistency in the review and close-out of inspections, a validity matrix is applied as referenced in the final inspection report. This matrix is a method to determine the validity of RightShip inspections based on three elements:
+1) the severity of findings
+2) the number of findings
+3) the quality of the close-out submission (see:
+How RightShip Assesses Quality and Acceptability of Close Out Submissions)
+RightShip acknowledges that the assessment of any single unique finding will contain an element of subjectivity given variables that exist across vessels, risk assessment, and even where such assessments are validated by highly experienced individuals. With a view to minimise impacts of subjectivity, RightShip incorporates a peer review process so that the elements affecting the final inspection outcome are duly assessed.
+Note: As of 17 June 2026, RightShip removed the automatic impact of Show-stopper findings on Safety Scores and inspection outcomes. Moving forward, all findings will be assessed through RightShip's established findings severity methodology and assigned a Low, Medium or High severity rating. Inspection outcomes and findings from inspections closed prior to this date remain unchanged and continue to be reflected in accordance with the methodology in place at the time of inspection.
+Severity of Findings:
+RightShip applies a consistent severity framework to all inspection findings, classifying each as High, Medium, or Low severity based on its potential impact on vessel safety and environmental risk.
+This approach is aligned with the severity definitions used for Port State Control (PSC) Inspection deficiencies and supports a consistent, risk-based assessment across both PSC and RightShip Inspections.
+Severity Definitions
+High Severity
+Findings that pose a clear danger to the vessel or persons on board, or present an unreasonable threat of harm to the marine environment if not addressed.
+Medium Severity
+Findings that do not pose an immediate danger, but represent a meaningful weakness in controls, procedures, or practices that could lead to increased risk if not addressed.
+Low Severity
+Findings that are minor in nature or administrative in scope, with minimal or no impact on the safety of the vessel, crew, or environment.
+How Severity is Applied
+Severity reflects the nature and potential impact of each finding, recognising that not all findings carry the same level of risk.
+This framework is applied consistently across all findings, regardless of whether they relate to regulatory requirements or industry practices.
+The use of a common severity approach across PSC and RightShip Inspections supports greater transparency, consistency, and comparability in how inspection outcomes are assessed.
+Number of findings:
+RightShip considers the number of findings identified during an inspection as part of its overall review process and validity assessment. A higher or lower than expected number of findings may indicate differences in vessel condition, inspection scope, or the effectiveness of the vessel’s Safety Management System (SMS).
+Rather than relying on fixed thresholds, the number of findings is assessed contextually alongside other inspection factors, including the nature, severity, and distribution of findings across RISQ sections.
+Industry-level trends and average findings are monitored and shared separately through RightShip publications and Insight Reports, and may vary over time.
+Inspection Validity Matrix
+A.
+Good Close-out Submission:
+12 Months Validity
+9 Months Validity
+6 Months Validity
+3 Months Validity
+Unacceptable
+≤ 23 low/medium risk findings with up to 1 high-risk finding.
+> 23 low/medium risk findings with 0 high-risk findings.
+≤ 23 low/medium risk findings with 2 high-risk findings.
+> 23 low/medium risk findings with 1 high-risk finding
+≤
+23 findings with 3 high-risk findings.
+> 23 low/medium risk findings with 2 high-risk findings.
+≤ 23 low/medium risk findings with up to 6 high-risk findings.
+> 23 low/medium risk findings with 3-6 high-risk findings.
+> 6 high-risk findings.
+B.
+Average Close-out Submission:
+12 Months Validity
+9 Months Validity
+6 Months Validity
+3 Months Validity
+Unacceptable)
+≤ 23 low/medium risk findings with 0 high-risk finding.
+≤ 23 low/medium findings with 1 high-risk finding.
+> 23 low/medium findings with 0 high-risk finding.
+≤ 23 low/medium risk findings with 2 high-risk findings
+> 23 low/medium risk findings with 1 high-risk finding
+≤ 23 low/medium risk findings, with 3 high risk findings.
+> 23 low/medium risk findings with 2 high-risk findings.
+> 23 low/medium risk findings with 3 or more high-risk findings
+C.
+Poor Close-out Submission:
+12 Months Validity
+9 Months Validity
+6 Months Validity
+3 Months Validity
+Unacceptable
+Nil.
+≤ 23 low/medium risk findings with 0 high-risk findings.
+≤ 23 low/medium risk findings with 1 high-risk finding.
+> 23 low/medium risk findings with 0 high-risk finding
+≤ 23 low/medium risk findings with 2 high-risk findings
+> 23 low/medium risk findings with 1 high-risk finding
+> 23 low/medium risk findings with 2 or more high risk findings
+ADDITIONAL NOTES
+Where several low or medium risk findings are identified within the same RISQ section, this may indicate an underlying weakness in the vessel’s Safety Management System (SMS) for that area.
+In particular, RightShip are currently placing additional emphasis on Section 3 (Navigation) and Section 13 (Machinery Space). For these sections, clusters of low and/or medium risk findings will be considered collectively, such that one in every four low and/or medium risk findings may be treated equivalently to a single high risk finding during evaluation.
+Attempted bribery of any Inspector performing a RightShip Inspection will result in an inspection being recorded as UNACCEPTABLE.
+Getting started
+Customer Data Usage
+Safety Score
+Vetting & Vessel Risk Evaluation Workflow Products
+About RightShip Vetting
+Vet Request, Tracking and RFI Process
+Due Diligence Hub
+Screening (Trade Check)
+RightShip Inspections
+RightShip Inspection Report Access
+RightFLEET
+PSC RiskIQ
+Fleet Focus
+Document Management Centre
+Forms
+Commercial IQ
+LSEG Sanctions Check
+Crew Welfare Self-Assessment Tool
+List and Alerts
+Feedback Report (FBR)
+Zero Harm Innovation Partners Program
+Pre-Arrival Check
+APIs
+API Access & Authentication
+Platform Integration API
+Data Exchange API
+Environmental Review
+GHG Rating Standard
+Submitting Documentation
+CII Rating on RightShip Platform
+Energy Saving Devices
+Maritime Emissions Portal
+Management Audit

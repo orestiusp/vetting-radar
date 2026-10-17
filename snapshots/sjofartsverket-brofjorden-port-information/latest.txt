@@ -1,0 +1,138 @@
+Find on page
+Brofjorden
+Information concerning Brofjorden.
+Boarding Positions
+Boarding position 1 sw of Brofjorden approach for vessels <20 000tdw
+Boarding position 2 sw of Brofjorden approach for vessels >20 000tdw
+Fairways
+Fairway
+Max Draught
+Brofjorden approach to Crudeoil jetty
+25m
+Brofjorden approach to Product jettys
+14,4m
+Wind and Visibility restrictions
+Visibility restrictions
+For vessels of 30 000dwt and more the visibility shall be 0,5nm or more.
+For vessels with assistance of escort tug the visibility shall be minimum 2.0nm on arrival and minimum 1,5nm on departure.
+For arriving vessels of 200 000dwt or more Lindholmen leading lights shall be visible when passing Brofjorden approach buoy. On departure from crude oil jetty the visibility shall be minimum 2.0nm.
+Wind and wavehight restrictions
+General recommendations.
+Vessels sailing in Brofjorden fairway are recommended to take into consideration the time for weather-improvement if the average wind is 18 m/s or more from south over west to north.
+If the mean wind is 25m/s or more from south over west to north the Brofjorden fairway should only be used if really necessary
+Vessels compulsory to use escort tug:
+When the average wind exceeds 18m/s in direction from south over west to north, the escort service will be suspended.
+If the significant wave height is 3,0m or more, the escort service will be suspended.
+Crude oil vessels:
+Arrival: The escort service will be suspended if the average wind is 15,0m/s or more, or if the significant wave height is 3,0m or above.
+Departure: The escort service will be suspended if the average wind is 15,0m/s or more with directions from south over west to north, or if the significant wave height is 3,0m or above.
+Departure from crude oil jetty with vessels of 270 000 tdw and above:
+For wind with average force up to 12m/s, number of Tugs shall be as stipulated in Preem document H5, version 3.0
+For Wind with average force above 12m/s up to 15m/s number of tugs shall be at least 5. All tugs shall be of push/pull type and have a bollard pull of at least 50t.
+The agent or the vessel is responsible for ordering tugs. As assessment base to decide amount of tugs to order, SMHI Bizmet point forecast for W Lysekil may be used. For wind force shall Sjöfartsverkets wind gauge at the lighthouse Tån be used.
+The Pilot and the Master of the vessel will always do a safety judgment together for safe departure and ship handling. The judgment includes present current, wind character/situation, increasing or decreasing wind force, visibility, vessels performance ability etc. which can lead to deviations from these rules.
+Reference data for wind and waves:
+Wind: Sjöfartsverkets wind gauge at the lighthous Tån
+Waves: Wave measuring buoy at situated close to Brofjorden approach buoy
+If the wave measuring buoy is out of service: SMHI forecast Bizmet for station west Lysekil (significant wave hight)
+Two Pilots
+In Brofjorden shall two pilot´s performe pilotage under the following circumstances:
+LOA 260m or 40m beam and over.
+Exception:
+Preem product harbour LOA 200m or 35m and over.
+Tug Regulations for the product harbour
+The table below presupposes that vessels are modernly equipped according to vessel size. This means that the vessels should have adjustable propeller-/rudder system and thruster suitable for the vessel size. Ship's equipment level is assessed by pilots.
+The table below assumes that the two tugs that normally serve the Brofjord (or equivalent Preemraff-approved tractor tugs, also applies to boats of ASD type) are used as boat 1 & boat 2.
+If a vessel has variable dwt the maximum dwt shall always be applied when to decide how many tugs shall be used.
+Vessel DW
+Tugs on Arrival
+Tugs on Departure
+0 - 20 000
+0
+0
+20 001 - 30 000
+1
+1
+30 001 - 50 000
+2
+2
+> 50 000
+3
+3
+For vessels DWT <55 000: In exceptional cases, if a conventional tugboat is used, it shall have a towing capacity of at least 38 tonnes and may be used as boat 2 on departure.
+For vessels DWT> 55 000: In exceptional cases, if a conventional tugboat is used, it shall have a towing capacity of at least 38 tonnes and may be used as boat 3 on departure.
+More tugs are used if the pilot / master in consultation so decides.
+Clarification
+Normally vessel < 20 000 DWT are equipped as prescribed above. If not, one tug should be used both on arrival and departure.
+Vessel 20 000 - 30 000 DWT are normally also equipped as prescribed above. If not, the number of tugs shall be increased to two upon arrival.
+Vessel > 30 000 DWT are usually not equipped as above and will for that reason normally apply with the table above.
+Granting of exemptions
+For vessels with equipment "out of the ordinary" (eg side propellers for and aft, becker-rudder or similar), has a possibility to deviate from these rules.
+In order to obtain a permit to deviate from regulations in accordance with the above, the vessel must be tested by a pilot from Brofjorden at the request from agent or the master of the vessel. The master of the vessel shall be informed that the vessel shall be tested for the exception of tugs.
+Requests for exemptions must be sent to the DI-hamn (the port operations engineer). Permission to deviate from the regulations can only be granted after a first call to Brofjorden has been made and the vessel has been judged after trial to be able to call at / depart from the quay in wind speeds of 10 m / s without assistance, or with a reduced number of tugs. The vessel must with its own engine have been judged to be able to handle this regardless of wind direction, for or aft in, starboard or port to the quay.
+When a vessel is to be tested 2 pilots shall be onboard.
+All deviations, granted exemptions, must be entered in the list (by DI-hamn) of vessels with special tugboat requirements (more or less number of tugboats in relation to the table above). In the absence of DI-hamn, a temporary permit for deviation from regulations can be given by his replacement.
+A permit regarding a reduction in the number of tugboats presupposes that the above-mentioned equipment is in operation at each individual occasion.
+A direct consequence of these guidelines being taken into consideration at an early stage, ie. already at the time of the pilot order, there are minimized delay risks and that the quick setting fees for tugboats will be as few as possible.
+Specific demands for LPG vessel
+LPG vessel without pitch propeller and bow thruster shall use tractor tug on arrival and tugboat on departure.
+Regulations in case of bad weather and in case of problems on the ship's normal maneuvering equipment
+To protect Preemraff Lysekil's quays and equipment and to improve the conditions for a safe mooring, Preemraff Lysekil requires that under the following conditions, a tugboat must be used for mooring in the product port. When a tugboat is used, the main rule is that the pilot must be on board the ship. Deviations from this rule can be made when there is an "emergency" or "other danger" and a tugboat is called by the ship's commander, ASC / Loadingmaster or his replacement.
+If the ship has a non-functioning bow thruster or any fault in other maneuvering equipment that affects the ship's ability to maneuver, no dispensation applies, the conditions are different than they were when the dispensation was granted.Tugboat must then always be used on both arrival and departure from the quay according to current regulations.
+The agent shall confirm to the VTS / Lysekil Pilot that all the ship's maneuvering equipment can be used without restrictions during the entire call so that the correct number of tugboats is ordered.
+When mean wind exceeds 15m/s, vessels 15001 - 30000 tdw shall use 1 more tug than they normally have to use. The maximum number of tugs that has to be used are 2. Sjöfartsverkets wind gauge at Tån is to be used
+Tug Regulations for the crude oil jetty
+Vessel DW
+Tug Arrival
+Tug Departure
+20 000 - 30 000
+2
+1
+30 000 - 60 000
+2
+2
+60 000 - 100 000
+3*
+2
+100 000 - 175 000
+4**
+2
+175 000 - 275 000
+5
+3
+275 000 - 425 000
+6
+4***
+> 425 000
+7
+4***
+*) At least 1 tug of type tractortug, otherwise increase with 1 tug.
+**) At least 2 tugs shall be of tractortug type.
+**) At least 3 tugs shall be of tractortug type. One tractortug can be replaced by 2 conventional tugs. The tugs BP shall be at least 38 tons for 1 of the tugs and at least 33 tons BP each for remaining tugs.
+***) By departure with tankers with a DW of 270´or more, it is recommended that 1 additional tug shall be used if the wind is over 12m/s.
+For vessel with special equipment, deviation from the above described table may occur.The number of tugs can always be increased if captain or pilot so prescribe.
+If vessels wish to deviate from the above table, this must be stated when ordering a pilot
+At the first-call / test mooring of a vessel with special operating equipment, at least two tugboats must always be used both on arrival and departure. When testing, 2 pilots shall be on board. In order to change the requirement for two or more tugboats to the upcoming call for the current vessel, brokers can apply to Preemraff Lysekil. For some vessels, the tugboat requirements can also be tightened.
+A direct consequence of considering these guidelines at an early stage, ie. Already at the time of the pilot order, there are minimized delay risks and that quick-setting fees for tugboats will be as few as possible.
+Escort towing
+The use of escorting tugboat is under specific circumstances compulsory for tankers entering ports in the Traffic Area. A special kind of tugboat shall then be connected to the tanker from the port's approach points until the position where the normal harbour towing begins.
+In order to increase safety, escort towing is compulsory for following vessels:
+All crude oil tankers*, both loaded and in empty conditions.
+Product tankers, full or partly loaded (but not empty) over 20 000 DW (by DW means metric tonnes deadweight at summer draft).
+*With crude oil tankers means ships on their way to or from crude oil quay.
+Escort towing shall start on vessels arrival at Brofjorden approach buoy.
+On departure escort towing shall proceed to buoys No. 1/No. 2.
+Recommendations and other restrictions in connection with escort:
+When escorted crude oil vessels are between the bouys number 1 and 2 and a line between Hästebådans buoy and Kornögrundets buoy it is recommended that no meeting or overtaking occurs.
+When other ships are escorted in this part of the fairway it is recommended that meetings and overtaking is done with great caution.
+When a laden ship with DW greater than the escort tow´s tons steeringpull according to IMO Guidlines on Steering Pulls, in additional, a non-connected escort tug should be available in the fairway for rapid deployment.
+Anchorage Area
+About 4 NM sothwest of Brofjorden Approach there is an anchorage area for larger vessels. Depth abt 60m.
+East of Bohus-Malmön island there are 4 anchorage positions (A-D). Depth abt 30m.
+West and East of Lindholmen island are 2 anchorage positions (F & G). Depth 25 – 30m.
+By Fiskebäcksvikthere there is 1 anchorage area (H). Depth 25-30m.
+Further information
+For further information about harbours in Brofjorden conntact the harbour installation.
+Preem
+Last updated
+2021-02-27

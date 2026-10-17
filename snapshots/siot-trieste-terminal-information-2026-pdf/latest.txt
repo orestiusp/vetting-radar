@@ -1,0 +1,2024 @@
+SIOT Marine Receiving Facilities
+Trieste – Italy
+TERMINAL INFORMATION and
+PORT REGULATIONS
+Revision 6th in force from 1st September 2026
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 2 of 93
+COMPLIANCE NOTICE
+Please Note:
+There is a minimum requirement at this terminal that all vessels
+should comply at all times to International Regulations (as
+S.O.L.A.S., ISPS code, FSS, MARPOL, IGS and so on) and in all
+respects with the latest edition of the following industry
+publications:
+OCIMF: “International Safety Guide for Oil Tankers & Terminals”
+(ISGOTT).
+“Mooring Equipment Guidelines” (MEG).
+“Recommendations for Oil and Chemical Tanker
+Manifolds and Associated Equipment”.
+If any non-compliance with the recommendations contained in the
+said publications is identified, whether prior to, during or after
+cargo operations, then the terminal reserves the right, at their
+absolute discretion, to (without limitation):
+• reject the vessel;
+• cease operations;
+• suspend operations;
+• remove the vessel from the berth;
+• refuse completion of the intended operation; or
+• require attendance of and or assistance from marine or cargo
+expert(s) acceptable to the terminal.
+All loss of time, costs and expenses associated with the terminal
+exercising its rights, as set out above, shall be for the vessel's
+account.
+The aforesaid shall be without prejudice to any rights the terminal
+may otherwise have, pursuant to the contents of this Terminal
+Information and Port Regulations booklet.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 3 of 93
+REV. DATE REV. ITEM
+01 October 2011 New Edition
+02 February 2015 Revision – into force from 1st March, 2015
+03 February 2019 Revision – into force from 1st April, 2019
+04 May 2022 Revision – to come into force on 1st June, 2022
+05 May 2025 Revision – to come into force on 1st June, 2025
+06 July 2026 Revision – to come into force on 1st September, 2026
+Master-Doc: Owner: Dr. Fabrizio Stein
+Author Approved and released
+Date: 27th July 2026 27th July 2026
+Department: M.F. SUPERINTENDENT TAL OP MANAGER
+Name: Dr. Fabrizio Stein Ing. Massimo Diminich
+Signature:
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 4 of 93
+Contents
+1.0 WARNINGS .............................................................................................................................................. 7
+2.0 GENERAL ................................................................................................................................................. 8
+2.1. INTRODUCTION/SCOPE ..................................................................................................................................... 8
+2.2. OWNERSHIP ................................................................................................................................................... 8
+2.3. COMPANY ADDRESS ......................................................................................................................................... 8
+2.4. LIABILITY ........................................................................................................................................................ 9
+2.5. JURISDICTION .................................................................................................................................................. 9
+2.6. GENERAL INFORMATION ................................................................................................................................... 9
+2.7. LIST OF ABBREVIATIONS .................................................................................................................................. 11
+3.0 COMMUNICATION .................................................................................................................................13
+3.1. PRE-ARRIVAL INFORMATION ............................................................................................................................ 13
+3.2. COMMUNICATIONS IN ROADS .......................................................................................................................... 13
+3.3. COMMUNICATIONS ALONGSIDE (NOTICE 1)........................................................................................................ 13
+4.0 HSSE .......................................................................................................................................................14
+4.1. HEALTH ....................................................................................................................................................... 14
+4.2. SAFETY ........................................................................................................................................................ 15
+4.3. SECURITY ..................................................................................................................................................... 17
+4.4. ENVIRONMENT .............................................................................................................................................. 18
+5.0 MISCELLANEOUS ....................................................................................................................................21
+5.1. MOORING SERVICE ........................................................................................................................................ 21
+5.2. SHIPS PROPULSION AND BOW THRUSTERS .......................................................................................................... 21
+5.3. INSPECTIONS ................................................................................................................................................. 21
+5.4. SHIP’S STORES AND PROVISIONS ....................................................................................................................... 21
+5.5. FRESH WATER............................................................................................................................................... 22
+5.6. BUNKER OPERATIONS ..................................................................................................................................... 22
+6.0 NAVIGATION ..........................................................................................................................................23
+6.1. LOCATION (CHARTS) ...................................................................................................................................... 23
+6.2. APPROACHES ................................................................................................................................................ 23
+6.3. CLIMATE ...................................................................................................................................................... 23
+6.4. ANCHORAGE ................................................................................................................................................. 24
+6.5. PILOTS ......................................................................................................................................................... 24
+6.6. TUGS........................................................................................................................................................... 24
+6.7. TRAFFIC OBSTRUCTIONS.................................................................................................................................. 24
+7.0 ACCEPTANCE ..........................................................................................................................................25
+7.1. SHIPS SCREENING, ACCEPTANCE AND NOMINATION............................................................................................... 25
+7.2. PRE-MOORING SAFETY INSPECTION .................................................................................................................. 25
+7.3. UKC POLICY ................................................................................................................................................. 27
+7.4. DIMENSIONAL CRITERIA: ................................................................................................................................. 28
+7.5. MOORINGS .................................................................................................................................................. 28
+7.6. BERTH OCCUPANCY........................................................................................................................................ 31
+8.0 CARGO HANDLING .................................................................................................................................33
+8.1. MANNING LEVELS .......................................................................................................................................... 33
+8.2. BERTH INFORMATION ..................................................................................................................................... 33
+8.3. UNLOADING ARMS ........................................................................................................................................ 33
+8.4. SHIP’S MANIFOLD .......................................................................................................................................... 34
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 5 of 93
+8.5. CLOSED OPERATIONS ..................................................................................................................................... 34
+8.6. CARGO DISCHARGE ........................................................................................................................................ 34
+8.7. CARGO SURVEYOR/EXPEDITOR ......................................................................................................................... 35
+8.8. ENVIRONMENTAL CRITERIA .............................................................................................................................. 35
+8.9. SAMPLING .................................................................................................................................................... 36
+8.10. ISGOTT 6 SHIP/SHORE SAFETY CHECK LIST AND PRE CARGO TRANSFER CONFERENCE ............................................... 36
+8.11. CRUDE OIL WASHING ..................................................................................................................................... 37
+8.12. CARGO FREE WATER DISPOSAL ........................................................................................................................ 38
+8.13. END OF DISCHARGE ....................................................................................................................................... 38
+8.14. TANKS INSPECTION ON SAILING ........................................................................................................................ 38
+8.15. CARGO DOCUMENTS ...................................................................................................................................... 38
+8.16. SIOT DOCUMENTS ........................................................................................................................................ 39
+9.0 DRAWINGS, EXAMPLES, FORMS ETC. .....................................................................................................40
+9.1. ANCHORAGES, CHANNEL & HARBOUR PLAN ....................................................................................................... 40
+9.2. TERMINAL LAYOUT......................................................................................................................................... 42
+9.3. SAFETY PLAN (JETTY) ...................................................................................................................................... 43
+9.4. SAFETY PLAN (PLATFORM) .............................................................................................................................. 45
+9.5. FIRE MONITOR COVERAGE .............................................................................................................................. 46
+9.6. ESCAPE WAY ................................................................................................................................................ 47
+9.7. BUBBLE BARRIERS AND OIL SPILL DETECTION SYSTEM ........................................................................................... 48
+9.8. MOORING POINTS ......................................................................................................................................... 49
+9.9. SHIP’S MOORING ARRANGEMENT DIAGRAM....................................................................................................... 50
+9.10. MOORING DATA COLLECTION FORM ................................................................................................................. 51
+9.11. OPTIMOOR® MOORING ANALYSIS (EXAMPLES) ................................................................................................. 52
+9.12. MOORING ARRANGEMENTS (PIER NO 1) ........................................................................................................... 54
+9.13. MOORING ARRANGEMENTS (PIER NO 2) ........................................................................................................... 55
+9.14. EMERGENCY TOWING OFF PENNANTS ............................................................................................................... 56
+9.15. VSL’S WINDAGE AREAS .................................................................................................................................. 57
+9.16. WORKING RANGE DIAGRAM (BERTHS 1 & 3) ..................................................................................................... 58
+9.17. WORKING RANGE DIAGRAM (BERTH 2) ............................................................................................................. 59
+9.18. WORKING RANGE DIAGRAM (BERTH 4) ............................................................................................................. 60
+9.19. REQUEST FOR PERMIT OF TEMPORARY ACCESS TO THE MARINE TERMINAL ............................................................... 61
+9.20. PERMIT OF TEMPORARY ACCESS TO THE MARINE TERMINAL .................................................................................. 62
+9.21. MOVEMENT OF GOODS .................................................................................................................................. 63
+9.22. MOVEMENT OF PERSONS ................................................................................................................................ 64
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 6 of 93
+APPENDICES
+APPENDIX 1 – SAFETY LETTER AND BOOKLET RECEIPT
+APPENDIX 2 – THE SHIP/SHORE SAFETY CHECK-LIST & SUPPLEMENTARY NOTES
+APPENDIX 3 – CARGO DISCHARGE PRELIMINARY AGREEMENT
+APPENDIX 4 – SHIP’S PRE ARRIVAL MESSAGE - 72 HOURS NOTICE – REQUEST TO PERFORM COW
+APPENDIX 5 – COW - PROCEDURE - CERTIFICATE TO HARBOUR MASTER FROM REGISTRATION BODY
+APPENDIX 6 – COW - PROCEDURE - CERTIFICATE TO HARBOUR MASTER FROM PORT CHEMIST
+APPENDIX 7 – COW - PROCEDURE - AUTHORISATION TO PROCEED
+APPENDIX 8 – PRE MOORING INSPECTION CHECKLIST
+APPENDIX 9 – DRAUGHT CHECK FORM
+APPENDIX 10 – TAC REPORT EXAMPLE
+APPENDIX 11 – TERMINAL MOORING LINES SAFETY AND MAINTENANCE CRITERIA QUESTIONNAIRE
+NOTICES
+NOTICE 1 – COMMUNICATION NOTICE
+NOTICE 2 – INSTRUCTIONS IN CASE OF FIRE OR EMERGENCY
+NOTICE 3 – INSTRUCTIONS IN CASE OF VESSEL DRIFT OFF
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 7 of 93
+1.0 WARNINGS
+SMOKING
+SMOKING IS STRICTLY PROHIBITED IN THE TERMINAL, ON THE JETTY AND ON BOARD
+VESSELS ALONGSIDE (THE RESTRICTED AREA), EXCEPT IN THOSE ENCLOSED
+SPACES ON BOARD THE VESSEL SPECIFICALLY DESIGNATED BY THE MASTER AND
+TERMINAL SUPERVISOR (OR HIS DESIGNATED REPRESENTATIVE) AS SMOKING
+AREAS. FAILURE TO COMPLY WITH THESE REGULATIONS WILL INVOLVE CESSATION
+OF OPERATIONS AND MAY RESULT IN THE VESSEL BEING INSTRUCTED TO VACATE
+THE BERTH PENDING A COMPLETE INVESTIGATION AND RECEIPT OF WRITTEN
+ASSURANCE FROM THE MASTER THAT EFFECTIVE CONTROL HAS BEEN ESTABLISHED.
+SIOT RESERVES THE RIGHT, IN UNUSUAL CIRCUMSTANCES, TO PROHIBIT SMOKING
+AT ANY TIME AND IN ANY PLACE.
+ALCOHOL/DRUGS
+MASTERS ARE ADVISED THAT OPERATIONS WILL CEASE, IF THE ACTIONS OF A
+PERSON OR PERSONS INVOLVED IN OPERATIONS ARE NOT UNDER PROPER CONTROL
+AS A RESULT OF THE SUSPECTED USE OF ALCOHOL AND/OR DRUGS.
+OPERATIONS WILL NOT RESUME UNTIL THE MATTER HAS BEEN REPORTED TO AND
+FULLY INVESTIGATED BY RELEVANT AUTHORITIES AND THE COMPANY CONSIDER IT
+SAFE TO DO SO. DELAY OR CANCELLATION OF THE VESSEL’S DEPARTURE MAY
+RESULT AND ALL COSTS ASSOCIATED WITH THIS DELAY WILL BE BORNE BY THE
+VESSEL.
+ACCESS TO THE TERMINAL FOR A PERSON OR PERSONS SIMILARILY AFFECTED BY
+ALCOHOL AND/OR DRUGS WILL BE DENIED (SEE SECTION 4.1.2).
+POLLUTION
+IT IS AN OFFENCE TO:
+• SPILL OIL OR ANY OTHER POLLUTANT SUBSTANCES
+• DUMP GARBAGE
+• EMIT EXCESSIVE FUNNEL SMOKE
+• RELEASE TO THE ATMOSPHERE ANY HAZARDOUS GAS
+ALL INCIDENTS WILL BE INVESTIGATED AND PROSECUTION COULD RESULT.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 8 of 93
+2.0 GENERAL
+2.1. Introduction/Scope
+This booklet is intended to acquaint owners, operators, charterers, agents, cargo
+surveyors/expeditors and masters of vessels with various details of the general conditions,
+facilities and availability of services at Trieste’s SIOT Marine Terminal. This booklet is not
+intended to take the place of or supersede any information, laws or regulations contained
+in any official publications with respect to the waters and areas to which it pertains.
+Reference should be made to the appropriate Hydrographic Office publications and charts
+as well as to all applicable regulations, laws or enactments which may be in force.
+Whilst the information contained in this booklet is intended generally to acquaint owners,
+operators, charterers, agents, cargo surveyors/expeditors and masters of vessels with the
+general conditions, facilities and services normally to be at the SIOT Marine Terminal,
+such information is provided without any guarantee or warranty on the part of SIOT as to
+its accuracy or completeness and SIOT do not assume, nor accept, any responsibility for
+the use of any information contained herein by any person. In all circumstances, the
+Master of the vessel shall remain solely responsible for the safety and safe navigation of
+his vessel and for compliance with all applicable laws, rules and regulations.
+2.2. Ownership
+The Transalpine Pipeline (TAL) is a joint venture of various mineral oil companies. Its
+purpose is to import, store and distribute crude oil to their refineries and tank farms in
+Austria, Germany and Czech Republic. For the operation and administration of the TAL
+installations in Germany, Austria and Italy three operating companies were founded:
+• Deutsche Transalpine Oelleitung GmbH., München
+• Transalpine Ölleitung in Österreich Ges.m.b.H., Kienburg
+• Società Italiana per l'Oleodotto Transalpino S.p.A., Trieste (SIOT)
+2.3. Company Address
+SIOT - Società Italiana per l'Oleodotto Transalpino S.p.A.
+Tankfarm Trieste
+Via Muggia, 1,
+San Dorligo della Valle
+34147 Trieste
+Tel: +39 040 3889 111
+E-Mail: siot@tal-oil.com
+Legal mail:siot.ufficioprotocollo@cert.assind.ts.it
+Website: www.tal-oil.com
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 9 of 93
+2.4. Liability
+2.4.1. SIOT's Liability
+Without prejudice to the following provisions, SIOT 's liability for damages sustained by
+the vessel, her cargo, Master, Officers, Crew and any person within the SIOT Port area,
+shall be subject to the Italian Law.
+Any damage or loss, in relation to which it is intended to file a claim for compensation with
+SIOT, must be submitted to SIOT's attention before the vessel leaves the port area or as
+soon as practicable thereafter, and, if possible, in the presence of a representative of SIOT
+and/or the claimant. This shall be confirmed in writing.
+2.4.2. Ship’s Liability
+Ship Owners shall be liable to SIOT for any damages and/or losses caused to SIOT by
+their ship, ship's crew or other persons under their command, unless they can prove that
+the damage was not caused by negligence on their own part or anyone else under their
+responsibility, and that, in addition, the damage was not attributable to a defective
+condition of their vessel or equipment.
+Vessels will not be allowed to sail before the Master has signed a” Statement of Fact” in
+relation to damages and/or losses caused to SIOT by said vessels, and the Master has
+confirmed the Ship Owner’s liability for said damages and/or losses, unless the Ship
+Owner cannot be held responsible by SIOT.
+In presence of any Master disclaimer (i.e. so called “Conditions of use” declarations) that
+could negatively influence the safety of the operations, the terminal reserves the right, at
+their absolute discretion, (without limitation) to reject the vessel, suspend or cease the
+operations and/or remove the vessel from berth.
+2.5. Jurisdiction
+The General Port Regulations are subject to Italian Law and all claims which may be filed
+by any of the parties are to be judged by a competent Italian Court.
+2.6. General Information
+2.6.1. Time
+The Terminal is operated 24 hours a day, 7 days a week. Vessels will be moored or
+unmoored at any hour, weather and other circumstances permitting.
+Local Time is GMT +1 hours or World Time Zone A (Summer time is applicable).
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 10 of 93
+2.6.2. SIOT/TAL Organisation
+TAL/SIOT
+CEO
+TECHNICAL PUBLIC FINANCE & HR & ORG.
+HSSE OPERATIONS ICT
+ASSETS RELATION CONTROLLING DEVELOP.
+MANAGER MANAGER MANAGER
+MANAGER MANAGER MANAGER MANAGER
+TECHNICAL PUBLIC FINANCE & HR & ORG.
+HSSE ICT
+ASSENTS RELATIONS CONTROLLING DEVELOP.
+DEPT. DEPT.
+DEPT. DEPT. DEPT DEPT.
+Terminal Op. Scheduling & Tank Farm &
+Superint. Planning Pipeline Op.
+PFSO Department Superint.
+2 x Assistants Coord. Tanker Assistant
+Pier Master Shift Laboratory
+Op. Superint. Schedulers TF & PL Op.
+DPFSO Coordinator Coordinator
+DPFSO Assistant Superint.
+Junior
+Pier Master Tanker Coordinator
+DPFSO System Tank Farm
+Schedulers Tank Farm
+Operator Operator
+Office Field
+Safety Antipollution Internal Tank Farm
+3x 5 x Fire 2 x Security
+Inspector patrolling Shuttle Bus Field
+Operators Guards Guards
+on board v essel(s) Driv ers Operators
+MARINE RECEIVING FACILITY TANK FARM FACILITY
+CRUDE OIL TRANSFER ORGANIZATIONAL STRUCTURE
+2.6.3. Location of the Terminal
+The SIOT Marine Receiving Facilities, owned and operated by SIOT (Società Italiana per
+l'Oleodotto Transalpino S.p.A.), are situated at the North Eastern extremity of the Adriatic
+Sea, in Muggia Bay at position 45°36'45" N 13°46'36" E and fall under the administration
+of the Trieste Port Authority. The following plan shows the terminal and the pipeline route
+into Austria and Germany.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 11 of 93
+2.7. List of Abbreviations
+ASA: American Standards Association
+B/L: Bill of Lading
+CCTV: Closed Circuit Television
+COUs: Conditions of Use
+COW: Crude Oil Washing
+DAS: Docking Aid System
+DPFSO: Deputy Port Facility Security Officer
+DWT: Deadweight
+ETA: Estimated Time of Arrival
+EX: Explosion Proof
+GMT: Greenwich Mean Time
+GRT: Gross Register Tonnage
+I.G.: Inert Gas
+IMO: International Maritime Organisation
+ISGOTT: International Safety Guide for Oil Tankers and Terminals
+ISPS Code: International Ship and Port Facility Security Code
+LBP: Length Between Perpendiculars
+LEL: Lower Explosive Limit
+LOA: Length Overall
+LWA: Longitudinal Windage Area
+MARPOL: Maritime Pollution Convention
+SD MBL: Ship Design Minimum Breaking Load
+MEG: Mooring Equipment Guidelines
+MEPC: Marine Environmental Protection Committee
+MSC: Maritime Safety Committee
+MSDS: Material Safety Data Sheet
+MSMP: Mooring System Management Plan
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 12 of 93
+MSMPR: Mooring System Management Plan Register
+MSL: Mean Sea Level
+OBQ: On Board Quantity
+OCIMF: Oil Companies International Marine Forum
+TECHNICAL Plugging or sealing capability of a device (as per its
+TIGHTENESS: Manufacturer specifications)
+P/V: Pressure / Vacuum
+PFSO: Port Facility Security Officer
+PFSP: Port Facility Security Plan
+PMBL: Parallel Mid-Body Length
+PMC: Pre-mooring Check
+POLREP: Pollution Report
+PPE: Personal Protective Equipment
+ROB: Remaining on Board
+SBT-PL: Segregated Ballast Tanks – Protective Location
+SIOT: Società Italiana per l’Oleodotto Transalpino
+SOLAS: Safety of Life at Sea Convention
+SSSCL: Ship Shore Safety Check List
+TAL: Transalpine Pipeline
+TMSA: Tanker Management Self-Assessment
+TWA: Transverse Windage Area
+UKC: Under Keel Clearance
+WLL: Working Load Limit
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 13 of 93
+3.0 COMMUNICATION
+3.1. Pre-Arrival Information
+The Master must communicate the ship’s ETA at least 72 hours in advance. The 72-hour
+ETA must be sent to the Harbour Master’s Office with copies to the Ship’s Agent and SIOT
+terminal (ship.eta@tal-oil.com). The ETA must be in the form of Appendix 4.
+The 72-hour ETA is to be confirmed by a 48/24-hour ETA. The Master is to advise all
+parties of any change in the ETA thereafter.
+3.2. Communications in Roads
+While within range, vessels should maintain constant communication with their Agent. The
+Pilot Station may be called on VHF channel 14. Pilots are informed about movements and
+any other matters which may possibly affect vessel passage to the port area.
+3.3. Communications Alongside (Notice 1)
+The primary means of ship/shore communications, whilst the ship is alongside, is through
+the safety inspector via his portable VHF radio on the terminal’s private communications
+channel (same channel as Pier Master and the marine facility control room).
+The backup communications system is the Єx mobile telephone placed on board in the
+cargo control room. Dial 8 for an internal call to the Pier Master.
+Regular invoices for the service will be presented to the vessels via their Agents.
+The Pier Master can also be called by dialling (external):
+Office: +39 040 827003 / Mobile: +39 348 4511932
+The Pier Master’s Office is equipped with Marine Band VHF channels 10-12-14-16-71-72-
+73 but a listening watch is not maintained. The last two channels are for SHIP/SHORE
+communications. Note: Whilst alongside SIOT berths, ships should maintain a listening
+watch in the cargo control room on VHF channel 72. The Pier Master’s Office will call on
+this channel (however, it is not monitored for incoming calls) if other means of
+communication fail to raise a response.
+Ships alongside may be called by dialling +39 040 828455 or 828456 (instructions
+available in Italian and English).
+Alternatively, Ships alongside may be directly called by dialling the following numbers:
+Berth 1 +39 347-7840106
+Berth 2 +39 347-4933509
+Berth 3 +39 347-4934735
+Berth 4 +39 348-3630852
+In the event of a complete communications failure, all cargo operations must be
+stopped until communication links have been re-established.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 14 of 93
+4.0 HSSE
+4.1. Health
+4.1.1. Emergency Medical Assistance
+Any request for medical assistance should be made through the Ship's Agent before or on
+arrival. If emergency medical assistance is necessary, this may be called on through the
+SIOT personnel on watch, or by using the ship/shore Єx telephone by dialling 112 for the
+local medical centre. The SIOT Pier Master must be immediately notified.
+4.1.2. Drug and Alcohol Policy
+The introduction and the use of alcohol and illegal drugs or other psychoactive substances
+are strictly prohibited at all times and in all areas of the terminal. Anyone apparently
+intoxicated will not be permitted to enter the terminal (see Section 1.0).
+4.1.3. Pandemic
+In the event of a serious pandemic, the Terminal shall activate the ship-shore telematic
+interface, in order to reduce interpersonal contact between the ship’s crew and the shore
+staff to the bare minimum.
+Protocols to manage suspected or confirmed infections on board could be adopted, also
+in coordination with local Authorities.
+4.1.4. Noxious Substances
+MSDS (Material Safety Data Sheet) shall be delivered to the terminal before arrival. See
+MSC resolution 286(86). The same documentation shall be provided for any Noxious or
+pollutant Substances in parcel if entering the Terminal or being transferred by sea to a
+vessel alongside (see Section 5.4).
+4.1.5. Hydrogen Sulphide (H2S)
+Cargoes with a Hydrogen Sulphide content up to 200 ppm in liquid phase can be accepted
+at SIOT/TAL Terminal. Use of H2S scavengers must be declared and agreed by the
+Terminal.
+Regarding the matter of hydrogen sulphide, Ordinance no. 108/2024 of Trieste Harbor
+Master is in force, which prescribes various obligations to be fulfilled by the Ship's Master
+before arrival and during Ship's staying at berth. Additionally or complementary, the
+Terminal requires the following.
+Before arrival
+The vessel shall declare:
+• The cargo(es) H2S content inside the Cargo(es) Vapour Spaces with sufficient
+accuracy.
+• If any cargo tanks purging has been conducted during laden voyage. If yes,
+reporting the H2S concentration in vapour space before and after the operation.
+• Technical Tightness of all cargo tanks penetrations (gauging points, P/V valves,
+Butterworth® holes and so on). Any gas leakage from cargo tanks shall be stopped.
+• Number of (working) personal H2S analysers available on board.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 15 of 93
+At BERTH:
+If crew declared a concentration up to 500 ppm inside the cargo tanks vapours space,
+SIOT personnel will accompany ship’s personnel to witness a check of the Hydrogen
+Sulphide concentration in the cargo tanks. The measurement will be taken via the vessels
+vapour lock system which must be properly maintained and tight.
+In case of presence of H2S on deck, SIOT personnel will use appropriate breathing PPE
+during the operation. Ship’s Master is responsible for the safety on board and shall advise
+if additional safety measures have to be taken.
+4.2. Safety
+Vessels alongside SIOT berths must comply with the International and National Safety
+Rules, Guidelines and SIOT requirements with particular regard to operations, ship's
+equipment, crew's capability and behaviour.
+4.2.1. Shore Gangway
+Each berth is provided with a shore gangway, which is to be positioned on the deck as
+soon as the berthing manoeuvre is completed. There must be sufficient space available
+to land the shore gangway on the ship's deck. There must be a safe walkway to the
+vessel’s accommodation access. The main deck and the access walkways and ladders
+shall be kept safe for walking, free of oil, obstructions or ice. Ship’s staff should address
+requests for adjustment of the shore gangway position to the Safety Inspector on board or
+directly to shore personnel.
+4.2.2. Inert Gas
+All cargo tanks and any other tanks connected to the IG system (e.g. residual tanks etc.)
+shall be “atmosphere inert” and have the IG branch delivery valves locked in open position,
+unless they are gas free certified by the Port Chemist.
+4.2.3. Fire Brigade
+A qualified and certified fire brigade is always present at the marine terminal. Frequent
+inspections are performed on board and on the pier platform while the ship is alongside
+the berth.
+4.2.4. Fire Fighting Installation
+The terminal is equipped with a fixed firefighting installation on all berths. The system
+consists of 2 diesel and 1 electric fire pump (total capacity of 3000 m3/h) with associated
+foam system and pumps. There are 2 foam/water remote controlled monitors (capacity
+6000 l/m) on each pier. A further foam/water remote controlled monitor (capacity 3000
+l/m) is located on the vessel access tower at each berth to cover the manifold area. For
+coverage diagram (see Section 9.5). Each pier is equipped with water and foam hydrants
+along its length and portable firefighting equipment is located on the jetty and berth
+platforms (see Section 9.4).
+The critical structures of the fire monitors and unloading arms are water-cooled. An
+additional water-cooling system exists under the platforms to protect some of the critical
+piles. Furthermore, a 30cm foam carpet can be thrown over the lower deck of the
+operational platforms within 4 minutes. Foam throwers at sea are located under each
+piers platform.
+4.2.5. International Ship/Shore Fire Connection
+International shore fire connections are available at the top of the gangway access tower
+for each berth (see Section 9.4).
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 16 of 93
+4.2.6. Escape Way
+On each pier, there is a water sprinkler system protecting the inland escape way along the
+jetty access from each berth platform. All ships at berth are requested to make ready at
+their sea side:
+1. The life boat for launching at sea (poop free fall life boat not included),
+2. The gangway to be lowered.
+This to permit the crew to abandon the ship if inland escaping way is not safe.
+Fire and evacuation drills are held frequently and notification will be issued to the ship if
+they are to be involved.
+4.2.7. Emergency Towing-Off Pennants
+Emergency towing-off pennants (fire wires) must be properly rigged on the offshore side
+of the vessel, both forward and aft. A five meters floating messenger is required at the
+outboard eye. A certified fire-resistant synthetic fibre rope as an alternative to wire is
+accepted by the terminal (see Section 9.14).
+4.2.8. Vessel Readiness
+Any vessel alongside must at all times maintain:
+• main engine readiness at short notice,
+• mean draught and trim within MARPOL limitation to permit a safe departure
+manoeuvre (minimum Mean Draught = 2 + 0,02 L, maximum Trim = 0,015 L),
+• a sufficient number of qualified crew to comply with its Company’s SMS procedure
+(see IMO Resolution MSC.353(92)) and to perform a safe departure manoeuvre.
+However, during COW operations, it is acceptable for the vessel to attain the minimum
+trim recommended in the vessel’s COW manual, provided that total propeller immersion
+and rudder effectiveness are maintained.
+4.2.9. Enclosed Spaces
+Entry and Inspection of enclosed spaces (with the exception of the pump room) is not
+allowed whilst alongside SIOT berths. In exceptional circumstances, permission to
+undertake enclosed space entry may be granted by the SIOT management representative,
+subject to inspection and test by the Port Chemist and authorisation from the Harbour
+Master. A method statement and task risk assessment may be required.
+4.2.10. Repairs alongside
+In general, repairs are not allowed alongside. A permit can be granted on exceptional
+basis in order to complete the operations upon the following minimum conditions:
+• Vessel suspends the discharge,
+• Report in written to the Terminal the ongoing situation,
+• A ship’s method statement and task risk assessment are submitted to the Terminal,
+• Ship’s Captain grants the safe condition for any repairs stages,
+• Port Captaincy authorized the proposed repairs,
+• The proposed repairs activities request maximum 8 hours of discharge interruption
+(see Section 7.6.4).
+Based on this, Terminal could allow the repair at its sole professional judgement.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 17 of 93
+4.3. Security
+4.3.1. ISPS Compliance
+The terminal is in compliance with the International Ship and Port Facility Security (ISPS)
+Code, Part A & B, and Chapter XI-2 of SOLAS. The Security Assessment and the Security
+Plan have been approved by the Trieste Harbour Security Committee. All ships must
+comply with the ISPS Code. The Terminal Superintendent is the appointed PFSO whilst
+the Pier Masters, the Terminal Superintendent Assistants and the Jr. Pier Masters are
+qualified DPFSOs.
+The Terminal Operators, the Security Guards at the Terminal gate, the onboard Safety
+Inspector, the Fire Brigade, the Shuttle Bus drivers and the crew onboard antipollution
+patrolling vessels are part of terminal security personnel.
+The ship could be requested to participate in exercises or drills jointly with the Terminal.
+4.3.2. Crew Lists
+The Master must furnish a ship's crew and passenger list. Crew personnel are only
+permitted to leave the berth and have access to the marine terminal if in possession of a
+valid ID card, and (where applicable) a shore pass. The Ship’s Agent arranges the shore
+pass system. The documentation of other personnel joining the vessel, validated by the
+designated authority, must be forwarded to the Terminal by the Ship’s Agent. The Ship’s
+Agent should always be consulted for updated information on the latest immigration and
+security authority requirements.
+4.3.3. Access to the Terminal
+The Master or his Agent shall notify the terminal about any foreseen movement of goods
+and/or people, with purpose of their visit whilst alongside (i.e. provisions and stores
+handling, crew change, shore inspectors, vetting, technician, etc.) before vessel berthing
+using the attached forms (see Section 9.21/9.22).
+All persons passing the Port Authority and Customs Gates at the entrance to the Terminal
+must be in possession of the appropriate “shipboard access communication” issued by
+Master or Ship’s Agent and approved by the PFSO or DPFSO where required, or must be
+holder of a Port Authority permanent or temporary permit or a different permit released by
+another competent public Administration (see joint Ordinance 15/02/2024 Harbor Master
+nr. 4/Port Authority nr. 7). With the exception of crew members and passengers, included
+respectively in the crew or passenger list, the appropriate communication or permit is
+necessary to issue the SIOT “Permit of Temporary Access to the Marine Terminal” which
+is issued by the Pier Master or the Jr. Pier Master on duty (see Section 9.19/9.20). To
+anyone is requested a valid ID document with photo.
+The “Permit of Temporary Access to the Marine Terminal” is not required for persons
+already in possession of a permanent or annual permit issued by SIOT.
+The same communication or permit is required to access the Terminal from the moored
+ship. Crew members, passengers and other persons who have boarded the vessel at
+anchorage, must notify the Safety Inspector their intention to access the Terminal and
+await his authorization after he has consulted the Security Guard at the terminal gate.
+Final authority is with the master to allow access on board the vessel. Government and
+Union Representatives are always allowed to board the ship.
+The Terminal and surrounding waters are considered to be a restricted area. Authorisation
+for boats and other crafts to enter the area may only be granted by the Pier Master or the
+Jr. Pier Master.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 18 of 93
+4.3.4. Safety Paths
+Visitors must use marked safety paths at all times within the terminal. Access to restricted
+areas is prohibited without authorisation from the Pier Master or the Jr. Pier Master.
+4.3.5. Shuttle Bus
+A security guard is stationed at the entrance gate of the marine terminal to identify all
+persons. Nobody is permitted to walk along the jetties from/to moored vessels; the use of
+the bus (available 24 hours a day) is compulsory for this purpose. A waiting room is
+available at the Terminal gate. Ship's visitors and crew will transit through the Terminal at
+their own risk. Trieste centre is approximately 5km by road.
+4.3.6. Photography
+The taking of videos and photographs within the terminal is prohibited without proper
+authorisation.
+4.3.7. Drones
+The use of drones, without a proper official Authority and Terminal authorisations, is
+forbidden in the terminal and surrounding area. Authorities and ships will be immediately
+notified if any are detected and discharging operations will be consequently suspended.
+4.4. Environment
+4.4.1. Slops/Oil Waste Reception
+SIOT Marine Receiving Facility is not designated as a Port Reception Facility in
+accordance with the Italian Legislative Decree 8 November 2021, nr. 197, implementing
+the Directive (UE) 2019/883 of the European Parliament and of the Council of 17 April
+2019. Consequently, discharge of slops, oil or any other cargo related waste to shore is
+not permitted.
+4.4.2. Bilges
+All pumping overboard from bilges is prohibited.
+4.4.3. Antipollution Service at Sea
+In accordance with Harbour Authority regulations, at least one antipollution boat is always
+present in the area around berthed vessels. Their aim is to strictly monitor the surface and
+to intervene immediately in the event of even minor pollution (i.e. scrubber residues).
+4.4.4. Hazardous and Noxious cargo Vapour Emission
+The SIOT Marine Terminal is located close to the densely populated city of Trieste. With
+respect and consideration for the local population and the authorities, SIOT have imposed
+restrictions on any operation which could negatively influence the air quality of the coastal
+zone. Therefore: any vessel calling at Trieste Harbour should strictly avoid the release of
+any cargo vapours, other hazardous gas, heavy stacks from ship’s funnel or excessive
+smoke generated from the closed loop scrubber or similar systems.
+The following procedures/precautions are required of all vessels by way of mitigation:
+Before arrival:
+• Check all cargo tanks penetrations and eliminate any gas leakage.
+• Verify that all cargo tanks P/V valves are fully operative and free to move.
+• Verify the full functionality of any fixed and portable gas detection systems and
+equipment.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 19 of 93
+In ROADS:
+• I.G. recorder to be switched on prior to arrival in roads.
+• If the I.G. pressure increases (i.e. due to temperature effect), cooling-down of the main
+deck is possible using water.
+• In extreme conditions, if the pressure rises such that the vapours have to be released
+in a controlled manner trough mast riser or other similar systems, also to avoid the
+automatic activation of P/V valves, ship’s Master must notify in advance the Harbor
+Master and SIOT Terminal, as prescribed by the Ordinance no. 108/2024 of Trieste
+Harbor Master.
+At BERTH:
+• The I.G. pressure should be maintained at a low operative level (but never less than
+200 mm WG in the cargo tanks).
+• If discharge is interrupted and the pressure increases (e.g. due to temperature effect),
+cooling-down of the main deck is possible using water, upon notification to the Pier
+Master, through the Safety Inspector.
+• If all efforts are not sufficient to minimize the pressure increase, immediate notification
+must be given to the Pier Master, through the Safety Inspector, well in time before
+critical over pressure is reached, in order to choose the best solution to restore
+acceptable I.G. pressure.
+A gas detecting system fits both Piers platforms.
+The system is able to detect Hydrogen Sulphide as
+well as Hydrocarbon Vapours. An audible alarm
+rings for 20” and a visible alarm (flashing red light)
+activates when the following concentration values
+are detected:
+H2S ≥ 20 ppm
+L.E.L. ≥ 20%
+4.4.5. Oil Spillage
+In order to increase the effectiveness of the ensuing actions and to minimise criminal
+proceedings:
+• MASTERS MUST IMMEDIATELY REPORT TO SIOT PIER MASTER ANY OIL
+SPILL OR OTHER HAZARDOUS SUBSTANCE ESCAPE CAUSED BY THEIR
+VESSEL, EVEN IF CONTAINED ONBOARD. Complete and forward the appropriate
+POLREP to the Harbour Master and SIOT Terminal as per the Bonn Agreement
+recommendation 96/1 for notification of an incident of marine pollution.
+• All cargo operations must be stopped and may only be resumed when authorised by
+SIOT.
+• Ship’s personnel should take immediate steps to stop the spillage at source.
+4.4.6. Oil Pollution Detection Devices
+Oil Pollution is a matter of fundamental importance to SIOT. Therefore, the marine terminal
+has been equipped with the means to detect oil on water at an early stage, ensuring
+prompt response in the event of sea pollution. Equipment installed includes:
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 20 of 93
+• Antipollution low level directional spotlights are installed along each berth in order to
+allow the detection of oil spills at night.
+• All vessels are requested to keep the bridge wing spotlights clean and operative.
+These lights must be pointed down towards the vessel’s sea-chest valve on the side
+of the vessel away from the berth.
+• The water around the berths is also continually monitored by a hi-tech infrared camera
+imaging system and ultraviolet flood lights for the purpose of detecting the presence
+of oil on water. All collected images are recorded.
+look at the UV beam can cause a significant eye injury. Avoid to do so.
+4.4.7. Oil Pollution Containment/Recovery Systems
+• Floating fixed barriers are laid underneath the longitudinal axis of each pier, main
+trestle and in the way of the piers platforms.
+• A pneumatic bubble barrier system is installed. It consists of a plastic pipe with
+nozzles anchored to the bottom of the sea with dead weights, thus creating a
+complete loop, which surrounds each individual berth. Vessel’s anchors, whilst
+moored, must have the brake applied and guillotine lowered to avoid accidental
+release (see Section 9.7). Particular care should be taken in the handling of mooring
+lines in the vicinity of the berths to avoid excessive slack (dragging lines with ends on
+the bottom may damage the bubble barrier pipes).
+• Additional fast deployment booms and recovery equipment are available at the
+terminal located in strategic positions ready to be used in case of spillage at sea.
+4.4.8. Inert Gas System Scrubber Tower Discharge
+Discharge of solid soot particles from the scrubber seawater drain may be considered as
+sea pollution by the local Harbour Master and Terminal, consequently it should be avoided.
+4.4.9. Garbage & Refuse
+No hazardous or pollutant material, garbage or refuse of any kind may be thrown
+overboard while berthed. The garbage service provided is compulsory and shall be carried
+out by a local company in accordance with the Harbour Master Ordinance in force.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 21 of 93
+5.0 MISCELLANEOUS
+5.1. Mooring Service
+The operation and release of mooring lines is handled by the “Gruppo Ormeggiatori del
+Porto di Trieste”.
+5.2. Ships propulsion and Bow Thrusters
+To avoid damages to the Piers Permanent Oil Barriers, the ship’s propulsion shall be used
+carefully. In particular the use of bow thrusters is not allowed for manoeuvring close to the
+piers structures, except in case of an emergency.
+5.3. Inspections
+Only one inspection (e.g. Vetting Inspection or Green Award Certification) is permitted at
+a time when a ship is berthed at SIOT Marine Facility if no additional personnel are
+available on board (Owner’s Representative, Marine Superintendents etc.).
+The following conditions shall apply:
+• If Authorities or Ship’s Register are inspecting the vessel (PSC, Class survey etc.),
+3rd party inspections shall be suspended.
+• Preference will be given to Shareholder’s/Shipper’s nominated inspections.
+• Operational safety and security are paramount.
+• Inspection or testing activity must not compromise cargo operations.
+• Inspections to take place in daylight hours only (exceptions may be permitted e.g. if
+there is an extra officer/engineer or company superintendent on board specifically for
+the purpose of the inspection).
+• SIOT Pier Master or Jr. Pier Master to be consulted prior to any practical test activity
+(e.g. swing out or engine test of offshore lifeboat or COTs high level alarm).
+• SIOT, on its sole professional judgement, has the right to suspend any non-Authority
+inspections that should influence their operations activities and no cost or expenses
+can be charged to SIOT.
+5.4. Ship’s Stores and Provisions
+When duly pre-notified, stores and provisions may be transferred to the vessel while
+alongside, under the sole responsibility of the Ship’s Master, subject to prior authorisation
+from the SIOT Pier Master or Jr. Pier Master and in accordance with the following
+conditions.
+By shore
+• All items shall undergo security check at the Terminal gate and be transported
+exclusively using the Terminal shuttle bus; walking along the jetties is prohibited.
+• No package shall be left unattended within any part of the Terminal.
+• Each item shall be of such size and weight as to be safely carried with one hand,
+ensuring clear visibility and allowing the other hand to remain free for holding the
+gangway handrail.
+• The maximum weight per package is 7 kg.
+• By exception, items carried in a properly worn backpack may have a maximum
+weight of 10 kg, provided that both hands remain free, movement and visibility are
+not restricted, and no rigid or protruding elements are present.
+• The maximum dimensions per package are 60 × 40 × 30 cm.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 22 of 93
+• If the total consignment exceeds 50 kg or 20 packages, the operation shall be
+performed under “By sea” procedures unless otherwise authorised.
+• Access routes, gangways and all transit paths shall remain clear and unobstructed
+at all times.
+• The use of shore cranes is not permitted.
+• Any metal part or item capable of producing sparks shall be properly wrapped.
+• Crew luggage for embarkation/disembarkation is exempt from the above limits,
+provided that:
+o luggage shall be suitable for safe manual handling on the gangway,
+o the movement is conducted in an orderly and controlled manner,
+o weather conditions and gangway slope are suitable,
+o sufficient crew is available to assist,
+o luggage shall be carried and not dragged along the gangway,
+o particular care is taken when luggage includes rigid metallic components.
+• The Pier Master or Jr. Pier Master may limit, regulate or suspend the transfer at
+any time for safety or security reasons.
+By sea
+• All Stores and provisions shall be security checked before entering the terminal
+waters.
+• Storing shall be undertaken during daylight (in particular circumstances, the Pier
+Master or Jr. Pier Master may authorize the completion of the storing after sunset)
+using stores crane aft of the accommodation and at the sea side only.
+• Storing on the main deck will only be permitted if cargo discharge is stopped and
+the cargo arms are disconnected. All delays will be to the ship’s account.
+• Palletized stores can be handled with certified and fit for duty lifting gear only
+(slings or Japanese nets are not allowed to be use).
+• Inside the Terminal waters, only SIOT qualified boat service companies are
+allowed to operate (ask Agent for up to date list of accredited Operators).
+• Provision boat shall have on board at least 2 crewmembers.
+Permission of the SIOT Pier Master or Jr. Pier Master must be obtained for all such
+operations and a method statement and risk assessment for the operation may be
+required.
+Any hazardous or pollutant store or provision to be provided to the ship shall be
+accompanied by its MSDS to enter the terminal either by shore or by sea.
+5.5. Fresh Water
+Fresh water supplies are available at all berths at any time through an international shore
+connection on the platform with a supply rate of approximately 15 m3/h. Ship’s personnel
+are entirely responsible for connection of the supply and for monitoring the quantity
+supplied at the meter. Please contact SIOT personnel before starting the supply. The
+terminal does not check or grant the fresh water quality.
+5.6. Bunker Operations
+Pipeline
+Bunkers are not available by pipeline at SIOT berths.
+Barge
+Bunkering by barge is not permitted by SIOT alongside the jetties.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 23 of 93
+6.0 NAVIGATION
+6.1. Location (Charts)
+Vessels are referred to the appropriate Hydrographic Office publications and official charts
+for information about navigational aids, landmarks and approaches to SIOT Marine
+Terminal. Chart extracts of Italian Hydrographic Institute chart numbers 237 & 239 are
+included in this booklet for illustration purposes only (see Sections 9.1).
+6.2. Approaches
+The Marine Receiving Facilities can be approached from the North Adriatic Sea. A
+dredged channel joins the gulf of Trieste to the piers. The channel is 1 mile long and 200
+metres wide. It is marked by 3 light beacons flashing green, 2 beacons flashing red, and
+1 beacon flashing white (see Section 9.1).
+In accordance with the Harbour Master Authority Ordinance No.43/2014, the south
+channel may only be engaged by one vessel – entering or leaving – at a time.
+6.3. Climate
+6.3.1. Temperatures
+The mean daily maximum temperatures are 24°C in the summer months and 11°C in the
+winter months. The mean daily minimum temperatures are 17°C in the summer months
+and 6°C in the winter months.
+6.3.2. Precipitation
+There are typically less than 10 days per month with more than 1mm of rain falling. The
+average monthly rainfall throughout the year remains fairly consistent at about 90mm.
+6.3.3. Winds
+Masters must be aware of the fact that the prevailing wind throughout the year in Trieste,
+has a NE to ENE direction (known as the Bora) and can blow with little warning. The gusts
+can reach 180km/h (>100knts) or more within an extremely short period of time.
+Masters must also be aware that sudden thunderstorms with gusts up to 130km/h (70knts)
+are possible from June to November. As these storms normally come from western
+quadrants, resulting in either NW’ly or SE’ly winds, strict attention must be paid with
+particular regard to ships having a large longitudinal windage area.
+6.3.4. Sea State, Swell and Currents
+Sea state, swell and currents in Muggia Bay are negligible and rarely affect shipping at the
+berth.
+6.3.5. Weather Forecast
+Weather forecasts are not available at the piers, but a short-range real-time situation is
+visible in the Pier Master's office on radar. In addition, an internet real time connection to
+a number of specialised meteorological sites is available. An electrical storm detector is
+also in use. However, all moored ships are requested to monitor carefully local weather
+conditions, taking in due time the appropriate measures to assure safety of operations and
+their safe stay alongside.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 24 of 93
+6.4. Anchorage
+The anchorage position will be indicated by the Pilots via VHF. Compulsory anchorage
+for tankers awaiting entry is “A” Zone west of Luigi Rizzo Breakwater. If “A” Zone is
+congested, Tankers are allowed to drop anchor in “B” Zone. The holding ground is
+reported to be poor. The exact anchorage area for waiting tankers is determined in
+accordance with the Harbour Master Authority Ordinance No. 43/2014 and is illustrated in
+the attached chart extract (see Section 9.1).
+6.5. Pilots
+Pilotage is compulsory while manoeuvring to and from the berths. SIOT does not assume
+any responsibility for the docking or sailing manoeuvres of any vessel, including towage
+and mooring, nor for any pollution caused by the vessel. Arriving vessels take on board a
+pilot about 1½ miles west of the southern end of Luigi Rizzo Breakwater (see Section 9.1).
+6.6. Tugs
+Tugs are available, with advance notice, to assist in berthing vessels of any size. All tugs
+are equipped with fire-fighting equipment.
+Tugs ESCORT service is compulsory for tankers over 30.000 GRT for berthing and un-
+berthing: the tug towropes are normally used (see Harbour Master specific Ordinance).
+The number of tugs employed will vary according to the size of the vessel and the
+prevailing weather conditions. The following is a summary of the tugs stationed in Trieste
+with their principal statistics:
+Year
+Propulsion Bollard Pull GRT LOA Draft
+Built
+Altair(*) 2001 Voith 53 t 452 32.5 5.3
+Centurion 2015 Azimuth 74 t 463 32.5 4.3
+Davide 2008 Azimuth 88 t 443 32.5 4.4
+Deneb 1997 Voith 41T 364 30.0 5.5
+Gladiator(*) 2012 Azimuth 70 t 466 32.5 4.3
+Taur 2000 Voith 52 t 452 32.5 5.3
+Vega 1998 Azimuth 54T 360 30.0 4.7
+Med Rigel 2025 Azimuth 82 t 353 24.0 6.4
+Captain Cat 2025 Azimuth 82 t 353 24.0 6.5
+(*) fire extinguishing foam onboard
+- this list is subject to change without notice -
+6.7. Traffic Obstructions
+Ship Owners are under obligation to remove, or have removed, in the shortest possible
+time, any obstructions in the port area which resulted from damage or other causes
+attributable to their vessels or to auxiliary crafts at their service, and may affect SIOT's
+operations. If the removal of such obstructions is not performed within a reasonable time,
+SIOT has the right to remove such obstructions using any means available, at the Ship
+Owner's expense, after having given due notification to the Ship Owner/Operator.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 25 of 93
+7.0 ACCEPTANCE
+7.1. Ships screening, acceptance and nomination
+7.1.1. Tanker Acceptance Check
+Ships are safety and commercially screened, accepted and nominated by TAL Shippers,
+based on their individual standards and SIOT Terminal requirement.
+To support the acceptance process, SIOT/TAL made available a web-based tool called
+TAC - Terminal Acceptance Check (see annex 9 as an example of TAC report) reachable
+as follow:
+• Register the user on the website HTTPS://TASCO.TAL-OIL.COM/,
+• Once in TASCO, access the TAC by following the path:
+“Access to TIMOS”  “Basic Data”  “Tanker Acceptance Check”.
+TAC SHALL BE INTENDED AS A MERE SUPPORT TOOL; ACCEPTANCE
+PROCESS REMAINS UNDER EXCLUSIVE RESPONSIBILITY OF SIOT/TAL
+SHIPPERS.
+7.1.2. Basis for Acceptance
+• Only Vessels, regardless of their size, that comply with MARPOL Annex 1
+Regulation 18.12/19 (and are therefore defined as SBT-PL or Double Hull vessels)
+and with Regulation 33 (COW requirements) are allowed to berth at SIOT Marine
+Terminal.
+• Vessels having a cargo pumping capability of at least 5% of the total cargo
+capacity.
+7.2. Pre-Mooring Safety Inspection
+7.2.1. Overview
+SIOT operates a system of pre-mooring safety inspections (also called PMC – Pre-
+mooring Check) for all vessels calling at its terminal. The purpose of the inspections is to
+ensure that the ship, her equipment, fittings and crew are in compliance with the
+requirements of the present booklet, MARPOL, SOLAS, ISGOTT, MEG and other industry
+guidance and regulations.
+Pre-mooring safety inspections will be performed by an appointed inspector, weather
+permitting, when the vessel arrives at anchor. Such inspections are required in all cases
+if a vessel has not previously called at the terminal and subsequently for all visits at 12
+monthly intervals or every 6 months for vessels older than 15 years.
+In case at the previous call at SIOT Terminal the vessel departed with some minor
+deficiencies, not deserving of a warning or refusal, the terminal can require an
+extraordinary Pre-mooring inspection, if ship’s Master or Operator doesn’t provide the
+terminal with evidence that same deficiencies have been rectified. In this case the
+inspection can be conducted in road only.
+Additionally, a pre-mooring check will be required in case of:
+• Reduced berth availability.
+• Ship’s re-acceptance after Warning/Refusal (see Section 7.2.2 e 7.2.3).
+• Particular circumstances for which SIOT reserves the right to request a pre-
+mooring inspection of any vessel at its sole discretion, at any time.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 26 of 93
+In case of any deficiency in the above requirements, SIOT reserves the right to refuse the
+vessel permission to berth until the said deficiency has been corrected.
+A copy of the pre-mooring safety inspection checklist is included as Appendix 8.
+7.2.2. Warning
+All vessels not fulfilling National and International rules, guidelines or SIOT requirements
+shall be warned by notice to TAL Shippers. Following such a warning, a vessel will only
+be accepted for a further voyage if one of the following processes is finalized before the
+ship is nominated for Trieste or before loading cargo for SIOT Terminal (which one is first):
+a) Request for re-admittance by a TAL Shipper based on the following documentation:
+• Declaration of positive Shipper screening.
+• Evidence of Ship’s operator that the criticality/observation stated by warning was
+corrected (comprehensive incident investigation report covering root causes,
+corrective actions and preventive actions is preferred).
+b) Request for re-admittance by ship’s Operator based on the following documentation:
+• Evidence that the criticality/observation stated by warning was corrected
+(comprehensive incident investigation report covering root causes, corrective
+actions and preventive actions is preferred).
+• Evidence that vessel, after the warning is issued, had been submitted to a
+satisfactory SIRE vetting inspection during discharge by an independent OCIMF
+recognised inspector on behalf of a TAL Shipper.
+The vessel has to pass a SIOT pre-mooring inspection on the next visit.
+7.2.3. Refusal List
+Vessels will be included in SIOT's refusal list after any of the following:
+• 2 or more consecutive warnings.
+• 2 consecutive cases of exceeding maximum berth occupancy time (see Section 7.6).
+• If a relevant incident or near incident occurs.
+• Impact SIOT/TAL reputation.
+• Substandard condition or due to the crew's incapability.
+• Serious failing in company procedures, management and/or organisation.
+• Ship retained at berth by Harbour Master*.
+(*) An extra charge, based on current tariffs increased by 50%, for all Terminal provided
+services is foreseen in these cases.
+Vessels on the SIOT refusal list may be re-accepted if one of the following processes is
+finalized before the ship is nominated for Trieste or before loading cargo for SIOT Terminal
+(which one is first):
+a) Request for re-admittance by a TAL Shipper based on the following documentation:
+• Declaration of positive Shipper screening.
+• Evidence of Ship’s operator that the criticality/observation stated by refusal was
+corrected (comprehensive incident investigation report covering root causes,
+corrective actions and preventive actions is preferred).
+• The vessel’s Technical Operator is assessed positively by an OCIMF TMSA
+framework or equivalent audit with SIOT attendance* for Terminal clearance.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 27 of 93
+b) Request for re-admittance by ship’s Operator based on the following documentation:
+• Evidence that the criticality/observation stated by refusal was corrected
+(comprehensive incident investigation report covering root causes, corrective
+actions and preventive actions is preferred).
+• Evidence that vessel, after the refusal is issued, had been submitted to a
+satisfactory SIRE vetting inspection during discharge by an independent OCIMF
+recognised inspector on behalf of a TAL Shipper.
+• The vessel’s Technical Operator is assessed positively by an OCIMF TMSA
+framework or equivalent audit with SIOT attendance* for Terminal clearance.
+(*) All costs and expenses related to the SIOT audit attendance (travelling and lodging)
+plus 5000,00 € fee will be on Ship’s Operator account.
+The vessel has to pass a SIOT pre-mooring inspection on the next visit.
+If the reason for the refusal can be ascribed to the Ship’s Technical Operator
+organization and/or management system, a satisfactory COMPANY/Technical Operator
+AUDIT (e.g. TMSA) shall be conducted within a period of 6 months from the date of the
+refusal. After this period, failing the conditions stated, all COMPANY/Technical Operator
+vessels calling SIOT Terminal will be submitted to an extraordinary pre-mooring check
+performed in road only, unless the Operator didn’t change.
+7.3. UKC Policy
+7.3.1. Overview
+The Harbour Master requires that an Under Keel Clearance (Static) of 90 cm is maintained
+at all times whilst alongside. This UKC policy is applicable to all vessels visiting SIOT
+Marine Facility, Trieste.
+Tidal range in Trieste varies from 0.2 m at neaps to 1.2 m at spring tides. Actual predicted
+levels can result in depths less than that charted. Furthermore, water levels may rise or
+fall as much as 0.6 m with respect to the predicted level due to exceptional meteorological
+conditions. The Terminal is equipped with a real time electronic tide gauge.
+The depth of the dredged harbour, the approaches to the piers and the depth alongside
+berths No. 2, 3 and 4 are not less than 17.40 m with respect to Mean Sea Level and at
+berth No. 1 the depth is not less than 16.90 m.
+Vessels that arrive with the reported (see Appendix 4 item AA sub 12) maximum draught
+close to the limit value (i.e. 16.20 m for berths 2, 3 & 4 and 15.70 m for berth 1) must have
+the arrival draft checked visually in the roads prior to berthing. This visual check will be
+performed at anchor by a safety inspector (if the vessel is to be subjected to PMC) or by
+dedicated draught check service. Furthermore, if the draft of the vessel after loading was
+not checked visually at the load port, the following limit values will apply for draft checks
+on arrival (16.00 m for berths 2, 3 & 4 and 15.50 m for berth 1).
+Where the vessel is to be subjected to PMC, visual draught check shall be carried out in
+any case where the declared arrival draught is greater than or equal to 15.50 m.
+The Master may request the Terminal to provide the draught check service. The cost of
+the draught check service requested by the Master is borne by the vessel.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 28 of 93
+The form used for the draught check is included as Appendix 9.
+7.3.2. Discharge over the Tide
+Vessels with draught close to the above limitation are cleared for berthing when there is
+positive and rising tide (above sea MSL). In order to always grant an under keel clearance
+of 90 cm during berthing manoeuvre and when alongside, a calculation of the tidal
+prediction will be made and the range of time for starting the discharge operations over
+the tide and to ensure the UKC of 90 cm in the worst condition (minimum tide) will be
+communicated to these vessels. Should the vessel not be able to start the discharge
+operations during this range of time, she shall vacate the berth.
+To extend the calculated time window, ship’s Master and Shipper(s) will be strongly invited
+to perform ship cargo(es) tanks sampling and gauging at road before berthing.
+If the time window is less than 8 hours, sampling and gauging at road are mandatory.
+In any case, the minimum time window is 6 hours.
+The calculation is based on official local tide tables, which can be provided upon request.
+During OTT operations, the ship shall not be held responsible for any delays not caused
+by the vessel.
+7.3.3. Sea Water Density
+Sea water Density varies by the season from 1,025 to 1,027 g/cm.
+7.4. Dimensional Criteria:
+Berth No 1 Berth No 2 Berth No 3 Berth No 4
+Water Depth MSL (m) 16.9 17.4 17.4 17.4
+Max Draft (m) 16 16.5 16.5 16.5
+Min Dwt (tonnes) 16,500 16,500 16,500 16,500
+Max Arrival Displ. (tonnes) 190,000 125,000 210,000 210,000
+Min LOA (m) 160 160 160 160
+Max LOA (m) 285 255 305 328
+Max Beam (m) 55 45 58 58
+Min PMBL (m) - Ballast 50 50 50 50
+Max Manifold Height (m)
+23 23 23 23.5
+(above MSL)
+Max LWA (m2) (see 7.5.6.)
+6000 6000 7000 7000
+(Longitudinal Windage Area)
+Max TWA (m ) (see 7.5.6.)
+2
+2200 2200 2200 2200
+(Transverse Windage Area)
+7.5. Moorings
+7.5.1. General
+The number of mooring and breasting dolphins are represented in the following table,
+where MD means mooring dolphins, BD/MD means breasting dolphins fitted with mooring
+hooks and BD means breasting dolphins not fitted with mooring hooks.
+Berth MD BD/MD BD
+1 8 4 2
+2 7 4 2
+3 7 4 2
+4 6 4 2
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 29 of 93
+Most mooring dolphins are fitted with a capstan and quick release mooring hooks. A
+mooring load monitoring system is provided. For information regarding the hook capacity
+see Section 9.8.
+Vessels will be moored bow-out. In exceptional circumstances, at the Pilot's request, a
+vessel may be moored bow-in at berth No.2.
+The maximum (side) speed of approach is 0.15 m/s, with a maximum berthing angle of 4°.
+A Wi-Fi Docking Aid System (DAS), infrared laser based, is operative at the berths and
+the approach data is displayed on the Pier Master’s Єx smartphone assisting the
+manoeuvre.
+Ship’s moorings should be frequently monitored and adjusted as necessary during the
+discharge. Shore personnel will check the moorings periodically to satisfy themselves that
+they are being properly tended. All mooring lines should be tight and the vessel should
+remain in contact with the fenders at all times.
+Before to adjust the stern lines, the safety inspector shall be notified and the terminal
+permission shall be received.
+7.5.2. Minimum Moorings
+SIOT requests the following “minimum mooring requirements” but responsibility for safe
+and effective mooring of the vessel remains with the Master.
+For all vessels:
+• A minimum of 14 lines are required of which at least 12 must be installed on drums.
+• All breast and spring lines shall be installed on drums.
+• For vessels greater than 100K SDWT tonnes (referred to the maximum SDWT in case
+of multiple DWT), all lines must be wires or high-modulus synthetic fibre ropes and
+installed on drums.
+Please note that for reasons of safety, the local mooring service (see Section 5.1) requests
+that wire moorings shall be fitted with 11m synthetic tails in accordance with guidance in
+the OCIMF publication MEG. In addition, high modulus ropes if used, should also be fitted
+with 11m synthetic tails to permit better distribution of load between all mooring lines.
+These guidelines should be considered as a minimum requirement. They can in no way
+be construed as a basis for any claim or action whatsoever – nor can liability be placed on
+SIOT as a result of any action taken by the Master in following or neglecting these
+requirements or part of them. SIOT reserves the right to undertake any actions which are,
+in SIOT's opinion, necessary to protect its property and/or the property of third parties.
+7.5.3. Terminal Mooring lines safety and maintenance criteria
+Due to the Terminal design and the peculiarities of the local weather, SIOT has a mooring
+lines safety and maintenance criteria requirements in place minimizing the mooring
+operators risk to be injured during their duties by a ship’s broken mooring line. Based on
+the results of the risk assessment conducted, in addition to the OCIMF MEG, international
+best practice, mooring lines manufacturer’s instructions and its ship’s company policy, the
+following practice will apply as minimum criteria:
+a) All mooring lines shall have a residual strength not less than 75% of ship design MBL.
+b) Hand splicing mooring wires cannot be use at SIOT Terminal.
+c) All synthetic tails shall have a max 2000 hours service retirement.
+d) Ropes and mooring tails made by:
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 30 of 93
+i. Polyamide (i.e. nylon), or
+ii. Other synthetic fibers having the elongation at breaking higher than 20%,
+cannot be used at SIOT Terminal. Polyester (PES/PET) fibres are preferred.
+The manufacturer certificates reporting the construction material and the elongation
+characteristics of the mooring ropes/tails, including the percentage of elongation at
+break*, shall be available on board.
+e) Every 30 months all wires ends shall be cropped and mechanically re-spliced,
+alternatively «end-to-ended».
+f) Wires «end-to-end» practice accepted one time only.
+g) Mounted wires maximum 90 months in use.
+h) Yearly or every 1000 hrs of use (whom comes first) steel wires high pressure
+greasing**.
+i) The ship is required to have a Mooring System Management Plan in place with its
+Register updated - Accurate ship’s log required.
+(*) Where manufacturer certificates do not explicitly report the percentage of elongation at
+break, the rope or tail may be considered acceptable provided that the certified Immediate
+Strain (e) does not exceed 10% at 50% of the Line Design Break Force (LDBF).
+(**) Wire rope lubricants shall be specifically approved by the manufacturer for marine wire
+rope applications and shall meet applicable environmental requirements for use in
+situations where incidental contact with seawater may occur. Acceptable evidence may
+include VGP-EAL or equivalent approved lubricants. Lubrication shall be carried out using
+good industry practice and in a manner that minimizes the possibility of lubricant dripping
+or being released to the sea while the vessel is alongside.
+Any ship that does not comply to the above criteria could be denied to berth and
+warned first, then refused at the next call if the mooring criticality will be not rectified by her
+Operator.
+Note: as a safety enhancement, the Terminal encourages the use of mooring ropes and
+tails fitted with snap-back arrestor or equivalent snap-back mitigation features.
+The terminal shall send in advance to the arriving vessels, after receiving the first ETA
+notice, a questionnaire (see Appendix 11) to be filled in by the Ship’s Master, in order to
+verify compliance with the above-mentioned criteria. The relevant documents, mooring
+logs, inventory etc., shall be checked by the pre-mooring check Inspector (if the vessel is
+to be subjected to PMC as per Section 7.2.1.) or by Safety Inspector (see Section 8.1.1.)
+once the vessel is moored.
+7.5.4. Use of Heaving line with "monkey’s fist" or I.M.O "bags"
+With reference of:
+a. The Trieste Harbour Master’s Office messages titled:
+• «Occupational Safety: correct use of the Heaving line equipped with the so-
+called “monkey’s fist” for the passage of mooring / towing cables»
+U.0011901.09-05-2017 and
+• «Safety of mooring and towing operations: use of the so-called heaving line for
+the transfer of cables» U.0019406.09-08- 2019,
+b. E.T.A. (European Tug owners Association) 2015 guidelines (1st edition - February
+2015 Guidelines for Safe Harbour Towage Operations),
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 31 of 93
+To all Ship’s it is asked to use exclusively monkey's fist in compliance with I.M.O.
+regulations, with appropriate weight free of elements that can lead to injuries.
+Best practices have shown that sand bags, properly filled, guarantee the best safety
+standards.
+7.5.5. Mooring Analysis
+The mooring arrangement of all vessels scheduled to berth at SIOT Terminal will be
+evaluated using mainly the STATIC or DYNAMIC version of the “Optimoor® Mooring
+Analysis Software” by Tension Technology International (www.tensiontech.com), where
+possible, prior to berthing. Vessels should send to SIOT with their “72hrs pre-arrival
+message” all the data necessary for the analysis. The form and guidance at Section
+9.9/9.10 in this document may be used to submit the required data.
+A positive outcome from the preliminary “Optimoor®” mooring analysis (see Section 9.11)
+is an essential pre-requisite for berthing along with a valid SIOT pre-mooring inspection
+(see Section 7.2). Due allowance is made for inspection and collection of data on a
+vessel’s first visit to SIOT Marine Terminal.
+Such mooring assessment will permit SIOT to identify for each ship:
+• The most efficient mooring pattern.
+• Any criticalities and the conditions under which they are expected to occur.
+• If any, the minimum draft (max. windage area at the berth) to meet the OCIMF
+requirements for the mooring lines Work Load Limit (WLL) in case of winds of 60
+knots from any directions (wind rose) or to 72 knots for dominant wind (Bora). Even
+more, if stronger weather conditions are expected.
+If the mooring analysis and/or mooring lines conditions indicate the potential for critical
+situations to arise, SIOT, to protect its installation, shall:
+• Before berthing: change assigned berth, postpone berthing manoeuvre if the
+expected severity of the weather (forecast) would be incompatible with her safe
+mooring. However, the ship will be advised about the Optimoor® results.
+• Ship alongside: if weather conditions worsen, request the vessel to discontinue cargo
+operations, disconnect the discharging arms, reinforce the moorings and/or tighten
+up the lines. It may also be considered a necessary precaution to load extra ballast
+(to reduce the windage area).
+At SIOT’s discretion, the Pier Master shall request the tugs to assist the vessel and in
+extreme circumstances may instruct the vessel to vacate the berth. In such cases, all
+extra costs and/or delays will be charged to the vessel. Use of tugs is possible with 15
+minutes notice.
+7.5.6. Windage Area
+Vessels should normally keep their longitudinal windage area as small as possible by
+ballasting during discharge operations (see Section 9.15).
+7.6. Berth Occupancy
+7.6.1. Overall Time
+The estimated discharge time and the time for normal ballast operations shall be mutually
+agreed upon between SIOT and the Master or his authorised representative during the
+pre-cargo transfer conference. The pumping program shall be determined in agreement
+with SIOT and the Master. Fresh water, if requested, should if possible be taken during
+discharge.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 32 of 93
+7.6.2. Vacating the Berth
+In case of emergency, SIOT is entitled to interrupt discharging and have the berth cleared.
+Upon completion of discharge and ballast operations, the vessel shall vacate the berth in
+accordance with safety considerations.
+7.6.3. Maximum Allowable Berth Occupancy
+The maximum berth occupancy time of tankers shall be determined according to the table
+below which depends on the cargo quantity; no difference is made for Sundays and
+holidays:
+Maximum Allowable Berth Occupancy
+Cargo Size K.mt Excl. COW Incl. COW
+Up to 50 27 33
+50 to 100 30 36
+Over 100 33 39
+It is anticipated that the effective unloading rate per hour shall be in excess of 5% of the
+total cargo capacity of the respective vessel.
+SIOT will refuse the vessel at the second consecutive case of exceeding maximum
+berth occupancy time.
+7.6.4. Berth Occupancy Calculation
+Berth Occupancy shall commence when the vessel has its first line ashore and shall end
+when the last rope is cast off, usually half an hour after the Pilot boards the ship before
+departure.
+If the unloading is delayed or stopped due to circumstances beyond the control of the
+Master and/or Shipper, the running hours shall be extended for the same period of time
+lost. If there were any slow-downs at the request of SIOT, the berth occupancy time shall
+be also extended taking into account the new discharge rate requested and the ship's
+discharge rate available. Any period exceeding the running hours listed above requires
+special approval from SIOT.
+Discharge operations should be carried out, as far as possible, without interruption and
+within the shortest possible time. Any period exceeding the maximum allowable berth
+occupancy requires special approval from SIOT/TAL. In exceptional circumstances TAL
+has the right to request a tanker to vacate the berth. Exceptional circumstances are,
+among others:
+• Discharge interruption for more than 8 hours due to ship’s failure.
+• Vessel exceeding the maximum allowed berthing hours by factor 2.
+In such cases, all extra costs and/or delays will be charged to the vessel.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 33 of 93
+8.0 CARGO HANDLING
+8.1. Manning Levels
+8.1.1. Safety Inspector
+A Safety Inspector will board the vessel immediately after berthing and will remain on
+board the ship until its departure (in shifts). The Inspector’s primary role will be that of an
+independent observer, though his advice or guidance on local requirements and
+procedures may be sought at any time. He is the ship’s primary contact point and can
+immediately contact the Pier Master or Control Room at any time. The onboard Safety
+Inspector is involved in the application of the PFSP and related procedures.
+His activities do not relieve the vessel's management from their responsibilities at any time.
+Full co-operation with the Safety Inspector is required. At no time shall the Inspector
+interfere with the authority of the vessel's management or SIOT. On departure, the Safety
+Inspectors present on board will submit a full report of their observations on board to SIOT
+and to the final Consignee.
+8.1.2. Berth Manning
+The terminal provides sufficient manpower to ensure that all operational and emergency
+conditions can be conducted in a safe manner. Berths are manned normally from the
+ship’s arrival until the start of the cargo discharge operations and from completion of
+discharge until departure. During cargo discharge operations the berth will not be manned.
+The berth and cargo operations are monitored from the control room which is located at
+the root of the piers. The control room, which is operational 24 hours a day, is equipped
+with CCTV monitoring and recording, communications and alarm systems and other
+electronic devices.
+8.1.3. Vessel Manning
+During the vessel’s stay alongside, the cargo control room and the ship’s manifolds (shore
+side) must be continuously manned; the cargo manifold in use monitored and the pump
+room (if applicable) frequently inspected. Sufficient officers and crew must remain on
+board the vessel throughout her stay to deal with any emergency situation that may arise.
+8.2. Berth Information
+The Marine Receiving Facilities comprise two finger piers, each with a berth on either side:
+berths 1 and 2 on pier 1; berths 3 and 4 on pier 2. Both piers are fitted with 2 transfer lines:
+lines A and B on pier 1; lines C and D on pier 2.
+A maximum of 4 ships can be received at one time. Each berth has a dedicated shoreline
+of 36" up to the root of the pier, then 42" for a further 5 km to the Tank Farm. Non-return
+valves are fitted on the jetty platform and the jetty root to prevent back-flow of cargo to the
+vessel. All tanks at the SIOT tank farm have pad elevations of between 16 & 43m above
+sea level.
+8.3. Unloading Arms
+Three FMC articulated unloading arms with quick-release couplings are positioned at
+berths No.1, 3 and 4, while two arms of the same type are positioned at berth No.2. The
+quick release arm couplings can be adjusted to fit manifold sizes from 12" to 16" x 150
+ASA. All are fitted with integral insulated flanges. Working range diagrams for the loading
+arms on each berth are included in Sections 9.16/17/18.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 34 of 93
+8.4. Ship’s Manifold
+Ships should comply in all respects with the requirements in the latest edition of the OCIMF
+publication “Recommendations for Oil and Chemical Tanker Manifolds and Associated
+Equipment”.
+Ships shall provide an adequate fixed or portable access fittings to allow a safe access
+and an easy escape way from all the manifold’s working platform, with particular attention
+for the area between the connections (see as example the picture below).
+All the portable stairs, ramps or other fittings made available shall be arranged to be
+properly secured to the manifold platform edge.
+Any ship found not in compliance with the above requirements will receive a formal Letter
+of Protest at the first occurrence. If the same non-compliance is found again at the vessel’s
+next calls, the ship will be entered into the TAL Terminal Warning List. Further recurrence
+may lead to the vessel’s Refusal in accordance with the applicable Terminal procedures.
+8.5. Closed Operations
+All cargo operations and related activities must be conducted under closed conditions.
+Use of vapour lock system is mandatory to gauge the cargo spaces at all times. No gas
+freeing, purging or tank cleaning operations are permitted alongside SIOT berths.
+All cargo tank openings shall be gas tight and leakage free.
+8.6. Cargo Discharge
+The maximum discharge rate for each individual unloading arm is 4,000 m3/h.
+The maximum discharge rates, with all the available unloading arms connected, are the
+following:
+• Berths 1, 3 and 4 – 11,000 m3/h,
+• Berth 2 – 8,000 m3/h.
+The maximum pressure permitted at the shore gauge is 10 bar (145 psi).
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 35 of 93
+The maximum cargo temperature for shorelines B and C is 40 °C, and for shorelines A
+and D is 50 °C.
+Under particular circumstances SIOT may reduce the maximum discharge temperature
+through shorelines A or D to 40 °C.
+In any case, the maximum allowed discharge rate, pressure and temperature will be
+discussed and defined during the pre-cargo transfer conference (see Appendix 3).
+The minimum discharge temperature is grade pour point +10 °C from June to October and
+grade pour point +15 °C from November to May.
+Viscosity not to exceed 200 mm2/s (cSt) at 50 °C and in no case shall exceed 500 mm2/s
+(cSt) at the receipt temperature less 5 °C.
+Any delay due to failure to comply with the above parameters will be charged to the vessel.
+The number of cargo arms in use shall be kept to the minimum number required to
+facilitate an efficient discharge, thus ensuring the quickest disconnection possible in the
+event of worsening weather conditions.
+When starting the discharge, the cargo unloading arms and the ship’s manifolds/lines are
+to be checked by the ship's Duty Officer to ascertain whether there are any leaks. When
+discharge operations are completed, the cargo transfer arms and manifold piping are to
+be drained empty and the valves on the vessel manifolds closed prior to disconnecting.
+Immediately after disconnecting, blank flanges are to be installed on the manifold of the
+vessel and fully bolted.
+Note: Vessels are not allowed to use compressed air or nitrogen to drain their manifolds.
+Vessels unable to drain empty the manifold piping in closed condition (i.e. vapour
+lock) and in a reasonable time will be considered sub-standard, and consequently warned.
+8.7. Cargo Surveyor/Expeditor
+All parties involved in a cargo may appoint a cargo inspector/expeditor to act on their
+behalf subject to prior notification to the Terminal. In their absence of cargo inspectors,
+the ship will perform the measurements and communicate the cargo figures (TOV, TCVD,
+TCVL, TempAv, Free Water, OBQ and VEF) and, where applicable, segregated slop tank
+or residual tank oil and water volume, to the Terminal Control room. In this case, the vessel
+shall provide the terminal with a ship’s tanks composite average sample of at least 8 litres
+for each cargo on board. Bunker tanks, and any other spaces may be also checked.
+A Terminal representative could assist the gauging and sampling operation start, due to
+verify the subsistence of the safety conditions (i.e. VLS and gauging/sampling devices
+tightness, use of appropriate PPE by the crew etc.).
+If the vessel is moored with a trim by bow greater than 30 cm and does not bring the
+trim to even keel condition before the commencement of cargo ullaging operation, the
+Terminal will issue a letter of protest for excessive trim by bow.
+8.8. Environmental Criteria
+The Operational parameters at this Terminal are as follows:
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 36 of 93
+Operation Description Beaufort Scale Wind Speed
+Stop Cargo Ops 60 Km/h (abt. 32.5Knts)
+and disconnect Gale Force Force 8 In case of gusty wind, calculated
+unloading arms on 20 sec gust.
+In consideration of the Optimoor® About 110 Km/h
+*Vacate the berth assessment outcome (60 Knots)
+*The decision to vacate the berth is subject to discussion and agreement between the
+Master, the terminal representative and the pilot. This decision may be taken at any time
+regardless of the aforementioned criteria, if a situation is causing concern. Tug assistance
+is normally available at 15mins notice if required.
+Cargo will be stopped and the ship's manifold valves and the cargo arm valves will be
+closed if an electrical storm passes within 15 km of the terminal (see Section 6.3.5).
+8.9. Sampling
+An average sample from the ship’s tanks of a minimum volume of 8 litres will be taken for
+each cargo grade by the cargo surveyor or ship’s personnel.
+During discharging, a continuous sample will be produced by an automatic sampler device
+on the shore pipeline.
+For certain cargoes (i.e. high H2S cargoes, high viscosity or and/or high pour point
+cargoes), the terminal could request sampling of cargo tanks in the roads and sample
+analysis before berthing.
+8.10. ISGOTT 6 Ship/Shore Safety Check List and Pre Cargo Transfer Conference
+Composition of the Ship/Shore Safety Check List (SSSCL)
+The SSSCL comprises 9 main parts addressing the transfer of Bulk liquids. These are
+applicable to all operations. Taking in account the operation allowed alongside, the
+applicable parts of ISGOTT SSSCL are:
+• Part 1A – tanker: checks pre-arrival,
+• Part 1B – tanker: checks pre-arrival if using an inert gas system,
+• Part 2 – terminal: checks pre-arrival,
+• Part 3 – tanker: checks after mooring,
+• Part 4 – terminal: checks after mooring,
+• Part 5a – tanker and terminal: pre-transfer conference*,
+• Part 6 – tanker and Terminal: agreements pre-transfer,
+• Part 7A – tanker: checks pre-transfer,
+• Part 7B – tanker: checks pre-transfer if crude oil washing is planned,
+• Part 8 – tanker: repetitive checks during and after transfer,
+• Part 9 – terminal: repetitive checks during and after transfer.
+The checks foreseen in parts 1A, 1B and 2 of SSSCL are carried out independently by
+terminal and ship’s representative after the berth has been assigned but before the POB
+time. In the event of a negative outcome of the required checks, the other party must be
+immediately informed.
+The checks foreseen in parts 3 and 4 of SSSCL are carried out independently by terminal
+and ship’s representative after the mooring operations have been completed.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 37 of 93
+The results of the checks required in part 1A, 1B, 2, 3 and 4 must be available for the
+consultation by the other party during the pre-discharge conference.
+Parts 5a, 6, 7a and 7b of SSSCL are jointly compiled by Terminal and Ship’s
+representatives by exchanging all the necessary information and by carrying out all the
+checks provided therein.
+In case necessary, an extra part of the SSSCL with additional information may be added
+to the document.
+The checks foreseen in parts 8 and 9 of SSSCL are generally carried out independently
+by Terminal and Ship’s representative at least every 4 hours after the competition of the
+pre-discharge conference. For mutual safety, a Terminal Representative may request time
+to time a Responsible Officer to jointly inspect the vessel to ensure that it is effectively
+managing its obligation agreed in the SSSCL. The record of the checks must be available
+for the other party on request. In the event of a negative outcome of the required checks,
+the other party must be immediately informed.
+During the discharge operation the safety inspector will perform periodical physical checks
+on board based on SSSCL requirements. These checks must be considered independent
+from those required for on-board personnel. Ship’s representative is requested to facilitate
+the safety inspector by providing the authorizations and the personnel necessary for their
+execution. The checks results are recorded in a dedicated checklist.
+*Once on board, the Pier Master (or Junior Pier Master) and Safety Inspector will conduct
+a safety tour of the vessel accompanied by a ship's officer. Any deficiencies noted will be
+brought to the attention of the accompanying officer who must arrange for corrective action
+to be undertaken immediately.
+On completion of the safety walk around, the Pier Master (or Junior Pier Master) will
+proceed to the ship's cargo office and complete the Safety Letter (Appendix 1), the Ship
+Shore Safety Check List (SSSCL - Appendix 2), the pre-cargo transfer conference
+(Appendix 3) and other documentation, prior to the commencement of cargo operations.
+8.11. Crude Oil Washing
+Prior to commencing Crude Oil Washing (COW) operations, the Master must be in
+possession of a signed authorisation to proceed from the Harbour Master (Appendix 7).
+The authorisation is issued following completion of a set procedure which is initiated upon
+receipt in the Harbour Master’s office of the 72 hours ETA in the prescribed form (see
+Section 3.1).
+The full procedure is described in the specific Harbour Master Ordinance. The following
+are the key remaining steps required and the prescribed forms are copied in this document
+for information as follows (this process is usually undertaken 24/7):
+• Inspection for Authorisation to perform COW Operations (Appendix 5) by the vessel’s
+nominated Classification Society (not the vessel’s own Classification Society).
+• Inspection and test for issue of the Inert Condition Certificate for Crude Oil Washing
+(Appendix 6) by the Port Chemist.
+• Issue of Authorisation by the Harbour Master (Appendix 7) following completion of
+these two inspections.
+Determination for the suitability of cargo with the “Minimum MARPOL” COW operations
+shall be determined in accordance of IMO Requirements as amended by the 43rd MEPC
+and 21st Assembly.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 38 of 93
+During the C.O.W. operation the safety inspector will perform periodical physical checks
+on board based on dedicated check lists. These checks must be considered independent
+from those required for on-board personnel. Ship’s representative is requested to facilitate
+the safety inspector by providing the authorisations and the personnel necessary for their
+execution. The checks results are recorded in a dedicated checklist.
+For safety reasons, COW lines pressure test is not allowed alongside.
+8.12. Cargo Free Water Disposal
+The Practical Rules governing the receipt of cargoes at the Marine Receiving Facilities for
+the TAL pipeline (SIOT Terminal) require that the Total Water Content of the cargo shall
+not exceed 1% of the Gross Standard Volume (GSV).
+Where this limit is exceeded, the vessel may be accepted for berthing and discharge only
+if she is able to reduce the Free Water, thereby bringing the Total Water Content to 1% or
+less, by one of the following means:
+• Water cut and segregation of Free Water on board, or
+• Disposal of cargo Free Water to a barge at the roads.
+8.13. End Of Discharge
+The completion of the discharge shall be agreed by both, Shipper or his representative
+and the Master, and both shall sign a "remaining on board certificate" (ROB).
+8.14. Tanks Inspection On Sailing
+On completion of discharge the cargo inspector or, in his absence the ship’s personnel,
+shall measure the ROB in all the empty tanks and the contents of tanks with cargo for
+other ports and these figures shall be communicated to the terminal. Where applicable,
+segregated slop tank or residual tank oil and water volume shall also be checked. Bunker
+tanks and any other spaces may be also checked.
+A terminal representative could assist the ROB measurement start, due to verify the
+subsistence of the safety conditions (i.e. VLS and devices tightness, use of appropriate
+PPE by the crew etc.).
+8.15. Cargo Documents
+The following documents are required on or before arrival:
+• Original Bill of Lading or copy bearing the original Master's signature and the ship's
+stamp.
+• Cargo manifest with the Master's signature and the ship's stamp.
+• Cargo certificate of origin.
+• Cargo certificate of quality.
+• Loading port ullage report.
+• Loading port OBQ and/or Slop certificate.
+• Ship's protest for free water in the cargo.
+• Ship's protest for difference between B/L quantity and ship's quantity after loading.
+• Loading port Vessel experience factor statement.
+• MSDS for each cargo grade present on board.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 39 of 93
+• Discharge Plan.
+8.16. SIOT Documents
+The following standard documents shall be issued:
+• Cargo discharge preliminary agreement (Appendix 3).
+• Tanker Time Sheet.
+• Safety Letter (Appendix 1).
+• Ship-Shore Safety Check List (Appendix 2).
+The following documents should be issued if necessary:
+• Notice of protest for excessive net berth occupancy time.
+• Statement regarding sea pollution by ship.
+• Notice for excessive trim at the bow while ullaging.
+• Notice of protest for improper mooring arrangement.
+• Optimoor® analysis report.
+Should any other complaint arise which may affect the quantity or the quality of the cargo,
+or the discharge operations, SIOT may lodge a protest in writing, the receipt of which must
+be confirmed by the Master.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 40 of 93
+9.0 DRAWINGS, EXAMPLES, FORMS ETC.
+9.1. Anchorages, Channel & Harbour Plan
+Courtesy Istituto Idrografico della Marina
+Could not be latest chart edition
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 41 of 93
+Courtesy Istituto Idrografico della Marina
+Could be not latest Chart edition
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 42 of 93
+9.2. Terminal Layout
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 43 of 93
+9.3. Safety Plan (Jetty)
+Pier 1
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 44 of 93
+Pier 2
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 45 of 93
+9.4. Safety Plan (Platform)
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 46 of 93
+9.5. Fire Monitor Coverage
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 47 of 93
+9.6. Escape Way
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 48 of 93
+9.7. Bubble Barriers and Oil Spill Detection System
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 49 of 93
+9.8. Mooring Points
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 50 of 93
+9.9. Ship’s Mooring Arrangement Diagram
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 51 of 93
+9.10. Mooring Data Collection Form
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 52 of 93
+9.11. OPTIMOOR® Mooring Analysis (Examples)
+Report Courtesy Tension Technology International Ltd
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 53 of 93
+Report Courtesy Tension Technology International Ltd
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 54 of 93
+9.12. Mooring Arrangements (Pier No 1)
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 55 of 93
+9.13. Mooring Arrangements (Pier No 2)
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 56 of 93
+9.14. Emergency Towing Off Pennants
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 57 of 93
+9.15. VSL’s Windage Areas
+Definition: THE SHIP’S AREA EXPOSED TO THE WIND FORCE
+LONGITUDINAL or BROADSIDE WIND AREA
+TRANSVERSE or HEAD-ON WIND AREA
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 58 of 93
+9.16. Working Range Diagram (Berths 1 & 3)
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 59 of 93
+9.17. Working Range Diagram (Berth 2)
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 60 of 93
+9.18. Working Range Diagram (Berth 4)
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 61 of 93
+9.19. Request for Permit of Temporary Access to the Marine Terminal
+The form may be further modified for SIOT Terminal use from time to time.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 62 of 93
+9.20. Permit of Temporary Access to the Marine Terminal
+Temporary authorization: Safety and Security regulations in the Marine Facility
+Read carefully before enter in the Prohibited to leave unattended
+Number of t.a.:
+No smoking Marine Facility bags
+Prohibited to use
+electronic devices Show permanently the PASS
+Prohibited to enter in
+restricted areas
+Prohibited to take photographs
+Prohibited to light open In case of danger or suspect of suspicious
+flames material, inform SIOT personnel, even through
+XXXXX
+the appropriate telephone equipment of the
+Wear the correct p.p.e. terminal.
+Control room 7875
+In an emergency, head to the Pier Master 7870
+appropriate escape routes
+The form may be further modified for SIOT Terminal use from time to time.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 63 of 93
+9.21. Movement of Goods
+The form may be further modified for SIOT Terminal use from time to time.
+SIOT* Marine Receiving Facilities in Trieste 2026 Edition
+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06
+TERMINAL INFORMATION AND PORT REGULATIONS Page 64 of 93
+9.22. Movement of Persons
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 1
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 2
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 3
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 4
+MESSAGGIO D’ARRIVO DA PARTE DELLA NAVE / SHIP’S PRE-ARRIVAL MESSAGE
+TO: TRIESTE HARBOUR MASTER AND COAST GUARD – MARINE SAFETY DEPT.
+(FAX 0039 040 676665 – E-MAIL sicnav.cptrieste@mit.gov.it)
+SIOT OIL TERMINAL Ship.eta@TAL-OIL.COM
+SHIP’S AGENCY
+CLASSIFICATION SOCIETY appointed for COW INSPECTION
+AA) 1) SHIP’S NAME / 2) CALL SIGN / 3) FLAG / 4) PORT AND NUMBER OF REGISTRY / 5) KEEL LAID
+DATA / 6) IMO N° / 7) GT / 8) NT / 9) DWT / 10) LOA / 11) BEAM / 12) ARRIVAL DRAFT / 13) ARRIVAL
+DISPLACEMENT 14) SBT-DH / 15) VESSEL TELEPHONE-FAX- EMAIL NUMBERS / 16) MAX
+VESSEL LONGITUDINAL AND TRASVERSAL WINDAGE AREA AT BERTH / 17) PARALLEL BODY
+ON ARRIVAL / DEPARTURE 18) BOW TO CENTRE OF CARGO MANIFOLD DISTANCE
+BB) CERTIFICATES
+DATE OF ANNUAL EXPIRY ISSUING AUTHORITY/ CLASS
+PLACE OF ISSUE
+ISSUE SURVEY DATE SOC.
+LOAD LINE
+SAFETY CONSTRUCTION
+SAFETY EQUIPMENT
+SAFETY RADIO
+IOPP
+CLASS
+SMC
+DOC
+MOU
+TONNAGE
+CLC
+MANNING
+DERATTING
+ITALIAN LIGHT DUES
+(ANCHORAGE DUES)
+ISSC
+CERTIFICATE OF ENTRY
+CLC BUNKER
+CC) 1) CREW NUMBER / 2) MASTER NAME – PLACE AND DATE OF BIRTH – PASSPORT NUMBER
+DD) FULL STYLE OF 1) OWNER / 2) OPERATOR 2a) DPA contacts 3) CHARTER
+EE) SAILING DATE AND TIME, DEPARTURE DRAFT (SPECIFY IF VISUAL CHECK OR CALCULATED) FROM
+LAST PORT
+FF) ETA TRIESTE
+GG) 1) CARGO (TECHNICAL AND COMMON NAME – PARAFFINIC/AROMATIC) / 2) QUANTITY B/L
+M/TONS / 3) API OR DENSITY / 4) POUR POINT / 5) DISTRIBUTION ON BOARD / 6) FULL OR
+PARTIALLY UNLOADING / 7) MAXIMUM DISCHARGE RATE / 8) MAX TEMPERATURE OF EACH
+CARGO GRADE TO BE DISCHARGED / 9) DISCHARGE SEQUENCE IN CASE OF DIFFERENT
+CARGO GRADES ON BOARD
+HH) 1) G.O.V. (Gross Observed Volume) / 2) SLOP L.O.T. / 3) FREE WATER (INCLUDING FREE
+WATER IN SLOP) / 4) SEGREGATED SLOP QUANTITY (OIL / WATER)
+Appendix 4
+II) 1) IGS PLANT FULLY OPERATIONAL / 2) OXYGEN CONTENT PERCENTAGE BY VOLUME IN
+MAIN LINE / 3) OXYGEN CONTENT PERCENTAGE BY VOLUME IN ALL CARGO TANKS AND SLOP
+TANKS / 4) GAS PRESSURE / 5) CARGO TANKS H2S (HYDROGEN SULPHIDE) CONTENT 6) SIDE
+OF IG SCRUBER OVER BOARD DISCHARGE (PORT/STD)
+JJ) 1) ESTIMATED TOTAL DISCHARGING TIME / 2) COW / 3) BALLAST)
+KK) GOOD WORKING CONDITION OF CARGO PUMPS, RELATIVE DEVICES AND ALARM AS PER
+RELEVANT IGS MANUAL
+LL) TIGHTENING CHECK CARGO TANKS OPENINGS
+MM) 1) CHECK UP CORRECT WORKING OF CARGO TANK SOUNDING SYSTEM (CLOSE ULLAGE
+SYSTEM) / 2) TYPE IN USE
+NN) ANY DEFECT OF HULL, MACHINERY OR EQUIPMENT WHICH MAY:
+ AFFECT THE SAFE MANOEUVRABILITY OF THE TANKER;
+ AFFECT THE SAFETY OF OTHER VESSEL;
+ CONSTITUTE A HAZARD TO THE MARINE ENVIRONMENT;
+ CONSTITUTE A HAZARD TO PERSONS OR PROPERTY ON LAND OR IN THE VICINITY OF
+THE HARBOUR
+OO) 1) COW REQUIRED TANKS TO BE WASHED / 2) COW CHECKING SOCIETY CHOICE / 3)
+STARTING TIME AFTER STARTING DISCHARGING OPERATION / 4) REASONS IF COW NOT
+POSSIBLE / 5) COW MANUAL AMMENDED AS PER IMO REQUIREMENTS AMENDED BY THE
+43RD MEPC AND 21ST ASSEMBLY (Y / N).
+PP) ALL EQUIPMENT FOR COW HAVE BEEN TESTED WORKING PROPERLY
+QQ) 1) OFFICER NAME SUPERVISING COW OPERATIONS / 2) OTHER PERSONS INVOLVED IN
+COW OPERATIONS
+RR) IF IOPP 1.10.3 STATUS OF SHIP REG 1 (26)
+ATTESTING: NEW OIL TANKER (Y/N)
+SS) 1) NUMBER / 2) SIZE, DISTANCE BETWEEN CENTRES OF CARGO CONNECTIONS (IF VESSEL
+HAS ALREADY BEEN TO THE TERMINAL, SIMPLY STATE “SAME” IF NO CHANGES HAVE
+OCCURRED SINCE THE LAST VISIT) / 3) DISTANCE FROM BOW TO MANIFOLD CENTRE
+TT) NUMBERED FROM THE FRONT, WHICH MANIFOLDS ARE TO BE CONNECTED (NORMALLY 3
+ARMS AVAILABLE)
+UU) MOORING LINES BREAKING CAPACITY AND:
+ NUMBER AND TYPE OF BOW LINES
+ NUMBER AND TYPE OF FORWARD BREAST LINES
+ NUMBER AND TYPE OF FORWARD SPRING LINES
+ NUMBER AND TYPE OF AFT SPRING LINES
+ NUMBER AND TYPE OF AFT BREST LINES
+ NUMBER AND TYPE OF STERN LINES
+VV) IF ORIGINAL B/L ON BOARD
+WW) 1) IF ANY WEAPONS / 2) AMMUNITIONS ON BOARD
+XX) IF ANY STOWAWAYS, PASSENGERS OR ANY OTHER PERSONS WITH EXPIRED / NOT IN
+ORDER PERSONAL DOCUMENTS
+YY) WHILE ALONGSIDE, 1) IS IT FORESEEN ANY CREW CHANGES OR VISITORS BOARDING YES
+/ NO, 2) ANY STORE OR PROVISION LOAD YES / NO
+ZZ) SHIP IN COMPLIANCE WITH MARPOL ANNEXE 1, REG. 33 YES / NO
+IF YES - RECOGNISED ORGANISATION SOCIETY INFORMED YES / NO / N.A.
+RMKS: ANY CHANGE TO THE ABOVE DECLARATION SHALL BE IMMEDIATELY NOTIFIED TO
+TRIESTE HARBOUR MASTER AND COAST GUARD OFFICE
+HTTPS://WWW.TAL-OIL.COM/EN/INSTALLATIONS/MARINE-TERMINAL.HTML
+TO DOWNLOAD TERMINAL BOOKLET
+Appendix 5
+COW Procedure: Certificate to Harbour Master from Registration Body
+Date: Our Ref:
+Page 1 of
+From_________________-- Trieste Office
+To: TRIESTE HARBOUR MASTER – Marine Safety Department Fax. No.
+CAPITANERIA DI PORTO DI TRIESTE
++39040676665
+Att. Person in charge
+cc: Ship’s Agent (if opinion in not favourable)
+Subject: Inspection for Authorization to perform C.O.W. OPERATIONS
+Visita per il rilascio dell’Autorizzazione allo svolgimento operazioni C.O.W.
+With reference to your message No….dated…and following the inspection carried out on board of M/T
+……………………………… IMO No:………………………….Flag ………………. We confirm that:
+Con riferimento al Vx. Fax ….. ed a seguito ispezione effettuata in data odierna a bordo della
+M/C……………………………... si comunica quanto segue:
+a) Ship’s master has presented for examination the documents required by the Harbour Master
+Authority called” Ordinanza No. 43/06 as per article 2”;
+Il comandante della nave ha esibito I documenti come richiesto dall’articolo 2 dell’Ordinanza
+della Capitaneria di Porto No. 43/06.
+b) The compliance of the plants with the requirements of aforesaid “Harbour Master Authority
+document” has been verified.
+E’ stata verificata la rispondenza degli impianti alle norme della citata Ordinanza della
+Capitaneria di Porto
+The opinion to give the above mentioned authorization is:
+Pertanto si esprime parere:
+FAVOURABLE with following recommendation /NOT FAVOURABLE due to following deficiencies (*):
+FAVOREVOLE con le seguenti raccomandazioni / NON FAVOREVOLE per le seguenti ragioni(*):
+(*) Delete as appropriate – Cancellare come necessario
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+__________________
+Remarks for Trieste Harbour Master Office – Marine Safety Department only:
+Note per la sola Capitaneria di Porto di Trieste – Sezione Sicurezza della Navigazione
+…………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………
+…………………………………………
+Master declared C.O.W. will probably starts at……………… on……..….
+Il comandante ha dichiarato che le operazioni C.O.W. cominceranno probabilmente alle ore….….
+del…………..
+firma
+Appendix 6
+COW Procedure: Certificate to Harbour Master from Port Chemist
+DOTT.
+CONSULENTE CHIMICO DELLA CAPITANERIA DI PORTO DI TRIESTE
+CERTIFICATO DI INERTIZZAZIONE PER CRUDE OIL WASHING
+INERT CONDITION CERTIFICATE FOR CRUDE OIL WASHING
+NAVE AGENTE
+SHIP AGENT
+BANDIERA STAZZA LORDA
+FLAG GROSS TONNAGE
+COMANDANTE
+MASTER
+_______________________________________________________________________________________
+Si certifica che, su richiesta del Comando di Bordo di eseguire il C.O.W., sono stati effettuati i seguenti controlli:
+This to certify that, on request of the Master to obtain permission of C.O.W. operations, the following tests and inspections have been carried out:
+1. Contenuto di Ossigeno nelle cisterne del carico, misurato dal Chimico di Porto:
+O2 content in cargo tanks, tested by the Marine Chemist:
+CISTERNA N° CISTERNA N° CISTERNA N°
+% O2 % O2 % O2
+TANK N° TANK N° TANK N°
+1 P 1 C 1 S
+2 P 2 C 2 S
+3 P 3 C 3 S
+4 P 4 C 4 S
+5 P 5 C 5 S
+6 P 6 C 6 S
+7 P 7 C 7 S
+8 P 8 C 8 S
+9 P 9 C 9 S
+Slop P Slop C Slop S
+2. Contenuto di ossigeno nella linea principale del gas inerte:
+Oxygen content in the inert gas main line:
+a) Misurato dal Chimico di Porto ________________
+Tested by the Marine Chemist
+b) Letto sull'analizzatore principale di O2 di bordo ________________
+Read on the ship's O2 main analyser
+c) Letto sul ripetitore - registratore di O2 ________________
+Read on the O2 repeater-recorder
+Differenza nella risposta degli strumenti di bordo rispetto al dato misurato dal Chimico di Porto:
+Difference in the ship's meters response (compared with the value tested by the Marine Chemist)
+- Analizzatore principale di O2 _________________________________
+Main O2 analyser
+- Ripetitore - registratore _________________________________
+Repeater-recorder
+Appendix 6
+3. Pressione misurata nelle cisterne del carico _____________________________________
+(min./max.) mbar / mmH2O
+Pressure tested in cargo tanks (min./max.) _____________________________________
+4. Strumenti portatili di bordo per la misura di Adatti alla misura nelle cisterne del carico in conformità a
+O2 visionati dal Chimico di Porto: quanto prescritto dall’Ordinanza della Capitaneria di
+n° ______ Porto di Trieste n. 43/2006: n° _____
+Ship's portable O2 meters inspected by the Marine suitable for cargo tanks in compliance with Ordinance n° 43/2006
+Chemist: n° of the Harbour Master: n°
+Strumento Differenza massima osservata rispetto ai due punti di
+Meter taratura:
+Maximum difference in the meters response (compared with O2 0 % and O2
+20.9 %)
+_____________________________________ _____________________________________
+_____________________________________ _____________________________________
+_____________________________________ _________________________
+_____________________ _________________________________
+5. Calibrazione effettuata su misuratori portatili di O2 di bordo:
+Calibration performed on ship's portable O2 meters:
+Strumento:
+Meter:
+_________________________________________
+_________________________________________
+_________________________________________
+Osservazioni e prescrizioni del Consulente Chimico del Porto
+Remarks and instructions from the Marine Chemist
+All’attenzione dell’Ufficiale di Ispezione
+All’attenzione della Sezione Sicurezza della Navigazione
+IN SEGUITO AGLI ACCERTAMENTI ESEGUITI RIGUARDO LE CONDIZIONI DI INERTIZZAZIONE RICHIESTE DALLE
+VIGENTI NORME DI SICUREZZA SI ESPRIME PARERE FAVOREVOLE / NON FAVOREVOLE PER
+L'EFFETTUAZIONE DEL C.O.W.
+FOLLOWING THE TESTS AND INSPECTIONS CARRIED OUT TO CHECK THE INERT CONDITION REQUESTED BY THE PORT
+SAFETY REGULATIONS, THE VESSEL IS / IS NOT IN THE CONDITION TO PERFORM C.O.W. OPERATIONS.
+DATA ORA Il Consulente Chimico di Porto Il Comandante (Timbro e Firma)
+DATE TIME THE MARINE CHEMIST MASTER (Stamp and Signature)
+Appendix 7
+COW Procedure: Authorisation to Proceed
+Appendix 8
+Pre Mooring Inspection Checklist
+The form used by the Safety Inspector may be modified for SIOT Terminal use from time to time.
+Appendix 8
+The form used by the Safety Inspector may be modified for SIOT Terminal use from time to time.
+Appendix 8
+The form used by the Safety Inspector may be modified for SIOT Terminal use from time to time.
+Appendix 8
+The form used by the Safety Inspector may be modified for SIOT Terminal use from time to time.
+Appendix 9
+The form may be further modified for SIOT Terminal use from time to time.
+Appendix 10
+The form may be further modified for SIOT Terminal use from time to time
+Appendix 11
+The form may be further modified for SIOT Terminal use from time to time
+Appendix 11
+The form may be further modified for SIOT Terminal use from time to time
+Notice 1
+SIOT MARINE TERMINAL
+COMMUNICATIONS NOTICE
+Primary System:-
+The Safety Inspector on board throughout the vessel’s stay alongside is in
+permanent radio contact with the Pier Master and the Control Room on the
+Terminal’s Private VHF Channel. All communications with shore are normally to
+be addressed through the Safety Inspector.
+A “radio check” call may be requested via the Safety Inspector at any time BUT should at least be made during
+each and every instance of the repetitive checks of the Ship Shore Safety Check List.
+Secondary System:-
+An Єx mobile telephone is placed on board each ship by the Terminal for the
+ship’s use. Dial 8 for an internal call to the Pier Master.
+Ships alongside may be called by dialling +39 040 828455 / 828456
+(Instructions available in Italian and English)
+International calls are also possible.
+Note: Whilst alongside SIOT berths, ships should maintain a listening watch in the cargo
+control room on VHF channel 72. The Pier Master’s Office will call on this channel
+(however, it is not monitored for incoming calls) if other means of communication fail to
+raise a response.
+The Pier Master’s office is equipped with Marine Band VHF, with channels 10-12-14-16-
+71-72-73 but a listening watch is not maintained.
+In the event of a complete communications failure, all cargo operations
+must be stopped until communication links have been re-established.
+TELEPHONE CONTACT NUMBERS
+VHF 72/73
+Pier Master Phone: 040 827003 Mob: 348 4511932
+(by arrangement)
+Supervisor Phone: 040 3889871 Mob: 348 2508597
+Pilot Station Phone: 040 304307 Mob: 335 1002479 VHF 14
+Harbour Master Phone: 040 676616 Fax: 040 676665
+Tugs VHF 12
+Antipollution Boat VHF 72
+The Country Code for calling these numbers from outside of Italy is +39.
+Notice 2
+SIOT MARINE TERMINAL
+INSTRUCTIONS IN CASE OF FIRE OR EMERGENCY
+Fire Action - Ship
+Fire on your Ship Fire on another Ship or Ashore
+• Raise the alarm on board & ashore • Raise the alarm on board & ashore
+• Cease all cargo/ballast operations and when instructed:
+and close all valves
+• Cease all cargo/ballast operations
+• Fight fire with the aim of preventing and close all valves
+spread
+• Stand-by to disconnect cargo arms
+• Stand-by to disconnect cargo arms
+• Bring engines and crew to
+• Bring engines to readiness for readiness for immediate departure
+immediate departure
+Fire Action - Ashore
+Fire on a Ship Fire Ashore
+• Raise the alarm ashore and on • Raise the alarm ashore and on
+board all ships alongside board all ships alongside
+• Instruct vessels to cease all • Implement Terminal Emergency
+cargo/ballast operations and close Plan
+all valves • Instruct vessels to cease all
+• Stand-by to disconnect cargo arms cargo/ballast operations and close
+• Stand-by to assist fire fighting all valves
+• Implement Terminal Emergency • Fight fire with primary aim of
+Plan preventing escalation until help
+arrives
+• If required, stand-by to disconnect
+cargo arms
+In case of fire, do not hesitate to raise the alarm
+Terminal Fire Alarm
+CONTINUOUS SIREN SOUND
+To raise the alarm in case of fire on board your ship:
+1. Activate the SHIP’S FIRE ALARM SIGNAL.
+2. Contact the terminal through the Safety Inspector or VHF Ch.72 or Єx
+mobile Telephone: dial 8.
+Notice 3
+SIOT MARINE TERMINAL
+INSTRUCTIONS IN CASE OF VESSEL DRIFT-OFF
+Action to be taken by Ship
+Drift-off of your Ship Drift-off of another Ship
+• Raise the alarm on board and • Raise the alarm on board and ashore
+ashore
+and if requested:
+• Cease all cargo/ballast operations
+and close all valves • Cease all cargo/ballast operations
+and close all valves
+• Stand-by to disconnect cargo arms
+• Stand-by to disconnect cargo arms
+• Restore a safe mooring
+Action to be taken by Terminal
+• Raise the alarm ashore and on board all ships alongside
+• Activate the Terminal emergency plan for vessel’s drift-off
+• Instruct vessel/s to cease all cargo/ballast operations and close all
+valves
+• Stand-by to disconnect cargo arms
+• Restore a safe mooring*
+In case drift-off, do not hesitate to raise the alarm
+Terminal Emergency Signal:
+CONTINUOUS SIREN SOUND
+To raise the alarm in case of drift-off on board your ship:
+1. Activate the SHIP’S EMERGENCY SIGNAL.
+2. Contact the terminal through the Safety Inspector or VHF
+Ch.72 or Єx mobile Telephone: dial 8.
+________________________________________________________________________
+(*) According to the entity of the vessel’s movement from her initial position, the Terminal
+individuates three level of drift-off:
+• Level 1: limited vessel’s movement from her initial position
+• Level 2: significant vessel’s movement from her initial position
+• Level 3: vessel’s detachment from fenders concurrently with loss of mooring
+control
+Once Terminal evaluated the drift-off level, additional action over those listed above may
+be taken, e.g. the emergency call of mooring men to restore the mooring or the emergency
+summoning of tugs to push back the vessel alongside.
+Additional mooring lines can be made fast between the ship and shore.

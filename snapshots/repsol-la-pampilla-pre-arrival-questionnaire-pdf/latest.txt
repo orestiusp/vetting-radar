@@ -1,0 +1,57 @@
+REPSOL
+LA LA CORUÑA
+PAMPILLA TERMINAL
+MARITIME PRE-ARRRIVAL
+TERMINAL PRE-ARRIVALREPORT FORM
+QUESTIONNAIRE
+Tanker ship’s agent are requested to report Vessel ETA to La Pampilla Maritime Terminal immediately after leaving last port of call.
+ETA confirmation must be sent 72, 48, 24, and 12 hours before arrival. Significant changes must be reported as well.
+Ship’s agent must send the present pre-arrival questionnaire to La Pampilla Maritime Terminal: Email: perurflp@repsol.com, as soon as
+practicable.
+La Pampilla Maritime Terminal will not authorize any tanker ship to berth without the pre-arrival questionnaire, ISPS documents and
+Repsol vetting acceptance.
+Ship´s name IMO Nr. Call sign Flag LOA (m) Beam (m)
+AAA
+ETA to Callao Port, tanker ship’s anchorage area (dd/mm/yyyy hh:mm)
+BBB
+Arrival drafts Departure drafts Max. draft berthed Max. SDWT berthed Gross Tonnage
+(m) (m) (m) (MT) (GT)
+CCC
+Fwd. Aft Fwd. Aft
+Discharging sequence information
+Discharging Quantity Average Max. Rate
+Cargo grade/s API at 60°F
+sequence (Barrels at 60°F) Temp. (ºF) (Barrels / hour)
+DDD 1st
+2nd
+3rd
+Loading sequence information
+Loading Quantity Max. Rate
+Cargo grade/s
+sequence (Barrels at 60°F) (Barrels / hour)
+1st
+EEE
+2nd
+3rd
+4th
+5th
+6th
+7th
+Previous last three cargoes (1st MUST BE LAST CARGO) In transit cargoes (if any) GRADE/S, QUANTITY & FLASH POINT
+st nd rd
+FFF 1 2 3
+Have been all nominated cargo tanks inerted? Inert gas/nitrogen production rate (m3/hr.)
+NO ACCEPTABLE TO OPERATE CARGOES WITH FLASH POINT<60ºC WITHOUT I.G.S. INERT GAS OXYGEN CONTENT NOT MORE THAN 5%
+GGG
+Loading operation nominated cargo tanks preparation (tank cleaning method, stripping, well drain…)
+HHH
+Crude oil tankers only (MARITIME AUTHORITY WARRANT MUST BE OBTAINED VIA AGENT AT LEAST 24 HOURS PRIOR ARRIVAL):
+III Is planned to carry out COW and, if so, COW Manual pre-arrival has been satisfactorily completed?
+Operational info: Is the following equipment fully operational? Navigation, Lifesaving, Firefighting, Anchoring, Mooring, ETOP´s, Cargo
+JJJ equipment, I.G.S. plant and C.O.W. equipment
+Registered Ship owner Ship’s Master full name (Surname, Name)
+KKK
+Notice of any additional requirement and/or any other information that Master considers relevant
+LLL
+Pre-arrival form meets ISGOTT Fifth Edition requirements
+Doc. version 1 Sept.2019

@@ -1,0 +1,72 @@
+RightShip Help Centre
+RightShip Inspections
+RightShip Inspection Ship Questionnaire (RISQ)
+The updated questionnaire has been designed to help guide and support shipowners, operators and managers in the pursuit of improvement and efficiency. And we’ve made the questionnaire freely available on our website for the betterment of the industry.
+In most parts of the questionnaire, you will find a “guide to inspection”. This assists the ship’s manager to prepare a vessel for inspection. It also supports the inspector assigned to complete the inspection report. The standardised reporting gives shipowners and managers a detailed but also easy to understand inspections outcome, which in turn helps to guide routine maintenance and preventative measures to ensure the vessel is running efficiently. The outcome of the inspection will reflect the actual condition and standard of the operation of the vessel at the time of inspection.
+We believe having a standardised inspections process implemented across the dry bulk fleet and greater transparency of outcomes will be beneficial for charterers and shipowners alike. For shipowners, successful completion of the inspection will acknowledge their commitment to crew welfare and safe and sustainable operation. These thorough assessments will also provide charterers with more accurate vetting outcomes.
+Technical details of the new Inspections Questionnaire
+The questionnaire has been expanded to include more vessel type specifics, making it the most comprehensive inspections reporting tool in the dry bulk sector. The expanded scope of inspections covers statutory items as well as recommended and desirable items with reference to IMO, ISO, ILO, OCIMF, ICS, P&I Loss Prevention Bulletins, maritime publications and industry codes of practice.
+For inspection purposes, the vessels covered in RightShip's inspections are now grouped into four categories:
+Bulk carriers that are carrying sold bulk cargoes other than grain
+Bulk carrier that are carrying grain cargoes
+General cargo ships that are carrying general and/or container cargoes
+Container ships that are carrying container cargoes
+Key questionnaire enhancements
+A Guide to Inspection is provided for many of the questions in the new questionnaire. This new feature will assist owner/managers in understanding industry expectations and preparing the vessel for inspection. It will also aid the inspector when answering the questions and completing the inspection report.
+Additional benefits include:
+Standardised inspection procedures
+Improved data capture for future analysis
+More comprehensive and incisive analysis of findings
+Enhanced overall assessment of the vessel condition.
+Benefits to shipowners
+The inspection questionnaire provides several benefits for shipowners, these include:
+Independent, standardised and enhanced assessment and verification of the onboard management and vessel condition.
+Improved quality of the inspection report with more comprehensive and incisive analysis of findings supported by Guide to Inspection
+Regular inspections help owners to increase and maintain their reputation with charterers, ports and terminals, financiers, marine insurers and others who use RightShip, resulting in higher earning potential and lower capex and opex.
+Shipowners who charter in additional tonnage are also able to use RightShip dry bulk inspections to inspect vessels before they take on long term charterers, to ensure they are up to the same standard as their fleet.
+Benefits to ship managers
+Ship managers traditionally need ways to differentiate themselves from other ship managers in a competitive sector. By using RightShip’s dry bulk inspections, they can:
+Use an independent assessment of onboard management to benchmark their management performance against expectation and industry standards
+Comprehensive inspection feedback reports allow managers to showcase their higher operating standards
+Support the on-going management and training of seafarers engaged on the vessels they manage
+Benefits for charterers
+It is critical that charterers avoid making use of deficient ships and minimise the key risks to which a charterer is most exposed to when goods are being transported by sea.
+RightShip recommends that, before chartering or accepting the nomination of a ship to its terminal, each charterer carefully assesses the risks involved, utilising all available sources of information, to ensure that the vessel is seaworthy and cargo worthy.
+By using vessels which have achieved a positive RightShip’s dry bulk inspections outcome, charterers can benefit from:
+A standardised approach and objective methodology to global dry bulk vessel inspections.
+A more comprehensive risk assessment process with less likelihood of findings causing delay and supply chain interruption.
+Reduce risk of damage to reputation.
+Download RightShip Inspection Ship Questionnaire (RISQ) here
+Getting started
+Customer Data Usage
+Safety Score
+Vetting & Vessel Risk Evaluation Workflow Products
+About RightShip Vetting
+Vet Request, Tracking and RFI Process
+Due Diligence Hub
+Screening (Trade Check)
+RightShip Inspections
+RightShip Inspection Report Access
+RightFLEET
+PSC RiskIQ
+Fleet Focus
+Document Management Centre
+Forms
+Commercial IQ
+LSEG Sanctions Check
+Crew Welfare Self-Assessment Tool
+List and Alerts
+Feedback Report (FBR)
+Zero Harm Innovation Partners Program
+Pre-Arrival Check
+APIs
+API Access & Authentication
+Platform Integration API
+Data Exchange API
+Environmental Review
+GHG Rating Standard
+Submitting Documentation
+CII Rating on RightShip Platform
+Energy Saving Devices
+Maritime Emissions Portal
+Management Audit

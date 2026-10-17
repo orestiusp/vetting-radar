@@ -1,0 +1,445 @@
+Repsol Marine Terminal to Tanker
+Information
+Refinería La Pampilla S.A.A.
+Terminal to Tanker Information Booklet
+Dear Captain,
+Responsibility for the safe conduct of operations on board your ship while is at the La Pampilla Maritime Terminal rests with you as Master of
+the ship. Nevertheless, since our personnel, property and other ships may suffer serious damage in case of an accident on board your ship,
+we wish, therefore, before operations start, to seek your full co-operation and understanding on the Safety Requirements set out in the
+Ship/Shore Safety Check-List, which are based on safe practices that are currently accepted by the Oil and Tanker Industries.
+We expect you, and all under your command, to adhere strictly to these requirements throughout your ship´s stay alongside this Terminal
+and we, for our part, will ensure that our personnel do likewise, and co-operate fully with you in the mutual interest of safe and efficient
+operations.
+Before the start of operations, and from time to time thereafter, for our mutual safety, a member of the La Pampilla Maritime Terminal staff or
+Terminal Representative on duty on board (loading master), where appropriate together with a Responsible Officer, will make a routine
+inspection of your ship to ensure that elements addressed within the scope of the Ship/Shore Safety Check-List are being managed in an
+acceptable manner. Where corrective action is needed, we will not agree to operations commencing or, should they have been started, we
+will require them to be stopped.
+Similarly, if you consider that safety is being endangered by any action on the part of our staff or by any equipment under our control, you
+should demand immediate cessation of operations.
+Any repair work is prohibited without prior written permission of the Terminal Representative. Repair or other work that may immobilize the
+ship is always prohibited.
+SAFETY AND ENVIRONMENTAL COMPLIANCE WILL NOT BE COMPROMISED
+Maritime Terminal Manager
+Contents Page
+General information 4
+Terminal facilities
+• CBM Terminal 1 5
+• CBM Terminal 2 6
+• CBM Terminal 3 7
+• SPM Terminal 4 8/9
+• Heads and Weather / Sea monitoring equipment 10
+Procedures and restrictions
+• Safety regulations 11/12
+• Requirements for Tanker ship before arrival 13
+• Safe Mooring 14
+• Loading and discharging operations 15
+• Conditions to be observed during operations 16
+• Inert gas system / C.O.W. / Tank cleaning 17
+• Stand-by procedures 18
+• Fire emergency instructions 19
+• Oil pollution prevention 20
+3
+General information
+The refinery La Pampilla has an Oil Maritime Terminal located in the central area along the Peruvian coast, inside the basin of the
+Pacific Ocean, and named LA PAMPILLA geographically located at about 8 nautical miles north of Callao Port, and composed of three
+offshore conventional buoy mooring systems, and one single point mooring system, used to load and discharge refined petroleum
+products and crude oil to and from tanker ships
+4
+Terminal facilities
+CONVENTIONAL BUOY MOORING TERMINAL 1 (C.B.M. Environmental limit conditions for tanker ship’s maneuvering approaching
+TERMINAL 1): and mooring to this Conventional Buoy Mooring (CBM):
+Is an offshore conventional buoy mooring system (CBM) Wind speed= 18 knots.
+constituted by 4 mooring buoys equipped with hooks. It Current speed = 0.5 knots.
+presently has two submarine pipelines of 16” Ø and 1.5 Km. Significant wave height (Hs) = 2.0 m.
+offshore used to load and discharge tanker ships with
+petroleum products and crude oil by two strings of submarine
+hoses of 10”Ø and 65.5 meters length with a cam lock coupling
+of 10”Ø ready to connect to ship’s port side cargo manifold.
+Tanker ships must send appropriate mooring ropes or wires,
+the use of a combination of ropes and wires is prohibited. Only
+one material will be chosen. At least two ropes or wires to each
+mooring buoy.
+C.B.M. TERMINAL 1 details
+• Location: Latitude 11°55’South / Longitude: 077°09’ West
+• Sea water depth below Chart Datum (CD) and T1
+Mean Lowest Low Water (MLLW): 13.40 meters
+• Tidal range: - 0.06 meters to +1.13 meters
+• Ship’s head bearing: 226°
+• Ship’s L.O.A.: 125 meters to 245 meters
+• Ship’s maximum draft: 11.60 meters
+T1
+• Ship’s cargo hose handling crane/derrick: 5 Tons. S.W.L.
+• Ship’s maximum SDWT: 80.000 Tons.
+• Distance Ship Side to PLEM minimum 25-30 m.
+5
+Terminal facilities
+CONVENTIONAL BUOY MOORING TERMINAL 2
+(C.B.M. TERMINAL 2):
+Is an offshore conventional buoy mooring system (CBM) constituted by 5 Environmental limit conditions for tanker ship’s maneuvering
+mooring buoys equipped with hydraulic hooks. It presently has one approaching and mooring to this Conventional Buoy Mooring (CBM):
+submarine pipeline of 34” Ø and 4.5 Km. offshore used to unload tanker Wind speed= 18 knots.
+ships with crude oil by two strings of submarine hoses of 16”Ø and 74.7 Current speed = 0.5 knots.
+meters length with a cam lock coupling of 16”Ø ready to connect to ship’s Significant wave height (Hs) = 2.0 m.
+port side cargo manifold. Tanker ships must send appropriate mooring
+ropes or wires, at least two ropes or wires to each mooring buoy.
+Tanker ships over 100,000 M.T. SDWT., will be granted for mooring, only
+with “daylight”, the time limit for boarding pilot must be two hours before
+sunset, otherwise vessel will remain at anchorage until daybreak, for
+unmooring maneuvers and sailing, any time, day or night.
+Tanker ships must send appropriate mooring ropes or wires, the use of a
+combination of ropes and wires is prohibited. Only one material will be
+chosen. At least two ropes or wires to each mooring buoy.
+C.B.M. TERMINAL 2 details T2
+• Location: Latitude 11°56’South / Longitude: 077°11’ West
+• Sea water depth below Chart Datum (CD) and
+Mean Lowest Low Water (MLLW): 18.80 meters
+• Tidal range: - 0.06 meters to +1.13 meters
+• Ship’s head bearing: 208°
+• Ship’s maximum L.O.A.: 283 meters T2
+• Ship’s maximum draft: 16.10 meters
+• Ship’s cargo hose handling crane/derrick: 10 Tons. S.W.L.
+• Ship’s maximum SDWT: 150.000 Tons.
+• Distance Ship Side to PLEM minimum 25-30 m.
+6
+Terminal facilities
+CONVENTIONAL BUOY MOORING TERMINAL 3 (C.B.M. Environmental limit conditions for tanker ship’s maneuvering approaching
+TERMINAL 3): and mooring to this Conventional Buoy Mooring (CBM):
+Is an offshore conventional buoy mooring system (CBM) Wind speed= 18 knots.
+constituted by 4 mooring buoys equipped with hydraulic hooks. Current speed = 0.5 knots.
+It presently has two submarine pipelines of 18” Ø and 2.4 Km. Significant wave height (Hs) = 2.0 m.
+offshore used to load and discharge tanker ships with
+petroleum products and crude oil by two strings of submarine
+hoses of 16”Ø and 65.5 meters length with a cam lock coupling
+of 12”Ø ready to connect to ship’s port side cargo manifold.
+Tanker ships must send appropriate mooring ropes or wires,
+the use of a combination of ropes and wires is prohibited. Only
+one material will be chosen. At least two ropes or wires to each
+mooring buoy.
+C.B.M. TERMINAL 3 details
+• Location: Latitude 11°55’South / Longitude: 077°10’ West
+• Sea water depth below Chart Datum (CD) and
+Mean Lowest Low Water (MLLW): 15.30 meters
+• Tidal range: - 0.06 meters to +1.13 meters
+• Ship’s head bearing: 240° T3
+• Ship’s L.O.A.: 133 meters to 245 meters
+• Ship’s maximum draft: 13.00 meters
+• Ship’s cargo hose handling crane/derrick:10 tonnes. S.W.L.
+• Ship’s maximum SDWT: 80.000 Tons.
+• Distance Ship Side to PLEM minimum 25-30 m.
+7
+Terminal facilities
+SINGLE POINT MOORING TERMINAL 4
+Environmental limit conditions for tanker ship’s maneuvering
+(SPM TERMINAL 4):
+approaching and mooring at SPM Terminal 4:
+Is an offshore single point mooring system (SPM) constituted by One
+Turntable Catenary Anchor Leg Mooring (CALM) buoy equipped with One • Wind speed= 25 knots.
+mooring hawser. • Current speed = 0.5 knots.
+It presently has two submarine pipelines of 18”Ø and 4.2 Km. length used • Significant wave height (Hs) = 2.0 m.
+to transfer crude oil / petroleum products to/from La Pampilla refinery
+from/to sea-going tanker ships by two strings of submarine and floating
+hoses equipped with a two camlock couplings of 12”Ø ready to connect to T3
+tanker ship’s port side cargo manifold.
+Tanker ships will be granted for mooring, only with “daylight”, the time limit SINGLE POINT
+MOORING
+for boarding pilot must be two hours before sunset, otherwise vessel will TERMINAL 4
+remain at anchorage until daybreak, for unmooring maneuvers and sailing,
+any time, day or night.
+Mooring and unmooring is to be done by the crew of the tanker with the
+advice of the pilot and mooring master on duty.
+S.B.M. TERMINAL 4 details
+• Location: Latitude 11°55’ 20” South / Longitude: 077°10’ 38” West
+• Sea water depth below Chart Datum (CD) and
+Mean Lowest Low Water (MLLW): 18.70 meters
+• Tidal range: - 0.06 meters to +1.13 meters
+• Ship’s maximum L.O.A.: 256.80 meters
+• Ship’s maximum draft: 14.30 meters
+• Ship’s cargo hose handling crane/derrick: 10 Tons. S.W.L. T4
+• Ship’s maximum SDWT: 120.000 Tons.
+8
+Terminal facilities
+SPM Terminal 4 details:
+TANKER SHIPS BE FITTED AS FOLLOWS:
+• Must be equipped with: Shipboard mooring fittings installed and
+located for safe and effective mooring to a SPM in compliance with
+current OCIMF recommendations.
+• One (1) bow chain stopper, Minimum SWL 200 tonnes, designed to
+accept 76 mm. (3 in.) or 54mm (2 1/8 in.) section of Chafe Chain.
+• One (1) bow closed fairleads, recommended size (600mm x 450 mm).
+• Distance between bow fairlead & stopper: 2.7 m. to 3.7 m. OCIMF 2007
+SPM SYSTEM:
+• The SPM mooring system is composed by One (1)
+chain of 11,40 m (76mm = 8,0 m / 54mm = 3,4 m).
+length, attached to One (1) mooring hawser of 15
+inches circumference and 55 m. length, with a
+breaking load of 250 tonnes, and Messenger Line of
+9 inches circumference and 180 m. length.
+• Use of One (1) Terminal Stand-By Tug is
+FLOATING HOSES:
+compulsory. It is made fast to the tanker’s stern
+• 2 x16”, double carcass main line with
+after berthing (tug’s line).
+12” tail and rail hoses, with detection
+• The beacon of the SPM are composed by: An
+indicator in case of breakage of the
+Obstruction light (10 Nautic miles visible range), a
+primary carcass
+Fog horn in case of low visibility (2 Nautic miles
+• 2 x 12” camlock couplings
+audible range), a radar reflector.
+connections.
+TURNTABLE CALM BUOY TECHNICAL • At least one ship’s crane with10tn
+DATA SUMMARY: SWL is required for handling the
+SUBMARINE HOSES:
+• Outside diameter: 12 m. hoses
+• 2x16”, double carcass, with detection • Marine break away valve (MBC)
+indicator in case of breakage of the primary • Height of buoy body: 5.3 m.
+• Inside diameter : 3.6 m. installed in floating hoses: 2 x12”.
+carcass • Four (4) winker lights are installed on
+• Configuration: Chinese lantern • Skirt outside diameter: 16 m.
+each floating cargo hoses.
+9
+Terminal facilities
+La Pampilla Maritime Terminal is equipped with HEADS system (Hydrocarbon Early Automatic Detection System)
+to prevent and monitor oil spills.
+ Coupled-sensors: Radar, IR cameras,
+AIS and weather parameters.
+ Intelligent algorithm to process data;
+automatic alarm generation, with
+remote reception.
+ Output information is transferred to a
+monitoring console, allowing
+visualization and manual operation.
+La Pampilla Maritime Terminal
+has Weather and Sea
+Monitoring equipment installed
+at the Maritime Terminal, and
+also receives daily Buoyweather
+advisories.
+10
+Procedures and restrictions
+Safety regulations
+• SMOKING in all areas of the Maritime Terminal is strictly PROHIBITED – On Board the tanker are rooms assigned by Ship’s Master
+• VHF, AIS, Radars and Main radio aerials
+• Transmissions by medium and high frequency radio during load, discharge or ballast operations are not permitted. Main transmitting antennae must be
+earthed or insulated.
+• To start or test the radar during load, discharge or ballast operations, the Tanker ship must ask permission from the La Pampilla Maritime terminal
+representative on duty on board (Loading Master).
+• VHF and AIS equipment must be shift to low power (1 watt) or switched off if it’s not possible to operate them in low power.
+• Portable VHF/UHF radiotelephones must be intrinsically safe and officially approved
+• Mobile telephones, cameras and other equipment
+• For reasons of security it is prohibited to take photos or video recordings of Tanker ship or of the facilities. To take any photo or video permission must
+be asked from the La Pampilla Maritime Terminal Manager.
+• The use in of video cameras, cellular phones or other equipment which may generate heat or sparks which could ignite flammable materials or
+combustible can only be authorized if the equipment has adequate protection for use in flammable or explosive atmospheres and has the corresponding
+certificate.
+• General lighting
+• The tanker ship main deck, the manifold area and areas along the side of the Tanker ship must be adequately illuminated to ensure better and safer
+work of personnel engaged in night operations of connection and disconnection and the easy location of any leak or spill.
+• Lights and Lanterns
+• It is not permitted to use on deck or in open spaces any light apparatus which is not suitable for flammable or explosive atmospheres.
+• Tanker Ship and Maritime Terminal will ensure that in their facilities there is no broken light fitting or the presence of defective cables which might
+generate heat or sparks sufficient to be an ignition source for flammable or combustible materials.
+11
+Procedures and restrictions
+Safety regulations
+• Repairs
+• Repair to main engines or deck machinery is prohibited when the Tanker ship is secured to any sea berth (CBM or SPM).
+• Emergency escape
+• The lifeboat on the sea side of the Tanker ship must be unlashed and ready for use from the embarkation deck. Tanker Ship which have a
+lifeboat only at the stern will have it prepared and ready for use.
+Safe mooring manoeuvrings
+• Pilotage
+• Pilotage is compulsory for any Tanker ship calling at La Pampilla Maritime Terminal.
+• Tugboats
+• Tugboats are available 24/7. Berthing and undocking maneuvers of all Tanker ship will be carried out in accordance with the following regulations
+dictated by Port Authority.
+Safe mooring
+• All Tanker ship, whatever their tonnage, maneuvering in the basin of the Terminal and which carry hazardous cargo must do so accompanied by at
+least one tug or more as required by mooring Pilot on duty.
+• Any known defect in the Tanker ship’s mooring system or limitation of mooring winch brakes should be reported to the Pilotage service and to the
+La Pampilla Maritime Terminal before arrival in order that, if necessary, additional precautions may be agreed.
+• Ensure that their Tanker ship is properly secured and moored with adequate ropes or wires, and that all mooring equipment is in good condition.
+• Ensure that a strict watch is kept on their Tanker ship mooring system, and that they are tethered as required to prevent slack or overtight lines and
+undue movement of the Tanker ship.
+12
+Procedures and restrictions
+Requirements for Tanker ship before arrival:
+• Tanker ship must be properly cleared and accepted by Repsol in accordance with the appropriate procedure
+• Tanker ship must be in good state of repair and all equipment properly functioning prior to proceeding to berth. Tanker ship must be presented in
+every respect ready to load product at temperature and pressure in accordance with notice. It will not be permitted to inert tanks while at berth
+without approval of La Pampilla Maritime terminal representative.
+• Tanker ship will not be acceptable for loading unless the tanks to be loaded and ship's piping are free of any liquid or vapour which would knowingly
+contaminate or degrade the product. Tanks must be accepted by the Independent Inspector of the cargo, and Terminal assumes no responsibility for
+their cleanliness.
+• Tanker ship must fit the physical configuration of the Sea Berth (CBM or SPM) and must be able to receive product at normal loading rates, pressures
+and temperatures as for average Tanker ship of similar size and service. Loading restrictions due to Tanker ship condition or equipment will be
+accounted for and deducted from any demurrage claim
+• Tanker ship having emergency shutdown valves which slam shut instantaneously must lock valves open or adjust them to a reasonable closing rate
+to prevent excessive damaging surge pressures. Loading rates will be reduced to a safe calculated rate depending on ship's valve closure times.
+• Tanker ship of a different design as: chemical tankers, oil/bulk/ore or oil/ore type will only be accepted for loading if all the following relevant
+conditions are satisfied, in addition to complying with all other port/terminal regulations which may be in existence at the time.
+• Tanker ship must be fully manned. Tanker ship must follow the standard demanded by the ship’s flag. Crew must be fully conversant with the change
+over procedures. Senior ship’s officers must be fully capacitated for ship and cargo handling.
+• Tanker ship must ensure that decks are fully clear of all previous dry cargo spills. All oil loading and ballasting systems such pipework, valves,
+gauging system, inert gas systems, to have been properly tested. All tank accesses which may come under oil pressure to be proved tight.
+• Any access not proved tight must not be put under pressure during loading at La Pampilla Maritime Terminal.
+13
+Procedures and restrictions
+Terminal request to Tanker ships:
+• One (1) room for the loading master on duty on board (during ship’s berthed at CBM T1-T2-T3 & SPM T4).
+• One suitable space (zone/area) for rest of the cargo hoses maneuvering personnel on duty on board (during ship’s berthed at CBM T1-T2-T3 & SPM T4).
+• One (1) room for the mooring master on duty on board (only at the SPM Terminal 4).
+• Two x 12 inches flange - ANSI 150 (thickness of 31.70 mm) - (only at the SPM Terminal 4)
+• One (1) ship’s crew member on duty at the ship’s bow and on the ship’s port side manifold during all operations (only at the SPM Terminal 4).
+• One (1) bit, SWL of 45 tonnes minimum, at the ship’s aft/stern deck (only at the SPM Terminal 4)
+• One (1) ship’s lifting equipment (derrick/crane) will be used to support cargo hoses during transfer operation.
+• Two (2) support boats will supply by Terminal to assist mooring and unmooring maneuvers.
+• Tanker ship must comply with the latest edition of the OCIMF “Recommendations for Oil tanker Manifolds and Associated Equipment”.
+• Tanker ship must comply with the latest edition of the OCIMF “Recommendations for Equipment employed in the bow mooring of conventional tankers
+at single point moorings”, (only at the SPM Terminal 4).
+Safe Mooring
+• It is not recommended that synthetic ropes and wires be used leading in the same direction, to the same quick-release hook or bitt.
+• Ensure that the Tanker ship mooring ropes are fastened only to the proper fixtures provided for this purpose.
+• Provide full power or steam on deck to all mooring winches throughout the period Tanker ships are alongside the berth.
+• As soon as vessel is positioned, positively secure the manual brakes on all mooring winches. Winches must not be left on automatic tension mode.
+• Masters should ensure that mooring lines are in good condition. Winch brakes or securing devices should be in efficient operating order and should have
+a holding power of at least 60% of the breaking load of the Tanker ship's mooring lines.
+• Mooring lines must be adjusted under the supervision of a responsible ship’s officer.
+• An efficient watch by tanker ship personnel must be maintained on deck throughout the Tanker ship's stay moored.
+• The Terminal will require cargo operations to be ceased, if the Tanker ship’s movement will endanger the cargo hoses, or in absence of an alert and
+efficient deck watch ALL DELAYS/CHARGES caused by the ship's failure to observe the above precautions will be for the ship's account.
+14
+Procedures and restrictions
+Loading and discharging operations
+Ship’s agent must send pre-arrival information to the La Pampilla Maritime Terminal. Terminal will not authorize any Tanker ship to berth without the
+pre-arrival information, ISPS documents and Repsol vetting acceptance. Email to: renzoalejandro.tejada@repsol.com /
+danielarmando.garcia@repsol.com , as soon as practicable.
+Prepare following documents to be delivered to La Pampilla Maritime terminal representative on duty on board (loading master) upon berthing:
+- Crew List, Ship‘s Particulars and Cargo lines last pressure test certificate.
+- Cargo documents for receivers, MSDS and Discharge Plan including Stress Plan (only discharge operations).
+- Loading Plan including Stress Plan (only loading operations).
+ETA must be updated 72, 48 and 24 hours before arrival.
+Before commencing operations
+Ship and shore representatives will agree on the conditions and limits of the operations, as well as the quantities to be loaded or discharged and who
+will be responsible for notifying the termination.
+La Pampilla Maritime terminal representative on duty on board (loading master) and the duty officer of the Tanker ship will carry out the
+corresponding safety checks and sign the Safety Check List.
+During operations
+During the stay of the Tanker ship at the Terminal the ship listen to VHF Channels (confirmed by loading master) 10 / 12 / 72 permanently and by
+this means will communicate any incident which may affect the operations or facilities of the Tanker ship or of the Terminal.
+When, for whatever reason the Tanker ship stops the operations, it will immediately communicate by VHF Channels (confirmed by loading master)
+10 / 12 / 72 to La Pampilla Maritime terminal representative on duty on board (loading master).
+The Tanker ship and the Terminal will inform one another prior to any change in the flow rate of loading or discharging.
+During operations the Tanker ship and the Terminal will carry out checks on the Safety Checklist within agreed intervals.
+15
+Procedures and restrictions
+End of operations
+The tanker ship officer on duty will advise to the La Pampilla Maritime terminal representative on duty on board (loading master) on VHF Channels
+(confirmed by loading master) 10 / 12 / 72 , one hour before the end of any loading or discharging, and will communicate confirmation of this 15
+minutes before the end.
+Conditions to be observed during transfer operations
+• An adequate number of crew members must remain on board under the continuous supervision of a responsible ship's officer to deal with any
+emergencies.
+• During the loading/discharging operation all doors, portholes and openings leading from the main deck to accommodation or machinery spaces
+(other than pump room) shall be kept closed, and doors, portholes and openings at any deck level above the main deck which overlook that deck
+shall be kept closed.
+• All ventilation through which gas can enter shall be suitably trimmed and mechanical ventilation and air conditioning units shall be stopped if gas is
+being drawn into the system.
+• All cargo tank lids shall be kept closed and secured, the venting of the Tanker ship's tanks must take place only through the venting system.
+• If for any reason there is an accumulation of gas, loading shall be stopped
+• All Tanker ships alongside must be maintained in a state of readiness for vacating a berth at short notice, except in cases of approved repair work.
+• None of the guidelines included in the present Repsol Marine Terminal to Tanker Information Booklet (TTIB) should be interpreted as
+relieving the Ships’ Master of his/her responsibilities for the safe conduct of operations on board the Tanker ship.
+16
+Procedures and restrictions
+Inert gas system (IGS system) Crude Oil Washing (C.O.W.)
+• Any Tanker ship which is going to load or discharge or carrying Before arrival
+goods in transit with a flash-point lower than 60ºC (ASTM-D-93),
+must have its tanks inerted and positive pressure keeping them in • C.O.W. operations must be authorized by the Port Authority.
+that condition during the entire operation. • The Tanker Ship’s Master must ask permission via Agent at least 24
+• No vapor return line is fitted at any sea berth (CBM or SPM). hours before arrival.
+• Empty tanks with flammable atmosphere must also be inerted. Before operations
+• The Tanker ship must use its own means to maintain this inert • Written authorization will be granted by the Port Authority and a copy
+condition. IG system must be always operative. Before berthing the must be delivered by the Tanker Ship’s Master or the agent to the
+Tanker ship must confirm to the Terminal that IG plant is operative loading master on duty on board before any washing can take place.
+and must inform of any breakdown or anomaly in it. During operations
+• Once the Tanker ship has berthed it is not permitted to perform any The Tanker ship must fulfill all the prescriptions of the tanker ship’s
+atmosphere change operations to inert tanks. manual for C.O.W. and the recommendations of the IMO.
+• Tanker ships which are operating with inert gas must inform the C.O.W. operation will be supervised on board by Terminal supervisor.
+Terminal of any interruption of supply of inert gas to the tanks and
+the reason for it.
+• They must also inform if the oxygen content in the tanks is more Tank Cleaning
+than 8%.
+• Tank cleaning, inerting & gas freeing operations are strictly forbidden
+• Products in transit having a flash-point below 60ºC must be inerted. while tanker ship is berthed to La Pampilla Maritime Terminal Facilities.
+• In any case all cargoes in transit should be informed to Repsol • If the tanks need an additional wash, it must not be done while the
+Vetting for prior acceptance. tanker ship is berthed, and the tanker ship must leave the sea berth.
+17
+Procedures and restrictions
+Stand-by procedures
+• While the Tanker ship is moored her engines should be ready for leaving at any time on short notice. If for any reason the Tanker ship can’t
+comply with these requirements our Terminal Representative must be advised immediately.
+• During the Tanker ship's stay at sea berth adequate crew must remain on board under the continuous supervision of a responsible tanker ship's
+officer to deal with any emergencies.
+• Any repairs that will prevent complying with the above requirements should not be undertaken without the approval of the Port Authority and the
+Terminal representative on duty on board (loading master).
+• Ship/Terminal representative on duty on board (loading master) communication system must be maintained in the most efficient way.
+• Tanker ship's fire fighting equipment, including main and emergency fire pumps, shall be kept ready for immediate use, and a:
+Sufficient number of fire fighting hoses on deck connected to fire line with nozzles ready for use.
+Dry chemical extinguishing equipment of adequate capacity, extinguishers must be located near the ship's manifold.
+• The Terminal representative on duty on board (loading master) should be instructed about the location of the Ship Emergency Shutdown System
+(E.S.D.). Communication between ship and terminal at sea berth will be agreed with the Tanker ships’ Master.
+• The Tanker ship must give at least 15 minutes’ advance notice when any pump is stopped or the loading/discharging rate changes.
+• During the Tanker ship's stay at Port, the Terminal representative on duty on board (loading master) must be notified immediately of any
+emergency aboard.
+18
+Procedures and restrictions
+Fire emergency procedures
+• The Tanker ship’s fire fighting system must remain under pressure during all operations. The Tanker ship will place two hoses, one forward and one
+aft of the ship’s manifold connected to the fire mains and have at least two, preferably dry powder, portable extinguishers ready.
+• The International ship/shore connection must be ready for use in case of emergency.
+Fire onboard Tanker ship
+• The Tanker ship shall sound the fire alarm signals with the whistle blowing seven short blasts, accompanied by a continuous sounding of bell.
+• All operations must be stopped immediately and the Tanker ship must be prepared to leave the sea berth.
+• Tanker ship's Master will determine the action to be taken by the Tanker ship's crew, and will keep the Terminal representative on duty on board
+(loading master) advised of these actions.
+• Tanker ship should be continuously in touch with Terminal representative on duty on board (loading master) and will follow his instructions. Ship must
+leave the Terminal if becomes necessary.
+Fire Onboard Other Tanker ship
+• Tanker ship will immediately be advised of the fire location.
+• All operations must be stopped immediately. The Tanker ship must be ready to leave the Terminal.
+• The Tanker ship while waiting for instructions which will be communicated by the Terminal representative on duty on board (loading master) must
+prepare cargo hoses for disconnection.
+Incident reporting procedure
+• ALL INCIDENTS aboard the vessel must be notified as soon as it´s safe to do so to Repsol Trading. Special care must be taken over those
+incidents in which Personnel, Environmental, Assets, Reputation or Repsol Trading Management is involved and that result in or could result in: a)
+Injuries to people or damage to their health, b) Damage to the environment, c) Damage to the company's assets (including processes, vehicles and
+others), d) Damage to the company's image (including those involving any Governmental or similar agency and/or media) Or any combination of the
+above incidents. Email to: incidentshipping@repsol.com / hsetrading@repsol.com , as soon as practicable. However, if the incident happens during
+the stay in port, in addition to Repsol Trading, the vessel shall also notify to the Terminal, Email to: renzoalejandro.tejada@repsol.com /
+danielarmando.garcia@repsol.com , and the Ship’s agent.
+19
+Procedures and restrictions
+Oil pollution prevention:
+• No petroleum or ballast water containing petroleum shall be discharged or allowed to escape from any Tanker ship into the sea. Drip tray shall be
+placed under flanged connections if spill tank not fitted, on ship's manifolds to collect any drips or spillage.
+• During operations, all tanker ship’s scuppers shall be effectively plugged, and no leakage or spillage on board shall be swept or allowed to leak
+overboard. ANY LEAKAGE OR SPILLAGE must be reported to the Terminal representative on duty on board (loading master). The
+Terminal representative on duty on board (loading master) will immediately take emergency action as necessary and notify the Terminal
+Supervisor.
+• Bilge water must not be pumped overboard during your Tanker ship’s stay at terminal.
+• In all cases, included if "shore stop“ is agreed, Tanker ship will be responsible from blame and clean up expense if ship cargo or bunker tanks
+overflow
+• When "topping off", ensure that the valves of the next tank to be filled are cracked open in good time.
+• When topping off the final tank, make sure that the loading rate is eased down and the shore personnel are standing by to shut off.
+• All flanged joints required to connect cargo hoses to a Tanker ship e.g. reducing pieces/spools, shall contain "full bolting" using the largest bolts
+possible to fit the flange holes.
+• Loading/discharging of Tanker ships will not commence until cargo hoses have been properly inspected by the Terminal representative on duty
+on board (loading master).
+• No hot or hazardous material, or any other objectionable material, solid or fuel, shall be thrown overboard from any Tanker ship.
+• All overboard discharge/sea valves part of, or connected to the cargo oil system, shall be blinded, shut, lashed and sealed during the
+loading/discharge operations.
+20
+Thank you

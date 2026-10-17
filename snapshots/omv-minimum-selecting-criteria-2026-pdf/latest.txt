@@ -1,0 +1,215 @@
+OMV – MINIMUM SELECTING CRITERIA
+1. Introduction
+The application of this document and associated processes will help to ensure that the risks involved in OMV marine
+activities are effectively managed, and consistent with the Company’s vision for safety, health, environment,
+reliability and efficiency.
+This policy does not replace any aspect of the group business transaction policies or other compliance group
+policies. This policy states additional requirements specific to the chartering activity in order to address some risk
+management and insurance issues. These must be considered as minimum requirements.
+We strongly believe in the maxim of “Prevention is Better than Cure” and therefore take every preventive measure
+to AVOID incidents with Crude Oil/Product Tankers. QUALITY AS ABOVE ALL ELSE.
+The intention of this statement is to provide a clear and concise guide for all OMV personnel who may become
+involved in any aspect of the employment of Crude Oil/Product Tankers, Chemical Tankers and Gas Carriers at sea.
+The main theme within the Guide is to emphasize to all that the issue of the quality of the tonnage employed is of
+paramount importance throughout the decision making process.
+It is the responsibility of individuals involved in the chartering of ships to ensure that they are familiar with and
+understand the requirements of this policy. It is the responsibility of the managers to ensure that the staff is aware
+and understand the requirements of this policy.
+2. Applicability and Exceptions
+This policy applies to all vessels carrying:
+• any bulk liquid hydrocarbon,
+• chemical or
+• liquefied gas
+on a time or voyage charter basis (incl. COA).
+Any vessel to be considered for OMV Group employment has to be cleared by OMV Vetting and has to be nominated
+in writing either by OMV Chartering or OMV Operations directly involved in the deal. The vessel clearance
+nomination to OMV Vetting has to include at least:
+• an updated Q88 in INTERTANKO format (not older than 5 days),
+• an updated Crew Matrix in OCIMF format (not older than 5 days) and
+• a filled-up set of OMV Warranties for either Crude, Product or Gas and
+• up-to-date excerpt of the owner’s commercial register.
+For further details on required documents as well as other supportive documents, please visit:
+http://adriaticvetting.it/clearance-request/
+OMV Vetting will use all available sources and information such as previous vetting inspection(s) conducted by
+OMV; inspection report(s) extracted from SIRE (preferably not older than 3 months, respectively 6 months for
+positively OMV TMSA audited Operators); information extracted from Equasis, PSC Inspections, Casualty reports,
+Voyage & Terminal reports, information published within the Industry media, etc. After screening of all of the
+required information, OMV Vetting will advise if the vessel is acceptable or not for the intended voyage.
+Vessels must have no any outstanding safety issues or violations and must operate in a safe and environmentally
+responsible manner as expected of a vessel under first class Ownership.
+Vessels must have all the statutory certificates valid; with annual, intermediate and special surveys carried out by
+the Classification Society within the required date range.
+Version: 2026
+Approvals will only be given on a voyage-by-voyage basis. If the vessel is approved on one occasion, it will only be
+valid for the proposed voyage. If the vessel should be proposed for a subsequent voyage or deviation from the initial
+vessel clearance (e.g. cargo, disport, etc.), OMV Vetting will screen her again and any previous vessels approval does
+not automatically generate a re-approval.
+At all times, acceptance or rejection of a vessel for any reason has to be at the absolute discretion of OMV
+Vetting.
+If, at any time during the validity period, there is evidence of relevant modification concerning safety and/or
+operational systems, changes of name/owner/flag etc., the status of the mentioned vessel could be subject to a
+physical re-inspection (Vetting and Safety Inspection).
+3. Vessel Requirements
+All vessels must fully comply with the OMV MSC (Minimum Selecting Criteria):
+a. Age and Hull
+All vessels must be double hull.
+Crude Oil/Product or Chemical tankers: the maximum acceptable age limit is 20,0 years.
+Gas Carriers (LPG & LNG): the maximum acceptable age limit is 25,0 years.
+The vessel’s age is to be calculated from the date of the first delivery.
+All Crude Oil / Product or Chemical tankers older than 15,0 years and Gas Carriers (LPG & LNG) older than 20,0
+years, must hold a CAP Certificate (Condition Assessment Program) with a rating 1 or 2 for Hull & Machinery and
+Cargo System (vessels of less than 10.000 dwt are required to submit a hull structural fatigue analysis). CAP validity
+is 3 years.
+OBO Vessels (Ore Bulk Oil) are to be avoided; when carrying dry cargo in their last voyage the vessel will be rejected.
+OBO vessels will be considered only, if no double hull tanker is available, with three previous liquid cargoes and at
+least one COW operation performed.
+b. Maiden Voyage & First voyage after Dry Dock
+New Buildings on their maiden voyage will be considered only if Operators positively passed an OMV TMSA Audit
+and on a case-by-case basis.
+Operators should provide a plan of actions that are in place to manage a potential risk and a procedural control.
+Additionally they should increase the manning with an additional deck Officer and a fleet Superintendent on board
+during OMV voyage.
+Vessels should not be accepted in case of first voyage after dry-dock. This will especially apply when loading a
+cargo that is required to be heated or is paraffinic in nature. They will be considered only if Operators positively
+passed an OMV TMSA Audit and on a case-by-case basis.
+Operators should provide all necessary information as early as possible (e.g. dry-dock survey checklist, list of
+maintenance work done during dry-dock), and plans of action that are in place to manage/mitigate a potential risk.
+Furthermore, the Operator accepts a fresh inspection during discharge to be performed by a SIRE-accredited
+inspector nominated by OMV Vetting.
+All costs are at Owner’s time and expenses.
+Version: 2026
+c. Time Charter (TC) & Contract of Affreightment (COA)
+For vessels used under a TC or COA, operators have to undergo and attain a positive OMV TMSA Audit to verify
+compliance with OCIMF standards prior to the contract or within reasonable time after beginning of TC/COA , latest
+3 months into the contract. A Vetting Inspection of the vessel(s) has to be performed by a SIRE-accredited Inspector
+nominated by OMV Vetting if possible before entering the TC/COA or latest during first discharge under the
+TC/COA. Thereafter the inspection frequency is as per table in section e.
+d. Ship to Ship (STS operation) & Voyage Compliance
+Depending on the commercial structure, vessels engaged in transfer operations at open sea (STS operation) must
+comply with the OMV MSC and are subject to a positive OMV vessel clearance by OMV Vetting prior nomination.
+A STS approved plan and relevant risk assessment for all vessels involved must be in place and presented in due
+time. All STS Transfer Operations must comply with all international, national and local regulations guidelines and
+legislation and all industry codes of practice, guidelines and recommendations, including those issued by ISGOTT,
+SIGGTO, ICS and OCIMF. The STS Transfer Operation must be supervised by a superintendent/mooring master,
+professionally trained and experienced in STS transfer operations. Where an OMV Company is directly organizing
+the STS Operation, OMV reserves the right to send an additional inspector (on Owner’s account), who will remain
+on board on behalf of OMV during the entire operation.
+Owners warrant that company is operating and not dissolved and provide an up-to-date excerpt of the company's
+commercial register and information on AIS disablements, change log and report on any manipulation within the
+preceding two years.
+Owners warrant that no STS Transfer Operation included (i) crude oil or petroleum products originating in a
+jurisdiction which is subject to import restrictions for petroleum products; (ii) any petroleum products obtained from
+Russian crude oil and/or involved (iii) any Russian flagged vessels and/or (iv) any vessel that is designated on an EU,
+UK or US sanction list.
+Owners commit to report and notify within 24 hours:
+• of the Long Range Identification and Tracking (LRIT) and/or AIS being switched off otherwise disabled
+and/or any change log or manipulation including reason and allow for investigation/audit of such
+incidents and
+• any deviations in routes including reasons and allow for investigation/audit of such incidents.
+e. OMV SIRE Inspections
+Vessels shall have an operational SIRE carried out by OMV within the below mentioned frequency. A one-time
+waiver may be granted. It is the owners / operator’s responsibility to carry out an OMV SIRE inspection within the
+given period to remain acceptable for OMV business.
+The months in brackets indicate the acceptability if the vessel’s technical operator holds a valid OMV TMSA audit.
+TMSA audits are valid for 3 years.
+Vessel Age (years) OMV Vetting Inspection Frequency
+0 – 10,0 every 12 (15) months
+10,1 – 15,0 every 9 (12) months
+15,1 – 20,0 every 6 (9) months
+Version: 2026
+Any major deficiencies (as defined by OMV Vetting) and/or technical deficiencies might impair the safety and the
+performance of the vessel. Deficiencies and detentions as a result of PSC and/or USCG inspections which have
+been detected within the last 3 months shall be assessed and evaluated on a case-by-case basis and may lead to
+ship’s rejection.
+All inspection fees and travel costs are at Owner’s time and expense.
+f. Compliance with Regulations and Conventions
+Vessels, Crew and Management should comply with but not limited to:
+• Local and International Conventions, European Union Regulations and Directives, Rules and Regulations of Flag
+State, Ports and other places and waters where the Vessels will sail, dock or call;
+• Classification Societies Rules and Recommendations;
+• International Sanctions (Ownership, Flag, Country, etc.):
+•Vessels, shipowners, operators and charter parties are checked by Strategic Shipping & Vetting function
+towards sanction lists via SAP GTS
+•Assessment of name chagens, flags and flag history (based on ship register excerpts) with respect to Russia
+or vessels’ ties to Russia (Russian Maritim Register) are performed by Strategic Shipping & Vetting function
+within OMV (Russian flagged or registered ships are banned from accessing EU ports)
+• IMO Rules and Recommendations, to be verified through the implementation of a reliable Safety Management
+System (SMS); International Conventions, Rules and Regulations;
+The provisions contained in the latest edition of OCIMF / ICS / ISGOTT / SIGTTO / STCW / SOLAS / MARPOL /
+STCW / IBC / IGC / BCH / ISM.
+g. Manning
+The manning on board should be suitable to cover in all aspects and in all watch levels established by the Company,
+the local and international rules.
+The Senior Officers (Master /Chief Officer - Chief Engineer /1st Ass. Engineer) must have at least:
+• Combined aggregate experience of 2 year with the Operator - tanker sea-service
+(Combined experience respectively for Master and Chief Officer and for Chief Engineer and 1st Ass. Engineer),
+• Combined aggregate experience of 3 years on the specific type of tanker - tanker sea-service (Combined
+experience respectively for Master and Chief Officer and for Chief Engineer and 1 st Ass. Engineer),
+• Combined aggregate experience of 4 years on all types of tankers - tanker sea-service (Combined experience
+respectively for Master and Chief Officer and for Chief Engineer and 1 st Ass. Engineer).
+For Chemical and Gas Tankers, in addition to the above, the Master and Chief Officer must have a minimum of 1
+year senior officer experience on Chemical/LPG/LNG vessels.
+An Operator policy for a suitable handover period for all four ranks must be in place. The Officers experience will
+be evaluated case by case according to the trading area and the cargo handled.
+A well-detailed Operator policy in respect of the mitigation of fatigue on board must be in place.
+Drug and Alcohol policy must meet OCIMF requirement, with monthly on board tests.
+Not more than 5 different nationalities are allowed; if more, the vessel will/could be rejected.
+Version: 2026
+h. TMSA Requirements
+OMV Group considers the TMSA report, if it is submitted by the Operator and not older than 12 months. At least
+stage 1 and 2 of the TMSA must be fully implemented on board and ashore.
+OMV reserves the right to conduct a TMSA Audit, in order to verify the effective implementation of the TMSA stage
+1 and 2.
+Due to the nature of the self-assessment, OMV Vetting does not consider the TMSA as a part of the single voyage
+assessment for a named tanker.
+Situations that might lead to an OMV TMSA Audit:
+• two or more negative vetting results (also on different vessels of the same Operator)
+• any particular case that OMV Vetting considers as a high risk
+A positive OMV TMSA Audit is valid for 3 years.
+i. Safety inspection
+If there are any doubts about the status of a vessel, OMV reserves the right to conduct a Safety Inspection on board
+during the entire discharging time by a Safety Inspector nominated by OMV Vetting.
+All inspection fees and travel costs are at Owner’s time and expense.
+Moreover, if deemed necessary OMV reserves the right to board the vessel at anchorage prior coming alongside
+for a Pre-Berthing Inspection.
+4. Barges (including bunker barges)
+• Must be double hull,
+• Barge must have a SIRE inspection on OCIMF not older than 12 months. SIRE inspection to be performed
+preferably before first OMV voyage or at first disport/load port,
+• must comply and operate their equipment in compliance with the Local and International Regulations and
+Conventions.
+5. Chartering Policy
+The Chartering Policy of OMV Group is to source the most modern, best quality tonnage available, at the most
+competitive rate, under the prevailing market conditions. Rate considerations are to take second place to quality
+issues at all times.
+The vessel’s quality always has to meet the OMV Minimum Selecting Criteria and this should be checked and ratified
+by OMV Vetting before that any vessel fixture is re-confirmed.
+6. P&I Insurance
+The Operator has to guarantee to have a valid membership in an industry accepted P&I club.
+7. Waivers / Exceptions
+Any exceptions in relation to the OMV MSC must be approved by OMV Vetting in writing.
+8. Incidents
+In the event of an incident that results in harm to people, the environment, or an increased risk to the vessels
+involved, or to the operation in general, then the OMV Incident Response Plan must be followed immediately.
+This plan will be distributed by OMV Operations after the vessel has been nominated for the intended voyage.
+Version: 2026
+9. Special note
+Notwithstanding, prior acceptance of a vessel, OMV Vetting shall have the right to reject the vessel on any
+reasonable grounds that could jeopardize safety. This includes false or incomplete declaration during the clearance
+process, if the vessel’s safety aspects are not maintained after a successful OMV Inspection, or if such a vessel is
+involved in any incident that could compromise the safety of the load and/or discharge operation.
+If such an incident/situation happens, or information in respect of any previous incident is not reported or is not in
+the public domain at the time of acceptance, even after the acceptance, OMV Vetting shall have the right to reject
+the vessel.
+Vessel inspection requests to be addressed to the following OMV Vetting contact:
+OMV Vetting ADRIATIC VETTING S.r.l.
+Jan-Martin Kusztrich, MSc TPVC - formally registered in the OCIMF
+system
+Vetting Manager
+Pipeline JV & Shipping Via Beccaria 13
+OMV Downstream GmbH 34133 Trieste / Italy
+Trabrennstrasse 6-8 Tel. +39 (040) 630588
+1020 Wien /Vienna - Austria Fax +39 (040) 5708035
+Mobil +43 664 8567572 trieste@adriaticvetting.it
+vetting@omv.com
+Version: 2026
