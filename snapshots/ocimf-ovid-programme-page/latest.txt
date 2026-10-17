@@ -16,28 +16,20 @@ The provision of a document detailing vessel/unit principal dimensions and equip
 Proactive owners of offshore vessels will quickly see the benefit of keeping an active inspection on the database as it will streamline the pre chartering process and, for competent vessel operators reinforce their positive image with the clients.
 OCIMF WebServices - Integrator Notification
 If your organisation submits or consumes information via OCIMF WebServices, please ensure that this message is passed to your IT department.
-Read More
 Minimum Supported Internet Browser Version
 Important Notice: Minimum supported internet browser version changing from Monday 25th June 2018.
-Read More
 Release of Updated OVID User Interface
 OCIMF is committed to the continual improvement of its programmes and the new OVID website will be available on 11 April 2018.
-Read More
 OVID Programme Recipients and OVID Vessel Inspection Request platform
 OCIMF is making two big changes to the Offshore Vessel Inspection Database (OVID) in January 2017: we are opening up access to non-member companies and we are launching a platform to facilitate new inspection requests.
-Read More
 IMPORTANT: OVIQ1 Decommissioning
 From the 10th August 2015 it will no longer be possible to commission an OVIQ1 (7100) inspection upon a vessel. All OVIQ inspections from the 10th August onwards should be commissioned using the OVIQ2 (7105) template.
-Read More
 ID Cards
 All OVID inspectors should present their ID card at the time of boarding a vessel for an inspection. If you lose or break your ID card, please contact idcards@ocimf.org to request a new one.
-Read More
 Number of Inspections
 As of January 1st 2015, all OVID inspectors will be required to complete a minimum of 4 OVID inspections per year in order to retain their accreditation – this requirement will increase in future years.
-Read More
 Meeting Update: 17th OVID Focus Group
 17th meeting: 12–13 September, Singapore (hosted by Shell)
-Read More
 1
 2
 3
@@ -66,18 +58,14 @@ Download
 Information Papers
 The Guidelines on Cybersecurity onboard Ships
 The purpose of these guidelines is to improve the safety and security of seafarers, the environment, the cargo and the ships. The guidelines aim to assist in the development of...
-Read More
 Information Papers
 Guidelines for the Control of Drugs and Alcohol in the Maritime Industry
 This information paper provides general guidance and recommendations for the maritime industry in developing and implementing controls for drugs and alcohol. It gives guidance on developing a drug and alcohol...
-Read More
 Information Papers
 The OCIMF Human Factors Approach
 ...
-Read More
 Information Papers
 Offshore Vessel Management and Self Assessment 2 – FAQs (OVMSA2)
-Read More
 Information Papers
 14 Nov
 The Guidelines on Cybersecurity onboard Ships
@@ -95,14 +83,10 @@ Information Papers
 Offshore Vessel Management and Self Assessment 2 – FAQs (OVMSA2)
 1
 About OVMSA
-Read More
 OVID Courses
-Read More
 Self Help Portal
 Access to SIRE Programme output is available, at a nominal cost, to OCIMF members, bulk oil terminal operators, oil, power, industrial or oil trader companies that charter tankers/barges as a normal part of their business. It is also available free of charge to government bodies that supervise safety and/or pollution prevention in relation to oil tankers/barges (e.g. Port State Control authorities, MOUs, Flag State authorities, etc.).
-Read More
 FAQs
-Read More
 OVID Login
 Login here
 Contact Us

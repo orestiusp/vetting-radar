@@ -38,50 +38,37 @@ The MTIS database will provide terminal and vessel operators, along with charter
 The successful global coverage of MTIS will provide the opportunity to establish a terminal identification number, similar to the IMO number adopted by the shipping industry, thereby providing the opportunity and ability for companies to integrate personal terminal management systems with MTIS to improve compatibility and safety protection levels.
 Two-factor Authentication
 To increase security, OCIMF will be rolling out two-factor authentication (2FA) in SIRE and MTIS from 4 February 2019.
-Read More
 Marine Terminal Information Booklet
 OCIMF released a new information paper, Marine Terminal Information Booklet: Guidelines and Recommendations, on 18 September.
-Read More
 89th Ports and Terminals Committee
 89th meeting: 17–18 October, Houston, USA (hosted by Hess)
-Read More
 Marine Terminal Information System Update
 The Marine Terminal Information System (MTIS) was launched in 2011 as a way to improve ship-to-shore safety management and improve communication streams between ship and terminal operators.
-Read More
 Improving Usability: MTIS Site Undergoes Feedback-Led Refresh
 In May 2018, the MTIS site underwent its biggest overhaul since launching in 2011.
-Read More
 Recent Terminals
 The latest terminals to join MTIS:
-Read More
 88th Ports and Terminals Committee
 The Ports and Terminals Committee (PTC) held their 88th meeting on 18–19 April in Singapore.
-Read More
 87th Ports and Terminals Committee
 The Ports and Terminals Committee (PTC) held their 87th meeting on 18–19 October in London, UK.
-Read More
 86th Ports and Terminals Committee
 The Ports and Terminals Committee (PTC) held their 86th meeting on 26–27 April in Houston, USA.
-Read More
 1
 2
 3
 Videos
 MTIS Tutorial - Help Centre
 Finding answers to your questions: this short video explains the MTIS Help Centre, how to use the tools to support use of the MTIS programme and how to find answers...
-Read More
 Videos
 MTIS Tutorial - Add, Update, Amend Terminal Details
 Using MTIS: This short video outlines fundamental MTIS functions, including adding, updating and amending terminal details...
-Read More
 Videos
 MTIS Tutorial - New Features & Functionality
 What’s new? This short video details new MTIS features and functionality and how they can be used to improve the MTIS experience...
-Read More
 Videos
 MTIS Tutorial - First Time Sign In And Population Tool
 MTIS account support. This short video outlines signing into an MTIS account for the first time and how to use the Population Tool to efficiently add terminal berths to an...
-Read More
 Videos
 2 Nov
 MTIS Tutorial - Help Centre
@@ -101,7 +88,6 @@ MTIS account support. This short video outlines signing into an...
 1
 Marine Terminal Particulars Questionnaire
 The backbone to MTIS, the Marine Terminal Particulars Questionnaire (MTPQ) assists in the collation of a global database for the world’s 4,000+ terminals.
-Read More
 MTIS Login
 With the aim of improving marine safety, MTIS is a free service for terminal operators and terminal users - known in MTIS as Data Users. In time, successful global coverage of MTIS will provide the opportunity to establish a terminal identification number, similar to the IMO number adopted by the shipping industry for vessels. This will provide the industry with the opportunity and ability for companies to integrate terminal management systems with MTIS to improve compatibility and safety protection levels.
 Terminal operators and terminal users are invited to register for MTIS here and begin freely sharing ship-to-shore compatibility data.

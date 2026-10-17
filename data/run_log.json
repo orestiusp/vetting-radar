@@ -1,14 +1,19 @@
 {
-  "run_at": "2026-10-17T11:42:36+03:00",
+  "run_at": "2026-10-17T09:32:16+00:00",
   "scope": "full",
   "sources_checked": 77,
-  "baseline": 1,
-  "unchanged": 68,
-  "changed": 6,
-  "error": 2,
-  "note": "6 'changes' were false positives (print timestamps, relative times, visitor counters); noise filters added and the entries were discarded",
+  "baseline": 0,
+  "unchanged": 71,
+  "changed": 3,
+  "error": 3,
   "errors": {
-    "uscg-psc-detentions": "HTTP 403",
-    "saudi-aramco-ports-terminals-book-jul-2025-pdf": "ReadTimeout"
-  }
+    "uscg-psc-detentions": "HTTPError: 403 Client Error: Forbidden for url: https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offs",
+    "iomou-home": "HTTPError: 403 Client Error: Forbidden for url: https://www.iomou.org/",
+    "saudi-aramco-ports-terminals-book-jul-2025-pdf": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)"
+  },
+  "changed_ids": [
+    "ocimf-sire-programme-survey-2024-25-pdf",
+    "ocimf-annual-report-2026-pdf",
+    "ocimf-bulletins"
+  ]
 }

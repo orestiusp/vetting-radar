@@ -1,1 +1,111 @@
-[]
+[
+  {
+    "id": "20261017T092613-ocimf-bulletins",
+    "source_id": "ocimf-bulletins",
+    "source_name": "OCIMF – Bulletins",
+    "owner": "OCIMF",
+    "category": "news",
+    "url": "https://www.ocimf.org/news-and-events/bulletins",
+    "detected_at": "2026-10-17T09:26:13+00:00",
+    "previous_hash": "eb805bb2e16745a57f51c2e651b82a4f657a1cdeb46093c331820614a7c5f00a",
+    "new_hash": "393a785ccc07b7fe0288ab85ca6bcb802d462efc7c8e0977da170e0280d8893f",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -9,5 +9,2 @@\n INTERTANKO and OCIMF have issued a joint statement on the situation in the Middle East\n-OVID Programme Survey 2024/25 Summary Report\n-27 January 2026\n-OCIMF commissioned a series of surveys to better understand how programme user groups use and interact with the Offshore Vessel Inspection Database (OVID) vessel inspection regime.\n SIRE 2.0 Programme Survey 2024/25 Summary Report\n@@ -16,2 +13,5 @@\n OCIMF commissioned a series of surveys to better understand how programme user groups have used and interacted with Ship Inspection Report Programme (SIRE 2.0) vessel inspection regime.\n+OVID Programme Survey 2024/25 Summary Report\n+27 January 2026\n+OCIMF commissioned a series of surveys to better understand how programme user groups use and interact with the Offshore Vessel Inspection Database (OVID) vessel inspection regime.\n Enclosed Space Fatalities – A united industry response (4th meeting)",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "OVID Programme Survey 2024/25 Summary Report",
+        "27 January 2026",
+        "OCIMF commissioned a series of surveys to better understand how programme user groups use and interact with the Offshore Vessel Inspection Database (OVID) vessel inspection regime."
+      ],
+      "removed_sample": [
+        "OVID Programme Survey 2024/25 Summary Report",
+        "27 January 2026",
+        "OCIMF commissioned a series of surveys to better understand how programme user groups use and interact with the Offshore Vessel Inspection Database (OVID) vessel inspection regime."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261017T092607-ocimf-annual-report-2026-pdf",
+    "source_id": "ocimf-annual-report-2026-pdf",
+    "source_name": "OCIMF – Annual Report 2026 (PDF)",
+    "owner": "OCIMF",
+    "category": "news",
+    "url": "https://www.ocimf.org/document-libary/1082-ocimf-annual-report-2026/file",
+    "detected_at": "2026-10-17T09:26:07+00:00",
+    "previous_hash": "61463b4b128eba89fd4e11cc6e3166b45a64f3f786308c33100978e341ecf928",
+    "new_hash": "8d58322cf72a5767159ef96d67f922b4fb37139b3fab4675e7926a6377c78300",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -28,16 +28,16 @@\n Message from the Chairman.....................................4 IN FOCUS Maritime security......................................34\n-OCIMF Membership. ...................................................5 Environment Committee. ........................................ 36\n+OCIMF Membership.....................................................5 Environment Committee.......................................... 36\n Managing Director’s review.......................................6 Legal Committee........................................................ 37\n-Organisational chart. ..................................................8 The Energy Transition............................................... 37\n-Secretariat. ....................................................................10 OCIMF Expert Groups.................................................38\n-OCIMF Milestones........................................................12 Ship-to-Shore Interfaces Expert Group. ............ 38\n+Organisational chart....................................................8 The Energy Transition............................................... 37\n+Secretariat......................................................................10 OCIMF Expert Groups.................................................38\n+OCIMF Milestones........................................................12 Ship-to-Shore Interfaces Expert Group.............. 38\n OCIMF Committee structure.....................................14 Ship-to-Ship Interfaces Expert Group................ 39\n OCIMF in numbers.......................................................16 Nautical Expert Group.............................................. 40\n-Executive Committee................................................ 18 Structures Expert Group. ........................................ 41\n-Finance, Audit and Risk Committee. ................... 19 Engineering Expert Group....................................... 42\n-Annual General Meeting.......................................... 19 Barges Expert Group. ............................................... 43\n-IN FOCUS SIRE 2.0 one year on. ...............................20 Floating Systems Expert Group............................ 44\n-OCIMF Principal Committees. ..................................21 Offshore Vessel Operations Expert Group........ 45\n+Executive Committee................................................ 18 Structures Expert Group.......................................... 41\n+Finance, Audit and Risk Committee..................... 19 Engineering Expert Group....................................... 42\n+Annual General Meeting.......................................... 19 Barges Expert Group................................................. 43\n+IN FOCUS SIRE 2.0 one year on.................................20 Floating Systems Expert Group............................ 44\n+OCIMF Principal Committees....................................21 Offshore Vessel Operations Expert Group........ 45\n Programmes Committee......................................... 21 Inspection Processes Expert Group.................... 46\n-Publications and Advocacy Tankers, Programmes Governance Expert Group. .......... 47\n+Publications and Advocacy Tankers, Programmes Governance Expert Group............ 47\n Barges and Terminal Interfaces Committee..... 22 Innovation and Technology Expert Group......... 48\n@@ -48,5 +48,5 @@\n IN FOCUS Human factors...........................................30 OCIMF Information papers........................................55\n-OCIMF Functional Committees.................................32 Publications coming soon. ........................................58\n-Human Factors Committee. ................................... 32\n-Maritime Security Committee. .............................. 33\n+OCIMF Functional Committees.................................32 Publications coming soon..........................................58\n+Human Factors Committee..................................... 32\n+Maritime Security Committee................................ 33\n We would like to thank all the member companies who contributed photographs for this annual report. If your company would like to contribute photographs for",
+      "lines_added": 13,
+      "lines_removed": 13,
+      "added_sample": [
+        "OCIMF Membership.....................................................5 Environment Committee.......................................... 36",
+        "Organisational chart....................................................8 The Energy Transition............................................... 37",
+        "Secretariat......................................................................10 OCIMF Expert Groups.................................................38",
+        "OCIMF Milestones........................................................12 Ship-to-Shore Interfaces Expert Group.............. 38",
+        "Executive Committee................................................ 18 Structures Expert Group.......................................... 41",
+        "Finance, Audit and Risk Committee..................... 19 Engineering Expert Group....................................... 42",
+        "Annual General Meeting.......................................... 19 Barges Expert Group................................................. 43",
+        "IN FOCUS SIRE 2.0 one year on.................................20 Floating Systems Expert Group............................ 44",
+        "OCIMF Principal Committees....................................21 Offshore Vessel Operations Expert Group........ 45",
+        "Publications and Advocacy Tankers, Programmes Governance Expert Group............ 47",
+        "OCIMF Functional Committees.................................32 Publications coming soon..........................................58",
+        "Human Factors Committee..................................... 32",
+        "Maritime Security Committee................................ 33"
+      ],
+      "removed_sample": [
+        "OCIMF Membership. ...................................................5 Environment Committee. ........................................ 36",
+        "Organisational chart. ..................................................8 The Energy Transition............................................... 37",
+        "Secretariat. ....................................................................10 OCIMF Expert Groups.................................................38",
+        "OCIMF Milestones........................................................12 Ship-to-Shore Interfaces Expert Group. ............ 38",
+        "Executive Committee................................................ 18 Structures Expert Group. ........................................ 41",
+        "Finance, Audit and Risk Committee. ................... 19 Engineering Expert Group....................................... 42",
+        "Annual General Meeting.......................................... 19 Barges Expert Group. ............................................... 43",
+        "IN FOCUS SIRE 2.0 one year on. ...............................20 Floating Systems Expert Group............................ 44",
+        "OCIMF Principal Committees. ..................................21 Offshore Vessel Operations Expert Group........ 45",
+        "Publications and Advocacy Tankers, Programmes Governance Expert Group. .......... 47",
+        "OCIMF Functional Committees.................................32 Publications coming soon. ........................................58",
+        "Human Factors Committee. ................................... 32",
+        "Maritime Security Committee. .............................. 33"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261017T092607-ocimf-sire-programme-survey-2024-25-pdf",
+    "source_id": "ocimf-sire-programme-survey-2024-25-pdf",
+    "source_name": "OCIMF – SIRE Programme Survey 2024-25 (PDF)",
+    "owner": "OCIMF",
+    "category": "sire",
+    "url": "https://www.ocimf.org/document-libary/1060-sire-programme-survey-2024-25/file",
+    "detected_at": "2026-10-17T09:26:07+00:00",
+    "previous_hash": "d903247ff65dafb5fdb480aea0f3b1a7d7e88fee7b2527f0c35b6cbd555230a5",
+    "new_hash": "81ade2a8d3df64b41664a975eb9484fa662f3525b1f9294455fb0db78f5a9fa2",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -337,5 +337,6 @@\n Respondents Very high High Average Low Very Low\n-\u0007Integrity of the 25% 57% 17% 0% 1%\n+I\u0007 ntegrity of the 25% 57% 17% 0% 1%\n SIRE 2.0 Inspectors\n-\u0007Experience/knowledge 12% 66% 20% 2% 0%\n+\u0007 xperience/knowledge\n+E 12% 66% 20% 2% 0%\n of the SIRE 2.0 Inspectors",
+      "lines_added": 3,
+      "lines_removed": 2,
+      "added_sample": [
+        "I\u0007 ntegrity of the 25% 57% 17% 0% 1%",
+        "\u0007 xperience/knowledge",
+        "E 12% 66% 20% 2% 0%"
+      ],
+      "removed_sample": [
+        "\u0007Integrity of the 25% 57% 17% 0% 1%",
+        "\u0007Experience/knowledge 12% 66% 20% 2% 0%"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  }
+]

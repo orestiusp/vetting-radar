@@ -1,0 +1,29 @@
+{
+  "id": "20261017T092607-ocimf-sire-programme-survey-2024-25-pdf",
+  "source_id": "ocimf-sire-programme-survey-2024-25-pdf",
+  "source_name": "OCIMF – SIRE Programme Survey 2024-25 (PDF)",
+  "owner": "OCIMF",
+  "category": "sire",
+  "url": "https://www.ocimf.org/document-libary/1060-sire-programme-survey-2024-25/file",
+  "detected_at": "2026-10-17T09:26:07+00:00",
+  "previous_hash": "d903247ff65dafb5fdb480aea0f3b1a7d7e88fee7b2527f0c35b6cbd555230a5",
+  "new_hash": "81ade2a8d3df64b41664a975eb9484fa662f3525b1f9294455fb0db78f5a9fa2",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -337,5 +337,6 @@\n Respondents Very high High Average Low Very Low\n-\u0007Integrity of the 25% 57% 17% 0% 1%\n+I\u0007 ntegrity of the 25% 57% 17% 0% 1%\n SIRE 2.0 Inspectors\n-\u0007Experience/knowledge 12% 66% 20% 2% 0%\n+\u0007 xperience/knowledge\n+E 12% 66% 20% 2% 0%\n of the SIRE 2.0 Inspectors",
+    "lines_added": 3,
+    "lines_removed": 2,
+    "added_sample": [
+      "I\u0007 ntegrity of the 25% 57% 17% 0% 1%",
+      "\u0007 xperience/knowledge",
+      "E 12% 66% 20% 2% 0%"
+    ],
+    "removed_sample": [
+      "\u0007Integrity of the 25% 57% 17% 0% 1%",
+      "\u0007Experience/knowledge 12% 66% 20% 2% 0%"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
