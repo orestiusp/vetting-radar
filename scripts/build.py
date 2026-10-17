@@ -512,7 +512,7 @@ page("advertise.html", "Advertise on Vetting Radar", desc="Sponsor the Vetting R
 </div></section>
 <section class="adv-sec"><h2>Editorial independence</h2>
 <p>Sponsors never influence the content: which changes are reported, how criteria are summarised or what reader reports are published. Sponsored items are always labelled “Sponsor”. We do not place sponsorship from organisations whose rules we track next to their own criteria.</p>
-<p class="note">Placements are sold directly. No ad networks, no ad tracking, no cookies.</p></section>
+<p class="note">Placements are sold directly. No ad networks, no ad tracking, and sponsor placements set no cookies.</p></section>
 <section class="adv-contact"><div><h2>Get in touch</h2><p>Tell us what you'd like to promote and when. We'll reply with availability.</p></div>
 <a class="btn" href="{ADV_MAIL}">{icon("mail")}customer@vettingradar.com</a></section></div>""")
 open(os.path.join(DIST, "sponsor.html"), "w").write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Advertise on Vetting Radar</title>'
