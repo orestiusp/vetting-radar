@@ -8,3 +8,6 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+# seed reports: owner review pending, kept out of the public repo
+supabase/seed_editor_reports.sql
+supabase/seed_editor_reports.json

@@ -205,7 +205,7 @@ def rrbox(owner_id):  # owner bar below the official criteria; reports.js fills 
 RR_STRIP = (f'<div class="rr-strip" id="rr-strip">{RR_PILL}<span><span class="rr-strip-n">Coming soon.</span> <span class="rr-sub">User-declared, not official.</span></span>'
             '<span class="rr-strip-a"><a class="btn sm rr" href="reports.html">See reports</a><a class="btn sm rr-o" href="submit.html">+ Add what you faced</a></span></div>')
 RR_HOME = (f'<section class="block tight" style="padding-bottom:0"><div class="wrap"><div class="rr-home" id="rr-home"><span class="rr-ic">{icon("chat")}</span>'
-           '<div><p class="rr-kick">Reader reports · user-declared</p><h2>What vetting really asked for</h2>'
+           '<div><p class="rr-kick">Reader reports · user-declared</p><h2>What Vetting/Screening Departments asked for</h2>'
            '<p class="lede">Requirements members met in practice, owner by owner. Reviewed before publishing, never official.</p></div>'
            '<div class="rr-cnt"><b id="rr-home-n">–</b><span id="rr-home-l">published reports</span></div>'
            '<div class="rr-cta"><a class="btn rr" href="reports.html">See reports</a><a class="btn rr-o" href="submit.html">+ Add what you faced</a></div></div></div></section>')
@@ -514,4 +514,8 @@ with open(os.path.join(DIST, "data", "changes.json"), "w") as f: json.dump(pub_c
 for f in ("comparison.json", "comparison.csv", "compare_pages.json", "updates.json", "calendar.json"):
     if os.path.exists(P("data", f)): shutil.copy(P("data", f), os.path.join(DIST, "data", f))
 shutil.copy(P("sources.json"), os.path.join(DIST, "data", "sources.json"))
+# local review only: VR_SEED_PREVIEW=1 copies the (unpublished, git-ignored) seed reports for ?demo=1 on localhost
+_seed = P("supabase", "seed_editor_reports.json")
+if os.environ.get("VR_SEED_PREVIEW") == "1" and os.path.exists(_seed): shutil.copy(_seed, os.path.join(DIST, "data", "seed_preview.json"))
+elif os.path.exists(os.path.join(DIST, "data", "seed_preview.json")): os.remove(os.path.join(DIST, "data", "seed_preview.json"))
 print("built", sorted(os.listdir(DIST)))

@@ -76,8 +76,11 @@
       });
     }).catch(function () { return ''; });
   }
+  var SEEDPREV = false;
   function fetchPublished() {
-    if (DEMO) return Promise.resolve(demoReports());
+    // local preview: data/seed_preview.json exists only in local builds made with VR_SEED_PREVIEW=1
+    if (DEMO) return fetch('data/seed_preview.json', { cache: 'no-store' }).then(function (x) { if (!x.ok) throw 0; return x.json(); })
+      .then(function (d) { SEEDPREV = true; return d; }, function () { return demoReports(); });
     return client(false).then(function (sb) {
       return sb.from('published_reports').select('*').order('last_confirmed', { ascending: false }).limit(1000);
     }).then(function (res) { if (res.error) throw res.error; return res.data || []; });
@@ -142,22 +145,24 @@
       var n = $('.rr-n', d), body = $('.rr-body', d), post = 'submit.html?owner=' + encodeURIComponent(d.getAttribute('data-owner'));
       n.textContent = mine.length ? mine.length + ' report' + (mine.length === 1 ? '' : 's') : 'No reports yet';
       d.classList.toggle('has', mine.length > 0);
-      body.innerHTML = (DEMO ? '<p class="rr-demo">Demo mode · sample data, not real reports</p>' : '') +
+      body.innerHTML = demoBanner() +
         (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">Nobody has shared one yet. Faced a requirement here? It takes a minute.</p>') +
         '<p class="rr-actions"><a href="' + post + '">+ Add what you faced</a><span>·</span><a href="reports.html">All reader reports</a></p>';
     });
     var h = location.hash.slice(1), target = h && document.getElementById(h);
     if (target && target.tagName === 'DETAILS') target.open = true;
   }
+  function okey(r) { return r.owner_id === 'other' ? 'other:' + String(r.owner_other || '').toLowerCase() : r.owner_id; }
+  function demoBanner() { return DEMO ? '<p class="rr-demo">' + (SEEDPREV ? 'Local preview · seed reports, not published yet' : 'Demo mode · sample data, not real reports') + '</p>' : ''; }
   function fillStrip(list) {
     var s = $('#rr-strip'); if (!s) return;
-    var owners = {}; list.forEach(function (r) { owners[r.owner_id] = 1; });
+    var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; });
     $('.rr-strip-n', s).textContent = list.length ? list.length + ' report' + (list.length === 1 ? '' : 's') + ' across ' + Object.keys(owners).length + ' owner' + (Object.keys(owners).length === 1 ? '' : 's') + '.' : 'No reports yet. Be the first.';
   }
   // homepage callout count
   function fillHome(list) {
     var n = $('#rr-home-n'); if (!n) return;
-    var owners = {}; list.forEach(function (r) { owners[r.owner_id] = 1; }); var k = Object.keys(owners).length;
+    var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; }); var k = Object.keys(owners).length;
     n.textContent = list.length;
     $('#rr-home-l').textContent = list.length ? 'report' + (list.length === 1 ? '' : 's') + ' · ' + k + ' owner' + (k === 1 ? '' : 's') : 'reports yet · be the first';
   }
@@ -184,7 +189,7 @@
       var idx = function (k) { var i = OWNERS.findIndex(function (x) { return x.id === k; }); return i < 0 ? 999 : i; };
       order.sort(function (a, b) { return idx(a) - idx(b) || a.localeCompare(b); });
       $('#rr-count').textContent = rows.length;
-      box.innerHTML = (DEMO ? '<p class="rr-demo">Demo mode · sample data, not real reports</p>' : '') + (order.length ? order.map(function (k) {
+      box.innerHTML = demoBanner() + (order.length ? order.map(function (k) {
         var g = groups[k], o = OWN[g[0].owner_id], other = g[0].owner_id === 'other';
         return '<section class="rr-group"><header><span class="lc-logo">' + (o && !other ? o.logo : '<span class="olgs fix"><span class="olg fb">?</span></span>') + '</span>' +
           '<div><h2>' + esc(ownerName(g[0])) + '</h2><span class="note">' + esc(o && !other ? o.type : 'Other owner') + ' · ' + g.length + ' report' + (g.length === 1 ? '' : 's') + '</span></div>' +
