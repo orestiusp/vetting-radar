@@ -38,6 +38,7 @@ _IC = {
  "todo":'<circle cx="12" cy="12" r="9"/><path d="m8.5 12 2.5 2.5 4.5-5"/>',
  "pulse":'<path d="M3 12h4l3-8 4 16 3-8h4"/>',
  "pin":'<path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/>',
+ "chat":'<path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-4.6A8 8 0 1 1 21 12z"/><path d="M8.5 10.5h7M8.5 13.5h4.5"/>',
  "crew":'<circle cx="9" cy="8" r="3.2"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6"/><circle cx="17" cy="9" r="2.6"/><path d="M15.5 14.2A5 5 0 0 1 21 19"/>',
 }
 def icon(n, cls="ico"): return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true">{_IC[n]}</svg>'
@@ -53,7 +54,7 @@ def fmt_date(s):
         return dt.date.fromisoformat(s[:10]).strftime("%d %b %Y")
     except Exception: return s
 
-def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None):
+def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts=""):
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
@@ -67,7 +68,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <link rel="icon" href="{pre}brand/favicon.svg" type="image/svg+xml"><link rel="icon" href="{pre}brand/favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="{pre}brand/favicon-16.png" sizes="16x16" type="image/png">
 <link rel="apple-touch-icon" href="{pre}brand/apple-touch-icon.png">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{SITE_URL}/brand/og-image.png"><meta name="twitter:title" content="{e(doc_title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
-<link rel="alternate" type="application/json" href="{pre}data/changes.json">
+<link rel="alternate" type="application/json" href="{pre}data/changes.json">{head}
 <script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></head><body>
 <a class="skip" href="#content">Skip to content</a>
 <header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{logo("h")}<span>Vetting <span class="r">Radar</span></span></a>
@@ -75,10 +76,10 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <main id="content">{body}</main>
 <footer class="site"><div class="wrap"><div class="cols">
 <div><a class="brand" href="{pre}index.html" style="margin-bottom:10px">{logo("f")}<span>Vetting <span class="r">Radar</span></span></a><p style="margin:0;max-width:420px">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries only. <b style="color:#fff">Always verify at source.</b></p><p class="tm">Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p></div>
-<div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}compare-checklist.html">Pre-screening checklist</a></li><li><a href="{pre}compare-terminals.html">Terminal requirements</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
+<div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}compare-checklist.html">Pre-screening checklist</a></li><li><a href="{pre}compare-terminals.html">Terminal requirements</a></li><li><a href="{pre}reports.html">Reader reports</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
-<script src="{pre}app.js"></script></body></html>"""
+<script src="{pre}app.js"></script>{scripts}</body></html>"""
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w").write(doc)
 
@@ -201,10 +202,27 @@ page("updates.html", "Vetting rule updates", pagehead("Updates", "Vetting rule c
 # ---------- compare navigation ----------
 CP = load(P("data", "compare_pages.json"))
 CMP_TABS = [("table.html", "Requirements table", "columns"), ("compare-checklist.html", "Pre-screening checklist", "todo"),
-            ("compare-frequency.html", "Inspection frequency", "calendar"), ("compare-terminals.html", "Terminals", "pin"), ("compare-crew.html", "Crew matrix", "crew")]
+            ("compare-frequency.html", "Inspection frequency", "calendar"), ("compare-terminals.html", "Terminals", "pin"), ("compare-crew.html", "Crew matrix", "crew"), ("reports.html", "Reader reports", "chat")]
 def subnav(cur):
     return '<nav class="subnav" aria-label="Compare pages"><div class="wrap">' + "".join(
-        f'<a href="{h}"{" class=\"on\" aria-current=\"page\"" if h == cur else ""}>{icon(i)}{l}</a>' for h, l, i in CMP_TABS) + "</div></nav>"
+        f'<a href="{h}"{" class=\"on\" aria-current=\"page\"" if h == cur else ""}{" class=\"rrtab\"" if h == "reports.html" and h != cur else ""}>{icon(i)}{l}</a>' for h, l, i in CMP_TABS) + "</div></nav>"
+
+# ---------- reader reports (user submitted; never official data) ----------
+RR_DISCLAIMER = ('<p class="rr-disclaimer"><span class="rr-badge">User report</span> Reader reports are personal experiences shared by members. '
+                 'They are not verified and do not represent the position of any oil major, terminal or organisation. Always check official requirements.</p>')
+RR_SCRIPTS = '<script src="config.js"></script><script src="reports.js"></script>'
+RR_SHORT = {"fujairah": "Port of Fujairah", "totalenergies": "TotalEnergies"}
+RR_OWNERS = [{"id": r["id"], "name": RR_SHORT.get(r["id"]) or CP["owners"].get(r["id"], {}).get("name") or re.split(r" \(| – ", r["requirement_owner"])[0],
+              "type": r["owner_type"], "href": f'table.html#row-{r["id"]}', "logo": orglogo(r["requirement_owner"], fixed=True)} for r in comp["rows"]]
+RR_OWNER_IDS = {o["id"] for o in RR_OWNERS}
+RR_JSON = '<script id="vr-owners" type="application/json">' + json.dumps(RR_OWNERS, ensure_ascii=False).replace("</", "<\\/") + '</script>'
+def rrbox(owner_id):  # collapsed box below an owner's official criteria; reports.js fills it
+    return (f'<details class="rr" id="rr-{e(owner_id)}" data-owner="{e(owner_id)}"><summary><span class="rr-badge">User report</span>'
+            f'<b>Reader reports <span class="rr-n">· coming soon</span></b><span class="rr-sub">Reported by users, not official</span></summary>'
+            '<div class="rr-body"><p class="rr-empty">Reader reports coming soon.</p></div>'
+            '<p class="rr-fine">Personal experiences, not verified. Not official requirements.</p></details>')
+RR_STRIP = ('<div class="rr-strip" id="rr-strip"><span class="rr-badge">User report</span><span><b>Reader reports</b> · Reported by users, not official. '
+            '<span class="rr-strip-n">Coming soon.</span></span><a href="reports.html">See reader reports →</a></div>')
 
 # ---------- table ----------
 def cell(v):
@@ -214,10 +232,11 @@ trs = ""
 for r in comp["rows"]:
     links = f'<a href="{e(r["source_url"])}" rel="noopener">Primary source</a>' + "".join(f'<br><a href="{e(u)}" rel="noopener">Source {i+2}</a>' for i, u in enumerate(r["extra_source_urls"]))
     flag = f'<span class="flag">⚠ {e(r["flags"])}</span>' if r["flags"] else ""
-    trs += f"""<tr data-type="{e(r['owner_type'])}"><td class="owner"><div style="margin-bottom:6px">{orglogo(r['requirement_owner'])}</div><b>{e(r['requirement_owner'])}</b><br><span class="pill">{e(r['owner_type'])}</span>
+    trs += f"""<tr data-type="{e(r['owner_type'])}" id="row-{e(r['id'])}" class="off-row"><td class="owner"><div style="margin-bottom:6px">{orglogo(r['requirement_owner'])}</div><b>{e(r['requirement_owner'])}</b><br><span class="pill">{e(r['owner_type'])}</span>
 <div class="note" style="margin-top:6px">{e(r['document'])}{(' · dated ' + e(r['document_date'])) if r['document_date'] else ''}</div>{flag}</td>
 <td class="wide">{cell(r['age_limits'])}</td><td class="wide">{cell(r['sire_report_age'])}</td><td class="wide">{cell(r['cap_rules'])}</td><td class="wide">{cell(r['other_criteria'])}</td>
-<td>{links}<div class="note">Verified {fmt_date(r['verified_on'])}</div><div class="note">Verify at source</div></td></tr>"""
+<td>{links}<div class="note">Verified {fmt_date(r['verified_on'])}</div><div class="note">Verify at source</div></td></tr>
+<tr class="rr-row" data-type="{e(r['owner_type'])}"><td colspan="6"><div class="rr-stick">{rrbox(r['id'])}</div></td></tr>"""
 gaps = "".join(f"<li><b>{e(g['owner'])}</b>: {e(g['note'])}</li>" for g in comp["not_found_publicly"])
 page("table.html", "Who requires what — tanker vetting criteria compared", f"""
 """ + pagehead("Compare", "Who requires what", "Tanker acceptance criteria side by side. Built only from cited public documents; blank means the source doesn't say.") + subnav("table.html") + f"""<div class="wrap page">
@@ -230,8 +249,8 @@ page("table.html", "Who requires what — tanker vetting criteria compared", f""
 <a class="card tile" href="compare-checklist.html"><span class="ic">{icon("todo")}</span><h3>Pre-screening checklist</h3><p>SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC and certificates, owner by owner.</p></a>
 <a class="card tile" href="compare-frequency.html"><span class="ic">{icon("calendar")}</span><h3>Inspection frequency by age</h3><p>Colour grid of inspection windows across age bands.</p></a>
 <a class="card tile" href="compare-terminals.html"><span class="ic">{icon("pin")}</span><h3>Terminal requirements</h3><p>Age limits, SIRE, pre-arrival documents and escort tugs.</p></a>
-<a class="card tile" href="compare-crew.html"><span class="ic">{icon("crew")}</span><h3>Crew matrix</h3><p>Officer experience, English, nationalities and matrix freshness.</p></a></div></div>
-<script>document.addEventListener('DOMContentLoaded',()=>vrFilter('cmp','q','t','type'));</script>""")
+<a class="card tile" href="compare-crew.html"><span class="ic">{icon("crew")}</span><h3>Crew matrix</h3><p>Officer experience, English, nationalities and matrix freshness.</p></a></div>{RR_DISCLAIMER}</div>{RR_JSON}
+<script>document.addEventListener('DOMContentLoaded',()=>vrFilter('cmp','q','t','type'));</script>""", scripts=RR_SCRIPTS)
 
 # ---------- compare sub-pages (checklist, frequency, terminals, crew) ----------
 def verified_bar(extra=""):
@@ -268,7 +287,7 @@ page("compare-checklist.html", "Pre-screening checklist: what oil majors and ter
 {lvlegend(["req","cond","ns"], LV)}
 <div class="tablewrap mxwrap"><table class="mx" id="ck"><thead><tr><th class="item" scope="col">Check</th>{''.join(ohead(k) for k in ck)}</tr></thead><tbody>{rows_ck}</tbody></table></div>
 <p class="note">Scroll sideways for all {len(ck)} owners. Values are short summaries; size bands, gas carriers and exceptions are in the sources and on the <a href="table.html">requirements table</a>.</p>
-<h2 class="sm">Sources</h2>{srclist(ck)}</div>""")
+{RR_STRIP}<h2 class="sm">Sources</h2>{srclist(ck)}{RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
 # b. inspection frequency by age
 FQ = {"t3": "≤ 3–4 months", "t6": "≈ 6 months", "t12": "7–15 months", "scr": "Screening, no fixed interval", "no": "Not accepted", "ns": "Not stated"}
@@ -284,17 +303,19 @@ page("compare-frequency.html", "Inspection frequency by vessel age, owner by own
 <div class="lvlegend fqlegend" aria-label="Legend">{''.join(f'<span><i class="fq {k}"></i>{e(v)}</span>' for k, v in FQ.items())}</div>
 <div class="tablewrap mxwrap"><table class="mx fqt"><thead><tr><th scope="col">Owner</th>{''.join(f'<th scope="col" class="band">{e(b)}</th>' for b in CP["bands"])}</tr></thead><tbody>{rows_fq}</tbody></table></div>
 <p class="note">Oil and chemical tankers above 5,000 dwt unless noted. Gas carriers and small tankers often have higher age limits; see the sources.</p>
-<h2 class="sm">Sources</h2>{srclist([f["owner"] for f in CP["frequency"]])}</div>""")
+{RR_STRIP}<h2 class="sm">Sources</h2>{srclist([f["owner"] for f in CP["frequency"]])}{RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
 # c. terminal requirements
 def tfield(label, v):
     return f'<div class="tf"><dt>{label}</dt><dd>{e(v) if v else "<span class=\"blank\">not stated in source</span>"}</dd></div>'
 tcards = ""
+RR_TERM = {"Saudi Aramco": "aramco", "Port of Fujairah": "fujairah", "Trans Mountain": "transmountain", "SARAS": "saras"}
 for t in CP["terminals"]:
+    rid = RR_TERM.get(t["org"]); rid = rid if rid in RR_OWNER_IDS else None
     links = f'<a href="{e(t["url"])}" rel="noopener">Primary source</a>' + "".join(f' · <a href="{e(u)}" rel="noopener">Source {i+2}</a>' for i, u in enumerate(t["extra"]))
     tcards += f"""<article class="card tcard"><header><span class="lc-logo">{orglogo(t['org'], fixed=True)}</span><div><h3>{e(t['name'])}</h3><span class="pill">{e(t['country'])}</span> <span class="note">{e(t['doc'])}{(' · ' + fmt_date(t['date'])) if t['date'] else ''}</span></div></header>
 <dl>{tfield("Age limit", t["age"])}{tfield("SIRE / vetting", t["sire"])}{tfield("Pre-arrival &amp; documents", t["prearrival"])}{tfield("Escort &amp; tugs", t["escort"])}</dl>
-{f'<span class="flag">⚠ {e(t["flag"])}</span>' if t["flag"] else ''}<div class="tfoot">{links}<span>·</span><span>Verified {fmt_date(CP['verified_on'])}</span><span>·</span><span>Verify at source</span></div></article>"""
+{f'<span class="flag">⚠ {e(t["flag"])}</span>' if t["flag"] else ''}<div class="tfoot">{links}<span>·</span><span>Verified {fmt_date(CP['verified_on'])}</span><span>·</span><span>Verify at source</span></div>{rrbox(rid) if rid else ''}</article>"""
 page("compare-terminals.html", "Terminal requirements: age limits, SIRE, pre-arrival and escort rules", section="table.html",
      desc="Public terminal and port rules for tankers: age limits, SIRE/vetting, pre-arrival documents and escort tugs (Saudi Aramco, Fujairah, Trans Mountain, SIOT Trieste, Ceyhan, Brofjorden, Ingleside and more).",
      body=pagehead("Compare", "Terminal requirements", "What terminals publish about vessel age, SIRE or terminal vetting, pre-arrival documents and escort tugs.") + subnav("compare-terminals.html") + f"""
@@ -302,8 +323,8 @@ page("compare-terminals.html", "Terminal requirements: age limits, SIRE, pre-arr
 {verified_bar()}
 <div class="controls"><input id="tq" type="search" placeholder="Search terminals: e.g. escort, 25 years, Q88, H2S…"></div>
 <div class="tcards" id="tcards">{tcards}</div>
-<p class="note" style="margin-top:16px">Missing a terminal? Only terminals with a public document we could read are listed.</p></div>
-<script>document.addEventListener('DOMContentLoaded',()=>{{const q=document.getElementById('tq');q.addEventListener('input',()=>{{const v=q.value.toLowerCase().trim();document.querySelectorAll('#tcards .tcard').forEach(c=>{{c.style.display=!v||c.innerText.toLowerCase().includes(v)?'':'none'}})}})}});</script>""")
+<p class="note" style="margin-top:16px">Missing a terminal? Only terminals with a public document we could read are listed.</p>{RR_STRIP}{RR_DISCLAIMER}</div>{RR_JSON}
+<script>document.addEventListener('DOMContentLoaded',()=>{{const q=document.getElementById('tq');q.addEventListener('input',()=>{{const v=q.value.toLowerCase().trim();document.querySelectorAll('#tcards .tcard').forEach(c=>{{c.style.display=!v||c.innerText.toLowerCase().includes(v)?'':'none'}})}})}});</script>""", scripts=RR_SCRIPTS)
 
 # d. crew matrix
 def yrs(v): return f'<td class="yr">{e(v)}</td>' if v else '<td class="yr na" title="Not stated in source">—</td>'
@@ -322,7 +343,61 @@ page("compare-crew.html", "Crew-matrix requirements compared: officer experience
 <tr><th rowspan="2" scope="col">Owner</th><th colspan="4" scope="colgroup" class="grp">Master + Chief Officer (years)</th><th colspan="4" scope="colgroup" class="grp">Chief Eng. + 2nd / 1st Eng. (years)</th><th rowspan="2" scope="col">Junior officers</th><th rowspan="2" scope="col">English</th><th rowspan="2" scope="col">Nationalities</th><th rowspan="2" scope="col">Matrix freshness</th><th rowspan="2" scope="col">Other</th></tr>
 <tr>{SUB}{SUB}</tr></thead><tbody>{rows_cr}</tbody></table></div>
 <p class="note">No public crew-matrix rules found in the sources reviewed for: {e(none)}. ExxonMobil values come from a 2017 edition on a third-party host and are shown for reference only.</p>
-<h2 class="sm">Sources</h2>{srclist([c["owner"] for c in CP["crew"]])}</div>""")
+{RR_STRIP}<h2 class="sm">Sources</h2>{srclist([c["owner"] for c in CP["crew"]])}{RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
+
+# ---------- reader reports pages ----------
+RR_CATS = [("crew", "Crew experience"), ("vessel_age", "Vessel age"), ("inspections", "Inspections / SIRE"), ("terminal", "Terminal"), ("other", "Other")]
+RR_VT = [("crude", "Crude tanker"), ("product", "Product tanker"), ("chemical", "Chemical tanker"), ("lpg", "LPG carrier"), ("lng", "LNG carrier"), ("other", "Other")]
+_oopts = "".join(f'<option value="{e(o["id"])}">{e(o["name"])}</option>' for o in RR_OWNERS)
+_copts = "".join(f'<option value="{k}">{v}</option>' for k, v in RR_CATS)
+RR_SOON = '<div class="rr-soon card" id="rr-soon"><span class="rr-badge">User report</span><p><b>Reader reports coming soon.</b> Members will be able to share requirements they met in practice, clearly separated from official criteria.</p></div>'
+def rr_join(title, lede):
+    return (f'<div class="card rr-card" id="rr-join" hidden><h2>{title}</h2><p class="note">{lede}</p>'
+            '<form class="rr-joinf" novalidate><label class="rr-l" for="rr-email">Email</label><div class="rr-inline"><input id="rr-email" name="email" type="email" autocomplete="email" required placeholder="you@example.com">'
+            f'<button class="btn" type="submit">{icon("mail")}Email me a sign-in link</button></div><p class="rr-msg" role="status" hidden></p></form>'
+            '<p class="note rr-small">No password. We use your email only to sign you in; it is never shown with your reports.</p></div>')
+
+page("reports.html", "Reader reports: requirements members met in practice", section="table.html",
+     desc="Requirements tanker people say they met in practice, shared by members, reviewed before publishing, and kept separate from official vetting criteria.",
+     body=pagehead("Compare", "Reader reports", "What members met in practice. Reviewed before publishing, never official.") + subnav("reports.html") + f"""
+<div class="wrap page"><div class="rr-top"><p class="intro">Each report is one member's experience with an oil major or terminal, checked by a bot and the editor before it appears. Vote if it matches yours.</p>
+<a class="btn" href="submit.html">{icon("chat")}Post a report</a></div>
+<div class="controls rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Owner"><option value="">All owners</option>{_oopts}<option value="other">Other</option></select>
+<select id="rr-fc" aria-label="Category"><option value="">All categories</option>{_copts}</select>
+<label class="rr-chk"><input type="checkbox" id="rr-fs"> Hide stale</label><span class="note"><b id="rr-count">0</b> reports</span></div>
+<div id="rr-list">{RR_SOON}</div>
+<p class="note rr-legend"><span class="rr-staletag">Stale</span> no confirmation in 12 months · <a href="table.html">Official criteria</a></p>
+{RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
+
+page("submit.html", "Post a reader report", section="table.html",
+     desc="Share a tanker vetting requirement you met in practice. Members only, reviewed before publishing.",
+     body=pagehead("Compare", "Post a reader report", "Share one requirement you met in practice. Members only, reviewed before it goes public.") + subnav("reports.html") + f"""
+<div class="wrap page rr-narrow" id="rr-submit">{RR_SOON}
+{rr_join("Join to post a report", "Membership is free. Enter your email and we'll send a one-time sign-in link.")}
+<div id="rr-post" hidden><div class="rr-who note"></div>
+<form class="card rr-card rr-form" id="rr-form" novalidate>
+<div class="rr-f"><label class="rr-l" for="rr-owner">Oil major or terminal</label><select id="rr-owner" name="owner" required><option value="">Select…</option>{_oopts}<option value="other">Other</option></select></div>
+<div class="rr-f" id="rr-other" hidden><label class="rr-l" for="rr-oo">Which one?</label><input id="rr-oo" name="owner_other" maxlength="60" placeholder="Oil major or terminal name"></div>
+<div class="rr-f"><label class="rr-l" for="rr-cat">Category</label><select id="rr-cat" name="category" required>{_copts}</select></div>
+<div class="rr-f"><label class="rr-l" for="rr-req">Requirement you faced</label><textarea id="rr-req" name="requirement" maxlength="300" rows="4" required placeholder="e.g. Crew time onboard on the current contract no more than 10 months"></textarea><span class="note" id="rr-chars">0 / 300</span></div>
+<div class="rr-row2"><div class="rr-f"><span class="rr-l" id="rr-when">When (month / year)</span><div class="rr-inline"><select name="month" aria-labelledby="rr-when">{''.join(f'<option value="{i}">{dt.date(2000, i, 1).strftime("%b")}</option>' for i in range(1, 13))}</select><select name="year" aria-label="Year"></select></div></div>
+<div class="rr-f"><label class="rr-l" for="rr-vt">Vessel type <span class="note">(optional)</span></label><select id="rr-vt" name="vessel_type"><option value="">Not stated</option>{''.join(f'<option value="{k}">{v}</option>' for k, v in RR_VT)}</select></div></div>
+<fieldset class="rr-rules"><legend>Posting rules</legend>
+<label class="rr-chk"><input type="checkbox" name="rule_docs" required> No confidential documents or copied text (SIRE/CDI reports, charterer emails).</label>
+<label class="rr-chk"><input type="checkbox" name="rule_names" required> No vessel, person or company names.</label></fieldset>
+<button class="btn" type="submit">Submit for review</button><p class="rr-msg" id="rr-form-msg" role="status" hidden></p>
+<p class="note rr-small">Reviewed by a bot check, then by the editor. Your name and email are never shown.</p></form>
+<div class="card rr-card" id="rr-mine" hidden><h2 class="sm" style="margin-top:0">Your reports</h2><ul class="rr-mine"></ul></div></div>
+{RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
+
+page("admin.html", "Moderation", full_title="Moderation · Vetting Radar", head='<meta name="robots" content="noindex,nofollow">',
+     body=f"""<section class="pagehead"><div class="wrap"><p class="kicker">Admin</p><h1>Reader reports moderation</h1><p>Admins only. Step 1: bot check (pending). Step 2: publish (bot-approved).</p></div></section>
+<div class="wrap page" id="rr-admin">{RR_SOON}
+{rr_join("Admin sign-in", "Only e-mails on the admin list can moderate.")}
+<div class="notice" id="rr-denied" hidden>This account is not on the admin list.</div>
+<div id="rr-queue" hidden><div class="rr-who note"></div>
+<h2 class="sm">Step 2 · Ready to publish <span class="rr-qn"></span></h2><p class="note">Passed the bot check. Approve publishes the report.</p><div class="rr-q" id="rr-q2"></div>
+<h2 class="sm">Step 1 · Waiting for bot check <span class="rr-qn"></span></h2><p class="note">Approve here passes the check manually; it still needs step 2.</p><div class="rr-q" id="rr-q1"></div></div></div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
 # ---------- calendar ----------
 def evrow(c):
@@ -402,7 +477,14 @@ page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar"
 <h2>Corrections</h2><p>Spotted an error or a stale value? A corrections address will be published at launch; corrections are logged publicly.</p></div>""")
 
 # ---------- static assets & data ----------
-for f in ("style.css", "app.js"): shutil.copy(P("site", f), os.path.join(DIST, f))
+for f in ("style.css", "app.js", "reports.js"): shutil.copy(P("site", f), os.path.join(DIST, f))
+# reader reports config: VR_SUPABASE_URL / VR_SUPABASE_ANON_KEY (+ optional VR_TURNSTILE_SITE_KEY, VR_VOTE_FUNCTION) override site/config.js
+if os.environ.get("VR_SUPABASE_URL") and os.environ.get("VR_SUPABASE_ANON_KEY"):
+    _cfg = {"SUPABASE_URL": os.environ["VR_SUPABASE_URL"], "SUPABASE_ANON_KEY": os.environ["VR_SUPABASE_ANON_KEY"],
+            "TURNSTILE_SITE_KEY": os.environ.get("VR_TURNSTILE_SITE_KEY", ""), "VOTE_FUNCTION": os.environ.get("VR_VOTE_FUNCTION", "") in ("1", "true")}
+    open(os.path.join(DIST, "config.js"), "w").write("window.VR_CONFIG = " + json.dumps(_cfg) + ";\n")
+else:
+    shutil.copy(P("site", "config.js"), os.path.join(DIST, "config.js"))
 shutil.copytree(P("site", "brand"), os.path.join(DIST, "brand"), dirs_exist_ok=True)
 shutil.copytree(P("assets", "logos"), os.path.join(DIST, "assets", "logos"), dirs_exist_ok=True, ignore=shutil.ignore_patterns("manifest.json"))
 shutil.copy(P("site", "brand", "favicon.ico"), os.path.join(DIST, "favicon.ico"))

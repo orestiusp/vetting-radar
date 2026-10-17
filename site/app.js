@@ -6,10 +6,11 @@ function vrFilter(tableId, inputId, selectId, col){
   function run(){
     const term=(q.value||'').toLowerCase().trim(), sel=s?s.value:'';
     let n=0;
-    t.querySelectorAll('tbody tr').forEach(tr=>{
+    t.querySelectorAll('tbody tr:not(.rr-row)').forEach(tr=>{
       const okText=!term||tr.innerText.toLowerCase().includes(term);
       const okSel=!sel||tr.dataset[col]===sel;
       const show=okText&&okSel; tr.style.display=show?'':'none'; if(show) n++;
+      const rr=tr.nextElementSibling; if(rr&&rr.classList.contains('rr-row')) rr.style.display=tr.style.display; // reader-report box follows its owner row
     });
     if(count) count.textContent=n;
   }
