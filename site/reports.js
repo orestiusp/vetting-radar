@@ -21,7 +21,7 @@
 
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
   function my(d) { if (!d) return ''; var p = String(d).split('-'); return MON[(+p[1] || 1) - 1] + ' ' + p[0]; }
-  function staleDate(d) { if (!d) return false; var p = String(d).split('-'), t = new Date(), c = new Date(t.getFullYear() - 1, t.getMonth(), t.getDate()); return new Date(+p[0], (+p[1] || 1) - 1, +p[2] || 1) < c; }
+  function staleDate(d) { if (!d) return false; var p = String(d).split('-'), t = new Date(), c = new Date(t.getFullYear() - 2, t.getMonth(), t.getDate()); return new Date(+p[0], (+p[1] || 1) - 1, +p[2] || 1) < c; }
   function ownerName(r) { return r.owner_id === 'other' ? (r.owner_other || 'Other') : (OWN[r.owner_id] ? OWN[r.owner_id].name : r.owner_id); }
   function store(k, v) { try { if (v === undefined) return JSON.parse(localStorage.getItem(k) || 'null'); localStorage.setItem(k, JSON.stringify(v)); } catch (e) { return null; } }
   function uuid() {
@@ -41,7 +41,7 @@
     return [
       { id: 'demo-1', example: true, owner_id: first, category: 'crew', requirement: 'Example (not a real report): crew time onboard on the current contract no more than 10 months.', faced_on: '2026-08-01', vessel_type: 'product', up: 7, down: 1, last_confirmed: '2026-09-14' },
       { id: 'demo-2', example: true, owner_id: first, category: 'inspections', requirement: 'Example (not a real report): placeholder text showing how an inspection-related report is displayed.', faced_on: '2026-05-01', vessel_type: 'crude', up: 3, down: 2, last_confirmed: '2026-06-02' },
-      { id: 'demo-3', example: true, owner_id: term, category: 'terminal', requirement: 'Example (not a real report): sample text showing a stale report with no confirmation in the last 12 months.', faced_on: '2025-03-01', vessel_type: null, up: 1, down: 0, last_confirmed: '2025-04-20' }
+      { id: 'demo-3', example: true, owner_id: term, category: 'terminal', requirement: 'Example (not a real report): sample text showing a stale report with no confirmation in the last 24 months.', faced_on: '2024-03-01', vessel_type: null, up: 1, down: 0, last_confirmed: '2024-04-20' }
     ];
   }
 
@@ -87,24 +87,33 @@
   }
 
   // ---------- rendering ----------
+  var GRP = { op: 'With operator', rank: 'In rank', type: 'On this type', all: 'All tankers', dj: 'Relief gap', eng: 'English', watch: 'Watchkeeping', remark: 'Notes' };
+  function itemsTable(items) {
+    var order = [], by = {};
+    items.forEach(function (x) { if (!by[x.g]) { by[x.g] = []; order.push(x.g); } by[x.g].push(x.t); });
+    var yrs = order.some(function (g) { return /^(op|rank|type|all)$/.test(g); });
+    return '<dl class="rr-dl">' + order.map(function (g) {
+      return '<dt>' + esc(GRP[g] || g) + '</dt><dd><ul>' + by[g].map(function (t) {
+        var m = /^(op|rank|type|all)$/.test(g) && /^(.*): ([^:]+)$/.exec(t);
+        return '<li>' + (m ? '<span>' + esc(m[1]) + '</span> <b' + (m[2].length <= 12 ? ' class="nw"' : '') + '>' + esc(m[2]) + '</b>' : esc(t)) + '</li>';
+      }).join('') + '</ul></dd>';
+    }).join('') + '</dl>' + (yrs ? '<p class="rr-hint">Minimums. With operator: calendar time; others: sea time.</p>' : '');
+  }
   function item(r, withOwner) {
     var stale = r.stale != null ? r.stale : staleDate(r.last_confirmed);
     var mv = myVotes()[r.id];
-    var meta = ['Faced ' + my(r.faced_on)]; if (r.vessel_type) meta.push(VT[r.vessel_type] || r.vessel_type);
+    var when = 'As of ' + my(r.faced_on) + (r.vessel_type ? ' · ' + (VT[r.vessel_type] || r.vessel_type) : '') +
+      (stale ? ' · not confirmed in 24 months' : (r.last_confirmed && r.last_confirmed !== r.faced_on ? ' · confirmed ' + my(r.last_confirmed) : ''));
     return '<article class="rr-item' + (stale ? ' stale' : '') + '" data-id="' + esc(r.id) + '">' +
-      '<div class="rr-meta"><span class="rr-tag">User-declared</span>' + (r.example ? '<span class="rr-ex">Example</span>' : '') +
-      (withOwner ? '<span class="rr-own">' + esc(ownerName(r)) + '</span>' : '') +
-      '<span class="pill">' + esc(CATS[r.category] || r.category) + '</span>' +
-      (stale ? '<span class="rr-staletag" title="No confirmation in the last 12 months">Stale</span>' : '') + '</div>' +
-      '<p class="rr-text">' + esc(r.requirement) + '</p>' +
-      '<div class="rr-foot"><span>' + esc(meta.join(' · ')) + '</span><span class="rr-conf">Last confirmed ' + esc(my(r.last_confirmed)) + '</span>' +
-      '<span class="rr-vote" role="group" aria-label="Does this match your experience?">' +
-      vbtn(r, 1, mv) + vbtn(r, -1, mv) + '</span></div></article>';
+      (withOwner ? '<p class="rr-own">' + esc(ownerName(r)) + '</p>' : '') +
+      (r.items && r.items.length ? itemsTable(r.items) : '<p class="rr-text">' + (r.example ? '<span class="rr-ex">Example</span> ' : '') + esc(r.requirement) + '</p>') +
+      '<div class="rr-foot"><span class="rr-when">' + esc(when) + '</span>' +
+      '<span class="rr-vote" role="group" aria-label="Does this match your experience?"><span class="rr-q">Matches yours?</span>' + vbtn(r, 1, mv) + vbtn(r, -1, mv) + '</span></div></article>';
   }
   function vbtn(r, v, mv) {
     var on = mv === v, lbl = v === 1 ? 'Matches my experience' : 'Not my experience';
     return '<button type="button" class="rr-vb' + (on ? ' on' : '') + '" data-v="' + v + '"' + (mv ? ' disabled' : '') + ' aria-pressed="' + on + '" title="' + lbl + '">' +
-      '<span aria-hidden="true">' + (v === 1 ? '👍' : '👎') + '</span><span class="lbl">' + lbl + '</span><b>' + (v === 1 ? r.up : r.down) + '</b></button>';
+      '<span aria-hidden="true">' + (v === 1 ? '👍' : '👎') + '</span><span class="sr">' + lbl + '</span><b>' + (v === 1 ? r.up : r.down) + '</b></button>';
   }
   var BY_ID = {};
   function bindVotes(root) {
@@ -143,11 +152,11 @@
     $$('details.rr').forEach(function (d) {
       var mine = list.filter(function (r) { return r.owner_id === d.getAttribute('data-owner'); });
       var n = $('.rr-n', d), body = $('.rr-body', d), post = 'submit.html?owner=' + encodeURIComponent(d.getAttribute('data-owner'));
-      n.textContent = mine.length ? mine.length + ' report' + (mine.length === 1 ? '' : 's') : 'No reports yet';
+      n.textContent = mine.length ? '· ' + mine.length : '· none yet';
       d.classList.toggle('has', mine.length > 0);
       body.innerHTML = demoBanner() +
-        (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">Nobody has shared one yet. Faced a requirement here? It takes a minute.</p>') +
-        '<p class="rr-actions"><a href="' + post + '">+ Add what you faced</a><span>·</span><a href="reports.html">All reader reports</a></p>';
+        (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">None yet. Faced a requirement here? Add it in a minute.</p>') +
+        '<p class="rr-actions"><a href="reports.html">All reader reports →</a></p>';
     });
     var h = location.hash.slice(1), target = h && document.getElementById(h);
     if (target && target.tagName === 'DETAILS') target.open = true;
@@ -178,12 +187,17 @@
   // reports.html
   function fillList(list) {
     var box = $('#rr-list'); if (!box) return;
-    var fo = $('#rr-fo'), fc = $('#rr-fc'), fs = $('#rr-fs');
+    var fo = $('#rr-fo'), fc = $('#rr-fc'), fs = $('#rr-fs'); // fc / fs optional
     $('#rr-filters').hidden = false;
+    // owner filter lists only owners that have reports (site owners first, then others by name)
+    var keys = {}; list.forEach(function (r) { keys[okey(r)] = ownerName(r); });
+    var ks = Object.keys(keys).sort(function (a, b) { var ia = OWNERS.findIndex(function (x) { return x.id === a; }), ib = OWNERS.findIndex(function (x) { return x.id === b; });
+      return (ia < 0 ? 999 : ia) - (ib < 0 ? 999 : ib) || keys[a].localeCompare(keys[b]); });
+    fo.innerHTML = '<option value="">All owners (' + ks.length + ')</option>' + ks.map(function (k) { return '<option value="' + esc(k) + '">' + esc(keys[k]) + '</option>'; }).join('');
     var pre = QS.get('owner'); if (pre && fo) fo.value = pre;
     function draw() {
-      var o = fo.value, c = fc.value, hideStale = fs && fs.checked;
-      var rows = list.filter(function (r) { return (!o || r.owner_id === o) && (!c || r.category === c) && !(hideStale && (r.stale != null ? r.stale : staleDate(r.last_confirmed))); });
+      var o = fo.value, c = fc ? fc.value : '', hideStale = fs && fs.checked;
+      var rows = list.filter(function (r) { return (!o || okey(r) === o) && (!c || r.category === c) && !(hideStale && (r.stale != null ? r.stale : staleDate(r.last_confirmed))); });
       var groups = {}, order = [];
       rows.forEach(function (r) { var k = r.owner_id === 'other' ? 'other:' + (r.owner_other || '').toLowerCase() : r.owner_id; if (!groups[k]) { groups[k] = []; order.push(k); } groups[k].push(r); });
       var idx = function (k) { var i = OWNERS.findIndex(function (x) { return x.id === k; }); return i < 0 ? 999 : i; };
@@ -191,8 +205,8 @@
       $('#rr-count').textContent = rows.length;
       box.innerHTML = demoBanner() + (order.length ? order.map(function (k) {
         var g = groups[k], o = OWN[g[0].owner_id], other = g[0].owner_id === 'other';
-        return '<section class="rr-group"><header><span class="lc-logo">' + (o && !other ? o.logo : '<span class="olgs fix"><span class="olg fb">?</span></span>') + '</span>' +
-          '<div><h2>' + esc(ownerName(g[0])) + '</h2><span class="note">' + esc(o && !other ? o.type : 'Other owner') + ' · ' + g.length + ' report' + (g.length === 1 ? '' : 's') + '</span></div>' +
+        return '<section class="rr-group"><header><span class="lc-logo">' + (o && !other ? o.logo : '<span class="olgs fix"><span class="olg fb">' + esc((ownerName(g[0]) || '?').charAt(0)) + '</span></span>') + '</span>' +
+          '<div><h2>' + esc(ownerName(g[0])) + '</h2><span class="rr-lbl">User-declared · not official</span></div>' +
           (o && !other ? '<a class="rr-off" href="' + esc(o.href) + '">Official criteria →</a>' : '') + '</header>' +
           '<div class="rr-items">' + g.map(function (r) { return item(r, false); }).join('') + '</div></section>';
       }).join('') : '<div class="rr-none"><p><b>No published reader reports' + (o || c ? ' for this filter' : ' yet') + '.</b></p><p class="note">Reports appear here after a two-step review.</p></div>');
