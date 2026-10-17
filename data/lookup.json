@@ -1,0 +1,121 @@
+{
+ "_readme": [
+  "Machine-readable reading of data/comparison.json for the vessel-profile lookup on table.html.",
+  "It adds NO new criteria: every rule restates a value already in comparison.json (field 'f' names the column it comes from).",
+  "key: short cell labels shown in the table; the full text stays in comparison.json and behind 'Details'.",
+  "Rule kinds: age_max (fail above max) | age_band (unclear inside the band) | cap (min = worst acceptable CAP rating) | sire_max (months; soft = preferred, so 'unclear' not 'fail') | need (extra condition we cannot check) | info (shown, no effect).",
+  "Filters on a rule: types [oil, chemical, lpg, lng]; dwt_gt / dwt_lt / dwt_ge; age_gt / age_ge / age_lt / age_le. A missing DWT where a rule depends on it gives 'unclear'.",
+  "Review this file whenever comparison.json changes."
+ ],
+ "owners": {
+  "bp": {"key": {"age": "20 y (oil/chem >5k dwt) · LPG 25 · LNG 40", "sire": "< 6 months", "cap": "CAP 2 from 15 y (>20k dwt)", "other": "bp SIRE + company assessment (TMSA-based)"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "dwt_gt": 5000, "max": 20, "t": "Oil/chemical tankers >5,000 dwt: max 20 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "dwt_lt": 5000, "max": 25, "t": "<5,000 dwt: 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lpg"], "max": 25, "t": "LPG carriers: 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lng"], "max": 40, "t": "LNG carriers: 40 years"},
+    {"k": "cap", "f": "cap_rules", "types": ["oil", "chemical", "lpg"], "dwt_gt": 20000, "age_ge": 15, "min": 2, "conflict_below": 20, "t": "Minimum CAP 2 after reaching 15 years (>20,000 dwt)", "c": "bp's own pages disagree: one says from 15 years / 3rd special survey, another from 20 years / 4th special survey"},
+    {"k": "info", "f": "cap_rules", "types": ["oil", "chemical", "lpg"], "dwt_gt": 20000, "age_lt": 15, "t": "CAP 2 is also due by the end of the 3rd special survey, if that comes first"},
+    {"k": "cap", "f": "cap_rules", "types": ["lng"], "age_gt": 20, "min": 2, "t": "LNG >20 years: CAP 2"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "lt": true, "t": "Operational SIRE report less than 6 months old"}
+   ]},
+  "adnoc": {"key": {"age": "20 y (oil/chem >5k dwt) · LPG 25 · LNG 40", "sire": "≤ 6 months + an ADNOC SIRE in 24 mo", "cap": "CAP 2 over 15 y (>20k dwt)", "other": "TMSA stage 2 · crew matrix minimums"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "dwt_gt": 5000, "max": 20, "t": "Oil & chemical >5,000 DWT: 20 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "dwt_lt": 5000, "max": 25, "t": "<5,000 DWT: 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lpg"], "max": 25, "t": "LPG: 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lng"], "max": 40, "t": "LNG: 40 years"},
+    {"k": "cap", "f": "cap_rules", "types": ["oil", "chemical", "lpg"], "dwt_gt": 20000, "age_gt": 15, "min": 2, "t": ">15 years and >20,000 DWT: CAP 2 hull"},
+    {"k": "cap", "f": "cap_rules", "types": ["lng"], "age_gt": 20, "min": 2, "t": "LNG >20 years: CAP 2 hull"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "t": "Latest SIRE within the last 6 months"},
+    {"k": "need", "f": "sire_report_age", "t": "Also at least one ADNOC SIRE report within the previous 24 months"}
+   ]},
+  "rightship": {"key": {"age": "25 y · LPG 25 · LNG 35", "sire": "≤ 6 months (SIRE/CDI)", "cap": "CAP 2 from 15 y (>20k dwt)", "other": "PSC detentions · crew matrix ≤ 30 days"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "max": 25, "t": "Tankers: max 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lpg"], "max": 25, "t": "LPG: 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lng"], "max": 35, "t": "LNG: 35 years"},
+    {"k": "cap", "f": "cap_rules", "types": ["oil", "chemical", "lpg"], "dwt_gt": 20000, "age_ge": 15, "min": 2, "t": ">20,000 DWT and 15 years or over: CAP 2 (hull, machinery, cargo)"},
+    {"k": "cap", "f": "cap_rules", "types": ["lng"], "age_gt": 20, "min": 2, "t": "LNG >20 years: CAP 2"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "t": "SIRE / CDI within the previous 6 months"},
+    {"k": "info", "f": "flags", "t": "Baseline only: each RightShip customer can set stricter rules"}
+   ]},
+  "repsol": {"key": {"age": "25 y · LPG 30 · LNG 40", "sire": "≤ 6 months (≥20 y: + Repsol insp.)", "cap": "CAP 2 from 15 y (>5k SDWT)", "other": "Full IACS class · IG P&I"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "max": 25, "t": "Tankers (crude/oil/bitumen/chemical): 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lpg"], "max": 30, "t": "LPG: 30 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lng"], "max": 40, "t": "LNG: 40 years"},
+    {"k": "cap", "f": "cap_rules", "dwt_gt": 5000, "age_ge": 15, "min": 2, "t": "≥15 years and >5,000 MT SDWT: CAP 2 for hull, machinery and cargo handling"},
+    {"k": "sire_max", "f": "sire_report_age", "age_lt": 20, "max": 6, "soft": "or a Repsol physical inspection no older than 12 months", "t": "<20 years: OCIMF inspection no older than 6 months"},
+    {"k": "sire_max", "f": "sire_report_age", "age_ge": 20, "max": 6, "t": "≥20 years: OCIMF inspection ≤ 6 months"},
+    {"k": "need", "f": "sire_report_age", "age_ge": 20, "t": "≥20 years: also a Repsol physical inspection ≤ 6 months or a Repsol safety inspection ≤ 3 months"}
+   ]},
+  "moeve": {"key": {"age": "25 y · 20 y if >40k SDWT", "sire": "Conditional (15–19 y)", "cap": "CAP 2 over 15 y (>20k dwt)", "other": "Cepsa inspection 20–24 y"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "max": 25, "t": ">25 years not suitable"},
+    {"k": "age_max", "f": "age_limits", "dwt_gt": 40000, "max": 20, "t": ">20 years and >40,000 MT SDWT not suitable"},
+    {"k": "age_band", "f": "age_limits", "age_gt": 15, "t": "Over 15 years: not suitable for a new time charter; COA only exceptionally up to 18 years with CAP 1 and a Cepsa inspection. Depends on the charter type"},
+    {"k": "cap", "f": "cap_rules", "types": ["oil"], "dwt_gt": 20000, "age_gt": 15, "min": 2, "t": "Crude and product tankers >15 years and >20,000 DWT: CAP 2"},
+    {"k": "cap", "f": "cap_rules", "age_gt": 20, "min": 2, "t": "All vessels >20 years: CAP 2"},
+    {"k": "need", "f": "other_criteria", "age_ge": 20, "t": "20–24 years: must be inspected by Cepsa before fixing"},
+    {"k": "info", "f": "flags", "t": "Public edition dated Dec 2018 (Cepsa-branded): possibly outdated"}
+   ]},
+  "braskem": {"key": {"age": "22 y (oil/chem >5k dwt)* · LPG 22", "sire": "≤ 6 months (20–22 y: ≤ 4)", "cap": "CAP 2: oil from 15 y, chem/gas from 20 y", "other": "Braskem inspection for every vessel"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "dwt_lt": 5000, "max": 25, "t": "Oil & chemical <5,000 DWT: max 25 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "dwt_gt": 5000, "max": 22, "t": ">5,000 DWT: max 22 years"},
+    {"k": "age_band", "f": "age_limits", "types": ["oil", "chemical"], "dwt_gt": 5000, "age_gt": 20, "age_le": 22, "t": "The source reads '22 (twenty)', so the limit could be 20 or 22 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lpg"], "max": 22, "t": "LPG: max 22 years"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "t": "SIRE/CDI no more than 6 months old at the end of the intended operation"},
+    {"k": "sire_max", "f": "sire_report_age", "types": ["oil", "chemical"], "dwt_gt": 5000, "age_ge": 20, "age_le": 22, "max": 4, "t": "Aged 20–22 (>5,000 DWT): SIRE/CDI ≤ 4 months before the operation"},
+    {"k": "cap", "f": "cap_rules", "types": ["oil"], "age_ge": 15, "min": 2, "t": "Oil tankers from 15 years: hull CAP 2 or better"},
+    {"k": "cap", "f": "cap_rules", "types": ["chemical", "lpg", "lng"], "age_ge": 20, "min": 2, "t": "Chemical and gas carriers from 20 years: hull CAP 2 or better"},
+    {"k": "need", "f": "other_criteria", "t": "Physical inspection by Braskem for every vessel"}
+   ]},
+  "exxonmobil": {"key": {"age": "Not stated", "sire": "≤ 6 months preferred", "cap": "CAP 1–2 over 15 y", "other": "Special-survey file review over 15 y"},
+   "rules": [
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "soft": "'strongly preferred', not a hard limit", "t": "SIRE/CDI no more than 6 months old (strongly preferred)"},
+    {"k": "cap", "f": "cap_rules", "dwt_gt": 5000, "age_gt": 15, "min": 2, "t": ">15 years and >5,000 DWT: hull CAP 1 or 2"},
+    {"k": "cap", "f": "cap_rules", "age_gt": 15, "min": 2, "t": "All tankers >15 years: machinery & cargo CAP 1 or 2"},
+    {"k": "info", "f": "flags", "t": "2017 edition on a third-party host: historical reference only"}
+   ]},
+  "transmountain": {"key": {"age": "< 15 y; to 20 y with CAP 2", "sire": "≤ 7 months (SIRE/OVID)", "cap": "CAP 2 hull + M&C, 15–20 y", "other": "Flag, class, P&I, no OBO"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "max": 20, "t": "Tankers should be <15 years; up to and including 20 years may be acceptable with CAP 2"},
+    {"k": "cap", "f": "cap_rules", "age_ge": 15, "min": 2, "t": "15–20 years: CAP 2 or better for CAP Hull and CAP MC"},
+    {"k": "need", "f": "age_limits", "age_ge": 15, "age_le": 20, "t": "15–20 years 'may be acceptable': case by case"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 7, "t": "In the SIRE or OVID database within the preceding 7 months"}
+   ]},
+  "fujairah": {"key": {"age": "25 y (oil & chemical)", "sire": "Not stated", "cap": "Not stated", "other": "Pre-arrival questionnaire"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "max": 25, "t": "Chemical & oil tankers above 25 years not permitted"}
+   ]},
+  "totalenergies": {"key": {"age": "Not stated", "sire": "Not stated", "cap": "Not stated", "other": "No public numeric criteria"}, "rules": []},
+  "omv": {"key": {"age": "20 y · LPG/LNG 25", "sire": "≤ 3 months preferred (6 with OMV TMSA audit)", "cap": "CAP 1–2: 15 y tankers, 20 y gas", "other": "Q88 + crew matrix ≤ 5 days"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "types": ["oil", "chemical"], "max": 20, "t": "Crude/product/chemical tankers max 20.0 years"},
+    {"k": "age_max", "f": "age_limits", "types": ["lpg", "lng"], "max": 25, "t": "LPG/LNG carriers max 25.0 years"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 3, "soft": "6 months for operators with a positive OMV TMSA audit; 'preferably'", "t": "SIRE preferably not older than 3 months"},
+    {"k": "need", "f": "sire_report_age", "t": "Also an OMV operational SIRE at the interval for the vessel's age"},
+    {"k": "cap", "f": "cap_rules", "types": ["oil", "chemical"], "dwt_ge": 10000, "age_gt": 15, "min": 2, "t": "Tankers >15.0 years: CAP 1 or 2 (hull, machinery, cargo)"},
+    {"k": "cap", "f": "cap_rules", "types": ["lpg", "lng"], "dwt_ge": 10000, "age_gt": 20, "min": 2, "t": "Gas carriers >20.0 years: CAP 1 or 2"},
+    {"k": "need", "f": "cap_rules", "dwt_lt": 10000, "age_gt": 15, "t": "<10,000 dwt: hull structural fatigue analysis instead of CAP"}
+   ]},
+  "saras": {"key": {"age": "20 y", "sire": "≤ 6 months", "cap": "Hull CAP 1 over 15 y", "other": "No maiden / post-dry-dock voyage"},
+   "rules": [
+    {"k": "age_max", "f": "age_limits", "max": 20, "t": "Max 20 years"},
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "t": "Discharge VIQ (SIRE) report not older than 6 months"},
+    {"k": "cap", "f": "cap_rules", "age_gt": 15, "min": 1, "split": 2, "t": "Over 15 years: hull CAP 1, machinery and cargo CAP 1 or 2 (IACS society other than class)"},
+    {"k": "info", "f": "flags", "t": "Public edition dated Feb 2017: may be superseded"}
+   ]},
+  "aramco": {"key": {"age": "Not stated", "sire": "Depends on age and call history", "cap": "Not stated", "other": "Pre-berthing inspection"},
+   "rules": [
+    {"k": "need", "f": "sire_report_age", "age_gt": 10, "t": "Over 10 years and new or not called for a year: a current SIRE acceptable to Saudi Aramco"},
+    {"k": "need", "f": "sire_report_age", "age_le": 10, "t": "Under 10 years: screened against Saudi Aramco's and OCIMF's databases"}
+   ]},
+  "marathon": {"key": {"age": "Not stated", "sire": "Every 6 months", "cap": "Not stated", "other": "OCIMF SIRE participation"},
+   "rules": [
+    {"k": "sire_max", "f": "sire_report_age", "max": 6, "t": "A SIRE inspection every six months"}
+   ]}
+ }
+}
