@@ -1,0 +1,1251 @@
+{
+  "verified_on": "2026-10-17",
+  "owners": {
+    "bp": {
+      "name": "bp",
+      "org": "bp",
+      "url": "https://www.bp.com/en/global/bp-supply-trading-and-shipping/documents-and-downloads/vetting-and-clearance/vessel-clearance.html",
+      "doc": "bp vessel clearance web pages"
+    },
+    "adnoc": {
+      "name": "ADNOC",
+      "org": "ADNOC",
+      "url": "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards/11-specific-requirements",
+      "doc": "ADNOC Ship Vetting Standards s.9, s.11"
+    },
+    "rightship": {
+      "name": "RightShip",
+      "org": "RightShip",
+      "url": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf",
+      "doc": "Tanker Vetting Baseline Criteria rev 4.0 (Oct 2026)",
+      "flag": "Baseline: customers may set stricter rules."
+    },
+    "repsol": {
+      "name": "Repsol",
+      "org": "Repsol",
+      "url": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/productos-y-servicios/vetting/repsol-vetting-process-marine-safety-criteria.pdf",
+      "doc": "Marine Assurance Process & Safety Criteria (applicable 14 Apr 2025)"
+    },
+    "omv": {
+      "name": "OMV",
+      "org": "OMV",
+      "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/2026_OMV-VETTING-MSC.pdf",
+      "doc": "OMV Minimum Selecting Criteria, Version 2026"
+    },
+    "saras": {
+      "name": "SARAS",
+      "org": "SARAS",
+      "url": "https://www.saras.it/sites/default/files/in_page/SARAS%20Vessel%20Acceptance%20Policy%20and%20Safety%20Criteria%20-%20Revised%20version_3%20%281%29.pdf",
+      "doc": "Vessel Acceptance Policy rev 3 (Feb 2017)",
+      "flag": "Feb 2017 edition: may be superseded, verify at source."
+    },
+    "braskem": {
+      "name": "Braskem",
+      "org": "Braskem",
+      "url": "https://www.braskem.com/portal/Principal/arquivos/Braskem-Minimum-Vetting-Requirements.pdf",
+      "doc": "Braskem Minimum Vetting Requirements (undated)"
+    },
+    "moeve": {
+      "name": "Moeve",
+      "org": "Moeve",
+      "url": "https://www.moeveglobal.com/stfls/corporativo/FICHEROS/es/SEAGOING_VESSEL_S_ACCEPTANCE_CRITERIA.pdf",
+      "doc": "Seagoing Vessel's Acceptance Criteria (Dec 2018)",
+      "flag": "Possibly outdated: the public edition is dated Dec 2018."
+    },
+    "transmountain": {
+      "name": "Trans Mountain",
+      "org": "Trans Mountain",
+      "url": "https://docs.transmountain.com/Tolls-and-Tariffs/Vessel-Acceptance-Standard.pdf",
+      "doc": "Vessel Acceptance Standard rev 4.0 (Sep 2023)"
+    },
+    "aramco": {
+      "name": "Saudi Aramco",
+      "org": "Saudi Aramco",
+      "url": "https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/02a--general-rules-and-information-compressed.pdf",
+      "doc": "Ports & Terminals general rules, 2025 edition"
+    },
+    "marathon": {
+      "name": "Marathon",
+      "org": "Marathon Petroleum",
+      "url": "https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
+      "doc": "Global Marine 'Request Inspection' page"
+    },
+    "exxonmobil": {
+      "name": "ExxonMobil",
+      "org": "ExxonMobil",
+      "url": "https://hub.rivertrace.com/hubfs/Regulations/ExxonMobil-Safety-Criteria-2017-Ocean-Going-Tanker.pdf",
+      "doc": "MESQAC 2017 edition (third-party host)",
+      "flag": "2017 edition on a third-party host: historical reference only."
+    }
+  },
+  "checklist_owners": [
+    "bp",
+    "adnoc",
+    "rightship",
+    "repsol",
+    "omv",
+    "saras",
+    "braskem",
+    "moeve",
+    "transmountain",
+    "aramco",
+    "marathon"
+  ],
+  "checklist": [
+    {
+      "item": "SIRE / CDI report recency",
+      "hint": "Age of the latest acceptable inspection report at nomination.",
+      "cells": {
+        "bp": [
+          "req",
+          "SIRE < 6 months"
+        ],
+        "adnoc": [
+          "req",
+          "SIRE ≤ 6 mo + an ADNOC SIRE ≤ 24 mo"
+        ],
+        "rightship": [
+          "req",
+          "SIRE / CDI ≤ 6 months"
+        ],
+        "repsol": [
+          "req",
+          "OCIMF ≤ 6 mo (≥ 20 y: plus Repsol inspection)"
+        ],
+        "omv": [
+          "req",
+          "SIRE preferably ≤ 3 mo (6 mo if OMV-TMSA audited)"
+        ],
+        "saras": [
+          "req",
+          "Discharge VIQ ≤ 6 months"
+        ],
+        "braskem": [
+          "req",
+          "SIRE / CDI ≤ 6 mo (20–22 y: ≤ 4 mo)"
+        ],
+        "moeve": [
+          "cond",
+          "15–19 y: SIRE ≤ 6 mo (exceptional route)"
+        ],
+        "transmountain": [
+          "req",
+          "SIRE / OVID ≤ 7 months"
+        ],
+        "aramco": [
+          "cond",
+          "> 10 y new or 1-yr absent: current SIRE; flagged: ≤ 6 mo"
+        ],
+        "marathon": [
+          "req",
+          "SIRE every 6 months"
+        ]
+      }
+    },
+    {
+      "item": "Vessel age limit (oil / chemical tankers)",
+      "hint": "Maximum age stated for larger tankers; see sources for size bands and gas carriers.",
+      "cells": {
+        "bp": [
+          "req",
+          "20 y (> 5,000 dwt)"
+        ],
+        "adnoc": [
+          "req",
+          "20 y (> 5,000 DWT)"
+        ],
+        "rightship": [
+          "req",
+          "25 y"
+        ],
+        "repsol": [
+          "req",
+          "25 y"
+        ],
+        "omv": [
+          "req",
+          "20 y"
+        ],
+        "saras": [
+          "req",
+          "20 y"
+        ],
+        "braskem": [
+          "req",
+          "22 y (> 5,000 DWT)"
+        ],
+        "moeve": [
+          "req",
+          "25 y; > 20 y and > 40k t not suitable"
+        ],
+        "transmountain": [
+          "req",
+          "< 15 y; up to 20 y with CAP 2"
+        ],
+        "aramco": [
+          "ns",
+          ""
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "CAP for older tonnage",
+      "hint": "Condition Assessment Programme trigger and minimum rating.",
+      "cells": {
+        "bp": [
+          "req",
+          "CAP 2 from 15 y (> 20k dwt)"
+        ],
+        "adnoc": [
+          "req",
+          "CAP 2 hull > 15 y (> 20k DWT)"
+        ],
+        "rightship": [
+          "req",
+          "CAP 2 from 15 y (> 20k DWT)"
+        ],
+        "repsol": [
+          "req",
+          "CAP 2 from 15 y (> 5k t)"
+        ],
+        "omv": [
+          "req",
+          "CAP 1–2 > 15 y"
+        ],
+        "saras": [
+          "req",
+          "> 15 y: hull CAP 1, M&C ≤ 2"
+        ],
+        "braskem": [
+          "req",
+          "Hull CAP ≤ 2, oil from 15 y"
+        ],
+        "moeve": [
+          "req",
+          "CAP 2 > 15 y (> 20k DWT)"
+        ],
+        "transmountain": [
+          "req",
+          "CAP 2 hull & M/C, 15–20 y"
+        ],
+        "aramco": [
+          "ns",
+          ""
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "Q88 / HVPQ freshness",
+      "hint": "How recently the vessel particulars questionnaire must be updated.",
+      "cells": {
+        "bp": [
+          "ns",
+          ""
+        ],
+        "adnoc": [
+          "req",
+          "VPQ updated at last crew change, ≤ 30 days"
+        ],
+        "rightship": [
+          "req",
+          "HVPQ updated ≤ 3 months"
+        ],
+        "repsol": [
+          "req",
+          "HVPQ/BPQ updated ≤ 6 months"
+        ],
+        "omv": [
+          "req",
+          "Q88 ≤ 5 days with each request"
+        ],
+        "saras": [
+          "ns",
+          ""
+        ],
+        "braskem": [
+          "ns",
+          ""
+        ],
+        "moeve": [
+          "ns",
+          ""
+        ],
+        "transmountain": [
+          "ns",
+          ""
+        ],
+        "aramco": [
+          "ns",
+          ""
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "Crew matrix freshness",
+      "hint": "Age of the OCIMF officer / crew matrix.",
+      "cells": {
+        "bp": [
+          "ns",
+          ""
+        ],
+        "adnoc": [
+          "req",
+          "Latest crew change, ≤ 30 days"
+        ],
+        "rightship": [
+          "req",
+          "Dated ≤ 30 days"
+        ],
+        "repsol": [
+          "cond",
+          "OCIMF matrix reviewed (no age stated)"
+        ],
+        "omv": [
+          "req",
+          "OCIMF format ≤ 5 days"
+        ],
+        "saras": [
+          "ns",
+          ""
+        ],
+        "braskem": [
+          "ns",
+          ""
+        ],
+        "moeve": [
+          "ns",
+          ""
+        ],
+        "transmountain": [
+          "ns",
+          ""
+        ],
+        "aramco": [
+          "ns",
+          ""
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "Senior officer experience rules",
+      "hint": "Combined years: with operator / in rank / on type / all tankers. Details on the crew-matrix page.",
+      "cells": {
+        "bp": [
+          "ns",
+          ""
+        ],
+        "adnoc": [
+          "req",
+          "2 / 3 / 4 / 8 yrs (M+C/O)"
+        ],
+        "rightship": [
+          "req",
+          "2 / 3 / 6 yrs"
+        ],
+        "repsol": [
+          "req",
+          "2 / 3 / 6 yrs (spot & COA)"
+        ],
+        "omv": [
+          "req",
+          "2 / – / 3 / 4 yrs"
+        ],
+        "saras": [
+          "req",
+          "2 / 3 / 4 yrs"
+        ],
+        "braskem": [
+          "req",
+          "Rank 3 y, tankers 2 y"
+        ],
+        "moeve": [
+          "cond",
+          "2 / 3 / 6 yrs (recommended)"
+        ],
+        "transmountain": [
+          "cond",
+          "English proficiency only"
+        ],
+        "aramco": [
+          "ns",
+          ""
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "PSC history",
+      "hint": "How port state control deficiencies and detentions are treated.",
+      "cells": {
+        "bp": [
+          "cond",
+          "PSC record screened"
+        ],
+        "adnoc": [
+          "cond",
+          "Last 12 mo assessed"
+        ],
+        "rightship": [
+          "req",
+          "3+ detentions / 24 mo = unacceptable"
+        ],
+        "repsol": [
+          "ns",
+          ""
+        ],
+        "omv": [
+          "cond",
+          "Last 3 mo case by case"
+        ],
+        "saras": [
+          "ns",
+          ""
+        ],
+        "braskem": [
+          "req",
+          "No detention 12 mo; ≤ 6 deficiencies 6 mo"
+        ],
+        "moeve": [
+          "cond",
+          "HFO > 15 y: no detentions 5 y"
+        ],
+        "transmountain": [
+          "cond",
+          "Flag not on Paris MoU black list"
+        ],
+        "aramco": [
+          "cond",
+          "Own PTMS database history"
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "Certificates, class & P&I",
+      "hint": "Certificate validity, class society and P&I conditions.",
+      "cells": {
+        "bp": [
+          "ns",
+          ""
+        ],
+        "adnoc": [
+          "ns",
+          ""
+        ],
+        "rightship": [
+          "req",
+          "IACS class; IG P&I"
+        ],
+        "repsol": [
+          "req",
+          "Full IACS; IG P&I"
+        ],
+        "omv": [
+          "req",
+          "IG-type P&I"
+        ],
+        "saras": [
+          "req",
+          "No CoC or significant recommendations"
+        ],
+        "braskem": [
+          "req",
+          "IACS; IG P&I ≥ US$1bn oil cover"
+        ],
+        "moeve": [
+          "req",
+          "IACS only"
+        ],
+        "transmountain": [
+          "req",
+          "Acceptable class; IG P&I, CLC / Bunkers cover"
+        ],
+        "aramco": [
+          "req",
+          "Certificates valid ≥ 90 days"
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "TMSA",
+      "hint": "Operator self-assessment age and level.",
+      "cells": {
+        "bp": [
+          "cond",
+          "bp company assessment (TMSA-based)"
+        ],
+        "adnoc": [
+          "req",
+          "≤ 12 mo, stage 2 all elements"
+        ],
+        "rightship": [
+          "ns",
+          ""
+        ],
+        "repsol": [
+          "ns",
+          ""
+        ],
+        "omv": [
+          "req",
+          "≤ 12 mo, stages 1–2"
+        ],
+        "saras": [
+          "cond",
+          "TC / COA: ≤ 12 months"
+        ],
+        "braskem": [
+          "req",
+          "Minimum level 2"
+        ],
+        "moeve": [
+          "ns",
+          ""
+        ],
+        "transmountain": [
+          "ns",
+          ""
+        ],
+        "aramco": [
+          "ns",
+          ""
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    },
+    {
+      "item": "Physical / pre-berthing inspection",
+      "hint": "Own inspection in addition to SIRE.",
+      "cells": {
+        "bp": [
+          "ns",
+          ""
+        ],
+        "adnoc": [
+          "ns",
+          ""
+        ],
+        "rightship": [
+          "ns",
+          ""
+        ],
+        "repsol": [
+          "cond",
+          "≥ 20 y: Repsol inspection ≤ 6 mo"
+        ],
+        "omv": [
+          "cond",
+          "Possible pre-berthing inspection at anchorage"
+        ],
+        "saras": [
+          "cond",
+          "TC twice a year, COA once a year"
+        ],
+        "braskem": [
+          "req",
+          "Braskem inspection, every vessel"
+        ],
+        "moeve": [
+          "cond",
+          "20–24 y: Cepsa inspection before fixing"
+        ],
+        "transmountain": [
+          "ns",
+          ""
+        ],
+        "aramco": [
+          "req",
+          "Pre-berthing inspection, all vessels"
+        ],
+        "marathon": [
+          "ns",
+          ""
+        ]
+      }
+    }
+  ],
+  "bands": [
+    "0–10 y",
+    "10–15 y",
+    "15–20 y",
+    "20–25 y",
+    "25 y +"
+  ],
+  "frequency": [
+    {
+      "owner": "omv",
+      "cells": [
+        [
+          "t12",
+          "OMV SIRE every 12 mo (15)"
+        ],
+        [
+          "t12",
+          "every 9 mo (12)"
+        ],
+        [
+          "t6",
+          "every 6 mo (9)"
+        ],
+        [
+          "no",
+          "Not accepted (max 20 y)"
+        ],
+        [
+          "no",
+          "Not accepted"
+        ]
+      ],
+      "note": "Brackets: interval if the operator holds a valid OMV TMSA audit. Plus SIRE preferably ≤ 3 months at clearance."
+    },
+    {
+      "owner": "adnoc",
+      "cells": [
+        [
+          "t6",
+          "SIRE ≤ 6 mo + ADNOC SIRE ≤ 24 mo"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "no",
+          "Not accepted (> 5,000 DWT)"
+        ],
+        [
+          "no",
+          "Not accepted"
+        ]
+      ],
+      "note": "Tankers < 5,000 DWT: max 25 years."
+    },
+    {
+      "owner": "bp",
+      "cells": [
+        [
+          "t6",
+          "SIRE < 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE < 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE < 6 mo"
+        ],
+        [
+          "no",
+          "Not approved (> 5,000 dwt)"
+        ],
+        [
+          "no",
+          "Not approved"
+        ]
+      ],
+      "note": "< 5,000 dwt and LPG: 25 years."
+    },
+    {
+      "owner": "repsol",
+      "cells": [
+        [
+          "t6",
+          "OCIMF or Repsol safety ≤ 6 mo, or Repsol physical ≤ 12 mo"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "t3",
+          "OCIMF ≤ 6 mo + Repsol physical ≤ 6 mo or safety ≤ 3 mo"
+        ],
+        [
+          "no",
+          "Not accepted (max 25 y)"
+        ]
+      ],
+      "note": "BIRE vessels: OCIMF report ≤ 12 months."
+    },
+    {
+      "owner": "rightship",
+      "cells": [
+        [
+          "t6",
+          "SIRE / CDI ≤ 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE / CDI ≤ 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE / CDI ≤ 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE / CDI ≤ 6 mo"
+        ],
+        [
+          "no",
+          "Unacceptable (max 25 y)"
+        ]
+      ],
+      "note": "Baseline only."
+    },
+    {
+      "owner": "saras",
+      "cells": [
+        [
+          "t6",
+          "Discharge VIQ ≤ 6 mo"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "no",
+          "Not accepted (max 20 y)"
+        ],
+        [
+          "no",
+          "Not accepted"
+        ]
+      ],
+      "note": "TC vessels inspected twice a year, COA once a year."
+    },
+    {
+      "owner": "braskem",
+      "cells": [
+        [
+          "t6",
+          "SIRE / CDI ≤ 6 mo"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "t6",
+          "same"
+        ],
+        [
+          "t3",
+          "20–22 y: SIRE / CDI ≤ 4 mo; > 22 y not accepted"
+        ],
+        [
+          "no",
+          "Not accepted"
+        ]
+      ],
+      "note": "> 5,000 DWT. Braskem physical inspection for every vessel."
+    },
+    {
+      "owner": "moeve",
+      "cells": [
+        [
+          "ns",
+          ""
+        ],
+        [
+          "ns",
+          ""
+        ],
+        [
+          "t6",
+          "SIRE ≤ 6 mo (exceptional route)"
+        ],
+        [
+          "scr",
+          "Cepsa inspection before fixing"
+        ],
+        [
+          "no",
+          "Not suitable"
+        ]
+      ],
+      "note": "> 20 y and > 40,000 t not suitable."
+    },
+    {
+      "owner": "transmountain",
+      "cells": [
+        [
+          "t12",
+          "SIRE / OVID ≤ 7 mo"
+        ],
+        [
+          "t12",
+          "SIRE / OVID ≤ 7 mo"
+        ],
+        [
+          "t12",
+          "≤ 7 mo + CAP 2"
+        ],
+        [
+          "no",
+          "Not accepted"
+        ],
+        [
+          "no",
+          "Not accepted"
+        ]
+      ],
+      "note": "'Should be < 15 years'; up to 20 with CAP 2."
+    },
+    {
+      "owner": "aramco",
+      "cells": [
+        [
+          "scr",
+          "PTMS + SIRE database screening"
+        ],
+        [
+          "scr",
+          "> 10 y, new or absent ≥ 1 yr: current SIRE"
+        ],
+        [
+          "scr",
+          "same"
+        ],
+        [
+          "scr",
+          "same"
+        ],
+        [
+          "scr",
+          "same"
+        ]
+      ],
+      "note": "'Flagged' vessels of any age: SIRE ≤ 6 months plus Aramco vetting inspection each visit. No age limit stated."
+    },
+    {
+      "owner": "marathon",
+      "cells": [
+        [
+          "t6",
+          "SIRE every 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE every 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE every 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE every 6 mo"
+        ],
+        [
+          "t6",
+          "SIRE every 6 mo"
+        ]
+      ],
+      "note": "No age limit published."
+    }
+  ],
+  "terminals": [
+    {
+      "name": "Saudi Aramco ports & terminals",
+      "org": "Saudi Aramco",
+      "country": "Saudi Arabia",
+      "doc": "Ports & Terminals Rules, Regulations and General Information, 2025 edition (Common Rules)",
+      "date": "2025-07",
+      "age": "No age limit stated. Age 10 is a screening threshold.",
+      "sire": "> 10 y, first call or not called for 1 yr+: current acceptable SIRE, or rejected at nomination. < 10 y: PTMS and SIRE database screening. 'Flagged' vessels: SIRE ≤ 6 months plus Aramco vetting inspection every visit.",
+      "prearrival": "Certificates valid for 90 days; pre-berthing inspection of every vessel. ETA at 72 / 48 / 24 h. Cargo tanks for loading ≤ 10 ppm H2S.",
+      "escort": "Compulsory Saudi Aramco harbour pilotage (except Yanbu Port and Jizan refinery terminal); tugs used at the pilot's direction.",
+      "url": "https://www.aramco.com/-/media/downloads/working-with-us/ports-and-terminals-july-2025/02a--general-rules-and-information-compressed.pdf",
+      "extra": [
+        "https://www.aramco.com/en/what-we-do/operations/ports-and-terminals"
+      ],
+      "flag": "Terminal-specific sections of the book not reviewed."
+    },
+    {
+      "name": "Port of Fujairah & oil terminals",
+      "org": "Port of Fujairah",
+      "country": "UAE",
+      "doc": "Notice to Mariners NM 148 v6, s.22; FOTT pre-arrival questionnaire rev 4",
+      "date": "2021-01",
+      "age": "Oil and chemical tankers over 25 years not permitted (port, offshore anchorage and oil terminals).",
+      "sire": "No SIRE age stated. Pre-arrival questionnaire asks for the last SIRE inspection (date, issuer).",
+      "prearrival": "FOTT pre-arrival questionnaire, including last PSC inspection (date, place, MoU).",
+      "escort": "",
+      "url": "https://fujairahport.ae/wp-content/uploads/2021/04/NTM-148-Verson-6.pdf",
+      "extra": [
+        "https://fujairahport.ae/wp-content/uploads/2025/01/NTM148Verson6_Attachment_1.pdf"
+      ],
+      "flag": ""
+    },
+    {
+      "name": "Trans Mountain – Westridge Marine Terminal",
+      "org": "Trans Mountain",
+      "country": "Canada",
+      "doc": "Vessel Acceptance Standard rev 4.0",
+      "date": "2023-09",
+      "age": "Tankers should be < 15 y; up to 20 y with CAP 2 (hull and M/C). Tugs and barges < 30 y.",
+      "sire": "Recorded in SIRE or OVID within the preceding 7 months (12 months for tugs attending barges).",
+      "prearrival": "Vessel Acceptance Standard screening; flag not on the Paris MoU black list; IG P&I.",
+      "escort": "Laden tankers: escort tug between Buoy QA and Buoy J, ordered from the contracted provider; departure delayed if none is available.",
+      "url": "https://docs.transmountain.com/Tolls-and-Tariffs/Vessel-Acceptance-Standard.pdf",
+      "extra": [],
+      "flag": ""
+    },
+    {
+      "name": "SIOT Marine Terminal, Trieste",
+      "org": "SIOT / TAL",
+      "country": "Italy",
+      "doc": "Terminal Information and Port Regulations, 2026 edition, rev 06",
+      "date": "2026",
+      "age": "No age limit stated. Double hull / SBT-PL (MARPOL I reg. 18.12/19) and COW-compliant vessels only; cargo pumping capability of at least 5% of total cargo capacity.",
+      "sire": "Pre-mooring inspection on first call, then every 12 months (every 6 months if over 15 y). Re-admission after a warning or refusal can require a satisfactory SIRE on behalf of a TAL shipper. Only one inspection at a time alongside unless extra owner's staff are on board.",
+      "prearrival": "ETA 72 h in advance, confirmed at 48 / 24 h (Appendix 4 format).",
+      "escort": "Tug escort compulsory for tankers over 30,000 GRT for berthing and unberthing.",
+      "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/SIOT-Terminal-Information-and-Port-Regulations-Revision-2026.pdf",
+      "extra": [],
+      "flag": "Hosted by the terminal's appointed vetting contractor."
+    },
+    {
+      "name": "Toros Terminal, Ceyhan",
+      "org": "Toros Terminal",
+      "country": "Türkiye",
+      "doc": "Terminal Information and Port Regulations TRM-KE-002, rev 6 (2024 handbook)",
+      "date": "2024",
+      "age": "",
+      "sire": "",
+      "prearrival": "ETA at 72 / 48 / 24 / 4 h. Tankers send Safety Construction, Safety Equipment and Class certificates, DOC and SMC via the agent before arrival.",
+      "escort": "Compulsory pilotage and compulsory towage for berthing and unberthing.",
+      "url": "https://cdn.gac.com/prod/docs/TURKEY-Ceyhan_TRM-KE-002-TOROS-TERMINAL-INFORMATION-AND-PORT-REGULATIONS-HANDBOOK-2024.pdf",
+      "extra": [
+        "https://www.torosterminal.com.tr/en/terminal-informations/toros-ceyhan-harbour"
+      ],
+      "flag": "Hosted by a port agent (GAC); verify the current revision with the terminal."
+    },
+    {
+      "name": "Tüpraş refineries, Izmit & Izmir",
+      "org": "Tüpraş",
+      "country": "Türkiye",
+      "doc": "Ditaş terminal vetting page",
+      "date": "",
+      "age": "No age restriction on inspection scope.",
+      "sire": "Terminal vetting inspections (since 2010) of targeted vessels, of any type, age or tonnage. Not part of SIRE; results shared only with the master, operator and Tüpraş.",
+      "prearrival": "",
+      "escort": "",
+      "url": "https://ditasdeniz.com.tr/en/vetting",
+      "extra": [],
+      "flag": ""
+    },
+    {
+      "name": "Motor Oil Hellas, Agioi Theodoroi",
+      "org": "Motor Oil Hellas",
+      "country": "Greece",
+      "doc": "MOH 'The Refinery' page",
+      "date": "",
+      "age": "",
+      "sire": "",
+      "prearrival": "Berths for tankers up to 450,000 DWT; offshore anchorage for crude discharge up to 300,000 DWT.",
+      "escort": "",
+      "url": "https://www.moh.gr/about-us/the-refinery/",
+      "extra": [],
+      "flag": "No public vessel-acceptance criteria found; ask the agent or the terminal."
+    },
+    {
+      "name": "Preem Brofjorden (Lysekil)",
+      "org": "Preem",
+      "country": "Sweden",
+      "doc": "Swedish Maritime Administration port information: Brofjorden",
+      "date": "2021-02",
+      "age": "",
+      "sire": "",
+      "prearrival": "Two pilots for LOA ≥ 260 m or beam ≥ 40 m (product harbour: 200 m / 35 m). Tug numbers by deadweight, set per jetty.",
+      "escort": "Escort towing compulsory for all crude tankers (laden or empty) and for product tankers over 20,000 DW that are full or part-loaded, from the Brofjorden approach buoy.",
+      "url": "https://www.sjofartsverket.se/en/services/pilotage/pilotstation-marstrand/port-information/brofjorden/",
+      "extra": [],
+      "flag": "Page last updated Feb 2021."
+    },
+    {
+      "name": "Enbridge Ingleside Energy Center (Corpus Christi)",
+      "org": "Enbridge",
+      "country": "USA",
+      "doc": "Enbridge Marine Terminal Regulations (rev. 1 Feb 2022), via the agent's terminal page",
+      "date": "2022-02",
+      "age": "",
+      "sire": "Berth suitability 'subject to vetting and review'; no SIRE age stated.",
+      "prearrival": "Acceptance request ≥ 5 days before laycan with Q88 and, for VLCCs, the Pre-Berthing Questionnaire. Berth application 72 h before laycan; pre-berthing answers 48 h before ETA. TWIC for controlled areas.",
+      "escort": "VLCCs: at least two escort tugs (each ≥ 80 t bollard pull, one escort-notated with a Class III escort winch) inbound and outbound.",
+      "url": "https://www.moranshipping.com/locations/ports/corpus-christi-tx/terminals/enbridge-ingleside-energy-center",
+      "extra": [],
+      "flag": "Regulations PDF is linked from a port agent's page; verify the current revision with the terminal."
+    },
+    {
+      "name": "Repsol La Pampilla Maritime Terminal",
+      "org": "Repsol",
+      "country": "Peru",
+      "doc": "Terminal to Tanker Information Booklet",
+      "date": "2022-10",
+      "age": "",
+      "sire": "Berthing only with Repsol vetting acceptance.",
+      "prearrival": "Pre-arrival information and ISPS documents via the agent; terminal pre-arrival questionnaire.",
+      "escort": "Compulsory pilotage; tankers with hazardous cargo manoeuvre with at least one tug, more as the mooring pilot requires.",
+      "url": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/conocenos/documentos/la-pampilla-maritime-terminal-to-tanker-information-booklet.pdf",
+      "extra": [
+        "https://www.repsol.com/content/dam/repsol-corporate/es/conocenos/documentos-conocenos/la-pampilla-maritime-terminal-pre-arrival-questionnaire.pdf"
+      ],
+      "flag": "Public edition dated Oct 2022; a newer edition may exist."
+    },
+    {
+      "name": "SARAS Sarroch terminal",
+      "org": "SARAS",
+      "country": "Italy",
+      "doc": "Vessel Acceptance Policy and Safety Criteria rev 3",
+      "date": "2017-02",
+      "age": "Max 20 y; double hull regardless of size or age; OBO not acceptable.",
+      "sire": "Discharge VIQ (SIRE) ≤ 6 months.",
+      "prearrival": "Maiden voyage and first voyage after dry-dock not acceptable. IGS and inerted voyage for flash point < 60 °C.",
+      "escort": "",
+      "url": "https://www.saras.it/sites/default/files/in_page/SARAS%20Vessel%20Acceptance%20Policy%20and%20Safety%20Criteria%20-%20Revised%20version_3%20%281%29.pdf",
+      "extra": [],
+      "flag": "Feb 2017 edition: may be superseded, verify at source."
+    }
+  ],
+  "crew": [
+    {
+      "owner": "adnoc",
+      "m": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "e": [
+        "2",
+        "3",
+        "≥ 3",
+        "≥ 6"
+      ],
+      "junior": "",
+      "english": "'Good' minimum",
+      "nat": "≤ 3 homogeneous nationalities advantaged",
+      "fresh": "Updated to the latest crew change; ≤ 30 days if no change",
+      "other": "≥ 14 days between reliefs of Master and C/O, and of C/E and 2/E.",
+      "src": "https://ppa.adnoc.ae/en/ship-vetting/vetting-standards/11-specific-requirements"
+    },
+    {
+      "owner": "rightship",
+      "m": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "e": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "junior": "Juniors: rank 1 y, all tankers 1.5 y (aggregate)",
+      "english": "",
+      "nat": "",
+      "fresh": "Dated within 30 days",
+      "other": "LNG / LPG aligned with the SIGTTO officer experience matrix.",
+      "src": "https://help.rightship.com/hubfs/Oil_Gas_and_Chemical_Vessel_Vetting_Baseline_Criteria_(Revision_4.0-October_2026).pdf"
+    },
+    {
+      "owner": "repsol",
+      "m": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "e": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "junior": "2/O + 3/O: 1 y with operator (aggregate)",
+      "english": "TC: official log books also in English or Spanish if the working language is neither",
+      "nat": "",
+      "fresh": "OCIMF officer matrix reviewed; no age stated",
+      "other": "Spot & COA values shown; stricter per-rank minimums for time charters. Master/C/O and C/E/2/E not relieved together.",
+      "src": "https://www.repsol.com/content/dam/repsol-corporate/en_gb/productos-y-servicios/vetting/repsol-vetting-process-marine-safety-criteria.pdf"
+    },
+    {
+      "owner": "omv",
+      "m": [
+        "2",
+        "",
+        "3",
+        "4"
+      ],
+      "e": [
+        "2",
+        "",
+        "3",
+        "4"
+      ],
+      "junior": "",
+      "english": "",
+      "nat": "Max 5 nationalities",
+      "fresh": "OCIMF format, ≤ 5 days with each clearance request",
+      "other": "Chemical / gas: Master and C/O +1 y senior-officer experience on chemical / LPG / LNG. Handover and fatigue policies; monthly D&A tests.",
+      "src": "https://adriaticvetting.it/wp-content/uploads/2026/09/2026_OMV-VETTING-MSC.pdf"
+    },
+    {
+      "owner": "saras",
+      "m": [
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "e": [
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "junior": "",
+      "english": "Good English, all officers",
+      "nat": "",
+      "fresh": "",
+      "other": "Minimum manning: Master, 3 deck officers, C/E and 1/E. TC Master ≥ 12 months in rank on tanker type.",
+      "src": "https://www.saras.it/sites/default/files/in_page/SARAS%20Vessel%20Acceptance%20Policy%20and%20Safety%20Criteria%20-%20Revised%20version_3%20%281%29.pdf"
+    },
+    {
+      "owner": "braskem",
+      "m": [
+        "",
+        "3",
+        "",
+        "2"
+      ],
+      "e": [
+        "",
+        "3",
+        "",
+        "2"
+      ],
+      "junior": "",
+      "english": "",
+      "nat": "",
+      "fresh": "",
+      "other": "Experience in rank 3 y and on tankers 2 y, for M + C/O and C/E + 1/E.",
+      "src": "https://www.braskem.com/portal/Principal/arquivos/Braskem-Minimum-Vetting-Requirements.pdf"
+    },
+    {
+      "owner": "moeve",
+      "m": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "e": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "junior": "",
+      "english": "",
+      "nat": "",
+      "fresh": "",
+      "other": "Recommendation, evaluated case by case (combined Master, C/O, C/E and 2/E).",
+      "src": "https://www.moeveglobal.com/stfls/corporativo/FICHEROS/es/SEAGOING_VESSEL_S_ACCEPTANCE_CRITERIA.pdf"
+    },
+    {
+      "owner": "exxonmobil",
+      "m": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "e": [
+        "2",
+        "3",
+        "6",
+        ""
+      ],
+      "junior": "Juniors: rank 1 y, operator 1 y, all tankers 1.5 y",
+      "english": "Conversational English",
+      "nat": "",
+      "fresh": "Online matrix kept updated; validated ≤ 2 months (strongly preferred)",
+      "other": "'Strongly preferred' values; senior changes staggered.",
+      "src": "https://hub.rivertrace.com/hubfs/Regulations/ExxonMobil-Safety-Criteria-2017-Ocean-Going-Tanker.pdf"
+    },
+    {
+      "owner": "transmountain",
+      "m": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "e": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "junior": "",
+      "english": "Cargo officers verbally proficient in English; enough English-speaking watchkeepers",
+      "nat": "",
+      "fresh": "",
+      "other": "No officer-experience minimums stated.",
+      "src": "https://docs.transmountain.com/Tolls-and-Tariffs/Vessel-Acceptance-Standard.pdf"
+    }
+  ],
+  "crew_none": [
+    "bp",
+    "aramco",
+    "marathon"
+  ]
+}

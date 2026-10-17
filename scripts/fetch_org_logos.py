@@ -17,6 +17,9 @@ ORGS = {  # key: (display name, official homepage)
  "uscg": ("USCG", "https://www.uscg.mil/"), "medmou": ("Med MoU", "https://www.medmou.org/"), "iomou": ("IOMOU", "https://www.iomou.org/"),
  "equasis": ("Equasis", "https://www.equasis.org/"), "aramco": ("Saudi Aramco", "https://www.aramco.com/"), "sigtto": ("SIGTTO", "https://www.sigtto.org/"),
  "amsa": ("AMSA", "https://www.amsa.gov.au/"), "emsa": ("EMSA", "https://www.emsa.europa.eu/"),
+ "omv": ("OMV", "https://www.omv.com/"), "saras": ("SARAS", "https://www.saras.it/"), "marathon": ("Marathon Petroleum", "https://www.marathonpetroleum.com/"),
+ "siot": ("SIOT / TAL", "https://www.tal-oil.com/"), "toros": ("Toros Terminal", "https://www.torosterminal.com.tr/"), "moh": ("Motor Oil Hellas", "https://www.moh.gr/"),
+ "preem": ("Preem", "https://www.preem.se/"), "enbridge": ("Enbridge", "https://www.enbridge.com/"), "tupras": ("Tüpraş", "https://www.tupras.com.tr/"),
 }
 def score(link):
     rel = " ".join(link.get("rel", [])).lower(); href = link.get("href", ""); sizes = link.get("sizes", "")
@@ -37,7 +40,7 @@ def candidates(home):
         print("  home failed:", type(e).__name__, str(e)[:80]); base = home
     out += [urllib.parse.urljoin(base, "/apple-touch-icon.png"), urllib.parse.urljoin(base, "/favicon.ico")]
     return out
-FORCE_FALLBACK = {"cdi", "uscg", "transmountain"}  # only 16px or blocked: use neutral initials badge
+FORCE_FALLBACK = {"cdi", "uscg", "transmountain", "saras", "marathon", "tupras"}  # only 16px or blocked: use neutral initials badge
 manifest = {}
 only = sys.argv[1:]
 for key, (name, home) in ORGS.items():
@@ -81,6 +84,7 @@ OVERRIDES = {
  "amsa": "https://www.amsa.gov.au/themes/custom/amsad10/logo.svg",
  "adnoc": "https://www.adnoc.ae/-/media/adnoc-v2/images/logo/adnoc-logo-updated.ashx?la=en&hash=7E6BA2973EF7B0D87F130C52C8D2FD97",
  "rightship": "https://rightship.com/hubfs/logo.svg",
+ "omv": "https://www.omv.com/assets/img/logos/omv-logo-blue.svg",
   "iomou": "https://www.iomou.org/HOMEPAGE/images/home4/logo.png",
  "intertanko": "https://www.intertanko.com/templates/intertanko-template/images/intertanko_logo_01.svg", "medmou": "https://www.medmou.org/images/loogoo.png", "sigtto": "https://www.sigtto.org/favicon.ico",
 }

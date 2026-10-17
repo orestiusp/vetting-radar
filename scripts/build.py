@@ -37,6 +37,8 @@ _IC = {
  "mail":'<rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/>',
  "todo":'<circle cx="12" cy="12" r="9"/><path d="m8.5 12 2.5 2.5 4.5-5"/>',
  "pulse":'<path d="M3 12h4l3-8 4 16 3-8h4"/>',
+ "pin":'<path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/>',
+ "crew":'<circle cx="9" cy="8" r="3.2"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6"/><circle cx="17" cy="9" r="2.6"/><path d="M15.5 14.2A5 5 0 0 1 21 19"/>',
 }
 def icon(n, cls="ico"): return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true">{_IC[n]}</svg>'
 # Header/footer logo (icon). To swap: replace with the chosen concept's icon SVG (viewBox 0 0 64 64 works too); size is set in CSS (.brand svg).
@@ -51,11 +53,11 @@ def fmt_date(s):
         return dt.date.fromisoformat(s[:10]).strftime("%d %b %Y")
     except Exception: return s
 
-def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None):
+def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None):
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
-    nav = "".join(f'<a href="{pre}{h}"{" class=\"on\" aria-current=\"page\"" if h==base else ""}>{l}</a>' for h, l in NAV)
+    nav = "".join(f'<a href="{pre}{h}"{" class=\"on\" aria-current=\"page\"" if h==base else (" class=\"on\"" if h==section else "")}>{l}</a>' for h, l in NAV)
     sub_href = f"{pre}index.html#subscribe"
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(doc_title)}</title><meta name="description" content="{e(desc)}">
@@ -73,7 +75,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <main id="content">{body}</main>
 <footer class="site"><div class="wrap"><div class="cols">
 <div><a class="brand" href="{pre}index.html" style="margin-bottom:10px">{logo("f")}<span>Vetting <span class="r">Radar</span></span></a><p style="margin:0;max-width:420px">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries only. <b style="color:#fff">Always verify at source.</b></p><p class="tm">Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p></div>
-<div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
+<div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}compare-checklist.html">Pre-screening checklist</a></li><li><a href="{pre}compare-terminals.html">Terminal requirements</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script></body></html>"""
@@ -85,7 +87,9 @@ ORG_LOGOS = load(P("assets", "logos", "manifest.json"), {})
 ORG_RULES = [("ocimf","ocimf"),("cdi","cdi"),("rightship","rightship"),("paris","parismou"),("tokyo","tokyomou"),("intertanko","intertanko"),
  ("adnoc","adnoc"),("repsol","repsol"),("moeve","moeve"),("cepsa","moeve"),("braskem","braskem"),("exxon","exxonmobil"),("total","totalenergies"),
  ("trans mountain","transmountain"),("fujairah","fujairah"),("uscg","uscg"),("med mou","medmou"),("iomou","iomou"),("equasis","equasis"),
- ("aramco","aramco"),("sigtto","sigtto"),("amsa","amsa"),("emsa","emsa"),("imo","imo"),("bp","bp")]
+ ("aramco","aramco"),("sigtto","sigtto"),("amsa","amsa"),("emsa","emsa"),("imo","imo"),("bp","bp"),
+ ("omv","omv"),("saras","saras"),("marathon","marathon"),("siot","siot"),("toros","toros"),("motor oil","moh"),("preem","preem"),
+ ("enbridge","enbridge"),("tüpraş","tupras"),("tupras","tupras")]
 def org_keys(owner):
     o = (owner or "").lower(); keys = []
     for needle, key in ORG_RULES:
@@ -194,6 +198,14 @@ page("updates.html", "Vetting rule updates", pagehead("Updates", "Vetting rule c
 <aside class="side"><div id="monitor"><h2 class="sm" style="margin-top:0">Monitor feed</h2><div class="feed">{mon_items}</div></div>
 <h2 class="sm">Subscribe</h2>{signup_card}</aside></div></div>""")
 
+# ---------- compare navigation ----------
+CP = load(P("data", "compare_pages.json"))
+CMP_TABS = [("table.html", "Requirements table", "columns"), ("compare-checklist.html", "Pre-screening checklist", "todo"),
+            ("compare-frequency.html", "Inspection frequency", "calendar"), ("compare-terminals.html", "Terminals", "pin"), ("compare-crew.html", "Crew matrix", "crew")]
+def subnav(cur):
+    return '<nav class="subnav" aria-label="Compare pages"><div class="wrap">' + "".join(
+        f'<a href="{h}"{" class=\"on\" aria-current=\"page\"" if h == cur else ""}>{icon(i)}{l}</a>' for h, l, i in CMP_TABS) + "</div></nav>"
+
 # ---------- table ----------
 def cell(v):
     return e(v) if v else '<span class="blank">not stated in source</span>'
@@ -208,13 +220,109 @@ for r in comp["rows"]:
 <td>{links}<div class="note">Verified {fmt_date(r['verified_on'])}</div><div class="note">Verify at source</div></td></tr>"""
 gaps = "".join(f"<li><b>{e(g['owner'])}</b>: {e(g['note'])}</li>" for g in comp["not_found_publicly"])
 page("table.html", "Who requires what — tanker vetting criteria compared", f"""
-""" + pagehead("Compare", "Who requires what", "Tanker acceptance criteria side by side. Built only from cited public documents; blank means the source doesn't say.") + f"""<div class="wrap page">
+""" + pagehead("Compare", "Who requires what", "Tanker acceptance criteria side by side. Built only from cited public documents; blank means the source doesn't say.") + subnav("table.html") + f"""<div class="wrap page">
 <div class="notice">Summaries, not legal text. Owners apply criteria case by case and change them without notice. <b>Always verify at the linked source before relying on any value.</b></div>
 <div class="controls"><input id="q" type="search" placeholder="Search: e.g. CAP 2, 20 years, crew matrix, LNG…"><select id="t"><option value="">All owner types</option>{''.join(f'<option>{e(t)}</option>' for t in types)}</select></div>
 <p class="note">Showing <b id="cmp-count">{len(comp['rows'])}</b> of {len(comp['rows'])} · Download <a href="data/comparison.csv">CSV</a> · <a href="data/comparison.json">JSON</a></p>
 <div class="tablewrap"><table id="cmp"><thead><tr><th>Requirement owner</th><th>Vessel age limits</th><th>Required SIRE / inspection age</th><th>CAP / condition assessment</th><th>Other notable criteria</th><th>Source &amp; date</th></tr></thead><tbody>{trs}</tbody></table></div>
-<h2 class="sm">Not covered yet</h2><ul>{gaps}</ul></div>
+<h2 class="sm">Not covered yet</h2><ul>{gaps}</ul>
+<h2 class="sm">More comparisons</h2><div class="tiles mini">
+<a class="card tile" href="compare-checklist.html"><span class="ic">{icon("todo")}</span><h3>Pre-screening checklist</h3><p>SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC and certificates, owner by owner.</p></a>
+<a class="card tile" href="compare-frequency.html"><span class="ic">{icon("calendar")}</span><h3>Inspection frequency by age</h3><p>Colour grid of inspection windows across age bands.</p></a>
+<a class="card tile" href="compare-terminals.html"><span class="ic">{icon("pin")}</span><h3>Terminal requirements</h3><p>Age limits, SIRE, pre-arrival documents and escort tugs.</p></a>
+<a class="card tile" href="compare-crew.html"><span class="ic">{icon("crew")}</span><h3>Crew matrix</h3><p>Officer experience, English, nationalities and matrix freshness.</p></a></div></div>
 <script>document.addEventListener('DOMContentLoaded',()=>vrFilter('cmp','q','t','type'));</script>""")
+
+# ---------- compare sub-pages (checklist, frequency, terminals, crew) ----------
+def verified_bar(extra=""):
+    return (f'<div class="vbar"><span>{icon("check")}Verified {fmt_date(CP["verified_on"])} against the linked public documents</span>'
+            f'<span>{icon("link")}Every value links to its source</span>{extra}</div>'
+            '<div class="notice">Summaries, not legal text. Owners apply criteria case by case and change them without notice. <b>Always verify at the linked source before relying on any value.</b></div>')
+OWN = CP["owners"]
+def ohead(k):  # owner column header: logo + name, linked to the source
+    o = OWN[k]
+    return f'<th class="oh" scope="col"><a href="{e(o["url"])}" rel="noopener" title="{e(o["doc"])}">{orglogo(o["org"], fixed=True)}<span>{e(o["name"])}</span></a></th>'
+def ocell(k, sub=""):  # owner row header
+    o = OWN[k]; fl = f'<span class="flag">⚠ {e(o["flag"])}</span>' if o.get("flag") else ""
+    return f'<th scope="row" class="orow"><div class="src-id">{orglogo(o["org"], fixed=True)}<b>{e(o["name"])}</b></div><div class="note">{e(o["doc"])}</div>{sub}{fl}</th>'
+def srclist(keys):
+    return '<ol class="srcs">' + "".join(f'<li><span class="src-id">{orglogo(OWN[k]["org"], 0, "xs")}<b>{e(OWN[k]["name"])}</b></span> {e(OWN[k]["doc"])} · <a href="{e(OWN[k]["url"])}" rel="noopener">source</a>{(" · <i>" + e(OWN[k]["flag"]) + "</i>") if OWN[k].get("flag") else ""}</li>' for k in keys) + "</ol>"
+LV = {"req": "Stated requirement", "cond": "Conditional / recommended", "ns": "Not stated in source"}
+def lvlegend(levels, labels):
+    return '<div class="lvlegend" aria-label="Legend">' + "".join(f'<span><i class="lv {k}"></i>{e(labels[k])}</span>' for k in levels) + "</div>"
+
+# a. pre-screening checklist
+ck = CP["checklist_owners"]
+rows_ck = ""
+for it in CP["checklist"]:
+    tds = ""
+    for k in ck:
+        lv, txt = it["cells"].get(k, ["ns", ""])
+        tds += f'<td class="lvc"><span class="lv {lv}">{e(txt) if txt else "—"}</span></td>' if lv != "ns" else '<td class="lvc"><span class="lv ns" title="Not stated in the cited source">—</span></td>'
+    rows_ck += f'<tr><th scope="row" class="item"><b>{e(it["item"])}</b><div class="note">{e(it["hint"])}</div></th>{tds}</tr>'
+page("compare-checklist.html", "Pre-screening checklist: what oil majors and terminals ask for", section="table.html",
+     desc="The documents and conditions commonly required for oil-major and terminal clearance (SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC, certificates), owner by owner, from public sources.",
+     body=pagehead("Compare", "Pre-screening checklist", "The documents and conditions most often checked before a tanker is cleared, and which owners publicly require each one.") + subnav("compare-checklist.html") + f"""
+<div class="wrap page widepage"><p class="intro">Use this as a checklist before you submit a vessel for clearance: inspection recency, CAP, questionnaire and crew-matrix freshness, PSC record, certificates and TMSA. Each column is one requirement owner; the header links to the public document we read. A dash means the cited source does not say, not that there is no rule.</p>
+{verified_bar()}
+{lvlegend(["req","cond","ns"], LV)}
+<div class="tablewrap mxwrap"><table class="mx" id="ck"><thead><tr><th class="item" scope="col">Check</th>{''.join(ohead(k) for k in ck)}</tr></thead><tbody>{rows_ck}</tbody></table></div>
+<p class="note">Scroll sideways for all {len(ck)} owners. Values are short summaries; size bands, gas carriers and exceptions are in the sources and on the <a href="table.html">requirements table</a>.</p>
+<h2 class="sm">Sources</h2>{srclist(ck)}</div>""")
+
+# b. inspection frequency by age
+FQ = {"t3": "≤ 3–4 months", "t6": "≈ 6 months", "t12": "7–15 months", "scr": "Screening, no fixed interval", "no": "Not accepted", "ns": "Not stated"}
+rows_fq = ""
+for f in CP["frequency"]:
+    tds = "".join(f'<td class="fq {lv}"><span>{e(t) if t else "—"}</span></td>' for lv, t in f["cells"])
+    rows_fq += f'<tr>{ocell(f["owner"], f"<div class=\"note fqn\">{e(f["note"])}</div>" if f.get("note") else "")}{tds}</tr>'
+page("compare-frequency.html", "Inspection frequency by vessel age, owner by owner", section="table.html",
+     desc="How fresh a SIRE or owner inspection must be at each vessel age band, for oil majors, vetting schemes and terminals, from public sources.",
+     body=pagehead("Compare", "Inspection frequency by vessel age", "How recent the SIRE or owner inspection must be as a tanker gets older, and where each owner stops accepting it.") + subnav("compare-frequency.html") + f"""
+<div class="wrap page widepage"><p class="intro">Each row is one requirement owner, each column an age band. Colours show how tight the inspection window is; dark cells mean the owner's published age limit excludes the vessel. Bands are approximate: owners draw the line at slightly different ages (e.g. 10.1 or 15.1 years), so check the exact wording at source.</p>
+{verified_bar()}
+<div class="lvlegend fqlegend" aria-label="Legend">{''.join(f'<span><i class="fq {k}"></i>{e(v)}</span>' for k, v in FQ.items())}</div>
+<div class="tablewrap mxwrap"><table class="mx fqt"><thead><tr><th scope="col">Owner</th>{''.join(f'<th scope="col" class="band">{e(b)}</th>' for b in CP["bands"])}</tr></thead><tbody>{rows_fq}</tbody></table></div>
+<p class="note">Oil and chemical tankers above 5,000 dwt unless noted. Gas carriers and small tankers often have higher age limits; see the sources.</p>
+<h2 class="sm">Sources</h2>{srclist([f["owner"] for f in CP["frequency"]])}</div>""")
+
+# c. terminal requirements
+def tfield(label, v):
+    return f'<div class="tf"><dt>{label}</dt><dd>{e(v) if v else "<span class=\"blank\">not stated in source</span>"}</dd></div>'
+tcards = ""
+for t in CP["terminals"]:
+    links = f'<a href="{e(t["url"])}" rel="noopener">Primary source</a>' + "".join(f' · <a href="{e(u)}" rel="noopener">Source {i+2}</a>' for i, u in enumerate(t["extra"]))
+    tcards += f"""<article class="card tcard"><header><span class="lc-logo">{orglogo(t['org'], fixed=True)}</span><div><h3>{e(t['name'])}</h3><span class="pill">{e(t['country'])}</span> <span class="note">{e(t['doc'])}{(' · ' + fmt_date(t['date'])) if t['date'] else ''}</span></div></header>
+<dl>{tfield("Age limit", t["age"])}{tfield("SIRE / vetting", t["sire"])}{tfield("Pre-arrival &amp; documents", t["prearrival"])}{tfield("Escort &amp; tugs", t["escort"])}</dl>
+{f'<span class="flag">⚠ {e(t["flag"])}</span>' if t["flag"] else ''}<div class="tfoot">{links}<span>·</span><span>Verified {fmt_date(CP['verified_on'])}</span><span>·</span><span>Verify at source</span></div></article>"""
+page("compare-terminals.html", "Terminal requirements: age limits, SIRE, pre-arrival and escort rules", section="table.html",
+     desc="Public terminal and port rules for tankers: age limits, SIRE/vetting, pre-arrival documents and escort tugs (Saudi Aramco, Fujairah, Trans Mountain, SIOT Trieste, Ceyhan, Brofjorden, Ingleside and more).",
+     body=pagehead("Compare", "Terminal requirements", "What terminals publish about vessel age, SIRE or terminal vetting, pre-arrival documents and escort tugs.") + subnav("compare-terminals.html") + f"""
+<div class="wrap page"><p class="intro">Terminals screen on top of the charterer's clearance. These cards summarise what each terminal's own public handbook or port notice says. Blank fields mean that document does not cover the point; other port rules or the charterer may still apply.</p>
+{verified_bar()}
+<div class="controls"><input id="tq" type="search" placeholder="Search terminals: e.g. escort, 25 years, Q88, H2S…"></div>
+<div class="tcards" id="tcards">{tcards}</div>
+<p class="note" style="margin-top:16px">Missing a terminal? Only terminals with a public document we could read are listed.</p></div>
+<script>document.addEventListener('DOMContentLoaded',()=>{{const q=document.getElementById('tq');q.addEventListener('input',()=>{{const v=q.value.toLowerCase().trim();document.querySelectorAll('#tcards .tcard').forEach(c=>{{c.style.display=!v||c.innerText.toLowerCase().includes(v)?'':'none'}})}})}});</script>""")
+
+# d. crew matrix
+def yrs(v): return f'<td class="yr">{e(v)}</td>' if v else '<td class="yr na" title="Not stated in source">—</td>'
+def txt(v): return f'<td>{e(v)}</td>' if v else '<td><span class="blank">—</span></td>'
+rows_cr = ""
+for c in CP["crew"]:
+    rows_cr += f'<tr>{ocell(c["owner"])}{"".join(map(yrs, c["m"]))}{"".join(map(yrs, c["e"]))}{txt(c["junior"])}{txt(c["english"])}{txt(c["nat"])}{txt(c["fresh"])}{txt(c["other"])}</tr>'
+none = ", ".join(OWN[k]["name"] for k in CP["crew_none"])
+SUB = '<th scope="col" class="yh">Operator</th><th scope="col" class="yh">Rank</th><th scope="col" class="yh">Type</th><th scope="col" class="yh">All tankers</th>'
+page("compare-crew.html", "Crew-matrix requirements compared: officer experience, English, nationalities", section="table.html",
+     desc="Officer experience minimums (years with operator, in rank, on type), English, nationality limits and crew-matrix freshness, owner by owner, from public sources.",
+     body=pagehead("Compare", "Crew-matrix comparison", "Senior officer experience, English, nationality limits and how fresh the crew matrix must be, by owner.") + subnav("compare-crew.html") + f"""
+<div class="wrap page widepage"><p class="intro">Most owners check the OCIMF officer / crew matrix against combined ("aggregate") experience for the Master + Chief Officer and the Chief Engineer + Second (or First) Engineer. Figures are minimum years: calendar time with the operator, then sea time in rank, on the same tanker type and on all tankers. A dash means the cited source does not set that value.</p>
+{verified_bar()}
+<div class="tablewrap mxwrap"><table class="mx crew"><thead>
+<tr><th rowspan="2" scope="col">Owner</th><th colspan="4" scope="colgroup" class="grp">Master + Chief Officer (years)</th><th colspan="4" scope="colgroup" class="grp">Chief Eng. + 2nd / 1st Eng. (years)</th><th rowspan="2" scope="col">Junior officers</th><th rowspan="2" scope="col">English</th><th rowspan="2" scope="col">Nationalities</th><th rowspan="2" scope="col">Matrix freshness</th><th rowspan="2" scope="col">Other</th></tr>
+<tr>{SUB}{SUB}</tr></thead><tbody>{rows_cr}</tbody></table></div>
+<p class="note">No public crew-matrix rules found in the sources reviewed for: {e(none)}. ExxonMobil values come from a 2017 edition on a third-party host and are shown for reference only.</p>
+<h2 class="sm">Sources</h2>{srclist([c["owner"] for c in CP["crew"]])}</div>""")
 
 # ---------- calendar ----------
 def evrow(c):
@@ -306,7 +414,7 @@ for c in changes:
     if _pub(c): keep.update(summary=c.get("summary"), significance=c.get("significance"))
     pub_changes.append(keep)
 with open(os.path.join(DIST, "data", "changes.json"), "w") as f: json.dump(pub_changes, f, indent=2, ensure_ascii=False)
-for f in ("comparison.json", "comparison.csv", "updates.json", "calendar.json"):
+for f in ("comparison.json", "comparison.csv", "compare_pages.json", "updates.json", "calendar.json"):
     if os.path.exists(P("data", f)): shutil.copy(P("data", f), os.path.join(DIST, "data", f))
 shutil.copy(P("sources.json"), os.path.join(DIST, "data", "sources.json"))
 print("built", sorted(os.listdir(DIST)))

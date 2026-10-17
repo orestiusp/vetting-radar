@@ -170,5 +170,68 @@
     "source_url": "https://www.emsa.europa.eu/images/2020/favicon.ico",
     "kind": "png 16x16",
     "homepage": "https://www.emsa.europa.eu/"
+  },
+  "omv": {
+    "name": "OMV",
+    "file": "omv.svg",
+    "source_url": "https://www.omv.com/assets/img/logos/omv-logo-blue.svg",
+    "kind": "svg",
+    "homepage": "https://www.omv.com/"
+  },
+  "saras": {
+    "name": "SARAS",
+    "file": null,
+    "kind": "fallback-initials",
+    "homepage": "https://www.saras.it/",
+    "note": "no clean official asset retrievable (blocked or 16px only)"
+  },
+  "marathon": {
+    "name": "Marathon Petroleum",
+    "file": null,
+    "kind": "fallback-initials",
+    "homepage": "https://www.marathonpetroleum.com/",
+    "note": "no clean official asset retrievable (blocked or 16px only)"
+  },
+  "siot": {
+    "name": "SIOT / TAL",
+    "file": "siot.png",
+    "source_url": "https://www.tal-oil.com//wp-content/uploads/2018/02/favicon-2.png",
+    "kind": "png 64x64",
+    "homepage": "https://www.tal-oil.com/"
+  },
+  "toros": {
+    "name": "Toros Terminal",
+    "file": "toros.png",
+    "source_url": "https://www.torosterminal.com.tr/wp-content/uploads/2024/03/cropped-favicon-180x180.png",
+    "kind": "png 128x128",
+    "homepage": "https://www.torosterminal.com.tr/"
+  },
+  "moh": {
+    "name": "Motor Oil Hellas",
+    "file": "moh.png",
+    "source_url": "https://www.moh.gr/wp-content/uploads/2024/07/cropped-android-chrome-512x512-1-180x180.png",
+    "kind": "png 128x128",
+    "homepage": "https://www.moh.gr/"
+  },
+  "preem": {
+    "name": "Preem",
+    "file": "preem.svg",
+    "source_url": "https://www.preem.se/favicon.svg",
+    "kind": "svg",
+    "homepage": "https://www.preem.se/"
+  },
+  "enbridge": {
+    "name": "Enbridge",
+    "file": "enbridge.png",
+    "source_url": "https://www.enbridge.com/apple-touch-icon.png",
+    "kind": "png 128x128",
+    "homepage": "https://www.enbridge.com/"
+  },
+  "tupras": {
+    "name": "T\u00fcpra\u015f",
+    "file": null,
+    "kind": "fallback-initials",
+    "homepage": "https://www.tupras.com.tr/",
+    "note": "no clean official asset retrievable (blocked or 16px only)"
   }
 }
