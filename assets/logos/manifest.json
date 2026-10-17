@@ -1,0 +1,174 @@
+{
+  "ocimf": {
+    "name": "OCIMF",
+    "file": "ocimf.png",
+    "source_url": "https://www.ocimf.org/templates/bfbootstrap/favicon/apple-icon-180x180.png",
+    "kind": "png 128x128",
+    "homepage": "https://www.ocimf.org/"
+  },
+  "cdi": {
+    "name": "CDI",
+    "file": null,
+    "source_url": "https://www.cdim.org/favicon.ico",
+    "kind": "fallback-initials",
+    "homepage": "https://www.cdim.org/",
+    "note": "no clean official asset retrievable (blocked or 16px only)"
+  },
+  "rightship": {
+    "name": "RightShip",
+    "file": "rightship.svg",
+    "source_url": "https://rightship.com/hubfs/logo.svg",
+    "kind": "svg",
+    "homepage": "https://rightship.com/"
+  },
+  "parismou": {
+    "name": "Paris MoU",
+    "file": "parismou.svg",
+    "source_url": "https://parismou.org/wp-content/themes/parismou/assets/favicon/favicon.svg",
+    "kind": "svg",
+    "homepage": "https://parismou.org/"
+  },
+  "tokyomou": {
+    "name": "Tokyo MOU",
+    "file": "tokyomou.png",
+    "source_url": "https://www.tokyo-mou.org/wp/wp-content/uploads/cropped-logo_696-180x180.jpeg",
+    "kind": "png 128x128",
+    "homepage": "https://www.tokyo-mou.org/"
+  },
+  "bp": {
+    "name": "bp",
+    "file": "bp.svg",
+    "source_url": "https://www.bp.com/icon.svg",
+    "kind": "svg",
+    "homepage": "https://www.bp.com/"
+  },
+  "adnoc": {
+    "name": "ADNOC",
+    "file": "adnoc.svg",
+    "source_url": "https://www.adnoc.ae/-/media/adnoc-v2/images/logo/adnoc-logo-updated.ashx?la=en&hash=7E6BA2973EF7B0D87F130C52C8D2FD97",
+    "kind": "svg",
+    "homepage": "https://www.adnoc.ae/"
+  },
+  "repsol": {
+    "name": "Repsol",
+    "file": "repsol.png",
+    "source_url": "https://www.repsol.com/content/dam/global/favicon/favicon-96x96.png",
+    "kind": "png 96x96",
+    "homepage": "https://www.repsol.com/"
+  },
+  "moeve": {
+    "name": "Moeve",
+    "file": "moeve.svg",
+    "source_url": "https://www.moeveglobal.com/recursos_alt/images/favicon/favicon.svg",
+    "kind": "svg",
+    "homepage": "https://www.moeveglobal.com/"
+  },
+  "braskem": {
+    "name": "Braskem",
+    "file": "braskem.png",
+    "source_url": "https://www.braskem.com/portal/Principal/2022/img/braskem.webp",
+    "kind": "png 316x96",
+    "homepage": "https://www.braskem.com/"
+  },
+  "exxonmobil": {
+    "name": "ExxonMobil",
+    "file": "exxonmobil.png",
+    "homepage": "https://corporate.exxonmobil.com/",
+    "source_url": "https://www.exxonmobil.com/favicon.ico",
+    "kind": "png 108x96"
+  },
+  "totalenergies": {
+    "name": "TotalEnergies",
+    "file": "totalenergies.png",
+    "source_url": "https://totalenergies.com/themes/custom/totalenergies_com/dist/img/logo_totalenergies.png",
+    "kind": "png 131x96",
+    "homepage": "https://totalenergies.com/"
+  },
+  "transmountain": {
+    "name": "Trans Mountain",
+    "file": null,
+    "homepage": "https://www.transmountain.com/",
+    "kind": "fallback-initials",
+    "note": "no clean official asset retrievable (blocked or 16px only)"
+  },
+  "fujairah": {
+    "name": "Port of Fujairah",
+    "file": "fujairah.png",
+    "homepage": "https://fujairahport.ae/",
+    "source_url": "https://fujairahport.ae/wp-content/uploads/2026/08/LogoBlue-Transperent.png",
+    "kind": "png 271x63"
+  },
+  "intertanko": {
+    "name": "INTERTANKO",
+    "file": "intertanko.svg",
+    "source_url": "https://www.intertanko.com/templates/intertanko-template/images/intertanko_logo_01.svg",
+    "kind": "svg",
+    "homepage": "https://www.intertanko.com/",
+    "dark_bg": true,
+    "note": "official header logo is white; shown on a navy tile"
+  },
+  "imo": {
+    "name": "IMO",
+    "file": "imo.png",
+    "source_url": "https://www.imo.org/Content/images/img/apple-touch-icon-152x152.png",
+    "kind": "png 128x128",
+    "homepage": "https://www.imo.org/"
+  },
+  "uscg": {
+    "name": "USCG",
+    "file": null,
+    "source_url": "https://www.uscg.mil/favicon.ico",
+    "kind": "fallback-initials",
+    "homepage": "https://www.uscg.mil/",
+    "note": "no clean official asset retrievable (blocked or 16px only)"
+  },
+  "medmou": {
+    "name": "Med MoU",
+    "file": "medmou.png",
+    "source_url": "https://www.medmou.org/images/loogoo.png",
+    "kind": "png 112x60",
+    "homepage": "https://www.medmou.org/"
+  },
+  "iomou": {
+    "name": "IOMOU",
+    "file": "iomou.png",
+    "source_url": "https://www.iomou.org/HOMEPAGE/images/home4/logo.png",
+    "kind": "png 95x96",
+    "homepage": "https://www.iomou.org/"
+  },
+  "equasis": {
+    "name": "Equasis",
+    "file": "equasis.png",
+    "source_url": "https://www.equasis.org/EquasisWeb/Static/images/ico/apple-touch-icon-144-precomposed.png",
+    "kind": "png 128x128",
+    "homepage": "https://www.equasis.org/"
+  },
+  "aramco": {
+    "name": "Saudi Aramco",
+    "file": "aramco.png",
+    "source_url": "https://www.aramco.com/favicon.ico",
+    "kind": "png 64x64",
+    "homepage": "https://www.aramco.com/"
+  },
+  "sigtto": {
+    "name": "SIGTTO",
+    "file": "sigtto.png",
+    "source_url": "https://www.sigtto.org/favicon.ico",
+    "kind": "png 48x48",
+    "homepage": "https://www.sigtto.org/"
+  },
+  "amsa": {
+    "name": "AMSA",
+    "file": "amsa.svg",
+    "source_url": "https://www.amsa.gov.au/themes/custom/amsad10/logo.svg",
+    "kind": "svg",
+    "homepage": "https://www.amsa.gov.au/"
+  },
+  "emsa": {
+    "name": "EMSA",
+    "file": "emsa.png",
+    "source_url": "https://www.emsa.europa.eu/images/2020/favicon.ico",
+    "kind": "png 16x16",
+    "homepage": "https://www.emsa.europa.eu/"
+  }
+}

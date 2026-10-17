@@ -203,3 +203,24 @@ footer.site .fine{border-top:1px solid rgba(255,255,255,.08);margin-top:28px;pad
 @media(max-width:700px){footer.site .cols{grid-template-columns:1fr 1fr}footer.site .cols>div:first-child{grid-column:1/-1}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 @media (min-width:901px){.subscribe .signup .bh-form iframe{min-height:370px!important}}
+.brand .r{color:var(--teal-l)}
+/* animated radar sweep in the site logo (static when reduced motion) */
+.brand .vr-sweep{transform-box:view-box;transform-origin:32px 32px;animation:vr-sweep 4s linear infinite}
+.brand .vr-blip{animation:vr-blip 4s linear infinite}
+@keyframes vr-sweep{to{transform:rotate(360deg)}}
+/* beam's leading edge (60°) reaches the blip (~29°) at ~91% of each turn */
+@keyframes vr-blip{0%{opacity:.4}12%{opacity:.12}89%{opacity:.12}92%{opacity:.6}100%{opacity:.4}}
+@media (prefers-reduced-motion:reduce){.brand .vr-sweep,.brand .vr-blip{animation:none}}
+/* organisation logos (source identifiers): uniform 28px tiles */
+.olgs{display:inline-flex;gap:6px;align-items:center;flex:none}
+.olg{display:inline-flex;align-items:center;justify-content:center;height:28px;min-width:28px;padding:3px 6px;background:#fff;border:1px solid var(--line);border-radius:7px}
+.olg img{height:20px;width:auto;max-width:86px;object-fit:contain;display:block}
+.olg.fb{border-radius:50%;padding:0;width:28px;font-size:.6rem;font-weight:800;letter-spacing:.02em;color:#34475c;background:#eef2f6}
+.olg.sm{height:24px;min-width:24px;padding:2px 5px}.olg.sm img{height:17px;max-width:70px}.olg.sm.fb{width:24px;font-size:.55rem}
+.olg.xs{height:20px;min-width:20px;padding:2px 4px;border-radius:5px}.olg.xs img{height:14px;max-width:56px}.olg.xs.fb{width:20px;font-size:.5rem}
+.src-id{display:inline-flex;align-items:center;gap:8px}
+.ucard .src-id .oname{font-size:.8rem;font-weight:600;color:#34475c}
+.list a.row{grid-template-columns:auto 1fr auto}
+.list .t small{display:flex;gap:8px;align-items:center;margin-top:4px}
+footer.site .tm{margin:10px 0 0;font-size:.76rem;color:#7f97ab;max-width:440px}
+.olg.dark{background:var(--navy);border-color:var(--navy)}

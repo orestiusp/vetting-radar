@@ -40,7 +40,9 @@ _IC = {
 }
 def icon(n, cls="ico"): return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true">{_IC[n]}</svg>'
 # Header/footer logo (icon). To swap: replace with the chosen concept's icon SVG (viewBox 0 0 64 64 works too); size is set in CSS (.brand svg).
-LOGO = '<svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14" fill="none" stroke="#5fd3f3" stroke-width="2"/><circle cx="16" cy="16" r="8.5" fill="none" stroke="#5fd3f3" stroke-width="1.5" opacity=".6"/><path d="M16 16 26 7" stroke="#5fd3f3" stroke-width="2" stroke-linecap="round"/><circle cx="16" cy="16" r="2.4" fill="#5fd3f3"/><circle cx="21.5" cy="11.8" r="1.6" fill="#fff"/></svg>'
+_LOGO_SVG = open(P("site", "brand", "icon-on-navy.svg")).read().replace('width="64" height="64"', 'aria-hidden="true" focusable="false"')
+def logo(uid):  # inline option-1 icon; unique gradient id per use (header + footer on one page)
+    return _LOGO_SVG.replace("swa", f"sw{uid}")
 
 def fmt_date(s):
     if not s: return ""
@@ -58,15 +60,19 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(doc_title)}</title><meta name="description" content="{e(desc)}">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Vetting Radar"><meta property="og:title" content="{e(doc_title)}"><meta property="og:description" content="{e(desc)}">
-<meta name="twitter:card" content="summary"><meta name="twitter:title" content="{e(doc_title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
+<meta property="og:image" content="{SITE_URL}/brand/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Vetting Radar: Know what changed before your next screening.">
+<meta property="og:url" content="{SITE_URL}/{'' if fname=='index.html' else fname}">
+<link rel="icon" href="{pre}brand/favicon.svg" type="image/svg+xml"><link rel="icon" href="{pre}brand/favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="{pre}brand/favicon-16.png" sizes="16x16" type="image/png">
+<link rel="apple-touch-icon" href="{pre}brand/apple-touch-icon.png">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{SITE_URL}/brand/og-image.png"><meta name="twitter:title" content="{e(doc_title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
 <link rel="alternate" type="application/json" href="{pre}data/changes.json">
 <script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></head><body>
 <a class="skip" href="#content">Skip to content</a>
-<header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{LOGO}Vetting Radar</a>
+<header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{logo("h")}<span>Vetting <span class="r">Radar</span></span></a>
 <nav class="main" aria-label="Main">{nav}</nav><a class="btn sm" href="{sub_href}">Subscribe</a></div></header>
 <main id="content">{body}</main>
 <footer class="site"><div class="wrap"><div class="cols">
-<div><a class="brand" href="{pre}index.html" style="margin-bottom:10px">{LOGO}Vetting Radar</a><p style="margin:0;max-width:420px">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries only. <b style="color:#fff">Always verify at source.</b></p></div>
+<div><a class="brand" href="{pre}index.html" style="margin-bottom:10px">{logo("f")}<span>Vetting <span class="r">Radar</span></span></a><p style="margin:0;max-width:420px">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries only. <b style="color:#fff">Always verify at source.</b></p><p class="tm">Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p></div>
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}table.html">Compare requirements</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li></ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sources.html">Sources</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
@@ -74,9 +80,35 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w").write(doc)
 
+# ---------- organisation logos (source identifiers only) ----------
+ORG_LOGOS = load(P("assets", "logos", "manifest.json"), {})
+ORG_RULES = [("ocimf","ocimf"),("cdi","cdi"),("rightship","rightship"),("paris","parismou"),("tokyo","tokyomou"),("intertanko","intertanko"),
+ ("adnoc","adnoc"),("repsol","repsol"),("moeve","moeve"),("cepsa","moeve"),("braskem","braskem"),("exxon","exxonmobil"),("total","totalenergies"),
+ ("trans mountain","transmountain"),("fujairah","fujairah"),("uscg","uscg"),("med mou","medmou"),("iomou","iomou"),("equasis","equasis"),
+ ("aramco","aramco"),("sigtto","sigtto"),("amsa","amsa"),("emsa","emsa"),("imo","imo"),("bp","bp")]
+def org_keys(owner):
+    o = (owner or "").lower(); keys = []
+    for needle, key in ORG_RULES:
+        if (needle in o if len(needle) > 3 else re.search(rf"\b{needle}\b", o)) and key not in keys: keys.append(key)
+    return keys[:2]
+def initials(name):
+    w = [x for x in re.split(r"[\s/–-]+", name) if x and x[0].isalnum()]
+    return (w[0][:3] if len(w) == 1 or w[0].isupper() and len(w[0]) <= 4 else "".join(x[0] for x in w[:2])).upper()
+def orglogo(owner, depth=0, size=""):
+    out = ""
+    for k in org_keys(owner) or [None]:
+        m = ORG_LOGOS.get(k, {}) if k else {}
+        name = m.get("name") or owner
+        if m.get("file"):
+            out += f'<span class="olg {size}{" dark" if m.get("dark_bg") else ""}" title="{e(name)}"><img src="{"../"*depth}assets/logos/{e(m["file"])}" alt="{e(name)} logo" loading="lazy"></span>'
+        else:
+            out += f'<span class="olg fb {size}" title="{e(name)}" aria-label="{e(name)}">{e(initials(name))}</span>'
+    return f'<span class="olgs">{out}</span>'
+
 def pagehead(kicker, title, lede):
     return f'<section class="pagehead"><div class="wrap"><p class="kicker">{kicker}</p><h1>{title}</h1><p>{lede}</p></div></section>'
 
+SITE_URL = "https://vettingradar.com"
 BEEHIIV_URL = "https://vetting-radar.beehiiv.com"
 BEEHIIV_SUBSCRIBE = BEEHIIV_URL + "/subscribe"
 signup = f"""<div class="signup" id="subscribe-form"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div>
@@ -92,7 +124,7 @@ def ucard(u, depth=0):
     bullets = "".join(f"<li>{e(b)}</li>" for b in u.get("changed", []))
     todo = f'<p class="todo">{icon("todo")}<span><b>What to do:</b> {e(u["what_to_do"])}</span></p>' if u.get("what_to_do") else ""
     return f"""<article class="card ucard g-{g}" id="{e(u['id'])}">
-<div class="top"><span class="cat">{GROUP_LABEL[g]}</span><span class="badge {e(u['impact'])}" title="Impact: editor's assessment"><span class="dot"></span>{IMPACT_LABEL[u['impact']]}</span>{who}<span class="badge org">{e(u['owner'])}</span><time datetime="{e(u['date'])}">{fmt_date(u['date'])}</time></div>
+<div class="top"><span class="cat">{GROUP_LABEL[g]}</span><span class="badge {e(u['impact'])}" title="Impact: editor's assessment"><span class="dot"></span>{IMPACT_LABEL[u['impact']]}</span>{who}<span class="src-id">{orglogo(u['owner'], depth)}<span class="oname">{e(u['owner'])}</span></span><time datetime="{e(u['date'])}">{fmt_date(u['date'])}</time></div>
 <h3>{e(u['headline'])}</h3>
 {f'<div class="chips" aria-label="Key numbers">{chips}</div>' if chips else ''}
 <ul class="changed">{bullets}</ul>{todo}
@@ -108,14 +140,14 @@ UPD_BY_ID = {u["id"]: u for u in updates}
 ok_sources = sum(1 for s in sources if state.get(s["id"], {}).get("hash"))
 last_run = runlog.get("run_at", "")
 pending = [c for c in changes if not _pub(c)]
-rows_html = "".join(f"""<li><a class="row" href="updates.html#{e(u['id'])}"><span class="badges"><span class="badge {e(u['impact'])}"><span class="dot"></span>{e(u['impact'].title())}</span></span>
-<span class="t">{e(u['headline'])}<small>{e(u['owner'])}</small></span><time datetime="{e(u['date'])}">{fmt_date(u['date'])}</time></a></li>""" for u in UPD[:5])
+rows_html = "".join(f"""<li><a class="row" href="updates.html#{e(u['id'])}">{orglogo(u['owner'])}
+<span class="t">{e(u['headline'])}<small><span class="badge {e(u['impact'])}"><span class="dot"></span>{e(u['impact'].title())}</span> {e(u['owner'])}</small></span><time datetime="{e(u['date'])}">{fmt_date(u['date'])}</time></a></li>""" for u in UPD[:5])
 mon = (f'{icon("pulse")}<span>{len(pending)} change{"s" if len(pending)!=1 else ""} detected by the monitor, awaiting review. <a href="updates.html#monitor">View</a></span>' if pending
        else f'{icon("check")}<span>Monitor checked {ok_sources} sources on {fmt_date(last_run)}. No unreviewed changes.</span>')
 nxt = sorted([c for c in calendar if c["date"] and len(c["date"]) == 10 and (c.get("end") or c["date"]) >= TODAY.isoformat()], key=lambda c: c["date"])
 def calic(d):
     x = dt.date.fromisoformat(d); return f'<span class="cal-ic" aria-hidden="true"><span class="m">{x.strftime("%b")}</span><span class="d">{x.day}</span></span>'
-dates_html = "".join(f"""<li class="card date">{calic(c['date'])}<div><b>{e(c['title'])}</b><span>{fmt_date(c['date'])}{(' – ' + fmt_date(c['end'])) if c.get('end') else ''} · {e(c['owner'])}</span></div></li>""" for c in nxt[:3])
+dates_html = "".join(f"""<li class="card date">{calic(c['date'])}<div><b>{e(c['title'])}</b><span class="src-id">{orglogo(c['owner'], 0, 'xs')}{fmt_date(c['date'])}{(' – ' + fmt_date(c['end'])) if c.get('end') else ''}</span></div></li>""" for c in nxt[:3])
 nk = nxt[0] if nxt else None
 up_key = [c for c in nxt if c["date"] > TODAY.isoformat()]
 nk = up_key[0] if up_key else nk
@@ -169,7 +201,7 @@ trs = ""
 for r in comp["rows"]:
     links = f'<a href="{e(r["source_url"])}" rel="noopener">Primary source</a>' + "".join(f'<br><a href="{e(u)}" rel="noopener">Source {i+2}</a>' for i, u in enumerate(r["extra_source_urls"]))
     flag = f'<span class="flag">⚠ {e(r["flags"])}</span>' if r["flags"] else ""
-    trs += f"""<tr data-type="{e(r['owner_type'])}"><td class="owner"><b>{e(r['requirement_owner'])}</b><br><span class="pill">{e(r['owner_type'])}</span>
+    trs += f"""<tr data-type="{e(r['owner_type'])}"><td class="owner"><div style="margin-bottom:6px">{orglogo(r['requirement_owner'])}</div><b>{e(r['requirement_owner'])}</b><br><span class="pill">{e(r['owner_type'])}</span>
 <div class="note" style="margin-top:6px">{e(r['document'])}{(' · dated ' + e(r['document_date'])) if r['document_date'] else ''}</div>{flag}</td>
 <td class="wide">{cell(r['age_limits'])}</td><td class="wide">{cell(r['sire_report_age'])}</td><td class="wide">{cell(r['cap_rules'])}</td><td class="wide">{cell(r['other_criteria'])}</td>
 <td>{links}<div class="note">Verified {fmt_date(r['verified_on'])}</div><div class="note">Verify at source</div></td></tr>"""
@@ -188,7 +220,7 @@ def evrow(c):
     d = fmt_date(c["date"]) + (f" – {fmt_date(c['end'])}" if c.get("end") else "")
     past = c["date"] and (c.get("end") or c["date"]) < TODAY.isoformat()[:len(c["date"])]
     return f"""<div class="card ev {'past' if past else ''}"><div class="d">{d or 'TBA'}</div><div><b>{e(c['title'])}</b> <span class="pill">{e(c['kind'])}</span>
-<div class="note">{e(c['owner'])}{(' · ' + e(c['note'])) if c.get('note') else ''}</div><div class="src"><a href="{e(c['source_url'])}" rel="noopener">Source</a> · verified {fmt_date(c['verified_on'])}</div></div></div>"""
+<div class="note src-id">{orglogo(c['owner'], 0, 'sm')}<span>{e(c['owner'])}{(' · ' + e(c['note'])) if c.get('note') else ''}</span></div><div class="src"><a href="{e(c['source_url'])}" rel="noopener">Source</a> · verified {fmt_date(c['verified_on'])}</div></div></div>"""
 dated = sorted([c for c in calendar if c["date"]], key=lambda c: c["date"])
 up = [c for c in dated if (c.get("end") or c["date"]) >= TODAY.isoformat()[:len(c["date"])]]
 past = [c for c in dated if c not in up]
@@ -204,7 +236,7 @@ for s in sorted(sources, key=lambda s: (s["category"], s["owner"], s["name"])):
     st = state.get(s["id"], {})
     status = '<span class="pill err">fetch error</span>' if st.get("last_error") else ('<span class="pill ok">watching</span>' if st.get("hash") else '<span class="pill">pending</span>')
     rows += f"""<tr data-cat="{e(s['category'])}"><td><a href="{e(s['url'])}" rel="noopener">{e(s['name'])}</a>{('<div class="note">' + e(s['note']) + '</div>') if s.get('note') else ''}</td>
-<td>{e(s['owner'])}</td><td>{e(CAT.get(s['category'], s['category']))}</td><td>{e(s['type'])}</td><td>{status}</td>
+<td><span class="src-id">{orglogo(s['owner'], 0, 'sm')}<span>{e(s['owner'])}</span></span></td><td>{e(CAT.get(s['category'], s['category']))}</td><td>{e(s['type'])}</td><td>{status}</td>
 <td class="note">{e(st.get('last_checked','')[:16].replace('T',' '))}</td><td class="note">verified {e(s['verified_at'])}</td></tr>"""
 cats = sorted({s["category"] for s in sources})
 page("sources.html", "Sources watched", pagehead("Sources", f"{len(sources)} public sources, checked daily", "Each page or PDF is fetched, its text hashed and compared with the last snapshot.") + f"""<div class="wrap page">
@@ -226,7 +258,7 @@ for md in sorted(glob.glob(P("newsletter", "issue-*.md"))):
     # {{update:<id>}} shortcodes render the structured update card
     cards = {}
     def _sc(m):
-        k = f"VRCARD{len(cards)}X"; cards[k] = ucard(UPD_BY_ID[m.group(1)]); return f"\n\n{k}\n\n"
+        k = f"VRCARD{len(cards)}X"; cards[k] = ucard(UPD_BY_ID[m.group(1)], depth=1); return f"\n\n{k}\n\n"
     raw = re.sub(r"\{\{update:([\w-]+)\}\}", _sc, raw)
     body = markdown.markdown(raw, extensions=["tables", "md_in_html"])
     for k, v in cards.items(): body = body.replace(f"<p>{k}</p>", v).replace(k, v)
@@ -256,11 +288,15 @@ page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar"
 <div class="notice"><p style="margin-top:0"><b>Independent.</b> Vetting Radar is not affiliated with, endorsed by or speaking for OCIMF, CDI, RightShip, INTERTANKO, any oil major, terminal, port authority, PSC regime, or the editor's employer.</p>
 <p><b>Public information only.</b> Content is compiled solely from publicly available documents. No confidential SIRE/CDI reports, inspection data, charterer correspondence or employer information is used or accepted.</p>
 <p><b>No advice, no guarantee.</b> Summaries can be incomplete or out of date; owners apply their criteria case by case and may change them without notice. Nothing here is legal, commercial or technical advice.</p>
+<p><b>Logos.</b> Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p>
 <p style="margin-bottom:0"><b>Verify at source.</b> Every item links to its source and shows the date it was verified. Always check the source before acting.</p></div>
 <h2>Corrections</h2><p>Spotted an error or a stale value? A corrections address will be published at launch; corrections are logged publicly.</p></div>""")
 
 # ---------- static assets & data ----------
 for f in ("style.css", "app.js"): shutil.copy(P("site", f), os.path.join(DIST, f))
+shutil.copytree(P("site", "brand"), os.path.join(DIST, "brand"), dirs_exist_ok=True)
+shutil.copytree(P("assets", "logos"), os.path.join(DIST, "assets", "logos"), dirs_exist_ok=True, ignore=shutil.ignore_patterns("manifest.json"))
+shutil.copy(P("site", "brand", "favicon.ico"), os.path.join(DIST, "favicon.ico"))
 os.makedirs(os.path.join(DIST, "data"), exist_ok=True)
 # public changes feed: unreviewed entries are reduced to "change detected" metadata (no diff text, no draft summary)
 pub_changes = []
