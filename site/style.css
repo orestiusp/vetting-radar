@@ -508,12 +508,19 @@ header.site.open .navtoggle span:nth-child(1){transform:translateY(7px) rotate(4
 @media(max-width:600px){.herobox{padding:10px 10px 4px}.latest{padding:14px 14px 4px}.lt{margin-left:-14px;padding-left:11px}.card.signup{padding:10px!important}}
 /* Beehiiv embed: the official iframe has ~80px built-in white padding; crop it so the e-mail field gets the full width */
 .bh-crop{overflow:hidden;min-height:120px;background:#fff;border-radius:10px}
+/* safety net when the Beehiiv form is not drawn (subscriber cookie, blocked or slow script): a plain button, never a blank box */
+.bh-fb{display:none;padding:14px 6px 6px;text-align:center}
+.bh-fb.on,html:not(.js) .bh-fb{display:block}
+.signup.bh-off .bh-crop,html:not(.js) .bh-crop{display:none}
+.bh-fb-t{margin:0 0 12px;font-size:var(--fs-sm);color:var(--text)}.bh-fb-t b{display:block;font-size:var(--fs-md);color:var(--ink);margin-bottom:4px}
+.bh-fb-t.done b{color:var(--low)}
+.bh-fb-b{display:inline-flex;justify-content:center;width:100%;max-width:340px;padding:12px 18px;font-size:var(--fs-md)}
 .bh-crop .bh-form>div{margin:0!important}
 .bh-crop iframe{width:calc(100% + 144px)!important;max-width:none!important;margin:-66px -72px -58px!important;min-height:0!important}
 .signup .bh-fallback{margin:2px 0 6px;text-align:center}
 /* trust strip: one line under the hero */
 .trustbar{background:#fff;border-bottom:1px solid var(--line)}
-.trustbar .trust{padding:12px 0}
+.trustbar .trust{padding:12px 0}.trustbar .trust>span{display:inline;line-height:1.5}
 /* check-an-owner entry */
 .vpmini{display:grid;grid-template-columns:1.4fr 1fr 1fr auto;gap:10px;align-items:end;padding:16px}
 .vpmini label,.vp-f label{display:flex;flex-direction:column;gap:4px;font-size:var(--fs-xs);font-weight:600;color:var(--muted);min-width:0}

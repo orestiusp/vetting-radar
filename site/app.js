@@ -40,3 +40,18 @@ document.addEventListener('DOMContentLoaded',()=>{
     new MutationObserver(upd).observe(tw,{subtree:true,attributes:true,attributeFilter:['class','open','style']}); // lookup adds the "Your vessel" column
   });
 });
+// newsletter signup safety net: if the Beehiiv embed has not drawn a real form within ~4 s (Beehiiv hides it for
+// visitors who already subscribed from this site, or its script is blocked/slow), show a plain "Subscribe free" button.
+document.addEventListener('DOMContentLoaded',()=>{
+  const boxes=[...document.querySelectorAll('.signup .bh-crop')].map(c=>c.closest('.signup')); if(!boxes.length) return;
+  // the loader marks the iframe data-bhv-sized once the form inside has reported its size; until then its wrapper is height:0
+  const drawn=s=>{const f=s.querySelector('.bh-form iframe'); if(!f) return false; const w=f.parentElement;
+    return f.hasAttribute('data-bhv-sized') && (parseFloat(f.style.height)||0)>150 && !(w&&w.style.height==='0px');};
+  const subscribed=/(^|;\s*)bhv_[\w-]+_subscribed=/.test(document.cookie);
+  const check=()=>boxes.forEach(s=>{const ok=drawn(s), fb=s.querySelector('.bh-fb'); if(!fb) return;
+    if(!ok && subscribed && !fb.dataset.sub){fb.dataset.sub='1'; const t=fb.querySelector('.bh-fb-t'); t.classList.add('done');
+      t.innerHTML='<b>You\u2019re subscribed from this browser \u2713</b>Want the brief at another address too?';}
+    fb.classList.toggle('on',!ok); s.classList.toggle('bh-off',!ok);
+    const n=s.querySelector('.bh-fallback'); if(n) n.hidden=!ok;});
+  setTimeout(check,4000); setTimeout(check,10000); // the second pass hides the button again if the form arrives late
+});

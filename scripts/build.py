@@ -166,7 +166,11 @@ BEEHIIV_URL = "https://vetting-radar.beehiiv.com"
 BEEHIIV_SUBSCRIBE = BEEHIIV_URL + "/subscribe"
 # Beehiiv's embed has no API-key-free endpoint we can post to (its form needs a CSRF token and bot cookies), so we keep the
 # official embed and crop its built-in white padding (.bh-crop in style.css) so the e-mail field gets the full width.
+# Safety net (.bh-fb, app.js): Beehiiv's loader draws nothing for visitors who already subscribed from this site
+# (cookie bhv_<publication>_subscribed, 1 year) or when its iframe never reports a size; then a plain button shows instead.
 signup = f"""<div class="signup" id="subscribe-form"><div class="bh-crop"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div></div>
+<div class="bh-fb"><p class="bh-fb-t"><b>The weekly brief</b>What changed in tanker vetting rules, every item sourced. Free, unsubscribe any time.</p>
+<a class="btn bh-fb-b" href="{BEEHIIV_SUBSCRIBE}" rel="noopener">{icon("mail")}Subscribe free</a></div>
 <p class="note bh-fallback">Free · unsubscribe any time · <a href="{BEEHIIV_SUBSCRIBE}" rel="noopener">Form not loading? Subscribe on Beehiiv</a></p></div>"""
 signup_card = f'<div class="card signup" id="subscribe">{signup}</div>'
 
