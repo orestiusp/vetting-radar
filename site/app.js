@@ -28,3 +28,15 @@ document.addEventListener('DOMContentLoaded',()=>{
   const on=document.querySelector('.subnav a.on'), w=on&&on.parentElement;
   if(on&&w.scrollWidth>w.clientWidth) w.scrollLeft=on.offsetLeft-(w.clientWidth-on.offsetWidth)/2;
 });
+// wide tables: fade + hint at the scrolling edge, stronger edge on the fixed column once scrolled
+document.addEventListener('DOMContentLoaded',()=>{
+  document.querySelectorAll('.tablewrap').forEach(tw=>{
+    const box=document.createElement('div'); box.className='tscroll'; tw.parentNode.insertBefore(box,tw); box.appendChild(tw);
+    const hint=document.createElement('p'); hint.className='thint'; hint.setAttribute('aria-hidden','true'); hint.textContent='Scroll sideways for more columns →'; box.parentNode.insertBefore(hint,box);
+    const upd=()=>{const max=tw.scrollWidth-tw.clientWidth, s=max>4;
+      box.classList.toggle('scrolls',s); box.classList.toggle('more-r',s&&tw.scrollLeft<max-4); box.classList.toggle('more-l',s&&tw.scrollLeft>4);
+      hint.classList.toggle('on',s&&getComputedStyle(tw).overflowX!=='visible');};
+    tw.addEventListener('scroll',upd,{passive:true}); window.addEventListener('resize',upd); upd();
+    new MutationObserver(upd).observe(tw,{subtree:true,attributes:true,attributeFilter:['class','open','style']}); // lookup adds the "Your vessel" column
+  });
+});

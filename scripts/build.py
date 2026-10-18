@@ -130,10 +130,11 @@ def pagehead(kicker, title, lede, cls=""):
 SITE_URL = "https://vettingradar.com"
 BEEHIIV_URL = "https://vetting-radar.beehiiv.com"
 BEEHIIV_SUBSCRIBE = BEEHIIV_URL + "/subscribe"
-signup = f"""<div class="signup" id="subscribe-form"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div>
-<a class="btn bh-mobile" href="{BEEHIIV_SUBSCRIBE}" rel="noopener">{icon("mail")}Subscribe free</a>
-<p class="note bh-fallback">Free, weekly, unsubscribe any time · <a href="{BEEHIIV_SUBSCRIBE}" rel="noopener">subscribe on Beehiiv</a></p></div>"""
-signup_card = f'<div class="card signup" style="padding:10px 12px" id="subscribe">{signup}</div>'
+# Beehiiv's embed has no API-key-free endpoint we can post to (its form needs a CSRF token and bot cookies), so we keep the
+# official embed and crop its built-in white padding (.bh-crop in style.css) so the e-mail field gets the full width.
+signup = f"""<div class="signup" id="subscribe-form"><div class="bh-crop"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div></div>
+<p class="note bh-fallback">Free · unsubscribe any time · <a href="{BEEHIIV_SUBSCRIBE}" rel="noopener">Form not loading? Subscribe on Beehiiv</a></p></div>"""
+signup_card = f'<div class="card signup" id="subscribe">{signup}</div>'
 
 # ---------- update cards ----------
 def _pub(c): return bool(c.get("reviewed") and c.get("publish"))
@@ -251,7 +252,7 @@ RR_INVITE = ('<p class="rr-invite" id="rr-home"><span class="rr-mark">Reader rep
 
 # ---------- index page ----------
 IMP_RANK = {"high": 0, "medium": 1, "low": 2}
-TOP = sorted(sorted([u for u in UPD if u["impact"] in ("high", "medium")], key=lambda u: u["date"], reverse=True), key=lambda u: IMP_RANK[u["impact"]])[:3]
+TOP = [u for u in UPD if u["impact"] in ("high", "medium")][:3]  # the 3 latest high/medium updates (UPD is newest first); minor ones stay on updates.html
 N_MINOR = sum(1 for u in UPD if u["impact"] == "low")
 N_REST = len(UPD) - len(TOP) - N_MINOR
 def topcard(u):
@@ -260,6 +261,11 @@ def topcard(u):
     return f"""<article class="card topc imp-{e(u['impact'])}"><div class="top"><span class="badge {e(u['impact'])}"><span class="dot"></span>{IMPACT_LABEL[u['impact']]}</span><span class="src-id">{orglogo(u['owner'], 0, 'sm')}<span class="oname">{e(u['owner'])}</span></span><time datetime="{e(u['date'])}">{fmt_date(u['date'])}</time></div>
 <h3><a href="updates.html#{e(u['id'])}">{e(u['headline'])}</a></h3>{f'<div class="chips">{chips}</div>' if chips else ''}{todo}
 <p class="tfoot"><a href="updates.html#{e(u['id'])}">Details</a><span>·</span><a href="{e(u['source_url'])}" rel="noopener">Source</a></p></article>"""
+def latest_item(u):
+    todo = f'<p class="lt-do"><b>What to do:</b> {e(u["what_to_do"])}</p>' if u.get("what_to_do") else ""
+    return (f'<li class="lt imp-{e(u["impact"])}"><div class="lt-top"><span class="badge {e(u["impact"])}"><span class="dot"></span>{IMPACT_LABEL[u["impact"]]}</span>'
+            f'<span class="src-id">{orglogo(u["owner"], 0, "xs")}<span class="oname">{e(u["owner"])}</span></span><time datetime="{e(u["date"])}">{fmt_date(u["date"])}</time></div>'
+            f'<h3><a href="updates.html#{e(u["id"])}">{e(u["headline"])}</a></h3>{todo}</li>')
 more_bits = ([f"{N_REST} more"] if N_REST else []) + ([f"+{N_MINOR} minor"] if N_MINOR else [])
 TYPES_VP = [("oil", "Oil (crude / product)"), ("chemical", "Chemical"), ("lpg", "LPG"), ("lng", "LNG")]
 ISSUES_MD = sorted(glob.glob(P("newsletter", "issue-*.md")))
@@ -269,18 +275,19 @@ def _fm(md):
         k, _, v = ln.partition(":"); fm[k.strip()] = v.strip().strip('"')
     return fm
 SAMPLE = (os.path.basename(ISSUES_MD[0])[:-3], _fm(ISSUES_MD[0])) if ISSUES_MD else None
-TRUST = (f'<div class="wrap"><p class="trust">{icon("radar")}<span><b>{len(sources)}</b> public sources watched daily · <b>{len(comp["rows"])}</b> owners compared · '
-         f'<b>{len(updates)}</b> reviewed updates · every item linked to its source · independent</span></p></div>')
+# one source count everywhere: len(sources) (= what the monitor checks); the last run's reachability is shown as part of the same line
+MON_SHORT = (f"last check {fmt_date(last_run)}: {RUN_OK} OK" + (f", {RUN_ERR} unreachable" if RUN_ERR else "")) if last_run else ""
+TRUST = (f'<div class="trustbar"><div class="wrap"><p class="trust">{icon("radar")}<span><b>{len(sources)}</b> public sources watched daily{(" (" + MON_SHORT + ")") if MON_SHORT else ""} · '
+         f'<b>{len(comp["rows"])}</b> owners compared · <b>{len(updates)}</b> reviewed updates · every item sourced</span></p></div></div>')
 page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
-<section class="hero" id="subscribe"><div class="wrap"><div>
+<section class="hero"><div class="wrap"><div class="hero-l">
 <span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
 <h1>{HERO_H1}</h1><p class="sub">{HERO_SUB}</p>
-<p class="hero-note">Free weekly brief · five minutes · every item sourced</p></div>
-<div class="herobox">{signup}</div>
+<div class="herobox" id="subscribe">{signup}</div></div>
+<div class="hero-r"><div class="latest"><div class="lh"><h2>Latest changes</h2><a href="updates.html">All updates{(' (' + ', '.join(more_bits) + ')') if more_bits else ''} →</a></div>
+<ol class="lts">{''.join(latest_item(u) for u in TOP)}</ol></div></div>
 </div></section>
-<section class="block"><div class="wrap">
-<div class="sechead"><div><h2>Latest changes</h2><p class="note">Ranked by impact. {MON_LINE}</p></div><a href="updates.html">All updates{(' (' + ', '.join(more_bits) + ')') if more_bits else ''} →</a></div>
-<div class="tops">{''.join(topcard(u) for u in TOP)}</div></div></section>
+{TRUST}
 <section class="block tight"><div class="wrap two">
 <div><div class="sechead"><div><h2>Check an owner</h2><p class="note">Which owners' public criteria does your ship meet?</p></div></div>
 <form class="card vpmini" action="table.html" method="get"><label><span>Vessel type</span><select name="type">{''.join(f'<option value="{k}">{v}</option>' for k, v in TYPES_VP)}</select></label>
@@ -295,7 +302,6 @@ page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_
 <p class="nl-acts"><a class="btn" href="#subscribe">{icon("mail")}Subscribe free</a>{f'<a class="btn light" href="newsletter/{SAMPLE[0]}.html">Read sample issue #{e(SAMPLE[1].get("issue", "1"))}</a>' if SAMPLE else ''}</p></div>
 {f'<a class="nl-sample" href="newsletter/{SAMPLE[0]}.html"><span class="kicker">Sample · {fmt_date(SAMPLE[1].get("date", ""))}</span><b>{e(SAMPLE[1].get("title", ""))}</b><span class="go">Read it {icon("arrow")}</span></a>' if SAMPLE else ''}
 </div></div></section>
-{TRUST}
 <div class="wrap">{RR_INVITE}</div>
 {RR_JSON}""", scripts=RR_SCRIPTS)
 
@@ -308,6 +314,12 @@ def kcell(r, field, kk, label):
         return f'<td class="kc ns" data-l="{label}"><span class="kv ns">Not stated in source</span></td>'
     return (f'<td class="kc" data-l="{label}"><span class="kv">{e(key or full)}</span>'
             f'<details class="more"><summary>Details</summary><p>{e(full)}</p></details></td>')
+def clip(v, n=60, tag="span"):
+    """Short value in the cell; the full text opens on tap (details). Cuts at a word boundary."""
+    v = str(v or "")
+    if len(v) <= n: return e(v)
+    cut = v[:n].rsplit(" ", 1)[0].rstrip(",;:·(–-") or v[:n]
+    return f'<details class="clip"><summary><span class="cs">{e(cut)}…</span><span class="cm"></span></summary><span class="cf">{e(v)}</span></details>'
 def flagbtn(text):
     return (f'<button type="button" class="flg" aria-label="Source note: {e(text)}">{icon("alert")}<span class="pop" role="tooltip">{e(text)}</span></button>') if text else ""
 types = sorted({r["owner_type"] for r in comp["rows"]})
@@ -317,7 +329,7 @@ for r in comp["rows"]:
     nm = RR_SHORT.get(r["id"]) or CP["owners"].get(r["id"], {}).get("name") or re.split(r" \(| – ", r["requirement_owner"])[0]
     trs += f"""<tr data-type="{e(r['owner_type'])}" id="row-{e(r['id'])}" data-id="{e(r['id'])}" class="off-row"><th scope="row" class="owner"><div class="ohd">{orglogo(r['requirement_owner'], fixed=True)}<div><b title="{e(r['requirement_owner'])}">{e(nm)}</b>{flagbtn(r['flags'])}<span class="pill">{e(r['owner_type'])}</span></div></div></th>
 <td class="res" data-l="Your vessel"></td>{''.join(kcell(r, f, k, l) for f, k, l in COLS)}
-<td class="srcc" data-l="Source"><span class="srcl">{links}</span><span class="note">{e(r['document'])}{(' · ' + e(r['document_date'])) if r['document_date'] else ''} · verified {fmt_date(r['verified_on'])}</span></td></tr>
+<td class="srcc" data-l="Source"><span class="srcl">{links}</span><span class="note">{clip(r['document'], 48)}{(' · ' + e(r['document_date'])) if r['document_date'] else ''} · verified {fmt_date(r['verified_on'])}</span></td></tr>
 <tr class="rr-row" data-type="{e(r['owner_type'])}" data-for="{e(r['id'])}"><td colspan="7"><div class="rr-stick">{rrbox(r['id'])}</div></td></tr>"""
 gaps = "".join(f"<li><b>{e(g['owner'])}</b>: {e(g['note'])}</li>" for g in comp["not_found_publicly"])
 LK_JSON = '<script id="vr-lookup" type="application/json">' + json.dumps({k: v["rules"] for k, v in LK.items()}, ensure_ascii=False).replace("</", "<\\/") + '</script>'
@@ -367,21 +379,30 @@ for it in CP["checklist"]:
         lv, txt = it["cells"].get(k, ["ns", ""])
         tds += f'<td class="lvc"><span class="lv {lv}">{e(txt) if txt else "—"}</span></td>' if lv != "ns" else '<td class="lvc"><span class="lv ns" title="Not stated in the cited source">—</span></td>'
     rows_ck += f'<tr><th scope="row" class="item"><b>{e(it["item"])}</b><div class="note">{e(it["hint"])}</div></th>{tds}</tr>'
+def ck_card(k):
+    o = OWN[k]; dl = ""
+    for it in CP["checklist"]:
+        lv, txt = it["cells"].get(k, ["ns", ""])
+        dl += f'<div class="oc-r"><dt>{e(it["item"])}</dt><dd>' + (f'<span class="lv {lv}">{e(txt)}</span>' if lv != "ns" and txt else '<span class="lv ns">Not stated in source</span>') + '</dd></div>'
+    return (f'<article class="card ocard"><header><span class="lc-logo">{orglogo(o["org"], fixed=True)}</span><div><h3>{e(o["name"])}</h3>'
+            f'<a class="note" href="{e(o["url"])}" rel="noopener">{e(o["doc"])}</a></div></header><dl>{dl}</dl></article>')
+ck_cards = "".join(ck_card(k) for k in ck)
 page("compare-checklist.html", "Pre-screening checklist: what oil majors and terminals ask for", section="table.html",
      desc="The documents and conditions commonly required for oil-major and terminal clearance (SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC, certificates), owner by owner, from public sources.",
      body=pagehead("Compare", "Pre-screening checklist", "The documents and conditions most often checked before a tanker is cleared, and which owners publicly require each one.") + subnav("compare-checklist.html") + f"""
 <div class="wrap page widepage"><p class="intro">Use this as a checklist before you submit a vessel for clearance: inspection recency, CAP, questionnaire and crew-matrix freshness, PSC record, certificates and TMSA. Each column is one requirement owner; the header links to the public document we read. A dash means the cited source does not say, not that there is no rule.</p>
 {verified_bar()}
 {lvlegend(["req","cond","ns"], LV)}
-<div class="tablewrap mxwrap"><table class="mx" id="ck"><thead><tr><th class="item" scope="col">Check</th>{''.join(ohead(k) for k in ck)}</tr></thead><tbody>{rows_ck}</tbody></table></div>
-<p class="note">Scroll sideways for all {len(ck)} owners. Values are short summaries; size bands, gas carriers and exceptions are in the sources and on the <a href="table.html">requirements table</a>.</p>
+<div class="ocards" aria-label="Checklist by owner">{ck_cards}</div>
+<div class="tablewrap mxwrap mx-ck"><table class="mx" id="ck"><thead><tr><th class="item" scope="col">Check</th>{''.join(ohead(k) for k in ck)}</tr></thead><tbody>{rows_ck}</tbody></table></div>
+<p class="note mx-hint">Scroll sideways for all {len(ck)} owners. Values are short summaries; size bands, gas carriers and exceptions are in the sources and on the <a href="table.html">requirements table</a>.</p>
 <h2 class="sm">Sources</h2>{srclist(ck)}</div>""")
 
 # b. inspection frequency by age
 FQ = {"t3": "≤ 3–4 months", "t6": "≈ 6 months", "t12": "7–15 months", "scr": "Screening, no fixed interval", "no": "Not accepted", "ns": "Not stated"}
 rows_fq = ""
 for f in CP["frequency"]:
-    tds = "".join(f'<td class="fq {lv}"><span>{e(t) if t else "—"}</span></td>' for lv, t in f["cells"])
+    tds = "".join(f'<td class="fq {lv}" data-l="{e(b)}"><span>{e(t) if t else "—"}</span></td>' for (lv, t), b in zip(f["cells"], CP["bands"]))
     rows_fq += f'<tr>{ocell(f["owner"], f"<div class=\"note fqn\">{e(f["note"])}</div>" if f.get("note") else "")}{tds}</tr>'
 page("compare-frequency.html", "Inspection frequency by vessel age, owner by owner", section="table.html",
      desc="How fresh a SIRE or owner inspection must be at each vessel age band, for oil majors, vetting schemes and terminals, from public sources.",
@@ -389,7 +410,7 @@ page("compare-frequency.html", "Inspection frequency by vessel age, owner by own
 <div class="wrap page widepage"><p class="intro">Each row is one requirement owner, each column an age band. Colours show how tight the inspection window is; dark cells mean the owner's published age limit excludes the vessel. Bands are approximate: owners draw the line at slightly different ages (e.g. 10.1 or 15.1 years), so check the exact wording at source.</p>
 {verified_bar()}
 <div class="lvlegend fqlegend" aria-label="Legend">{''.join(f'<span><i class="fq {k}"></i>{e(v)}</span>' for k, v in FQ.items())}</div>
-<div class="tablewrap mxwrap"><table class="mx fqt"><thead><tr><th scope="col">Owner</th>{''.join(f'<th scope="col" class="band">{e(b)}</th>' for b in CP["bands"])}</tr></thead><tbody>{rows_fq}</tbody></table></div>
+<div class="tablewrap mxwrap mx-cards"><table class="mx fqt"><thead><tr><th scope="col">Owner</th>{''.join(f'<th scope="col" class="band">{e(b)}</th>' for b in CP["bands"])}</tr></thead><tbody>{rows_fq}</tbody></table></div>
 <p class="note">Oil and chemical tankers above 5,000 dwt unless noted. Gas carriers and small tankers often have higher age limits; see the sources.</p>
 <h2 class="sm">Sources</h2>{srclist([f["owner"] for f in CP["frequency"]])}</div>""")
 
@@ -415,11 +436,14 @@ page("compare-terminals.html", "Terminal requirements: age limits, SIRE, pre-arr
 <script>document.addEventListener('DOMContentLoaded',()=>{{const q=document.getElementById('tq');q.addEventListener('input',()=>{{const v=q.value.toLowerCase().trim();document.querySelectorAll('#tcards .tcard').forEach(c=>{{c.style.display=!v||c.innerText.toLowerCase().includes(v)?'':'none'}})}})}});</script>""", scripts=RR_SCRIPTS)
 
 # d. crew matrix
-def yrs(v): return f'<td class="yr">{e(v)}</td>' if v else '<td class="yr na" title="Not stated in source">—</td>'
-def txt(v): return f'<td>{e(v)}</td>' if v else '<td><span class="blank">—</span></td>'
+def yrs(v, l=""): return f'<td class="yr" data-l="{e(l)}">{e(v)}</td>' if v else f'<td class="yr na" data-l="{e(l)}" title="Not stated in source">—</td>'
+def txt(v, l=""): return f'<td data-l="{e(l)}">{clip(v, 56)}</td>' if v else f'<td data-l="{e(l)}"><span class="blank">—</span></td>'
+CR_SUB = ["operator", "rank", "type", "all tankers"]
 rows_cr = ""
 for c in CP["crew"]:
-    rows_cr += f'<tr class="off-row">{ocell(c["owner"])}{"".join(map(yrs, c["m"]))}{"".join(map(yrs, c["e"]))}{txt(c["junior"])}{txt(c["english"])}{txt(c["nat"])}{txt(c["fresh"])}{txt(c["other"])}</tr>'
+    rows_cr += (f'<tr class="off-row">{ocell(c["owner"])}' + "".join(yrs(v, f"Master + C/O · {l}") for v, l in zip(c["m"], CR_SUB))
+                + "".join(yrs(v, f"Chief + 2nd Eng. · {l}") for v, l in zip(c["e"], CR_SUB))
+                + f'{txt(c["junior"], "Junior officers")}{txt(c["english"], "English")}{txt(c["nat"], "Nationalities")}{txt(c["fresh"], "Matrix freshness")}{txt(c["other"], "Other")}</tr>')
     if c["owner"] in RR_OWNER_IDS: rows_cr += f'<tr class="rr-row"><td colspan="14"><div class="rr-stick">{rrbox(c["owner"])}</div></td></tr>'
 none = ", ".join(OWN[k]["name"] for k in CP["crew_none"])
 SUB = '<th scope="col" class="yh">Operator</th><th scope="col" class="yh">Rank</th><th scope="col" class="yh">Type</th><th scope="col" class="yh">All tankers</th>'
@@ -428,7 +452,7 @@ page("compare-crew.html", "Crew-matrix requirements compared: officer experience
      body=pagehead("Compare", "Crew-matrix comparison", "Senior officer experience, English, nationality limits and how fresh the crew matrix must be, by owner.") + subnav("compare-crew.html") + f"""
 <div class="wrap page widepage"><p class="intro">Most owners check the OCIMF officer / crew matrix against combined ("aggregate") experience for the Master + Chief Officer and the Chief Engineer + Second (or First) Engineer. Figures are minimum years: calendar time with the operator, then sea time in rank, on the same tanker type and on all tankers. A dash means the cited source does not set that value.</p>
 {verified_bar()}
-<div class="tablewrap mxwrap"><table class="mx crew"><thead>
+<div class="tablewrap mxwrap mx-cards"><table class="mx crew"><thead>
 <tr><th rowspan="2" scope="col">Owner</th><th colspan="4" scope="colgroup" class="grp">Master + Chief Officer (years)</th><th colspan="4" scope="colgroup" class="grp">Chief Eng. + 2nd / 1st Eng. (years)</th><th rowspan="2" scope="col">Junior officers</th><th rowspan="2" scope="col">English</th><th rowspan="2" scope="col">Nationalities</th><th rowspan="2" scope="col">Matrix freshness</th><th rowspan="2" scope="col">Other</th></tr>
 <tr>{SUB}{SUB}</tr></thead><tbody>{rows_cr}</tbody></table></div>
 <p class="note">No public crew-matrix rules found in the sources reviewed for: {e(none)}. ExxonMobil values come from a 2017 edition on a third-party host and are shown for reference only.</p>
