@@ -113,7 +113,7 @@
   function vbtn(r, v, mv) {
     var on = mv === v, lbl = v === 1 ? 'Matches my experience' : 'Not my experience';
     return '<button type="button" class="rr-vb' + (on ? ' on' : '') + '" data-v="' + v + '"' + (mv ? ' disabled' : '') + ' aria-pressed="' + on + '" title="' + lbl + '">' +
-      '<span aria-hidden="true">' + (v === 1 ? '👍' : '👎') + '</span><span class="sr">' + lbl + '</span><b>' + (v === 1 ? r.up : r.down) + '</b></button>';
+      '<span aria-hidden="true">' + (v === 1 ? '👍' : '👎') + '</span><span class="sr">' + lbl + '</span>' + ((v === 1 ? r.up : r.down) > 0 ? '<b>' + (v === 1 ? r.up : r.down) + '</b>' : '') + '</button>';
   }
   var BY_ID = {};
   function bindVotes(root) {
@@ -155,8 +155,8 @@
       n.textContent = mine.length ? '· ' + mine.length : '· none yet';
       d.classList.toggle('has', mine.length > 0);
       body.innerHTML = demoBanner() +
-        (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">None yet. Faced a requirement here? Add it in a minute.</p>') +
-        '<p class="rr-actions"><a href="reports.html">All reader reports →</a></p>';
+        (mine.length ? mine.map(function (r) { return item(r, false); }).join('') : '<p class="rr-empty">None yet.</p>') +
+        '<p class="rr-actions"><a href="' + post + '">+ Add what you faced</a><span>·</span><a href="reports.html">All reader reports</a></p>';
     });
     var h = location.hash.slice(1), target = h && document.getElementById(h);
     if (target && target.tagName === 'DETAILS') target.open = true;
@@ -170,10 +170,9 @@
   }
   // homepage callout count
   function fillHome(list) {
-    var n = $('#rr-home-n'); if (!n) return;
+    var t = $('#rr-home-t'); if (!t) return;
     var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; }); var k = Object.keys(owners).length;
-    n.textContent = list.length;
-    $('#rr-home-l').textContent = list.length ? 'report' + (list.length === 1 ? '' : 's') + ' · ' + k + ' owner' + (k === 1 ? '' : 's') : 'reports yet · be the first';
+    t.innerHTML = list.length ? '<b id="rr-home-n">' + list.length + '</b> report' + (list.length === 1 ? '' : 's') + ' from members across ' + k + ' owner' + (k === 1 ? '' : 's') + '.' : 'Requirements members met in practice, owner by owner. Be the first to add one.';
   }
   // local demo: keep ?demo on reader-report links so previews stay in demo mode
   function demoLinks(root) {
@@ -205,10 +204,12 @@
       $('#rr-count').textContent = rows.length;
       box.innerHTML = demoBanner() + (order.length ? order.map(function (k) {
         var g = groups[k], o = OWN[g[0].owner_id], other = g[0].owner_id === 'other';
-        return '<section class="rr-group"><header><span class="lc-logo">' + (o && !other ? o.logo : '<span class="olgs fix"><span class="olg fb">' + esc((ownerName(g[0]) || '?').charAt(0)) + '</span></span>') + '</span>' +
-          '<div><h2>' + esc(ownerName(g[0])) + '</h2><span class="rr-lbl">User-declared · not official</span></div>' +
-          (o && !other ? '<a class="rr-off" href="' + esc(o.href) + '">Official criteria →</a>' : '') + '</header>' +
-          '<div class="rr-items">' + g.map(function (r) { return item(r, false); }).join('') + '</div></section>';
+        var ni = g.reduce(function (a, r) { return a + (r.items && r.items.length ? r.items.length : 1); }, 0);
+        return '<details class="rr-group"' + (order.length === 1 ? ' open' : '') + '><summary><span class="lc-logo">' + (o && !other ? o.logo : '<span class="olgs fix"><span class="olg fb">' + esc((ownerName(g[0]) || '?').charAt(0)) + '</span></span>') + '</span>' +
+          '<span class="rr-gn"><b>' + esc(ownerName(g[0])) + '</b><span class="rr-lbl">' + ni + ' requirement' + (ni === 1 ? '' : 's') + '</span></span>' +
+          '<span class="rr-show" aria-hidden="true"></span></summary>' +
+          '<div class="rr-items">' + g.map(function (r) { return item(r, false); }).join('') +
+          (o && !other ? '<p class="rr-actions"><a href="' + esc(o.href) + '">Official criteria for ' + esc(o.name) + ' →</a></p>' : '') + '</div></details>';
       }).join('') : '<div class="rr-none"><p><b>No published reader reports' + (o || c ? ' for this filter' : ' yet') + '.</b></p><p class="note">Reports appear here after a two-step review.</p></div>');
     }
     [fo, fc, fs].forEach(function (x) { if (x) x.addEventListener('change', draw); });
@@ -368,7 +369,7 @@
         $$('details.rr, #rr-list').forEach(bindVotes);
       }).catch(function () {
         $$('details.rr .rr-body').forEach(function (b) { b.innerHTML = '<p class="rr-empty">Reader reports are unavailable right now.</p>'; });
-        var hn = $('#rr-home-n'); if (hn) { hn.textContent = '–'; $('#rr-home-l').textContent = 'reports'; }
+
         var l = $('#rr-list'); if (l) l.innerHTML = '<div class="rr-none"><p>Reader reports are unavailable right now. Please try again later.</p></div>';
       });
     }
