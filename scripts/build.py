@@ -285,7 +285,7 @@ def rrbox(owner_id):  # collapsed "Reported in practice" layer under an owner's 
             f'<span class="rr-n">{rr_count_txt(owner_id)}</span><span class="rr-lbl">User-declared · not official</span></summary>'
             f'<div class="rr-body"><p class="rr-empty">{"Loading…" if n else "None yet."} <a href="submit.html?owner={e(owner_id)}">Add what you faced</a></p></div></details>')
 RR_INVITE = ('<p class="rr-invite" id="rr-home"><span class="rr-mark">Reader reports</span> '
-             f'<span id="rr-home-t">{f"<b id=\"rr-home-n\">{RR_N}</b> report{'s' if RR_N != 1 else ''} from members across {RR_OWNERS_N} owner{'s' if RR_OWNERS_N != 1 else ''}." if RR_N else "Requirements members met in practice, owner by owner."}</span> '
+             f'<span id="rr-home-t">{f"<b id=\"rr-home-n\">{RR_N}</b> report{'s' if RR_N != 1 else ''} from members across {RR_OWNERS_N} {'oil majors &amp; terminals' if RR_OWNERS_N != 1 else 'oil major or terminal'}." if RR_N else "Requirements members met in practice, charterer by charterer."}</span> '
              '<span class="rr-lbl">User-declared · not official.</span> <a href="reports.html">See them</a> · <a href="submit.html">Add what you faced</a></p>')
 
 # ---------- index page ----------
@@ -316,7 +316,7 @@ SAMPLE = (os.path.basename(ISSUES_MD[0])[:-3], _fm(ISSUES_MD[0])) if ISSUES_MD e
 # one source count everywhere: len(sources) (= what the monitor checks); the last run's reachability is shown as part of the same line
 MON_SHORT = (f"last check {fmt_date(last_run)}: {RUN_OK} OK" + (f", {RUN_ERR} unreachable" if RUN_ERR else "")) if last_run else ""
 TRUST = (f'<div class="trustbar"><div class="wrap"><p class="trust">{icon("radar")}<span><b>{len(sources)}</b> public sources watched daily{(" (" + MON_SHORT + ")") if MON_SHORT else ""} · '
-         f'<b>{len(comp["rows"])}</b> owners compared · <b>{len(updates)}</b> reviewed updates · every item sourced</span></p></div></div>')
+         f'<b>{len(comp["rows"])}</b> oil majors &amp; terminals compared · <b>{len(updates)}</b> reviewed updates · every item sourced</span></p></div></div>')
 page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
 <section class="hero"><div class="wrap"><div class="hero-l">
 <span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
@@ -327,11 +327,11 @@ page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_
 </div></section>
 {TRUST}
 <section class="block tight"><div class="wrap two">
-<div><div class="sechead"><div><h2>Check an owner</h2><p class="note">Which owners' public criteria does your ship meet?</p></div></div>
+<div><div class="sechead"><div><h2>Check charterer requirements</h2><p class="note">Which oil majors' and terminals' criteria does your vessel meet?</p></div></div>
 <form class="card vpmini" action="table.html" method="get"><label><span>Vessel type</span><select name="type">{''.join(f'<option value="{k}">{v}</option>' for k, v in TYPES_VP)}</select></label>
 <label><span>Age (years)</span><input name="age" type="number" min="0" max="60" step="0.1" inputmode="decimal" placeholder="e.g. 17" required></label>
 <label><span>DWT</span><input name="dwt" type="number" min="0" step="1" inputmode="numeric" placeholder="e.g. 50000"></label>
-<button class="btn" type="submit">Check owners {icon("arrow")}</button></form>
+<button class="btn" type="submit">Check requirements {icon("arrow")}</button></form>
 <p class="note">Or open the <a href="table.html">requirements table</a>.</p></div>
 <div><div class="sechead"><div><h2>Next dates</h2></div><a href="calendar.html">Calendar →</a></div><ul class="dates">{dates_html}</ul></div>
 </div></section>
@@ -373,9 +373,9 @@ gaps = "".join(f"<li><b>{e(g['owner'])}</b>: {e(g['note'])}</li>" for g in comp[
 LK_JSON = '<script id="vr-lookup" type="application/json">' + json.dumps({k: v["rules"] for k, v in LK.items()}, ensure_ascii=False).replace("</", "<\\/") + '</script>'
 LK_SRC = '<script id="vr-src" type="application/json">' + json.dumps({r["id"]: r["source_url"] for r in comp["rows"]}).replace("</", "<\\/") + '</script>'
 page("table.html", "Who requires what — tanker vetting criteria compared", f"""
-""" + pagehead("Compare", "Who requires what", "Tanker acceptance criteria owner by owner, from cited public documents. Enter your vessel to see where it stands.") + subnav("table.html") + f"""<div class="wrap page widepage">
+""" + pagehead("Compare", "Who requires what", "Tanker acceptance criteria charterer by charterer, from cited public documents. Enter your vessel to see where it stands.") + subnav("table.html") + f"""<div class="wrap page widepage">
 <form class="card vp" id="vp" action="table.html" method="get" novalidate>
-<div class="vp-h"><h2>Check a vessel profile</h2><p class="note">Shows which owners' public criteria the ship meets, fails or where the source can't decide. We never guess: unclear means check the source.</p></div>
+<div class="vp-h"><h2>Check a vessel profile</h2><p class="note">Shows which oil majors' and terminals' public criteria the ship meets, fails or where the source can't decide. We never guess: unclear means check the source.</p></div>
 <div class="vp-f">
 <label><span>Vessel type</span><select name="type" id="vp-type">{''.join(f'<option value="{k}">{v}</option>' for k, v in TYPES_VP)}</select></label>
 <label><span>Age (years)</span><input name="age" id="vp-age" type="number" min="0" max="60" step="0.1" inputmode="decimal" placeholder="e.g. 17"></label>
@@ -384,10 +384,10 @@ page("table.html", "Who requires what — tanker vetting criteria compared", f""
 <label><span>SIRE report age <i>months, optional</i></span><input name="sire" id="vp-sire" type="number" min="0" max="60" step="0.5" inputmode="decimal" placeholder="e.g. 4"></label>
 <div class="vp-b"><button class="btn" type="submit">Check</button><button class="btn light" type="reset" id="vp-clear">Clear</button></div></div>
 <p class="vp-sum" id="vp-sum" aria-live="polite" hidden></p></form>
-<div class="tbar"><input id="q" type="search" placeholder="Search owners or text: e.g. CAP 2, LNG, crew matrix" aria-label="Search"><select id="t" aria-label="Owner type"><option value="">All owner types</option>{''.join(f'<option>{e(t)}</option>' for t in types)}</select>
+<div class="tbar"><input id="q" type="search" placeholder="Search oil majors, terminals or text: e.g. CAP 2, LNG, crew matrix" aria-label="Search"><select id="t" aria-label="Type"><option value="">All types</option>{''.join(f'<option>{e(t)}</option>' for t in types)}</select>
 <span class="note">Showing <b id="cmp-count">{len(comp['rows'])}</b> of {len(comp['rows'])} · <a href="data/comparison.csv">CSV</a> · <a href="data/comparison.json">JSON</a></span></div>
-<p class="vline">{icon("check")}Summaries of public documents, not legal text; owners apply criteria case by case. <b>Always verify at the linked source.</b></p>
-<div class="tablewrap lk"><table id="cmp" class="lk"><thead><tr><th scope="col" class="owner">Owner</th><th scope="col" class="res">Your vessel</th>{''.join(f'<th scope="col">{l}</th>' for _f, _k, l in COLS)}<th scope="col">Source &amp; date</th></tr></thead><tbody>{trs}</tbody></table></div>
+<p class="vline">{icon("check")}Summaries of public documents, not legal text; charterers apply criteria case by case. <b>Always verify at the linked source.</b></p>
+<div class="tablewrap lk"><table id="cmp" class="lk"><thead><tr><th scope="col" class="owner">Oil major / terminal</th><th scope="col" class="res">Your vessel</th>{''.join(f'<th scope="col">{l}</th>' for _f, _k, l in COLS)}<th scope="col">Source &amp; date</th></tr></thead><tbody>{trs}</tbody></table></div>
 <details class="gaps"><summary>Not covered yet ({len(comp['not_found_publicly'])})</summary><ul>{gaps}</ul></details>
 {RR_DISCLAIMER}</div>{RR_JSON}{LK_JSON}{LK_SRC}""", scripts=RR_SCRIPTS + '<script src="lookup.js"></script>')
 
@@ -426,14 +426,14 @@ def ck_card(k):
             f'<a class="note" href="{e(o["url"])}" rel="noopener">{e(o["doc"])}</a></div></header><dl>{dl}</dl></article>')
 ck_cards = "".join(ck_card(k) for k in ck)
 page("compare-checklist.html", "Pre-screening checklist: what oil majors and terminals ask for", section="table.html",
-     desc="The documents and conditions commonly required for oil-major and terminal clearance (SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC, certificates), owner by owner, from public sources.",
-     body=pagehead("Compare", "Pre-screening checklist", "The documents and conditions most often checked before a tanker is cleared, and which owners publicly require each one.") + subnav("compare-checklist.html") + f"""
-<div class="wrap page widepage"><p class="intro">Use this as a checklist before you submit a vessel for clearance: inspection recency, CAP, questionnaire and crew-matrix freshness, PSC record, certificates and TMSA. Each column is one requirement owner; the header links to the public document we read. A dash means the cited source does not say, not that there is no rule.</p>
+     desc="The documents and conditions commonly required for oil-major and terminal clearance (SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC, certificates), charterer by charterer, from public sources.",
+     body=pagehead("Compare", "Pre-screening checklist", "The documents and conditions most often checked before a tanker is cleared, and which oil majors and terminals publicly require each one.") + subnav("compare-checklist.html") + f"""
+<div class="wrap page widepage"><p class="intro">Use this as a checklist before you submit a vessel for clearance: inspection recency, CAP, questionnaire and crew-matrix freshness, PSC record, certificates and TMSA. Each column is one oil major, terminal or vetting scheme; the header links to the public document we read. A dash means the cited source does not say, not that there is no rule.</p>
 {verified_bar()}
 {lvlegend(["req","cond","ns"], LV)}
-<div class="ocards" aria-label="Checklist by owner">{ck_cards}</div>
+<div class="ocards" aria-label="Checklist by oil major or terminal">{ck_cards}</div>
 <div class="tablewrap mxwrap mx-ck"><table class="mx" id="ck"><thead><tr><th class="item" scope="col">Check</th>{''.join(ohead(k) for k in ck)}</tr></thead><tbody>{rows_ck}</tbody></table></div>
-<p class="note mx-hint">Scroll sideways for all {len(ck)} owners. Values are short summaries; size bands, gas carriers and exceptions are in the sources and on the <a href="table.html">requirements table</a>.</p>
+<p class="note mx-hint">Scroll sideways for all {len(ck)} oil majors and terminals. Values are short summaries; size bands, gas carriers and exceptions are in the sources and on the <a href="table.html">requirements table</a>.</p>
 <h2 class="sm">Sources</h2>{srclist(ck)}</div>""")
 
 # b. inspection frequency by age
@@ -442,13 +442,13 @@ rows_fq = ""
 for f in CP["frequency"]:
     tds = "".join(f'<td class="fq {lv}" data-l="{e(b)}"><span>{e(t) if t else "—"}</span></td>' for (lv, t), b in zip(f["cells"], CP["bands"]))
     rows_fq += f'<tr>{ocell(f["owner"], f"<div class=\"note fqn\">{e(f["note"])}</div>" if f.get("note") else "")}{tds}</tr>'
-page("compare-frequency.html", "Inspection frequency by vessel age, owner by owner", section="table.html",
-     desc="How fresh a SIRE or owner inspection must be at each vessel age band, for oil majors, vetting schemes and terminals, from public sources.",
-     body=pagehead("Compare", "Inspection frequency by vessel age", "How recent the SIRE or owner inspection must be as a tanker gets older, and where each owner stops accepting it.") + subnav("compare-frequency.html") + f"""
-<div class="wrap page widepage"><p class="intro">Each row is one requirement owner, each column an age band. Colours show how tight the inspection window is; dark cells mean the owner's published age limit excludes the vessel. Bands are approximate: owners draw the line at slightly different ages (e.g. 10.1 or 15.1 years), so check the exact wording at source.</p>
+page("compare-frequency.html", "Inspection frequency by vessel age, charterer by charterer", section="table.html",
+     desc="How fresh a SIRE or oil-major inspection must be at each vessel age band, for oil majors, vetting schemes and terminals, from public sources.",
+     body=pagehead("Compare", "Inspection frequency by vessel age", "How recent the SIRE or oil-major inspection must be as a tanker gets older, and where each charterer stops accepting it.") + subnav("compare-frequency.html") + f"""
+<div class="wrap page widepage"><p class="intro">Each row is one oil major, terminal or vetting scheme, each column an age band. Colours show how tight the inspection window is; dark cells mean the charterer's published age limit excludes the vessel. Bands are approximate: charterers draw the line at slightly different ages (e.g. 10.1 or 15.1 years), so check the exact wording at source.</p>
 {verified_bar()}
 <div class="lvlegend fqlegend" aria-label="Legend">{''.join(f'<span><i class="fq {k}"></i>{e(v)}</span>' for k, v in FQ.items())}</div>
-<div class="tablewrap mxwrap mx-cards"><table class="mx fqt"><thead><tr><th scope="col">Owner</th>{''.join(f'<th scope="col" class="band">{e(b)}</th>' for b in CP["bands"])}</tr></thead><tbody>{rows_fq}</tbody></table></div>
+<div class="tablewrap mxwrap mx-cards"><table class="mx fqt"><thead><tr><th scope="col">Oil major / terminal</th>{''.join(f'<th scope="col" class="band">{e(b)}</th>' for b in CP["bands"])}</tr></thead><tbody>{rows_fq}</tbody></table></div>
 <p class="note">Oil and chemical tankers above 5,000 dwt unless noted. Gas carriers and small tankers often have higher age limits; see the sources.</p>
 <h2 class="sm">Sources</h2>{srclist([f["owner"] for f in CP["frequency"]])}</div>""")
 
@@ -486,15 +486,15 @@ for c in CP["crew"]:
 none = ", ".join(OWN[k]["name"] for k in CP["crew_none"])
 SUB = '<th scope="col" class="yh">Operator</th><th scope="col" class="yh">Rank</th><th scope="col" class="yh">Type</th><th scope="col" class="yh">All tankers</th>'
 page("compare-crew.html", "Crew-matrix requirements compared: officer experience, English, nationalities", section="table.html",
-     desc="Officer experience minimums (years with operator, in rank, on type), English, nationality limits and crew-matrix freshness, owner by owner, from public sources.",
-     body=pagehead("Compare", "Crew-matrix comparison", "Senior officer experience, English, nationality limits and how fresh the crew matrix must be, by owner.") + subnav("compare-crew.html") + f"""
-<div class="wrap page widepage"><p class="intro">Most owners check the OCIMF officer / crew matrix against combined ("aggregate") experience for the Master + Chief Officer and the Chief Engineer + Second (or First) Engineer. Figures are minimum years: calendar time with the operator, then sea time in rank, on the same tanker type and on all tankers. A dash means the cited source does not set that value.</p>
+     desc="Officer experience minimums (years with operator, in rank, on type), English, nationality limits and crew-matrix freshness, charterer by charterer, from public sources.",
+     body=pagehead("Compare", "Crew-matrix comparison", "Senior officer experience, English, nationality limits and how fresh the crew matrix must be, per oil major.") + subnav("compare-crew.html") + f"""
+<div class="wrap page widepage"><p class="intro">Most oil majors check the OCIMF officer / crew matrix against combined ("aggregate") experience for the Master + Chief Officer and the Chief Engineer + Second (or First) Engineer. Figures are minimum years: calendar time with the operator, then sea time in rank, on the same tanker type and on all tankers. A dash means the cited source does not set that value.</p>
 {verified_bar()}
 <div class="tablewrap mxwrap mx-cards"><table class="mx crew"><thead>
-<tr><th rowspan="2" scope="col">Owner</th><th colspan="4" scope="colgroup" class="grp">Master + Chief Officer (years)</th><th colspan="4" scope="colgroup" class="grp">Chief Eng. + 2nd / 1st Eng. (years)</th><th rowspan="2" scope="col">Junior officers</th><th rowspan="2" scope="col">English</th><th rowspan="2" scope="col">Nationalities</th><th rowspan="2" scope="col">Matrix freshness</th><th rowspan="2" scope="col">Other</th></tr>
+<tr><th rowspan="2" scope="col">Oil major / terminal</th><th colspan="4" scope="colgroup" class="grp">Master + Chief Officer (years)</th><th colspan="4" scope="colgroup" class="grp">Chief Eng. + 2nd / 1st Eng. (years)</th><th rowspan="2" scope="col">Junior officers</th><th rowspan="2" scope="col">English</th><th rowspan="2" scope="col">Nationalities</th><th rowspan="2" scope="col">Matrix freshness</th><th rowspan="2" scope="col">Other</th></tr>
 <tr>{SUB}{SUB}</tr></thead><tbody>{rows_cr}</tbody></table></div>
 <p class="note">No public crew-matrix rules found in the sources reviewed for: {e(none)}. ExxonMobil values come from a 2017 edition on a third-party host and are shown for reference only.</p>
-{f'<p class="note">Members have shared crew-matrix requirements they met for {RR_OWNERS_N} owners: see <a href="reports.html">reader reports</a>.</p>' if RR_OWNERS_N else ''}
+{f'<p class="note">Members have shared crew-matrix requirements they met for {RR_OWNERS_N} oil majors and terminals: see <a href="reports.html">reader reports</a>.</p>' if RR_OWNERS_N else ''}
 <h2 class="sm">Sources</h2>{srclist([c["owner"] for c in CP["crew"]])}{RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
 # ---------- reader reports pages ----------
@@ -512,10 +512,10 @@ def rr_join(title, lede):
 
 page("reports.html", "Reader reports: requirements members met in practice", section="reports.html",
      desc="Requirements tanker people say they met in practice, shared by members, reviewed before publishing, and kept separate from official vetting criteria.",
-     body=pagehead(RR_KICK, "Reader reports", "Requirements members met in practice, owner by owner. Reviewed before publishing, never official.", "rr-head") + subnav("reports.html") + f"""
-<div class="wrap page rr-page"><div class="rr-top"><p class="intro">{f"{RR_N} reports across {RR_OWNERS_N} owners. " if RR_N else ""}Open an owner to see what members met. Vote if it matches yours.</p>
+     body=pagehead(RR_KICK, "Reader reports", "Requirements members met in practice, charterer by charterer. Reviewed before publishing, never official.", "rr-head") + subnav("reports.html") + f"""
+<div class="wrap page rr-page"><div class="rr-top"><p class="intro">{f"{RR_N} reports across {RR_OWNERS_N} oil majors and terminals. " if RR_N else ""}Open an oil major or terminal to see what members met. Vote if it matches yours.</p>
 <a class="btn sm rr-o" href="submit.html">+ Add what you faced</a></div>
-<div class="rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Owner"><option value="">All owners</option>{_oopts}<option value="other">Other</option></select><span class="note"><b id="rr-count">0</b> reports</span></div>
+<div class="rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Oil major or terminal"><option value="">All oil majors &amp; terminals</option>{_oopts}<option value="other">Other</option></select><span class="note"><b id="rr-count">0</b> reports</span></div>
 <div id="rr-list">{RR_SOON}</div>
 {RR_DISCLAIMER}</div>{RR_JSON}""", scripts=RR_SCRIPTS)
 
@@ -576,7 +576,7 @@ cats = sorted({s["category"] for s in sources})
 page("sources.html", "Sources watched", pagehead("Sources", f"{len(sources)} public sources, checked daily", "Each page or PDF is fetched, its text hashed and compared with the last snapshot.") + f"""<div class="wrap page">
 <div class="controls"><input id="sq" type="search" placeholder="Search sources…"><select id="sc"><option value="">All categories</option>{''.join(f'<option value="{c}">{e(CAT.get(c,c))}</option>' for c in cats)}</select></div>
 <p class="note">Showing <b id="src-count">{len(sources)}</b> · Machine-readable: <a href="data/sources.json">sources.json</a></p>
-<div class="tablewrap"><table id="src"><thead><tr><th>Source</th><th>Owner</th><th>Category</th><th>Type</th><th>Status</th><th>Last checked (Athens)</th><th>URL verified</th></tr></thead><tbody>{rows}</tbody></table></div></div>
+<div class="tablewrap"><table id="src"><thead><tr><th>Source</th><th>Published by</th><th>Category</th><th>Type</th><th>Status</th><th>Last checked (Athens)</th><th>URL verified</th></tr></thead><tbody>{rows}</tbody></table></div></div>
 <script>document.addEventListener('DOMContentLoaded',()=>vrFilter('src','sq','sc','cat'));</script>""")
 
 # ---------- newsletter ----------
@@ -621,7 +621,7 @@ page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar"
 <h2>Disclaimer</h2>
 <div class="notice"><p style="margin-top:0"><b>Independent.</b> Vetting Radar is not affiliated with, endorsed by or speaking for OCIMF, CDI, RightShip, INTERTANKO, any oil major, terminal, port authority, PSC regime, or the editor's employer.</p>
 <p><b>Public information only.</b> Content is compiled solely from publicly available documents. No confidential SIRE/CDI reports, inspection data, charterer correspondence or employer information is used or accepted.</p>
-<p><b>No advice, no guarantee.</b> Summaries can be incomplete or out of date; owners apply their criteria case by case and may change them without notice. Nothing here is legal, commercial or technical advice.</p>
+<p><b>No advice, no guarantee.</b> Summaries can be incomplete or out of date; charterers and terminals apply their criteria case by case and may change them without notice. Nothing here is legal, commercial or technical advice.</p>
 <p><b>Logos.</b> Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p>
 <p style="margin-bottom:0"><b>Verify at source.</b> Every item links to its source and shows the date it was verified. Always check the source before acting.</p></div>
 <h2>Corrections</h2><p>Spotted an error or a stale value? Email <a href="mailto:customer@vettingradar.com?subject=Correction">customer@vettingradar.com</a> (subject "Correction").</p></div>""")

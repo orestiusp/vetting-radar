@@ -166,13 +166,13 @@
   function fillStrip(list) {
     var s = $('#rr-strip'); if (!s) return;
     var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; });
-    $('.rr-strip-n', s).textContent = list.length ? list.length + ' report' + (list.length === 1 ? '' : 's') + ' across ' + Object.keys(owners).length + ' owner' + (Object.keys(owners).length === 1 ? '' : 's') + '.' : 'No reports yet. Be the first.';
+    $('.rr-strip-n', s).textContent = list.length ? list.length + ' report' + (list.length === 1 ? '' : 's') + ' across ' + Object.keys(owners).length + (Object.keys(owners).length === 1 ? ' oil major or terminal' : ' oil majors & terminals') + '.' : 'No reports yet. Be the first.';
   }
   // homepage callout count
   function fillHome(list) {
     var t = $('#rr-home-t'); if (!t) return;
     var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; }); var k = Object.keys(owners).length;
-    t.innerHTML = list.length ? '<b id="rr-home-n">' + list.length + '</b> report' + (list.length === 1 ? '' : 's') + ' from members across ' + k + ' owner' + (k === 1 ? '' : 's') + '.' : 'Requirements members met in practice, owner by owner. Be the first to add one.';
+    t.innerHTML = list.length ? '<b id="rr-home-n">' + list.length + '</b> report' + (list.length === 1 ? '' : 's') + ' from members across ' + k + (k === 1 ? ' oil major or terminal' : ' oil majors &amp; terminals') + '.' : 'Requirements members met in practice, charterer by charterer. Be the first to add one.';
   }
   // local demo: keep ?demo on reader-report links so previews stay in demo mode
   function demoLinks(root) {
@@ -192,7 +192,7 @@
     var keys = {}; list.forEach(function (r) { keys[okey(r)] = ownerName(r); });
     var ks = Object.keys(keys).sort(function (a, b) { var ia = OWNERS.findIndex(function (x) { return x.id === a; }), ib = OWNERS.findIndex(function (x) { return x.id === b; });
       return (ia < 0 ? 999 : ia) - (ib < 0 ? 999 : ib) || keys[a].localeCompare(keys[b]); });
-    fo.innerHTML = '<option value="">All owners (' + ks.length + ')</option>' + ks.map(function (k) { return '<option value="' + esc(k) + '">' + esc(keys[k]) + '</option>'; }).join('');
+    fo.innerHTML = '<option value="">All oil majors &amp; terminals (' + ks.length + ')</option>' + ks.map(function (k) { return '<option value="' + esc(k) + '">' + esc(keys[k]) + '</option>'; }).join('');
     var pre = QS.get('owner'); if (pre && fo) fo.value = pre;
     function draw() {
       var o = fo.value, c = fc ? fc.value : '', hideStale = fs && fs.checked;

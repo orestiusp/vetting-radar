@@ -32,7 +32,7 @@ issue: 1
 
 ## Who requires what: quick reference
 
-| Owner | Max age (oil/chem tanker) | SIRE age | CAP trigger |
+| Oil major / vetting scheme | Max age (oil/chem tanker) | SIRE age | CAP trigger |
 |---|---|---|---|
 | bp | 20 yrs (>5,000 dwt) | < 6 months | CAP 2, >20k dwt, from 15 yrs* |
 | ADNOC PPA | 20 yrs (>5,000 DWT) | ≤ 6 months + ADNOC SIRE ≤ 24 months | CAP 2 hull, >15 yrs & >20k DWT |
