@@ -1,0 +1,16 @@
+{
+ "_about": "Paris MoU deficiency codes used by data/lessons.json, with descriptions from the Paris MoU List of Deficiency Codes (1 July 2026), https://parismou.org/download/2556/ , checked 19 Oct 2026.",
+ "codes": {
+  "03108": "Ventilators, air pipes, casings",
+  "04118": "Enclosed space entry and rescue drills",
+  "10109": "Lights, shapes, sound-signals",
+  "10113": "Automatic Identification System (AIS)",
+  "10133": "Bridge operation",
+  "13101": "Propulsion main engine",
+  "13108": "Operation of machinery",
+  "15150": "ISM",
+  "18201": "Fitness for duty - work and rest hours",
+  "18410": "Gas instruments",
+  "18416": "Mooring Ropes/Lines and Wires"
+ }
+}

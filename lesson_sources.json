@@ -1,0 +1,11 @@
+{
+  "_about": "Feeds watched for NEW SAFETY-LESSON CANDIDATES only. Kept apart from sources.json so they do not count as vetting-rule sources and are not diffed. Nothing found here is ever published automatically: candidates land in data/lesson_candidates.json for a person to read the report, draft a lesson in our own words and approve it.",
+  "feeds": [
+    {"id": "maib", "name": "UK MAIB investigation reports", "body": "UK Marine Accident Investigation Branch", "source_type": "investigation", "url": "https://www.gov.uk/maib-reports.atom"},
+    {"id": "sg-tsib", "name": "Singapore TSIB marine reports", "body": "Transport Safety Investigation Bureau, Singapore", "source_type": "investigation", "url": "https://www.mot.gov.sg/what-we-do/transport-investigations/marine/marine-reports/rss.xml"},
+    {"id": "no-nsia", "name": "Norway NSIA (marine only)", "body": "Norwegian Safety Investigation Authority", "source_type": "investigation", "url": "https://nsia.no/rss?lcid=1033&type=0", "link_contains": "/Marine/"},
+    {"id": "ocimf-info", "name": "OCIMF information papers", "body": "OCIMF", "source_type": "industry", "url": "https://www.ocimf.org/publications/information-papers?format=feed&type=rss"},
+    {"id": "swedish-club", "name": "The Swedish Club news", "body": "The Swedish Club", "source_type": "pandi", "url": "https://www.swedishclub.com/feed/tsc-all-news/"},
+    {"id": "ukpandi-circulars", "name": "UK P&I Club circulars", "body": "UK P&I Club", "source_type": "pandi", "url": "https://www.ukpandi.com/news-and-resources/circulars/rss"}
+  ]
+}
