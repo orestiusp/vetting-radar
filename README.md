@@ -36,6 +36,6 @@ fills in `summary`/`significance` and sets both flags to true.
 - Each lesson gets `lessons/<id>.html` and a one-page toolbox talk `lessons/<id>-toolbox.html` (+ `.pdf` when headless Chrome is available).
   It also gets the hub `lessons.html`, the policy `lessons-policy.html` and `data/lessons.json`. A newsletter "Lesson of the week" snippet is written to `newsletter/snippets/`.
 - The build prints `lessons check:` warnings (never a build failure): missing fields, unknown SIRE/PSC tags, possible vessel names in our text, "owner" wording, and more than 2 new lessons in one ISO week. The 14 launch lessons (approved together on 2026-10-19) carry `"launch_batch": true` and are exempt from the weekly cap; do not set it on later additions.
-- Editor `review_notes` are never rendered in the live build (only in `--preview` for unapproved drafts) and are stripped from `dist/data/lessons.json`.
+- Editor review notes are private: they live in `data/private/lessons_review_notes.json` (git-ignored, `{"<lesson id>": ["note", ...]}`), are read only by `--preview` builds (shown in the lesson sidebar), and never reach the repo, the live build or `dist/data/lessons.json`. Keep a backup outside the repo; GitHub Actions never sees them.
 - `lesson_sources.json` + `scripts/lesson_candidates.py`: the daily monitor collects new report links from MAIB, TSIB, NSIA, OCIMF, the Swedish Club and UK P&I into `data/lesson_candidates.json`.
   These are a queue only and are never published automatically.

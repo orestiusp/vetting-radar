@@ -134,7 +134,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}calendar.html">Calendar</a></li>{f'<li><a href="{pre}lessons.html">Safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}newsletter.html">Newsletter</a></li><li><a href="{pre}sources.html">Sources</a></li></ul></div>
 <div><h4>Compare</h4><ul>{cmp_links}</ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li>{f'<li><a href="{pre}lessons-policy.html">How we write safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li><li><a href="{pre}data/updates.json">Updates (JSON)</a></li></ul></div>
-</div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
+</div><div class="fine"><span>© {TODAY.year} Vetting Radar · Run by Orestis Perilis, Tanker Vetting Manager · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
     doc = doc.replace('<meta charset="utf-8">', '<meta charset="utf-8">' + _security_meta(doc, csp), 1)  # CSP first, before any script
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -626,11 +626,12 @@ page("sponsor.html", "Sponsor Vetting Radar", pagehead("Sponsor", "Sponsor Vetti
 # ---------- about ----------
 page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar", "Independent, free and built only from public documents.") + f"""<div class="wrap page prose">
 <p>Vetting Radar is an independent, free tracker of public tanker-vetting rulebooks. It watches {len(sources)} public pages and documents (OCIMF, CDI, RightShip, oil-major clearance pages, terminal and port notices, PSC MoUs, INTERTANKO public news, IMO) and reports what changed, with a link and date on every data point.</p>
+<h2>Who runs Vetting Radar</h2><p>Vetting Radar is run by Orestis Perilis, a Tanker Vetting Manager. It's an independent personal project built on public sources only, and isn't affiliated with or endorsed by any employer, oil major, terminal or vetting scheme.</p>
 <h2>How it works</h2><ol><li>A script fetches each source, extracts the text (PDFs via pdftotext), stores a snapshot and a SHA-256 hash.</li>
 <li>On the next run it diffs against the last snapshot. Any change creates a change record with the diff excerpt.</li>
 <li>A human reviews each change, writes a one-paragraph summary, and decides whether it goes into the feed and newsletter.</li></ol>
 <h2>Disclaimer</h2>
-<div class="notice"><p style="margin-top:0"><b>Independent.</b> Vetting Radar is not affiliated with, endorsed by or speaking for OCIMF, CDI, RightShip, INTERTANKO, any oil major, terminal, port authority, PSC regime, or the editor's employer.</p>
+<div class="notice"><p style="margin-top:0"><b>Independent.</b> Vetting Radar is not affiliated with, endorsed by or speaking for OCIMF, CDI, RightShip, INTERTANKO, any oil major, terminal, port authority, PSC regime or employer.</p>
 <p><b>Public information only.</b> Content is compiled solely from publicly available documents. No confidential SIRE/CDI reports, inspection data, charterer correspondence or employer information is used or accepted.</p>
 <p><b>No advice, no guarantee.</b> Summaries can be incomplete or out of date; charterers and terminals apply their criteria case by case and may change them without notice. Nothing here is legal, commercial or technical advice.</p>
 <p><b>Logos.</b> Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p>

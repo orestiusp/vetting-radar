@@ -27,11 +27,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": "2026-10-19",
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Written from the Board's English report page (summary, four failed barriers, eight recommendations); the full PDF was not read line by line.",
-        "4.3 (bridge team) is our mapping for the master-pilot agreement; 4.2 Navigational Procedures could also fit.",
-        "PSC 18416 is indicative only: line condition was not the main finding."
-      ],
       "id": "mooring-spring-parted-lock-entry-2018",
       "title": "Spring line parted under sudden load during a lock entry: one fatality",
       "summary3": "A chemical tanker was entering a sea lock when a forward spring that had just been paid out came under heavy load. The mooring team could not react in time, the line parted and the part still on the winch whipped back and killed a crew member. The investigators found four safety barriers that failed on the day.",
@@ -101,11 +96,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the GOV.UK summary and the report's Section 3 conclusions (PDF).",
-        "Severity set to 'damage' (vessel lost); the page does not report fatalities.",
-        "PSC 10133 Bridge operation is indicative only."
-      ],
       "id": "collision-tanker-fishing-vessel-confined-waters-2024",
       "title": "Tanker and trawler collision in confined waters: assumptions replaced action",
       "summary3": "A crude oil tanker and a stern trawler towing its fishing gear collided in a firth, and the fishing vessel sank. Neither vessel took enough action to avoid the collision under the collision regulations until it was almost unavoidable. Assumptions about what the other vessel would do, and a feeling that there was little room to manoeuvre, meant the tanker's watchkeepers took no effective avoiding action.",
@@ -171,12 +161,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the GOV.UK page, the synopsis and Section 3 conclusions (PDF).",
-        "Severity: two crew and fifteen emergency responders were injured (minor for the crew); set to 'damage' - please confirm.",
-        "5.7 Safety Management is our guess for fleet near-miss sharing; unsure whether OCIMF would place this under 2.7 Safety Management System instead.",
-        "No close Paris MoU deficiency code found; left blank rather than guess."
-      ],
       "id": "styrene-runaway-polymerisation-heat-transfer-2019",
       "title": "Styrene tank ruptured after runaway polymerisation: heat came from cargo two tanks away",
       "summary3": "An inhibited styrene monomer cargo on a chemical tanker started to polymerise, the tank ruptured at a berth, and the released vapour ignited, causing explosions and a long fire. The cargo had been warmed for most of the voyage by heat passing from heated cargo through an intermediate tank, which used up the inhibitor faster than expected. The crew did not monitor the styrene temperature, so they did not see the danger building.",
@@ -246,12 +230,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Report dated March 2010 on its cover; the GOV.UK page shows 23 Jan 2015, which looks like a web migration date. We show March 2010.",
-        "Older report (2009 accident): OCIMF guidance on STS service providers and the STS Transfer Guide have changed since; check the lessons still read as current.",
-        "Vessel types 'crude, product' assumed from 'oil tankers' - the report summary does not say which. Please confirm or change to 'all tankers'.",
-        "PSC 13101 Propulsion main engine is indicative only."
-      ],
       "id": "sts-separation-engine-failed-to-start-2009",
       "title": "Tankers collided while separating after an STS transfer: engine failed to start",
       "summary3": "Two tankers collided at very low speed while separating at the end of a ship-to-ship transfer at an offshore STS area. One ship's main engine failed to start when ordered ahead, and both ships tried to manoeuvre clear, but they were already too close. There was no procedure for an engine failure, and two breakdowns in communication slowed the response.",
@@ -322,12 +300,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the NSIA report page (summary and all 15 recommendations). Report cover says 'Issued November 2019'; exact day not checked.",
-        "The other vessel was a naval frigate; our text calls it a warship and does not name it.",
-        "Unsure whether deck lights masking navigation lights sits in SIRE 2.0 4.1 (navigation equipment/lights) or 4.2 (procedures); tagged both.",
-        "Severity 'damage': seven people on the other vessel had minor injuries and there was a small oil spill."
-      ],
       "id": "tanker-deck-lights-hid-navigation-lights-2018",
       "title": "Deck lights hid a departing tanker's navigation lights: collision with a warship",
       "summary3": "A loaded crude oil tanker leaving a terminal at night under pilotage was struck by a warship that was heading south at speed with its AIS not transmitting. The warship's bridge team believed the tanker's strong lights were a fixed object and did not realise they were on a collision course. The tanker's forward-facing deck lights made its navigation lights and warning signals harder to see.",
@@ -397,12 +369,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the OCIMF bulletin page and the bulletin PDF (purpose, contributory factors, learnings, note to inspectors).",
-        "The bulletin itself points inspectors to VIQ chapter 4 (Navigation); we mapped this to SIRE 2.0 sections 4.1-4.3.",
-        "Vessel type: the tanker carried condensate; filed under 'crude' for filtering - please confirm.",
-        "The underlying official report is by China MSA; we link to OCIMF's bulletin, which is the document we read."
-      ],
       "id": "give-way-tanker-crossing-collision-ais-reliance-2018",
       "title": "Over-reliance on AIS in a crossing situation: tanker collision, fire and 32 lives lost",
       "summary3": "A loaded condensate tanker, the give-way vessel in a crossing situation, collided with a bulk carrier at night in open water. The tanker's cargo tanks were breached, leading to fire, explosions and the loss of the ship with all 32 crew. Industry analysis found that both ships broke key collision rules, leaned too much on AIS and did not use radar plotting well.",
@@ -474,11 +440,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the full NTSB Marine Accident Brief (PDF).",
-        "The NTSB gives an equipment cause; the key lessons on response are our own, drawn from the sequence of events in the brief. Check they don't read as blame.",
-        "Severity 'pollution' (about 88,000 US gallons of gas oil spilled and burned; two pilots had minor burns)."
-      ],
       "id": "loss-of-engine-control-astern-allision-fire-2016",
       "title": "Engine kept running astern after 'stop': tanker hit mooring dolphins and spilled fuel",
       "summary3": "A crude oil tanker in ballast was leaving a berth with two pilots and two tugs when its main engine went to a much higher astern speed than ordered and did not answer the telegraph. The ship struck mooring dolphins, a fuel tank was punctured, and the spilled gas oil caught fire and burned for about 45 minutes. The engine stopped only when the chief engineer took control and pressed the emergency stop in the engine control room.",
@@ -550,12 +511,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the full TSIB final report (PDF): synopsis, conclusions and recommendations.",
-        "Topic filed under 'Machinery' (defects and maintenance); 'Personal safety' or a future 'Stability' topic could also fit.",
-        "Vessel type 'all tankers': the report says oil tanker but not crude or product.",
-        "SIRE chapter 11 (General Appearance and Condition) may also apply to the hull and deck defects."
-      ],
       "id": "unfit-coastal-tanker-sank-defects-not-fixed-2025",
       "title": "Small tanker sailed with known defects and sank: the master's overriding authority",
       "summary3": "A small, old coastal oil tanker with very low freeboard was sailing to an STS location when seawater came on deck, entered a ballast tank through a broken air vent and the engine room through a corroded pipe, and the ship took a list. The ballast pump did not work, both generators then failed, and the ship lost power and steering and later sank; all eight crew were rescued. The investigators found that the defects were known before the voyage and that the master did not use his overriding authority to stop it.",
@@ -628,11 +583,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the full TSIB final report (PDF): synopsis and conclusions.",
-        "Fatigue / hours of rest: unsure whether this sits in SIRE 2.0 chapter 3 (crew) or 4.3; tagged 4.3 only - please check.",
-        "The fatality was a shore worker on the anchored tanker, not crew of either ship."
-      ],
       "id": "oow-left-wheelhouse-fatigue-collision-anchored-tanker-2024",
       "title": "Tired OOW left the wheelhouse for paperwork: collision with an anchored tanker and fire",
       "summary3": "A product/chemical tanker on passage at dawn tried to pass between an anchored tanker and another ship less than a mile apart and collided with the anchored ship. Cargo and fuel escaped and caught fire on both ships; two shore workers on the anchored tanker were badly burned and one later died. The officer of the watch was in the chartroom doing reports, had slept about two hours in the previous day and a half after joining, and the radar CPA alarms were silenced or switched off.",
@@ -706,12 +656,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the full TSIB final report (PDF): synopsis and conclusions.",
-        "Autopsy report was not available to the investigators; cause of death is the investigators' likely explanation.",
-        "Unsure whether gas-freeing on an oil/chemical tanker maps best to SIRE 2.0 8.3 (Oil and Chemical) or 8.2 (Chemicals); tagged 8.3.",
-        "PSC 18410 Gas instruments is indicative only."
-      ],
       "id": "gas-freeing-air-chute-lookout-sent-on-deck-2022",
       "title": "Gas-freeing on deck at night: crew member overcome by nitrogen and cargo vapour",
       "summary3": "After tank cleaning on a chemical tanker, the lookout was sent from the bridge, alone and in the dark, to move a portable air chute from one cargo tank to another during gas-freeing. He was later found unconscious on deck and could not be revived. The investigators found that tank hatches were open instead of venting through the approved system, gas levels were not checked, and gas-freeing had no risk assessment or toolbox talk.",
@@ -785,11 +729,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the full TSIB final report (PDF): synopsis and conclusions.",
-        "Vessel type 'all tankers': the report says oil tanker but not crude or product.",
-        "4.4 Communications is our mapping for VTS communication; please check."
-      ],
       "id": "tss-crossing-tug-and-tow-collision-brm-2023",
       "title": "Collision with a tug and tow crossing a traffic scheme: watch level and visual bearings",
       "summary3": "A tanker in ballast heading for a pilot boarding ground collided with a loaded barge being towed across a traffic separation scheme in clear weather. The barge was holed and the tanker's ballast tank ruptured. The investigators found that neither the tanker nor the tug followed the collision rules or used compass bearings to judge the risk, and that the tanker's bridge was manned below the level its own SMS required.",
@@ -859,12 +798,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the full TSIB final report (PDF): synopsis and conclusions.",
-        "The ship that lost control was not a tanker; the lesson is transferable (machinery, permits, handover). The struck bunker tanker spilled cargo.",
-        "Topic 'Machinery' chosen; 'Pollution' would also fit. Last key lesson and check item (for tankers alongside) are our own addition, not from the report - keep or drop?",
-        "9.3 tagged for emergency anchor readiness; unsure this is how an inspector would see it."
-      ],
       "id": "blackout-after-breakers-left-open-struck-bunker-tanker-2024",
       "title": "Breakers left open after maintenance: blackout, loss of control and a bunker tanker holed",
       "summary3": "A large dredger leaving an anchorage lost electrical power, steering and pitch control and, still turning at about 8 knots, struck a bunker tanker lying alongside a container ship. The tanker's hull was breached and its cargo oil caused severe pollution. Two circuit breakers opened for an inspection on the earlier shift had not been closed again, and the next shift did not know.",
@@ -935,12 +868,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the Casebook chapter PDF (case 3.1 and 'What can we learn?').",
-        "Publication date not printed on the page; '2024-01' is taken from the file's upload path. The case itself is anonymised and undated.",
-        "Commercial / cargo-claim lesson rather than a safety incident: keep it in 'Safety lessons'?",
-        "The club's text mentions the owner's chartering department; our text avoids that wording."
-      ],
       "id": "chemical-cargo-contaminated-by-tank-coating",
       "title": "Off-spec cargo traced to the tank coating: previous cargo absorbed and released",
       "summary3": "A chemical tanker loaded mixed xylenes after two voyages carrying ethylene dichloride and cleaning its tanks, and the whole cargo was found off-specification for chlorides at discharge. The investigation pointed to the phenolic epoxy tank coating, which can absorb solvent-like cargoes and release them later, made worse by coating damage. The cargo was sold at a large loss.",
@@ -1008,11 +935,6 @@
       "vr_published": "2026-10-19",
       "lesson_of_week": null,
       "checked_on": "2026-10-19",
-      "review_notes": [
-        "Read the GOV.UK summary and the report's Section 3 conclusions (PDF).",
-        "Not a tanker: kept as a transferable enclosed-space lesson (pump rooms, voids, terminal staff on board). Drop if you want tanker-only lessons.",
-        "The 'never enter to rescue without BA' lesson is general good practice, not a specific report finding."
-      ],
       "id": "enclosed-space-cargo-access-third-parties-2022",
       "title": "Three shore workers died in an oxygen-depleted space: control access for all on board",
       "summary3": "During cargo loading at an anchorage, a shore worker went down the wrong cargo hold access hatch into an oxygen-depleted space high in hydrogen sulphide and collapsed. Two colleagues who went in to help also collapsed, and all three died. The access hatches were not locked, the atmosphere was not tested, and the workers had not been trained on enclosed space dangers.",
