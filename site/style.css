@@ -704,3 +704,5 @@ details.clip .cf{display:block}
   .mx-cards table.crew td.yr{background:transparent;text-align:left;font-size:var(--fs-md)}
   .tscroll:has(.mx-cards)::after,.tscroll:has(.lk)::after{display:none}
 }
+/* footer bottom line: each part keeps together, so on phones it wraps between parts, never inside one */
+footer.site .fine .fi{white-space:nowrap}

@@ -108,6 +108,11 @@ def _security_meta(doc, kind):
     csp = "; ".join((k + " " + v).strip() for k, v in pol.items())
     ref = "same-origin" if kind == "session" else "strict-origin-when-cross-origin"
     return f'<meta http-equiv="Content-Security-Policy" content="{csp}"><meta name="referrer" content="{ref}">' + (FRAMEBUST if kind == "session" else "")
+# Contact address (footer on every page + About). Light anti-scraper measure without JS: the address is written as HTML character
+# references in both the mailto: href and the text, so it shows and works normally in browsers but is not a plain-text match in the source.
+CONTACT_EMAIL = "admin@vettingradar.com"
+_CONTACT_ENC = "".join(f"&#{ord(c)};" for c in CONTACT_EMAIL)
+CONTACT_LINK = f'<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;{_CONTACT_ENC}">{_CONTACT_ENC}</a>'
 def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts="", stats=True, csp="site", cta="Subscribe"):
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
@@ -139,7 +144,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}calendar.html">Calendar</a></li>{f'<li><a href="{pre}lessons.html">Safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}newsletter.html">Newsletter</a></li><li><a href="{pre}sources.html">Sources</a></li></ul></div>
 <div><h4>Vetting Rules</h4><ul>{cmp_links}</ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li>{f'<li><a href="{pre}lessons-policy.html">How we write safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li><li><a href="{pre}data/updates.json">Updates (JSON)</a></li></ul></div>
-</div><div class="fine"><span>© {TODAY.year} Vetting Radar · Run by Orestis Perilis, Tanker Vetting Manager · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
+</div><div class="fine"><span class="fl"><span class="fi">© {TODAY.year} Vetting Radar</span> · <span class="fi">Run by Orestis Perilis, Tanker Vetting Manager</span> · <span class="fi">{CONTACT_LINK}</span> · <span class="fi">Public sources only</span></span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
     doc = doc.replace('<meta charset="utf-8">', '<meta charset="utf-8">' + _security_meta(doc, csp), 1)  # CSP first, before any script
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -717,6 +722,7 @@ page("sponsor.html", "Sponsor Vetting Radar", pagehead("Sponsor", "Sponsor Vetti
 page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar", "Independent, free and built only from public documents.") + f"""<div class="wrap page prose">
 <p>Vetting Radar is an independent, free tracker of public tanker-vetting rulebooks. It watches {len(sources)} public pages and documents (OCIMF, CDI, RightShip, oil-major clearance pages, terminal and port notices, PSC MoUs, INTERTANKO public news, IMO) and reports what changed, with a link and date on every data point.</p>
 <h2>Who runs Vetting Radar</h2><p>Vetting Radar is run by Orestis Perilis, a Tanker Vetting Manager. It's an independent personal project built on public sources only, and isn't affiliated with or endorsed by any employer, oil major, terminal or vetting scheme.</p>
+<h2>Contact</h2><p>Questions, suggestions or something we should track? Email {CONTACT_LINK}. For corrections to a specific item, see <a href="#corrections">Corrections</a> below.</p>
 <h2>How it works</h2><ol><li>A script fetches each source, extracts the text (PDFs via pdftotext), stores a snapshot and a SHA-256 hash.</li>
 <li>On the next run it diffs against the last snapshot. Any change creates a change record with the diff excerpt.</li>
 <li>A human reviews each change, writes a one-paragraph summary, and decides whether it goes into the feed and newsletter.</li></ol>
@@ -726,7 +732,7 @@ page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar"
 <p><b>No advice, no guarantee.</b> Summaries can be incomplete or out of date; charterers and terminals apply their criteria case by case and may change them without notice. Nothing here is legal, commercial or technical advice.</p>
 <p><b>Logos.</b> Logos are trademarks of their respective owners, used only to identify the source. Vetting Radar is independent and not endorsed by them.</p>
 <p style="margin-bottom:0"><b>Verify at source.</b> Every item links to its source and shows the date it was verified. Always check the source before acting.</p></div>
-<h2>Corrections</h2><p>Spotted an error or a stale value? Email <a href="mailto:customer@vettingradar.com?subject=Correction">customer@vettingradar.com</a> (subject "Correction").</p></div>""")
+<h2 id="corrections">Corrections</h2><p>Spotted an error or a stale value? Email <a href="mailto:customer@vettingradar.com?subject=Correction">customer@vettingradar.com</a> (subject "Correction").</p></div>""")
 
 # ---------- static assets & data ----------
 for f in ("style.css", "home.css", "app.js", "reports.js", "lookup.js", "lessons.css", "lessons.js"): shutil.copy(P("site", f), os.path.join(DIST, f))
