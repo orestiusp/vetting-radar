@@ -28,6 +28,8 @@ SIRE_SECTIONS = {"2.1": "Certification", "2.2": "Management Oversight", "2.3": "
     "9.7": "Shuttle Tanker Mooring Systems", "10.1": "Engineering Procedures", "10.2": "Machinery Status", "10.3": "Safety Management",
     "10.4": "Planned Maintenance Systems", "10.5": "Conventional Bunkering Management", "10.6": "LNG Bunkering Management",
     "10.7": "Fire Protection Measures"}
+TOOLBOX_LABEL = "Toolbox talk (PDF)"  # one button label everywhere (hub, lesson pages, homepage, the sheet itself)
+TOOLBOX_LABEL_HTML = "Toolbox talk (print)"  # only when no PDF could be made (no headless Chrome): the link then opens the printable page
 TOPICS = ["Enclosed spaces", "Mooring", "Cargo & vapour", "STS", "Fire", "Bridge & navigation", "Personal safety", "Pollution", "Machinery"]
 VESSELS = [("crude", "Crude oil"), ("product", "Product"), ("chemical", "Chemical"), ("LPG", "LPG"), ("LNG", "LNG"), ("other", "Transferable (other ship types)")]
 SOURCE_TYPES = [("investigation body", "Investigation bodies"), ("P&I club", "P&I clubs"), ("industry body", "Industry bodies"), ("class", "Class societies")]
@@ -109,7 +111,7 @@ def build(ctx, vis, preview, lotw):
                 + "".join(f'<span class="ctag">CDI: {e(c)}</span>' for c in l.get("cdi_tags", [])))
     def toolbox_href(l, pre):
         pdf = os.path.join(DIST, "lessons", l["id"] + "-toolbox.pdf")
-        return (f'{pre}lessons/{l["id"]}-toolbox.pdf', "Toolbox talk (PDF)") if os.path.exists(pdf) else (f'{pre}lessons/{l["id"]}-toolbox.html', "Toolbox talk (print)")
+        return (f'{pre}lessons/{l["id"]}-toolbox.pdf', TOOLBOX_LABEL) if os.path.exists(pdf) else (f'{pre}lessons/{l["id"]}-toolbox.html', TOOLBOX_LABEL_HTML)
     def srcline(l):
         return f'{e(l["source_short"])}{" · published " + fmt_date(l["source_published"]) if l.get("source_published") else ""}'
 
@@ -120,10 +122,10 @@ def build(ctx, vis, preview, lotw):
                                       "SIRE 2.0: " + ", ".join(e(t) for t in l["sire2_tags"]),
                                       ("PSC (Paris MoU): " + ", ".join(e(c) for c in l["psc_codes"])) if l.get("psc_codes") else ""] if x)
         qs = "".join(f"<li>{e(q)}</li>" for q in l.get("discussion_questions", [])[:4])
-        rows = "".join("<tr><td></td><td></td><td></td><td></td></tr>" for _ in range(4))
+        rows = "".join("<tr><td></td><td></td><td></td></tr>" for _ in range(8))
         body = f"""<div class="tbt-bg"><div class="tbt-bar noprint wrap"><a href="{e(l['id'])}.html">← Back to the lesson</a>
 <span><button class="btn sm" type="button" data-print data-goatcounter-click="print-toolbox-{e(l['id'])}" data-goatcounter-title="Print toolbox talk">Print / Save as PDF</button>
-{f'<a class="btn sm light" href="{e(l["id"])}-toolbox.pdf" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk PDF">Download PDF</a>' if ctx.get("pdf_ok") else ''}</span></div>
+{f'<a class="btn sm light" href="{e(l["id"])}-toolbox.pdf" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk PDF">{TOOLBOX_LABEL}</a>' if ctx.get("pdf_ok") else ''}</span></div>
 <div class="sheet"><div class="sh"><span class="b">{ctx["logo"]("t")}Vetting Radar</span><span class="t">Toolbox talk · onboard safety meeting · 10 min</span></div>
 <h1>{e(l['title'])}</h1><p class="sub">{meta} {draft(l)}</p>
 <h2>What happened</h2><div class="three">{e(l['summary3'])}</div>
@@ -131,7 +133,7 @@ def build(ctx, vis, preview, lotw):
 <div><h2>Key lessons</h2><ul>{''.join(f"<li>{e(x)}</li>" for x in l['key_lessons'][:5])}</ul></div></div>
 {f'<h2>Discuss with your team</h2><ol class="q">{qs}</ol>' if qs else ''}
 <h2>Check on board this week</h2><div class="box"><ul class="checklist">{''.join(f"<li>{e(x)}</li>" for x in l['check_on_board'][:6])}</ul></div>
-<h2>Attendance</h2><table class="att"><tr><th style="width:34%">Name</th><th style="width:22%">Rank</th><th style="width:22%">Signature</th><th>Name / rank / signature</th></tr>{rows}</table>
+<h2>Attendance</h2><table class="att"><tr><th style="width:42%">Name</th><th style="width:24%">Rank</th><th>Signature</th></tr>{rows}</table>
 <div class="sign"><div>Led by:</div><div>Date / place:</div><div>Master's signature:</div></div>
 <div class="foot"><b>Source:</b> {e(l['source_body'])}, "{e(l['source_title'])}"{', published ' + fmt_date(l['source_published']) if l.get('source_published') else ''}. {e(l['source_url'])}<br>
 This sheet is Vetting Radar's own short summary to support discussion. It is not the official report, not legal advice and not a substitute for your company's SMS. Read the full report at the source. {SITE_URL.replace('https://', '')}/lessons/{e(l['id'])}.html · free to print and share on board · checked {fmt_date(l['checked_on'])}{' · DRAFT, NOT PUBLISHED' if not is_pub(l) else ''}</div>
@@ -161,7 +163,7 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
     for l, fpath in tb_files:
         if not os.path.exists(os.path.join(DIST, "lessons", l["id"] + "-toolbox.pdf")):
             with open(fpath) as fh: t = fh.read()
-            t = re.sub(r'<a class="btn sm light" href="[^"]*-toolbox\.pdf"[^>]*>Download PDF</a>', "", t)
+            t = re.sub(r'<a class="btn sm light" href="[^"]*-toolbox\.pdf"[^>]*>' + re.escape(TOOLBOX_LABEL) + '</a>', "", t)
             with open(fpath, "w") as fh: fh.write(t)
 
     # ---- lesson pages ----
@@ -190,7 +192,7 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
 <p class="disc">Tags are Vetting Radar's editorial view, not OCIMF's, CDI's, a PSC regime's or the investigators'. SIRE 2.0 section numbers per the OCIMF Question Library v1.0; PSC codes from the Paris MoU deficiency code list.</p>
 <h2>Source</h2><div class="srcbox"><b>{e(l['source_body'])}</b>: "{e(l['source_title'])}".{(' Occurred ' + fmt_date(l['occurred']) + ' ·') if l.get('occurred') else ''} Published {fmt_date(l['source_published'])} · <a href="{e(l['source_url'])}" rel="noopener">Read the full report at the source</a><br>
 <span class="srcnote">Our summary, in our own words; vessel names appear only in the official report title. Checked {fmt_date(l['checked_on'])}. Not legal advice. <a href="../lessons-policy.html">How we write safety lessons</a> · Spotted an error? <a href="mailto:customer@vettingradar.com?subject=Safety%20lesson%20correction:%20{e(l['id'])}">customer@vettingradar.com</a></span></div>
-<div class="btnrow"><a class="btn" href="{e(tbh)}" data-goatcounter-click="dl-toolbox-{e(l['id'])}" data-goatcounter-title="Toolbox talk">{icon("todo")}Download toolbox talk (1 page)</a><a class="btn light" href="https://www.linkedin.com/sharing/share-offsite/?url={e(SITE_URL)}/lessons/{e(l['id'])}.html" rel="noopener" data-goatcounter-click="share-linkedin-{e(l['id'])}">Share on LinkedIn</a><button class="btn light" type="button" data-copy>Copy link</button></div>
+<div class="btnrow"><a class="btn" href="{e(tbh)}" data-goatcounter-click="dl-toolbox-{e(l['id'])}" data-goatcounter-title="Toolbox talk">{icon("todo")}{e(tbl)}</a><a class="btn light" href="https://www.linkedin.com/sharing/share-offsite/?url={e(SITE_URL)}/lessons/{e(l['id'])}.html" rel="noopener" data-goatcounter-click="share-linkedin-{e(l['id'])}">Share on LinkedIn</a><button class="btn light" type="button" data-copy>Copy link</button></div>
 </article></div>
 <aside class="side">{review}
 <div class="card sbox"><h3>Use this in a meeting</h3><p>Print the one-page toolbox talk: summary, discussion questions, checklist and an attendance list. Free, no sign-up.</p><a class="btn sm" href="{e(tbh)}" data-goatcounter-click="dl-toolbox-{e(l['id'])}" data-goatcounter-title="Toolbox talk">{e(tbl)}</a></div>
@@ -209,8 +211,8 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
                 f'<div class="top"><span class="cat">{e(l["topic"])}</span><span class="badge who">{e(l.get("ship_type_label", ""))}</span>{draft(l)}</div>'
                 f'<h3><a href="lessons/{e(l["id"])}.html">{e(l["title"])}</a></h3><p class="sum">{e(l["summary3"])}</p>'
                 f'<div class="tags">{tagrow(l, short=True)}</div>'
-                f'<div class="lfoot"><a href="{e(l["source_url"])}" rel="noopener">Source: {e(l["source_short"])}</a><span>·</span><span>Published {fmt_date(l["source_published"])}</span><span>·</span>'
-                f'<a href="{e(tbh)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk">{e(tbl)}</a></div></article>')
+                f'<div class="lfoot"><a href="{e(l["source_url"])}" rel="noopener">Source: {e(l["source_short"])}</a><span class="lf-i"><span class="sep" aria-hidden="true">·</span>Published {fmt_date(l["source_published"])}</span>'
+                f'<span class="lf-i"><span class="sep" aria-hidden="true">·</span><a href="{e(tbh)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk">{e(tbl)}</a></span></div></article>')
     used_topics = [t for t in TOPICS if any(l["topic"] == t for l in vis)]
     used_ch = sorted({c for l in vis for c in chapters(l)}, key=int)
     used_vt = [(k, v) for k, v in VESSELS if any(k in l["vessel_types"] for l in vis)]
@@ -225,7 +227,7 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
 <form class="card filters" id="lf" role="search"><div class="row">
 <label>Search<input id="lf-q" type="search" placeholder="e.g. snap-back, gas-freeing, AIS, pilot"></label>
 <label>Vessel type<select id="lf-vt"><option value="">All tankers</option>{''.join(f'<option value="{slug(k)}">{e(v)}</option>' for k, v in used_vt)}</select></label>
-<label>Topic<select id="lf-topic"><option value="">All topics</option>{''.join(f'<option value="{slug(t)}">{e(t)}</option>' for t in used_topics)}</select></label>
+<input type="hidden" id="lf-topic" value="">
 <label>SIRE 2.0 chapter<select id="lf-sire"><option value="">All chapters</option>{''.join(f'<option value="{c}">{c} {e(SIRE_CHAPTERS[c])}</option>' for c in used_ch)}</select></label>
 <label>Source type<select id="lf-src"><option value="">All sources</option>{''.join(f'<option value="{slug(k)}">{e(v)}</option>' for k, v in used_src)}</select></label>
 </div></form>
@@ -281,5 +283,5 @@ def lotw_block(l, e, fmt_date, icon, pdf_href):
     return f"""<section class="block tight lotw-sec"><div class="wrap"><div class="sechead"><div><h2>Lesson of the week</h2><p class="note">One public incident report, in plain words, mapped to SIRE 2.0. Ready for your next safety meeting.</p></div><a href="lessons.html">All safety lessons →</a></div>
 <div class="card lotw"><div class="l"><div class="top"><span class="cat">{e(l['topic'])}</span><span class="badge who">{e(l.get('ship_type_label', ''))}</span>{draft}</div>
 <h3><a href="lessons/{e(l['id'])}.html">{e(l['title'])}</a></h3><p class="sum">{e(l['summary3'])}</p><div class="tags">{tags}</div>
-<div class="btnrow"><a class="btn sm" href="lessons/{e(l['id'])}.html">Read the lesson</a><a class="btn sm light" href="{e(pdf_href)}" data-goatcounter-click="dl-toolbox-{e(l['id'])}" data-goatcounter-title="Toolbox talk (home)">Toolbox talk</a><span class="note">Source: <a href="{e(l['source_url'])}" rel="noopener">{e(l['source_short'])}</a>, published {fmt_date(l['source_published'])}</span></div></div>
+<div class="btnrow"><a class="btn sm" href="lessons/{e(l['id'])}.html">Read the lesson</a><a class="btn sm light" href="{e(pdf_href)}" data-goatcounter-click="dl-toolbox-{e(l['id'])}" data-goatcounter-title="Toolbox talk (home)">{TOOLBOX_LABEL if pdf_href.endswith(".pdf") else TOOLBOX_LABEL_HTML}</a><span class="note">Source: <a href="{e(l['source_url'])}" rel="noopener">{e(l['source_short'])}</a>, published {fmt_date(l['source_published'])}</span></div></div>
 <div class="r"><h4>What to check on board</h4><ol>{''.join(f"<li>{e(x)}</li>" for x in l['check_on_board'][:4])}</ol></div></div></div></section>"""

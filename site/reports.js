@@ -163,16 +163,23 @@
   }
   function okey(r) { return r.owner_id === 'other' ? 'other:' + String(r.owner_other || '').toLowerCase() : r.owner_id; }
   function demoBanner() { return DEMO ? '<p class="rr-demo">' + (SEEDPREV ? 'Local preview · seed reports, not published yet' : 'Demo mode · sample data, not real reports') + '</p>' : ''; }
+  // one wording everywhere: "N reader reports covering K oil majors & terminals (X beyond the T in our comparison)".
+  // T = oil majors & terminals in the official comparison table, so it matches the trust strip's "T compared".
+  function coverTxt(list, html) {
+    var owners = {}, out = {}; list.forEach(function (r) { var k = okey(r); owners[k] = 1; if (!OWN[r.owner_id]) out[k] = 1; });
+    var k = Object.keys(owners).length, x = Object.keys(out).length, amp = html ? ' &amp; ' : ' & ';
+    var n = html ? '<b id="rr-home-n">' + list.length + '</b>' : String(list.length);
+    return n + ' reader report' + (list.length === 1 ? '' : 's') + ' covering ' + k + (k === 1 ? ' oil major or terminal' : ' oil majors' + amp + 'terminals')
+      + (x && OWNERS.length ? ' (' + x + ' beyond the ' + OWNERS.length + ' in our comparison)' : '') + '.';
+  }
   function fillStrip(list) {
     var s = $('#rr-strip'); if (!s) return;
-    var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; });
-    $('.rr-strip-n', s).textContent = list.length ? list.length + ' report' + (list.length === 1 ? '' : 's') + ' across ' + Object.keys(owners).length + (Object.keys(owners).length === 1 ? ' oil major or terminal' : ' oil majors & terminals') + '.' : 'No reports yet. Be the first.';
+    $('.rr-strip-n', s).textContent = list.length ? coverTxt(list, false) : 'No reports yet. Be the first.';
   }
   // homepage callout count
   function fillHome(list) {
     var t = $('#rr-home-t'); if (!t) return;
-    var owners = {}; list.forEach(function (r) { owners[okey(r)] = 1; }); var k = Object.keys(owners).length;
-    t.innerHTML = list.length ? '<b id="rr-home-n">' + list.length + '</b> report' + (list.length === 1 ? '' : 's') + ' from members across ' + k + (k === 1 ? ' oil major or terminal' : ' oil majors &amp; terminals') + '.' : 'Requirements members met in practice, charterer by charterer. Be the first to add one.';
+    t.innerHTML = list.length ? coverTxt(list, true) : 'Requirements members met in practice, charterer by charterer. Be the first to add one.';
   }
   // local demo: keep ?demo on reader-report links so previews stay in demo mode
   function demoLinks(root) {
