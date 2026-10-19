@@ -721,7 +721,7 @@ page("sponsor.html", "Sponsor Vetting Radar", pagehead("Sponsor", "Sponsor Vetti
 # ---------- about ----------
 page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar", "Independent, free and built only from public documents.") + f"""<div class="wrap page prose">
 <p>Vetting Radar is an independent, free tracker of public tanker-vetting rulebooks. It watches {len(sources)} public pages and documents (OCIMF, CDI, RightShip, oil-major clearance pages, terminal and port notices, PSC MoUs, INTERTANKO public news, IMO) and reports what changed, with a link and date on every data point.</p>
-<h2>Who runs Vetting Radar</h2><p>Vetting Radar is run by Orestis Perilis, a Tanker Vetting Manager. It's an independent personal project built on public sources only, and isn't affiliated with or endorsed by any employer, oil major, terminal or vetting scheme.</p>
+<h2>Who runs Vetting Radar</h2><p>Vetting Radar is run independently by a tanker vetting professional, using public sources only. Contact: {CONTACT_LINK}.</p>
 <h2>Contact</h2><p>Questions, suggestions or something we should track? Email {CONTACT_LINK}. For corrections to a specific item, see <a href="#corrections">Corrections</a> below.</p>
 <h2>How it works</h2><ol><li>A script fetches each source, extracts the text (PDFs via pdftotext), stores a snapshot and a SHA-256 hash.</li>
 <li>On the next run it diffs against the last snapshot. Any change creates a change record with the diff excerpt.</li>
