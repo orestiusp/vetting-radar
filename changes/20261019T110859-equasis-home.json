@@ -1,0 +1,34 @@
+{
+  "id": "20261019T110859-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-19T11:08:59+00:00",
+  "previous_hash": "36ef025d02a10d836009c967ecb68af487c09db91b1a079cf5a90450e6effe3e",
+  "new_hash": "bebe61a4d3f8898b7543044420d81c7bfadea3f95e94ff869f7ced933c06b120",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,10 +15,6 @@\n LAST DATA UPDATE :\n+Türk Loydu\n+Mediterranean MoU\n+Paris MoU\n Emirates Classification Society\n-Det Norske Veritas\n-VesselTracker\n-AXS Marine\n-Nippon Kaiji Kyokai\n-OCIMF\n-CDI\n-Lloyd's Register\n USER ACTIVITY :",
+    "lines_added": 3,
+    "lines_removed": 7,
+    "added_sample": [
+      "Türk Loydu",
+      "Mediterranean MoU",
+      "Paris MoU"
+    ],
+    "removed_sample": [
+      "Det Norske Veritas",
+      "VesselTracker",
+      "AXS Marine",
+      "Nippon Kaiji Kyokai",
+      "OCIMF",
+      "CDI",
+      "Lloyd's Register"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
