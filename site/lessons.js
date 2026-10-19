@@ -35,8 +35,10 @@
     }
     // deep links: lessons.html?topic=mooring&sire=9
     var params=new URLSearchParams(location.search);
-    Object.keys(KEYS).forEach(function(k){var x=params.get(KEYS[k]); if(x&&sel[k]&&[].some.call(sel[k].options,function(o){return o.value===x;}))sel[k].value=x;});
-    Object.keys(sel).forEach(function(k){if(sel[k])sel[k].addEventListener('change',function(){run(true); if(sel[k].value)gc('filter-'+KEYS[k]+'-'+sel[k].value,'Lessons filter: '+KEYS[k]);});});
+    // topic has no dropdown (the chips set a hidden field), so a ?topic= value is checked against the chips instead
+    function known(k,x){return sel[k].options?[].some.call(sel[k].options,function(o){return o.value===x;}):pills.some(function(p){return p.dataset.topic===x;});}
+    Object.keys(KEYS).forEach(function(k){var x=params.get(KEYS[k]); if(x&&sel[k]&&known(k,x))sel[k].value=x;});
+    Object.keys(sel).forEach(function(k){if(sel[k]&&sel[k].tagName==='SELECT')sel[k].addEventListener('change',function(){run(true); if(sel[k].value)gc('filter-'+KEYS[k]+'-'+sel[k].value,'Lessons filter: '+KEYS[k]);});});
     var searched=false, t=null;
     q.addEventListener('input',function(){run(false); clearTimeout(t); t=setTimeout(function(){if(!searched&&q.value.trim().length>2){searched=true;gc('filter-search','Lessons search used');}},1200);});
     pills.forEach(function(p){p.addEventListener('click',function(ev){ev.preventDefault(); sel.topic.value=p.dataset.topic; run(true); if(p.dataset.topic)gc('filter-topic-'+p.dataset.topic,'Lessons filter: topic');});});

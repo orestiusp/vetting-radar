@@ -1,0 +1,95 @@
+/* Homepage options A/B/C (mockups, built only with --home-options). Small additions on top of style.css + lessons.css. */
+.ho-bar{position:fixed;left:12px;bottom:12px;z-index:20;background:#111;color:#fff;font-size:12px;border-radius:999px;padding:6px 12px;opacity:.85}
+.ho-bar .wrap{padding:0;max-width:none}.ho-bar a{color:#9fe3f7;margin:0 2px}.ho-bar a[aria-current]{color:#fff;font-weight:700;text-decoration:none}
+/* shared: small lesson cards, topic chips with counts, berry reader-reports strip */
+.ho-sub{font-size:1rem;margin:22px 0 10px;color:var(--ink)}
+.ho-lms{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.ho-lms.four{grid-template-columns:repeat(4,minmax(0,1fr))}
+.lcard.ho-lm{padding:14px 16px 10px 20px}
+.lcard.ho-lm h3{font-size:.95rem;margin:0 0 8px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.lcard.ho-lm .tags{margin-bottom:8px}
+.ho-chips{margin:0 0 14px}.ho-chips a{font-size:.82rem;padding:6px 11px}.ho-chips .n{color:var(--muted);font-weight:500;margin-left:2px}
+.ho-rr{background:var(--rr-bg);border-top:1px solid var(--rr-line);border-bottom:1px solid var(--rr-line)}
+.ho-rr .rr-invite{margin:0;padding:14px 0 14px 14px}
+@media(max-width:900px){.ho-lms,.ho-lms.four{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.ho-lms,.ho-lms.four{grid-template-columns:1fr}}
+
+/* B: two-part hero. Headline + sub + full-width signup, then two equal panels on the navy hero */
+.hero.ho-b{padding:28px 0 30px}
+.hero.ho-b .wrap{display:block}
+.ho-b-top h1{margin:0 0 8px;font-size:clamp(1.6rem,3vw,2.3rem)}
+.ho-b-top .sub{max-width:900px;margin:0 0 14px;font-size:1rem}
+.herobox.ho-wide{max-width:none;padding:4px 12px 2px}
+.herobox.ho-wide .bh-crop{min-height:84px}
+.ho-chip{display:none}
+.ho-panels{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:18px}
+.ho-p{background:#fff;border-radius:14px;padding:14px 18px 12px;box-shadow:0 10px 30px rgba(0,0,0,.25);color:var(--text);min-width:0}
+.ho-p .lh{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:0 0 6px}
+.ho-p .lh h2{margin:0;font-size:1.1rem;color:var(--ink)}.ho-p .lh a{font-size:.85rem;font-weight:600;white-space:nowrap}
+.bis{list-style:none;margin:0;padding:0}
+.bi{padding:8px 0;border-top:1px solid var(--line)}.bi:first-child{border-top:0}
+.bi-m{display:flex;gap:8px;align-items:center;font-size:.75rem;color:var(--muted)}
+.bi-m .dot{width:8px;height:8px;border-radius:50%;background:var(--line);flex:none}
+.bi.imp-high .dot{background:var(--high)}.bi.imp-medium .dot{background:var(--med)}
+.bi-m .oname{font-weight:600;color:#34475c}.bi-m time{margin-left:auto}
+.bi h3{font-size:.92rem;margin:3px 0 2px;line-height:1.35}.bi h3 a{color:var(--ink);text-decoration:none}.bi h3 a:hover{color:var(--teal-d);text-decoration:underline}
+.bi-do{margin:0;font-size:.82rem;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ho-pl{border-top:5px solid var(--c-safe);scroll-margin-top:80px}
+.ho-pl .ho-cat{margin:2px 0 4px;font-size:.78rem;color:var(--muted)}
+.ho-pl .cat{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--c-safe)}
+.ho-pl h3{font-size:1.15rem;margin:0 0 6px;line-height:1.3}.ho-pl h3 a{color:var(--ink);text-decoration:none}.ho-pl h3 a:hover{color:var(--teal)}
+.ho-pl .ho-src{font-size:.82rem;margin:0 0 8px;color:var(--muted)}
+.ho-pl .tags{display:flex;flex-wrap:wrap;gap:6px}
+.ho-pl .btnrow{margin:12px 0 2px}
+@media(max-width:900px){.ho-panels{grid-template-columns:1fr}}
+@media(max-width:600px){
+ .hero.ho-b{padding:20px 0 22px}.ho-b-top .sub{font-size:.92rem}
+ .ho-chip{display:inline-flex;align-items:center;gap:6px;margin-top:10px;padding:6px 12px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);color:#fff;font-size:.82rem;font-weight:600;text-decoration:none}
+ .ho-chip .ico{width:16px;height:16px;color:#f3c66b}
+ .ho-panels{margin-top:16px}.ho-p{padding:12px 14px 10px}}
+
+/* C: lessons lead. Lesson of the week is the main hero content, the signup beside it */
+.hero.ho-c{padding:30px 0 34px}
+.hero.ho-c .wrap{display:block}
+.ho-c-top h1{margin:10px 0 8px}.ho-c-top .sub{max-width:760px;margin:0 0 18px;font-size:1rem}
+.ho-c-top .eyebrow,.ho-c-top .eyebrow .pulse{color:#f3c66b}.ho-c-top .eyebrow .pulse{background:#f3c66b;box-shadow:0 0 0 4px rgba(243,198,107,.2)}
+.ho-c-main{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:22px;align-items:start}
+.ho-c-lotw{padding:20px 24px 16px;border-top:6px solid var(--c-safe);color:var(--text);box-shadow:0 10px 30px rgba(0,0,0,.25);scroll-margin-top:80px}
+.ho-c-k{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.ho-c-k .kicker{margin:0;color:var(--safe-ink)}
+.ho-c-k .cat{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--c-safe)}
+.ho-c-lotw h2{font-size:1.35rem;margin:8px 0 8px;line-height:1.25}.ho-c-lotw h2 a{color:var(--ink);text-decoration:none}.ho-c-lotw h2 a:hover{color:var(--teal)}
+.ho-c-lotw .sum{margin:0 0 12px;font-size:.92rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ho-c-chk{background:var(--safe-bg);border:1px solid var(--safe-line);border-radius:10px;padding:10px 14px;margin:0 0 10px}
+.ho-c-chk h4{margin:0 0 4px;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--safe-ink)}
+.ho-c-chk ol{margin:0;padding-left:20px;font-size:.88rem}.ho-c-chk li{margin:3px 0}
+.ho-c-lotw .tags{display:flex;flex-wrap:wrap;gap:6px}
+.btn.big{padding:13px 22px;font-size:1rem}
+.ho-c-btns{align-items:center;margin:14px 0 6px}
+.ho-c-src{margin:0;font-size:.8rem}
+.ho-c-side .herobox{max-width:none}
+@media(max-width:900px){.ho-c-main{grid-template-columns:1fr}}
+@media(max-width:600px){.hero.ho-c{padding:20px 0 24px}.ho-c-top .sub{font-size:.92rem}.ho-c-lotw{padding:16px 16px 14px}.ho-c-lotw h2{font-size:1.15rem}.ho-c-btns .btn{width:100%;justify-content:center}}
+
+/* C: rule changes on the light background */
+.latest.ho-flat{box-shadow:var(--shadow);border:1px solid var(--line)}
+/* B: on wide screens crop the embed's own title + description so the signup is a single inline bar.
+   Only >=1200px, where the description fits on one line (the crop offset depends on that); narrower screens show the full embed. */
+.hero.ho-b p.sub,.hero.ho-c p.sub{max-width:860px}
+.herobox.ho-wide{position:relative}
+.ho-sb-l{display:none}
+@media(min-width:1200px){
+ .herobox.ho-wide .bh-crop{min-height:64px}
+ .herobox.ho-wide .bh-crop iframe{margin-top:-176px!important}
+ .ho-sb-l{display:block;position:absolute;left:22px;top:14px;margin:0;font-size:.82rem;color:var(--muted);pointer-events:none;line-height:1.35}
+ .ho-sb-l b{display:block;font-size:1rem;color:var(--ink)}
+ .herobox.ho-wide .signup.bh-off+.ho-sb-l,.herobox.ho-wide:has(.bh-off) .ho-sb-l{display:none}
+ .herobox.ho-wide .bh-fallback{position:absolute;right:20px;top:22px;margin:0;font-size:.78rem;max-width:230px;text-align:right}}
+.ho-pl{display:flex;flex-direction:column}.ho-pl .btnrow{margin-top:auto;padding-top:12px}
+.rr-invite a{white-space:nowrap}
+/* B: header CTA, short form on phones so it stays on one line */
+.ho-cs{display:none}
+header.site .btn.sm{white-space:nowrap}
+@media(max-width:600px){.ho-cl{display:none}.ho-cs{display:inline}}
+/* C on phones: the toolbox button comes straight after the summary, so it is above the fold */
+@media(max-width:600px){.ho-c-lotw{display:flex;flex-direction:column}.ho-c-k{order:0}.ho-c-lotw h2{order:1}.ho-c-lotw .sum{order:2}.ho-c-btns{order:3;margin:0 0 12px}
+ .ho-c-chk{order:4}.ho-c-lotw .tags{order:5}.ho-c-src{order:6;margin-top:10px}}

@@ -22,6 +22,9 @@ TODAY = dt.date.today()
 # --preview (or VR_PREVIEW=1): local review build. Also renders unreviewed safety lessons, each with a "Draft – awaiting review" badge.
 # Never deploy a preview build: the workflow runs plain `build.py`, which publishes only lessons with reviewed=true and publish=true.
 PREVIEW = "--preview" in sys.argv or os.environ.get("VR_PREVIEW") == "1"
+# --home-options: also writes three homepage mockups (home-a/b/c.html, noindex, not linked) for review. Never deploy them:
+# the workflow runs plain `build.py`, which never generates them.
+HOME_OPTIONS = "--home-options" in sys.argv
 LESSONS_ALL, LESSONS = LS.load(P("data", "lessons.json"), PREVIEW)
 PSC_REF = load(P("data", "psc_codes.json"), {}).get("codes", {})
 for _w in LS.check(LESSONS_ALL, set(PSC_REF)): print("lessons check:", _w)
@@ -103,7 +106,7 @@ def _security_meta(doc, kind):
     csp = "; ".join((k + " " + v).strip() for k, v in pol.items())
     ref = "same-origin" if kind == "session" else "strict-origin-when-cross-origin"
     return f'<meta http-equiv="Content-Security-Policy" content="{csp}"><meta name="referrer" content="{ref}">' + (FRAMEBUST if kind == "session" else "")
-def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts="", stats=True, csp="site"):
+def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting rules (SIRE 2.0/OCIMF, CDI, RightShip, oil-major and terminal criteria) daily and shows what changed, with the source.", depth=0, full_title=None, section=None, head="", scripts="", stats=True, csp="site", cta="Subscribe"):
     pre = "../" * depth
     doc_title = full_title or f"{title} · Vetting Radar"
     base = os.path.basename(fname)
@@ -126,7 +129,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 {BH_ATTRIBUTION if csp == "site" else ""}</head><body>
 <a class="skip" href="#content">Skip to content</a>
 {'<div class="previewbar">Preview build · not live · draft safety lessons awaiting review</div>' if PREVIEW else ''}<header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{logo("h")}<span>Vetting <span class="r">Radar</span></span></a>
-<nav class="main" id="mnav" aria-label="Main">{nav}</nav><a class="btn sm" href="{sub_href}">Subscribe</a>
+<nav class="main" id="mnav" aria-label="Main">{nav}</nav><a class="btn sm" href="{sub_href}">{cta}</a>
 <button class="navtoggle" type="button" aria-expanded="false" aria-controls="mnav" aria-label="Menu"><span></span><span></span><span></span></button></div></header>
 <main id="content">{body}</main>
 <footer class="site"><div class="wrap"><div class="cols">
@@ -178,10 +181,12 @@ BEEHIIV_SUBSCRIBE = BEEHIIV_URL + "/subscribe"
 # official embed and crop its built-in white padding (.bh-crop in style.css) so the e-mail field gets the full width.
 # Safety net (.bh-fb, app.js): Beehiiv's loader draws nothing for visitors who already subscribed from this site
 # (cookie bhv_<publication>_subscribed, 1 year) or when its iframe never reports a size; then a plain button shows instead.
-signup = f"""<div class="signup" id="subscribe-form"><div class="bh-crop"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div></div>
+def signup_html(label="Subscribe free"):
+    return f"""<div class="signup" id="subscribe-form"><div class="bh-crop"><div class="bh-form"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="3413678f-3b46-449d-a13a-1341817dd862"></script></div></div>
 <div class="bh-fb"><p class="bh-fb-t"><b>The weekly brief</b>What changed in tanker vetting rules, every item sourced. Free, unsubscribe any time.</p>
-<a class="btn bh-fb-b" href="{BEEHIIV_SUBSCRIBE}" rel="noopener">{icon("mail")}Subscribe free</a></div>
+<a class="btn bh-fb-b" href="{BEEHIIV_SUBSCRIBE}" rel="noopener">{icon("mail")}{label}</a></div>
 <p class="note bh-fallback">Free · unsubscribe any time · <a href="{BEEHIIV_SUBSCRIBE}" rel="noopener">Form not loading? Subscribe on Beehiiv</a></p></div>"""
+signup = signup_html()
 signup_card = f'<div class="card signup" id="subscribe">{signup}</div>'
 
 # ---------- update cards ----------
@@ -284,6 +289,13 @@ RR_PUB = _rr_published()
 def _okey(r): return "other:" + (r.get("owner_other") or "").lower() if r.get("owner_id") == "other" else r.get("owner_id")
 RR_N = len(RR_PUB) if RR_PUB is not None else None
 RR_OWNERS_N = len({_okey(r) for r in RR_PUB}) if RR_PUB else 0
+RR_OUT_N = len({_okey(r) for r in RR_PUB if r.get("owner_id") not in RR_OWNER_IDS}) if RR_PUB else 0  # not in the comparison table
+def rr_cover(html_n=True):
+    """One wording everywhere (reports.js coverTxt matches): 'N reader reports covering K oil majors & terminals (X beyond the T in our comparison).'
+    T is the comparison-table count shown in the trust strip as 'T oil majors & terminals compared', so the two numbers reconcile."""
+    n = f'<b id="rr-home-n">{RR_N}</b>' if html_n else str(RR_N)
+    return (f"{n} reader report{'s' if RR_N != 1 else ''} covering {RR_OWNERS_N} {'oil majors &amp; terminals' if RR_OWNERS_N != 1 else 'oil major or terminal'}"
+            + (f" ({RR_OUT_N} beyond the {len(RR_OWNER_IDS)} in our comparison)" if RR_OUT_N else "") + ".")
 RR_BY = {}
 for _r in RR_PUB or []: RR_BY[_r["owner_id"]] = RR_BY.get(_r["owner_id"], 0) + 1
 def rr_count_txt(oid):
@@ -295,7 +307,7 @@ def rrbox(owner_id):  # collapsed "Reported in practice" layer under an owner's 
             f'<span class="rr-n">{rr_count_txt(owner_id)}</span><span class="rr-lbl">User-declared · not official</span></summary>'
             f'<div class="rr-body"><p class="rr-empty">{"Loading…" if n else "None yet."} <a href="submit.html?owner={e(owner_id)}">Add what you faced</a></p></div></details>')
 RR_INVITE = ('<p class="rr-invite" id="rr-home"><span class="rr-mark">Reader reports</span> '
-             f'<span id="rr-home-t">{f"<b id=\"rr-home-n\">{RR_N}</b> report{'s' if RR_N != 1 else ''} from members across {RR_OWNERS_N} {'oil majors &amp; terminals' if RR_OWNERS_N != 1 else 'oil major or terminal'}." if RR_N else "Requirements members met in practice, charterer by charterer."}</span> '
+             f'<span id="rr-home-t">{rr_cover() if RR_N else "Requirements members met in practice, charterer by charterer."}</span> '
              '<span class="rr-lbl">User-declared · not official.</span> <a href="reports.html">See them</a> · <a href="submit.html">Add what you faced</a></p>')
 
 # ---------- index page ----------
@@ -327,6 +339,20 @@ SAMPLE = (os.path.basename(ISSUES_MD[0])[:-3], _fm(ISSUES_MD[0])) if ISSUES_MD e
 MON_SHORT = (f"last check {fmt_date(last_run)}: {RUN_OK} OK" + (f", {RUN_ERR} unreachable" if RUN_ERR else "")) if last_run else ""
 TRUST = (f'<div class="trustbar"><div class="wrap"><p class="trust">{icon("radar")}<span><b>{len(sources)}</b> public sources watched daily{(" (" + MON_SHORT + ")") if MON_SHORT else ""} · '
          f'<b>{len(comp["rows"])}</b> oil majors &amp; terminals compared · <b>{len(updates)}</b> reviewed updates · every item sourced</span></p></div></div>')
+# homepage building blocks (also used by the --home-options mockups)
+CHECK_HTML = f"""<div><div class="sechead"><div><h2>Check charterer requirements</h2><p class="note">Which oil majors' and terminals' criteria does your vessel meet?</p></div></div>
+<form class="card vpmini" action="table.html" method="get"><label><span>Vessel type</span><select name="type">{''.join(f'<option value="{k}">{v}</option>' for k, v in TYPES_VP)}</select></label>
+<label><span>Age (years)</span><input name="age" type="number" min="0" max="60" step="0.1" inputmode="decimal" placeholder="e.g. 17" required></label>
+<label><span>DWT</span><input name="dwt" type="number" min="0" step="1" inputmode="numeric" placeholder="e.g. 50000"></label>
+<button class="btn" type="submit">Check requirements {icon("arrow")}</button></form>
+<p class="note">Or open the <a href="table.html">requirements table</a>.</p></div>
+"""
+DATES_HTML = f"""<div><div class="sechead"><div><h2>Next dates</h2></div><a href="calendar.html">Calendar →</a></div><ul class="dates">{dates_html}</ul></div>"""
+NLB_HTML = f"""<section class="block tight"><div class="wrap"><div class="nlb card">
+<div><h2>The weekly brief</h2><p>What changed in vetting rules, who it affects, the key numbers and what to do. Free, in your inbox.</p>
+<p class="nl-acts"><a class="btn" href="#subscribe">{icon("mail")}Subscribe free</a>{f'<a class="btn light" href="newsletter/{SAMPLE[0]}.html">Read sample issue #{e(SAMPLE[1].get("issue", "1"))}</a>' if SAMPLE else ''}</p></div>
+{f'<a class="nl-sample" href="newsletter/{SAMPLE[0]}.html"><span class="kicker">Sample · {fmt_date(SAMPLE[1].get("date", ""))}</span><b>{e(SAMPLE[1].get("title", ""))}</b><span class="go">Read it {icon("arrow")}</span></a>' if SAMPLE else ''}
+</div></div></section>"""
 page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_H1.rstrip("."), body=f"""
 <section class="hero"><div class="wrap"><div class="hero-l">
 <span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
@@ -338,20 +364,8 @@ page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_
 {TRUST}
 {LS.lotw_block(LOTW, e, fmt_date, icon, f"lessons/{LOTW['id']}-toolbox.{'pdf' if CHROME else 'html'}" if LOTW else "")}
 <section class="block tight"><div class="wrap two">
-<div><div class="sechead"><div><h2>Check charterer requirements</h2><p class="note">Which oil majors' and terminals' criteria does your vessel meet?</p></div></div>
-<form class="card vpmini" action="table.html" method="get"><label><span>Vessel type</span><select name="type">{''.join(f'<option value="{k}">{v}</option>' for k, v in TYPES_VP)}</select></label>
-<label><span>Age (years)</span><input name="age" type="number" min="0" max="60" step="0.1" inputmode="decimal" placeholder="e.g. 17" required></label>
-<label><span>DWT</span><input name="dwt" type="number" min="0" step="1" inputmode="numeric" placeholder="e.g. 50000"></label>
-<button class="btn" type="submit">Check requirements {icon("arrow")}</button></form>
-<p class="note">Or open the <a href="table.html">requirements table</a>.</p></div>
-<div><div class="sechead"><div><h2>Next dates</h2></div><a href="calendar.html">Calendar →</a></div><ul class="dates">{dates_html}</ul></div>
-</div></section>
-<section class="block tight"><div class="wrap"><div class="nlb card">
-<div><h2>The weekly brief</h2><p>What changed in vetting rules, who it affects, the key numbers and what to do. Free, in your inbox.</p>
-<p class="nl-acts"><a class="btn" href="#subscribe">{icon("mail")}Subscribe free</a>{f'<a class="btn light" href="newsletter/{SAMPLE[0]}.html">Read sample issue #{e(SAMPLE[1].get("issue", "1"))}</a>' if SAMPLE else ''}</p></div>
-{f'<a class="nl-sample" href="newsletter/{SAMPLE[0]}.html"><span class="kicker">Sample · {fmt_date(SAMPLE[1].get("date", ""))}</span><b>{e(SAMPLE[1].get("title", ""))}</b><span class="go">Read it {icon("arrow")}</span></a>' if SAMPLE else ''}
-</div></div></section>
-<div class="wrap">{RR_INVITE}</div>
+{CHECK_HTML}{DATES_HTML}</div></section>
+{NLB_HTML}<div class="wrap">{RR_INVITE}</div>
 {RR_JSON}""", scripts=RR_SCRIPTS, head='<link rel="stylesheet" href="lessons.css">' if LOTW else "")
 
 # ---------- table: requirements lookup ----------
@@ -524,7 +538,7 @@ def rr_join(title, lede):
 page("reports.html", "Reader reports: requirements members met in practice", section="reports.html",
      desc="Requirements tanker people say they met in practice, shared by members, reviewed before publishing, and kept separate from official vetting criteria.",
      body=pagehead(RR_KICK, "Reader reports", "Requirements members met in practice, charterer by charterer. Reviewed before publishing, never official.", "rr-head") + subnav("reports.html") + f"""
-<div class="wrap page rr-page"><div class="rr-top"><p class="intro">{f"{RR_N} reports across {RR_OWNERS_N} oil majors and terminals. " if RR_N else ""}Open an oil major or terminal to see what members met. Vote if it matches yours.</p>
+<div class="wrap page rr-page"><div class="rr-top"><p class="intro">{(rr_cover(False) + " ") if RR_N else ""}Open an oil major or terminal to see what members met. Vote if it matches yours.</p>
 <a class="btn sm rr-o" href="submit.html">+ Add what you faced</a></div>
 <div class="rr-filters" id="rr-filters" hidden><select id="rr-fo" aria-label="Oil major or terminal"><option value="">All oil majors &amp; terminals</option>{_oopts}<option value="other">Other</option></select><span class="note"><b id="rr-count">0</b> reports</span></div>
 <div id="rr-list">{RR_SOON}</div>
@@ -675,9 +689,123 @@ if LESSONS:
                    "pagehead": pagehead, "logo": logo, "pmou": PSC_REF, "chrome": CHROME, "pdf_ok": bool(CHROME),
                    "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, LESSONS, PREVIEW, LOTW)
     if LOTW and not os.path.exists(os.path.join(DIST, "lessons", LOTW["id"] + "-toolbox.pdf")):  # PDF fallback for the homepage card
-        _ix = os.path.join(DIST, "index.html"); _t = open(_ix).read().replace(f'lessons/{LOTW["id"]}-toolbox.pdf', f'lessons/{LOTW["id"]}-toolbox.html')
+        _ix = os.path.join(DIST, "index.html"); _t = open(_ix).read().replace(f'lessons/{LOTW["id"]}-toolbox.pdf', f'lessons/{LOTW["id"]}-toolbox.html').replace(f'>{LS.TOOLBOX_LABEL}</a>', f'>{LS.TOOLBOX_LABEL_HTML}</a>')
         open(_ix, "w").write(_t)
     print(f"safety lessons: {_r['pages']} rendered ({sum(1 for l in LESSONS if not LS.is_pub(l))} drafts), {_r['pdfs']} toolbox PDFs" + (" [PREVIEW]" if PREVIEW else ""))
 else:
     print(f"safety lessons: none published ({len(LESSONS_ALL)} drafts in data/lessons.json; run with --preview to review them)")
+# ---------- homepage options (mockups for review; only with --home-options, never in the normal/live build) ----------
+for _old in ("home-a.html", "home-b.html", "home-c.html", "home-options.css"):
+    if os.path.exists(os.path.join(DIST, _old)): os.remove(os.path.join(DIST, _old))
+if HOME_OPTIONS and LOTW:
+    shutil.copy(P("site", "home-options.css"), os.path.join(DIST, "home-options.css"))
+    HO_HEAD = '<link rel="stylesheet" href="lessons.css"><link rel="stylesheet" href="home-options.css"><meta name="robots" content="noindex,nofollow">'
+    def tb_href(l):
+        return (f"lessons/{l['id']}-toolbox.pdf", LS.TOOLBOX_LABEL) if os.path.exists(os.path.join(DIST, "lessons", l["id"] + "-toolbox.pdf")) \
+            else (f"lessons/{l['id']}-toolbox.html", LS.TOOLBOX_LABEL_HTML)
+    LOTW_TB, LOTW_TBL = tb_href(LOTW)
+    # the next lessons after the lesson of the week: one per topic first, so the cards show the range
+    _rest = [l for l in LESSONS if l is not LOTW]; NEXT_L = []
+    for l in _rest:
+        if l["topic"] != LOTW["topic"] and all(x["topic"] != l["topic"] for x in NEXT_L): NEXT_L.append(l)
+    NEXT_L += [l for l in _rest if l not in NEXT_L]
+    def stags(l, n=3): return "".join(f'<span class="stag">SIRE {e(t)}</span>' for t in l["sire2_tags"][:n])
+    def lmini(l):  # small lesson card
+        h, lab = tb_href(l)
+        return (f'<article class="card lcard ho-lm"><div class="top"><span class="cat">{e(l["topic"])}</span><span class="badge who">{e(l.get("ship_type_label", ""))}</span></div>'
+                f'<h3><a href="lessons/{e(l["id"])}.html">{e(l["title"])}</a></h3><div class="tags">{stags(l, 2)}</div>'
+                f'<div class="lfoot"><span>{e(l["source_short"])}</span><span class="lf-i"><span class="sep" aria-hidden="true">·</span>'
+                f'<a href="{e(h)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk (home)">{e(lab)}</a></span></div></article>')
+    _topics = [t for t in LS.TOPICS if any(l["topic"] == t for l in LESSONS)]
+    TOPIC_CHIPS = ('<nav class="topicbar ho-chips" aria-label="Lesson topics">' + "".join(
+        f'<a href="lessons.html?topic={LS.slug(t)}">{e(t)} <span class="n">{sum(1 for l in LESSONS if l["topic"] == t)}</span></a>' for t in _topics) + '</nav>')
+    CHK = "".join(f"<li>{e(x)}</li>" for x in LOTW["check_on_board"][:4])
+    SRC_L = f'Source: <a href="{e(LOTW["source_url"])}" rel="noopener">{e(LOTW["source_short"])}</a>, published {fmt_date(LOTW["source_published"])}'
+    def lotw_btns(big=False):
+        return (f'<a class="btn{"" if big else " sm"}" href="lessons/{e(LOTW["id"])}.html">Read the lesson</a>'
+                f'<a class="btn{" big" if big else " sm light"}" href="{e(LOTW_TB)}" data-goatcounter-click="dl-toolbox-{e(LOTW["id"])}" data-goatcounter-title="Toolbox talk (home)">{icon("todo") if big else ""}{e(LOTW_TBL)}</a>')
+    def rr_strip(): return f'<section class="ho-rr"><div class="wrap">{RR_INVITE}</div></section>'
+    def latest_box(title="Latest changes", items=TOP, cls=""):
+        return (f'<div class="latest{cls}"><div class="lh"><h2>{title}</h2><a href="updates.html">All updates{(" (" + ", ".join(more_bits) + ")") if more_bits else ""} →</a></div>'
+                f'<ol class="lts">{"".join(latest_item(u) for u in items)}</ol></div>')
+    def mock_bar(k, txt):
+        return (f'<div class="ho-bar"><div class="wrap"><b>Homepage option {k}</b> · {txt} · mockup, not live · '
+                + " ".join(f'<a href="home-{x}.html"{' aria-current="page"' if x == k.lower() else ""}>{x.upper()}</a>' for x in "abc") + ' · <a href="index.html">current</a></div></div>')
+    NOW_DATES = f'<section class="block tight"><div class="wrap two">{CHECK_HTML}{DATES_HTML}</div></section>'
+
+    # --- A: rule changes lead, lessons a strong second section ---
+    A_H1 = "Know what changed before your next screening."
+    A_SUB = "OCIMF, CDI, RightShip, oil-major and terminal criteria, watched daily. Plus one public incident report a week, mapped to SIRE 2.0. Every item sourced."
+    a_next = "".join(lmini(l) for l in NEXT_L[:3])
+    page("home-a.html", "Home (option A)", desc=A_SUB, full_title="Option A · Vetting Radar", head=HO_HEAD, scripts=RR_SCRIPTS, body=f"""{mock_bar("A", "rule changes lead")}
+<section class="hero"><div class="wrap"><div class="hero-l">
+<span class="eyebrow"><span class="pulse"></span>Tanker vetting intelligence</span>
+<h1>{A_H1}</h1><p class="sub">{A_SUB}</p>
+<div class="herobox" id="subscribe">{signup}</div></div>
+<div class="hero-r">{latest_box()}</div>
+</div></section>
+{TRUST}
+<section class="block tight ho-a-lotw" id="lotw"><div class="wrap"><div class="sechead"><div><h2>Lesson of the week</h2><p class="note">One public incident report, in plain words, mapped to SIRE 2.0. Ready for your next safety meeting.</p></div><a href="lessons.html">All {len(LESSONS)} safety lessons →</a></div>
+<div class="card lotw"><div class="l"><div class="top"><span class="cat">{e(LOTW['topic'])}</span><span class="badge who">{e(LOTW.get('ship_type_label', ''))}</span></div>
+<h3><a href="lessons/{e(LOTW['id'])}.html">{e(LOTW['title'])}</a></h3><p class="sum">{e(LOTW['summary3'])}</p><div class="tags">{stags(LOTW)}{''.join(f'<span class="ptag">PMoU {e(c)}</span>' for c in LOTW.get('psc_codes', [])[:1])}</div>
+<div class="btnrow">{lotw_btns()}<span class="note">{SRC_L}</span></div></div>
+<div class="r"><h4>What to check on board</h4><ol>{CHK}</ol></div></div>
+<h3 class="ho-sub">Next lessons</h3><div class="ho-lms">{a_next}</div></div></section>
+{NOW_DATES}
+{NLB_HTML}{rr_strip()}{RR_JSON}""")
+
+    # --- B: two-part hero (rule changes | lesson of the week) ---
+    B_H1 = "What changed in vetting, and what to learn from it."
+    B_SUB = ("Every week: the OCIMF, CDI, RightShip, oil-major and terminal rule changes before your next screening, plus one public incident report "
+             "mapped to SIRE 2.0 with a free toolbox talk. Every item sourced.")
+    def b_item(u):
+        do = u.get("what_to_do") or ""
+        return (f'<li class="bi imp-{e(u["impact"])}"><div class="bi-m"><span class="dot" title="{IMPACT_LABEL[u["impact"]]}"></span><span class="oname">{e(u["owner"])}</span>'
+                f'<time datetime="{e(u["date"])}">{fmt_date(u["date"])}</time></div><h3><a href="updates.html#{e(u["id"])}">{e(u["headline"])}</a></h3>'
+                + (f'<p class="bi-do"><b>Do:</b> {e(do)}</p>' if do else "") + '</li>')
+    b_more = "".join(lmini(l) for l in NEXT_L[:3])
+    page("home-b.html", "Home (option B)", desc=B_SUB, full_title="Option B · Vetting Radar", head=HO_HEAD, scripts=RR_SCRIPTS, cta='<span class="ho-cl">Get the weekly brief</span><span class="ho-cs">Get the brief</span>', body=f"""{mock_bar("B", "two-part hero")}
+<section class="hero ho-b"><div class="wrap">
+<div class="ho-b-top"><h1>{B_H1}</h1><p class="sub">{B_SUB}</p>
+<div class="herobox ho-wide" id="subscribe"><p class="ho-sb-l" aria-hidden="true"><b>Get the weekly brief</b>Free · unsubscribe any time</p>{signup_html("Get the weekly brief")}</div>
+<a class="ho-chip" href="#lotw">{icon("todo")}Lesson of the week ↓</a></div>
+<div class="ho-panels">
+<div class="ho-p latest"><div class="lh"><h2>This week in vetting rules</h2><a href="updates.html">All updates →</a></div><ol class="bis">{''.join(b_item(u) for u in TOP)}</ol></div>
+<div class="ho-p ho-pl" id="lotw"><div class="lh"><h2>Lesson of the week</h2><a href="lessons.html">All lessons →</a></div>
+<p class="ho-cat"><span class="cat">{e(LOTW['topic'])}</span> · {e(LOTW.get('ship_type_label', ''))}</p>
+<h3><a href="lessons/{e(LOTW['id'])}.html">{e(LOTW['title'])}</a></h3>
+<p class="ho-src">{SRC_L}</p><div class="tags">{stags(LOTW)}</div>
+<div class="btnrow">{lotw_btns()}</div></div>
+</div></div></section>
+{TRUST}
+{NOW_DATES}
+<section class="block tight"><div class="wrap"><div class="sechead"><div><h2>More safety lessons</h2><p class="note">Public incident reports for tankers, each with a one-page toolbox talk.</p></div><a href="lessons.html">All {len(LESSONS)} lessons →</a></div>
+{TOPIC_CHIPS}<div class="ho-lms">{b_more}</div></div></section>
+{NLB_HTML.replace(f'{icon("mail")}Subscribe free', f'{icon("mail")}Get the weekly brief')}{rr_strip()}{RR_JSON}""")
+
+    # --- C: lessons lead ---
+    C_H1 = "Your next safety meeting, ready to print."
+    C_SUB = ("One public incident report a week, in plain words, mapped to SIRE 2.0, CDI chapters and PSC codes, with a free one-page toolbox talk. "
+             "Plus the vetting rule changes that matter.")
+    c_more = "".join(lmini(l) for l in NEXT_L[:4])
+    c_tags = stags(LOTW) + "".join(f'<span class="ctag">CDI: {e(c)}</span>' for c in LOTW.get("cdi_tags", [])[:1]) + "".join(f'<span class="ptag">PMoU {e(c)}</span>' for c in LOTW.get("psc_codes", [])[:1])
+    page("home-c.html", "Home (option C)", desc=C_SUB, full_title="Option C · Vetting Radar", head=HO_HEAD, scripts=RR_SCRIPTS, body=f"""{mock_bar("C", "lessons lead")}
+<section class="hero ho-c"><div class="wrap">
+<div class="ho-c-top"><span class="eyebrow"><span class="pulse"></span>Safety lessons for tankers</span><h1>{C_H1}</h1><p class="sub">{C_SUB}</p></div>
+<div class="ho-c-main">
+<article class="card ho-c-lotw" id="lotw"><div class="ho-c-k"><span class="kicker">Lesson of the week</span><span class="cat">{e(LOTW['topic'])}</span><span class="badge who">{e(LOTW.get('ship_type_label', ''))}</span></div>
+<h2><a href="lessons/{e(LOTW['id'])}.html">{e(LOTW['title'])}</a></h2><p class="sum">{e(LOTW['summary3'])}</p>
+<div class="ho-c-chk"><h4>What to check on board</h4><ol>{CHK}</ol></div>
+<div class="tags">{c_tags}</div>
+<div class="btnrow ho-c-btns"><a class="btn big" href="{e(LOTW_TB)}" data-goatcounter-click="dl-toolbox-{e(LOTW['id'])}" data-goatcounter-title="Toolbox talk (home)">{icon("todo")}{e(LOTW_TBL)}</a><a class="btn light" href="lessons/{e(LOTW['id'])}.html">Read the lesson</a></div>
+<p class="note ho-c-src">One page · free to print, no sign-up · {SRC_L}</p></article>
+<aside class="ho-c-side"><div class="herobox" id="subscribe"><p class="hero-note">{icon("mail")}A new lesson and the rule changes, every week</p>{signup}</div></aside>
+</div></div></section>
+<section class="block tight"><div class="wrap"><div class="sechead"><div><h2>Safety lessons by topic</h2></div><a href="lessons.html">All {len(LESSONS)} lessons →</a></div>
+{TOPIC_CHIPS}<div class="ho-lms four">{c_more}</div></div></section>
+{TRUST}
+<section class="block tight"><div class="wrap">{latest_box("Vetting rule changes", TOP, " ho-flat")}</div></section>
+{NOW_DATES}
+{NLB_HTML}{rr_strip()}{RR_JSON}""")
+    print("home options: home-a.html, home-b.html, home-c.html (mockups, noindex, not linked; never deploy)")
 print("built", sorted(os.listdir(DIST)))
