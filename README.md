@@ -17,11 +17,10 @@ Not affiliated with OCIMF, CDI, RightShip or any employer. Always verify at sour
 ## Local preview
     python3 scripts/build.py && python3 -m http.server 8765 --directory dist
 
-## Homepage options (mockups, review only)
-    python3 scripts/build.py --home-options && python3 -m http.server 8765 --directory dist
-Also writes `dist/home-a.html`, `home-b.html`, `home-c.html` (+ `home-options.css`): three layouts of the homepage with the same live data,
-`noindex` and not linked from the site. The normal build (and so the workflow) never generates them and removes old copies from `dist/`.
-A: rule changes lead, lessons second · B: two-part hero (rule changes | lesson of the week) · C: lessons lead.
+## Homepage
+"Lessons first" (option C of three mockups, chosen 2026-10-19): the lesson of the week leads, with the signup beside it; on phones a
+"Get the weekly brief" link under the intro jumps to the signup below the lesson card. Styles in `site/home.css` (index only).
+Without published safety lessons the build falls back to the rule-changes homepage.
 
 ## Go-live (not done: no accounts created, nothing deployed)
 1. Push the repo to GitHub and enable GitHub Pages (or Cloudflare Pages) on dist/.
