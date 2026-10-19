@@ -1,0 +1,31 @@
+{
+  "id": "20261019T101238-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-19T10:12:38+00:00",
+  "previous_hash": "57e4e05223ee73f3e37c5154a0f1fb0dc2543ddcbf2708c0b6c9c27e11739889",
+  "new_hash": "36ef025d02a10d836009c967ecb68af487c09db91b1a079cf5a90450e6effe3e",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,6 @@\n LAST DATA UPDATE :\n+Emirates Classification Society\n+Det Norske Veritas\n+VesselTracker\n+AXS Marine\n Nippon Kaiji Kyokai\n@@ -19,5 +23,2 @@\n Lloyd's Register\n-Registro Italiano Navale\n-Bureau Veritas\n-American Bureau of Shipping\n USER ACTIVITY :",
+    "lines_added": 4,
+    "lines_removed": 3,
+    "added_sample": [
+      "Emirates Classification Society",
+      "Det Norske Veritas",
+      "VesselTracker",
+      "AXS Marine"
+    ],
+    "removed_sample": [
+      "Registro Italiano Navale",
+      "Bureau Veritas",
+      "American Bureau of Shipping"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
