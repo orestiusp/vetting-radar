@@ -1,0 +1,35 @@
+{
+  "id": "20261019T094929-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-19T09:49:29+00:00",
+  "previous_hash": "3a489c511d5481f680345b02b02ca5edef1bcbc899b4b7f051374d390f392876",
+  "new_hash": "57e4e05223ee73f3e37c5154a0f1fb0dc2543ddcbf2708c0b6c9c27e11739889",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,12 +15,9 @@\n LAST DATA UPDATE :\n-Türk Loydu\n-Mediterranean MoU\n-Paris MoU\n-Ship owners Mutual P&I Association\n-Biro Klasifikasi Indonesia\n Nippon Kaiji Kyokai\n-Polish Register of Shipping\n+OCIMF\n+CDI\n Lloyd's Register\n+Registro Italiano Navale\n+Bureau Veritas\n American Bureau of Shipping\n-Lloyd's Register\n USER ACTIVITY :",
+    "lines_added": 4,
+    "lines_removed": 7,
+    "added_sample": [
+      "OCIMF",
+      "CDI",
+      "Registro Italiano Navale",
+      "Bureau Veritas"
+    ],
+    "removed_sample": [
+      "Türk Loydu",
+      "Mediterranean MoU",
+      "Paris MoU",
+      "Ship owners Mutual P&I Association",
+      "Biro Klasifikasi Indonesia",
+      "Polish Register of Shipping",
+      "Lloyd's Register"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

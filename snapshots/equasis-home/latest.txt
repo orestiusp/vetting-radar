@@ -13,16 +13,13 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-Türk Loydu
-Mediterranean MoU
-Paris MoU
-Ship owners Mutual P&I Association
-Biro Klasifikasi Indonesia
 Nippon Kaiji Kyokai
-Polish Register of Shipping
+OCIMF
+CDI
 Lloyd's Register
+Registro Italiano Navale
+Bureau Veritas
 American Bureau of Shipping
-Lloyd's Register
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

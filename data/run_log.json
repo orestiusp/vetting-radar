@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-19T09:11:10+00:00",
+  "run_at": "2026-10-19T09:55:34+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
@@ -16,7 +16,7 @@
     "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
   },
   "changed_ids": [
-    "intertanko-press-general-releases"
+    "equasis-home"
   ],
   "lesson_candidates": {
     "new": 0,
