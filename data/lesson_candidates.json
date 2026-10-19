@@ -3,43 +3,43 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-10-19T08:00:39+00:00",
-      "last_ok": "2026-10-19T08:00:39+00:00",
+      "last_checked": "2026-10-19T09:11:11+00:00",
+      "last_ok": "2026-10-19T09:11:11+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-10-19T08:00:40+00:00",
-      "last_ok": "2026-10-19T08:00:40+00:00",
+      "last_checked": "2026-10-19T09:11:11+00:00",
+      "last_ok": "2026-10-19T09:11:11+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-10-19T08:00:41+00:00",
-      "last_ok": "2026-10-19T08:00:41+00:00",
+      "last_checked": "2026-10-19T09:11:12+00:00",
+      "last_ok": "2026-10-19T09:11:12+00:00",
       "last_error": null,
       "items_in_feed": 0
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-10-19T08:00:41+00:00",
-      "last_ok": "2026-10-19T08:00:41+00:00",
+      "last_checked": "2026-10-19T09:11:13+00:00",
+      "last_ok": "2026-10-19T09:11:13+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-10-19T08:00:42+00:00",
-      "last_ok": "2026-10-19T08:00:42+00:00",
+      "last_checked": "2026-10-19T09:11:14+00:00",
+      "last_ok": "2026-10-19T09:11:14+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-10-19T08:00:43+00:00",
-      "last_ok": "2026-10-19T08:00:43+00:00",
+      "last_checked": "2026-10-19T09:11:14+00:00",
+      "last_ok": "2026-10-19T09:11:14+00:00",
       "last_error": null,
       "items_in_feed": 10
     }

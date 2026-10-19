@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "20261019T090509-intertanko-press-general-releases",
+    "source_id": "intertanko-press-general-releases",
+    "source_name": "INTERTANKO – Press & general releases",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk/press-general-releases",
+    "detected_at": "2026-10-19T09:05:09+00:00",
+    "previous_hash": "8f1db88a1b640da45a43071668fc843e731cd503318c7de43a4495ac68ef881c",
+    "new_hash": "da48101b2045da56f91fe90feca935a5d839d24ec9968dddfad9e6c7806a812e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -92,2 +92,6 @@\n In the Gulf region last week, 11 ships were...\n+15 October 2026\n+INTERTANKO statement on the easing of US sanctions\n+15 October 2026\n+INTERTANKO has consistently supported legally robust enforcement against the shadow fleet and substandard shipping, alongside a clear...\n 9 October 2026\n@@ -119,6 +123,2 @@\n Following yesterday evening's announcement that \"Project Freedom\" is to be paused while diplomatic efforts continue, INTERTANKO welcomes...\n-4 May 2026\n-INTERTANKO urges an internationally coordinated approach following the announcement of Project Freedom\n-4 May 2026 - immediate release\n-It has been reported that US Central Command (CENTCOM) will begin supporting “Project Freedom”...\n INTERTANKO",
+      "lines_added": 4,
+      "lines_removed": 4,
+      "added_sample": [
+        "15 October 2026",
+        "INTERTANKO statement on the easing of US sanctions",
+        "15 October 2026",
+        "INTERTANKO has consistently supported legally robust enforcement against the shadow fleet and substandard shipping, alongside a clear..."
+      ],
+      "removed_sample": [
+        "4 May 2026",
+        "INTERTANKO urges an internationally coordinated approach following the announcement of Project Freedom",
+        "4 May 2026 - immediate release",
+        "It has been reported that US Central Command (CENTCOM) will begin supporting “Project Freedom”..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  }
+]
