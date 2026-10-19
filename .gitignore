@@ -10,3 +10,5 @@ __pycache__/
 .DS_Store
 # seed reports: owner review pending, kept out of the public repo
 supabase/seed_*
+# private editor files (review notes etc.): never committed or published
+data/private/

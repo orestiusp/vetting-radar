@@ -47,9 +47,19 @@ _TITLE_STOP = set("""Final Report Investigation Accident Marine Brief Collision 
 
 def is_pub(l): return bool(l.get("reviewed") and l.get("publish"))
 
+# Editor review notes are private: data/private/ is git-ignored and never read by the live build.
+# Format: {"<lesson id>": ["note", ...]}. Preview builds merge them in and show them on each lesson page.
+NOTES_PATH = os.path.join("data", "private", "lessons_review_notes.json")
+
 def load(path, preview):
     data = json.load(open(path)) if os.path.exists(path) else {"lessons": []}
     allx = data.get("lessons", [])
+    for l in allx: l.pop("review_notes", None)  # never trust notes left in the public file
+    if preview:
+        np = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(path))), NOTES_PATH)
+        notes = json.load(open(np)) if os.path.exists(np) else {}
+        for l in allx:
+            if notes.get(l["id"]): l["review_notes"] = notes[l["id"]]
     vis = [l for l in allx if preview or is_pub(l)]
     return allx, sorted(vis, key=lambda l: (l.get("vr_published") or "", l.get("source_published") or ""), reverse=True)
 
@@ -163,7 +173,7 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
         maprows += "".join(f'<tr><td>PSC</td><td><span class="ptag">Paris MoU {e(c)}</span></td><td>{e(ctx["pmou"].get(c, ""))} (indicative)</td></tr>' for c in l.get("psc_codes", []))
         tbh, tbl = toolbox_href(l, pre)
         notes = "".join(f"<li>{e(n)}</li>" for n in l.get("review_notes", []))
-        review = (f'<div class="card sbox revbox"><h3>Editor review notes</h3><p class="note">Shown only in the preview build.</p><ul>{notes}</ul></div>' if preview and not is_pub(l) and notes else "")
+        review = (f'<div class="card sbox revbox"><h3>Editor review notes</h3><p class="note">Shown only in the preview build.</p><ul>{notes}</ul></div>' if preview and notes else "")
         ld = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": l["title"], "description": l["summary3"],
                          "datePublished": l.get("vr_published") or l.get("checked_on"), "dateModified": l.get("checked_on"),
                          "publisher": {"@type": "Organization", "name": "Vetting Radar", "url": SITE_URL},
