@@ -33,6 +33,9 @@ VESSELS = [("crude", "Crude oil"), ("product", "Product"), ("chemical", "Chemica
 SOURCE_TYPES = [("investigation body", "Investigation bodies"), ("P&I club", "P&I clubs"), ("industry body", "Industry bodies"), ("class", "Class societies")]
 REQUIRED = ["id", "title", "summary3", "what_went_wrong", "root_cause", "key_lessons", "check_on_board", "sire2_tags", "vessel_types",
             "operation", "topic", "source_body", "source_type", "source_title", "source_url", "source_published", "checked_on"]
+# Editorial cap: at most 2 new lessons per ISO week (a warning, never a build failure).
+# Exception: the 14 lessons approved together at launch on 2026-10-19 carry "launch_batch": true and are not counted.
+# Do not set launch_batch on later additions.
 MAX_PER_WEEK = 2
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 _TITLE_STOP = set("""Final Report Investigation Accident Marine Brief Collision Between Sinking Fatal Fatality Allision Explosion Fire Cargo Tank Tanker
@@ -70,7 +73,7 @@ def check(lessons, pmou_codes=None):
         for n in sorted(names):
             if re.search(rf"\b{re.escape(n)}\b", ours): w.append(f"{lid}: possible vessel/company name in our text: {n}")
         if re.search(r"\bowners?\b", ours, re.I): w.append(f"{lid}: says 'owner' - use charterer, oil major or terminal (or ship operator)")
-        if is_pub(l) and l.get("vr_published"):
+        if is_pub(l) and l.get("vr_published") and not l.get("launch_batch"):
             y, wk, _ = dt.date.fromisoformat(l["vr_published"]).isocalendar(); weeks.setdefault((y, wk), []).append(lid)
     for k, ids in weeks.items():
         if len(ids) > MAX_PER_WEEK: w.append(f"week {k[0]}-W{k[1]:02d}: {len(ids)} lessons published (cap {MAX_PER_WEEK}): {', '.join(ids)}")
@@ -124,7 +127,7 @@ def build(ctx, vis, preview, lotw):
 This sheet is Vetting Radar's own short summary to support discussion. It is not the official report, not legal advice and not a substitute for your company's SMS. Read the full report at the source. {SITE_URL.replace('https://', '')}/lessons/{e(l['id'])}.html · free to print and share on board · checked {fmt_date(l['checked_on'])}{' · DRAFT, NOT PUBLISHED' if not is_pub(l) else ''}</div>
 </div></div>"""
         f = f"lessons/{l['id']}-toolbox.html"
-        page(f, "Toolbox talk: " + l["title"], body, depth=1, section="lessons.html", head=head(1) + '<meta name="robots" content="noindex">',
+        page(f, "Toolbox talk: " + l["title"], body, depth=1, section="lessons.html", head=head(1),
              desc=f"One-page toolbox talk for an onboard safety meeting: {l['title']}", scripts='<script src="../lessons.js"></script>')
         tb_files.append((l, os.path.join(DIST, f)))
 
@@ -137,10 +140,19 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
                 subprocess.run([ctx["chrome"], "--headless=new", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer", "--run-all-compositor-stages-before-draw",
                                 "--virtual-time-budget=3000", "--blink-settings=imagesEnabled=true", f"--print-to-pdf={out}", "file://" + fpath],
                                check=True, capture_output=True, timeout=90)
+                with open(out, "rb") as fh: head_ok = fh.read(5) == b"%PDF-"
+                if not head_ok or os.path.getsize(out) < 5000: raise ValueError("output is not a usable PDF")
                 pdf_n += 1
             except Exception as ex:
-                print("toolbox PDF failed for", l["id"], type(ex).__name__)
+                print("toolbox PDF failed for", l["id"], type(ex).__name__, "- falling back to the print page")
                 if os.path.exists(out): os.remove(out)
+    # Fallback: a missing PDF must never break the deploy or leave a dead link. Drop the Download button;
+    # the sheet keeps its Print / Save as PDF button, and lesson pages and the hub link the HTML sheet instead.
+    for l, fpath in tb_files:
+        if not os.path.exists(os.path.join(DIST, "lessons", l["id"] + "-toolbox.pdf")):
+            with open(fpath) as fh: t = fh.read()
+            t = re.sub(r'<a class="btn sm light" href="[^"]*-toolbox\.pdf"[^>]*>Download PDF</a>', "", t)
+            with open(fpath, "w") as fh: fh.write(t)
 
     # ---- lesson pages ----
     for l in vis:

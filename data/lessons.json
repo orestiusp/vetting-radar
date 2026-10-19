@@ -1,1049 +1,1063 @@
 {
- "_about": "Safety lessons. Our own summaries of public reports. Only records with reviewed=true AND publish=true are published by scripts/build.py; build.py --preview shows drafts with a 'Draft - awaiting review' badge.",
- "sire2_reference": "OCIMF SIRE 2.0 Question Library v1.0 (January 2022), Part 1 ch. 1-7 and Part 2 ch. 8-12; section titles checked against the PDFs on 19 Oct 2026",
- "lessons": [
-  {
-   "cdi_tags": [
-    "Mooring"
-   ],
-   "psc_codes": [
-    "18416"
-   ],
-   "discussion_questions": [
-    "Where exactly would you stand at our forward station when a spring goes under load?",
-    "Who gives the order to heave, and how does the bridge stop the operation?",
-    "When did we last check snap-back zones for the leads we normally use?",
-    "Is there a port or lock on our trade where the berthing plan is often unclear?"
-   ],
-   "related_updates": [],
-   "occurred": "2018-06-28",
-   "reuse_note": "Reuse terms not stated on the page: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": "2026-10-19",
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Written from the Board's English report page (summary, four failed barriers, eight recommendations); the full PDF was not read line by line.",
-    "4.3 (bridge team) is our mapping for the master-pilot agreement; 4.2 Navigational Procedures could also fit.",
-    "PSC 18416 is indicative only: line condition was not the main finding."
-   ],
-   "id": "mooring-spring-parted-lock-entry-2018",
-   "title": "Spring line parted under sudden load during a lock entry: one fatality",
-   "summary3": "A chemical tanker was entering a sea lock when a forward spring that had just been paid out came under heavy load. The mooring team could not react in time, the line parted and the part still on the winch whipped back and killed a crew member. The investigators found four safety barriers that failed on the day.",
-   "what_went_wrong": [
-    "The ship was not slowed down early enough for its planned stopping position in the lock.",
-    "The spring came under tension before the ship had reached its final position.",
-    "The officer leading the mooring team was not in a position to step in before the line parted.",
-    "Crew were standing inside the snap-back zone when the line failed."
-   ],
-   "root_cause": "As found by the Dutch Safety Board: the safety approach relied on people working as carefully as possible inside danger areas. The Board argues that mooring work should be organised so that, at the high-risk moments, crew work from safe positions and never need to enter snap-back zones. It also points to unclear agreements between the bridge team and the pilot about how the lock passage and the final position would be handled.",
-   "key_lessons": [
-    "Agree the final position in the lock, and the moment lines go under load, between master, pilot and mooring stations before the approach.",
-    "Lines are put under tension only on the order of the officer in command on the bridge.",
-    "The officer supervising a mooring station must be free to supervise, not handle lines.",
-    "Identify and mark safe work positions at each station, not only the danger zones."
-   ],
-   "check_on_board": [
-    "Mooring plan for the next port or lock briefed to all stations, including when lines go under load.",
-    "Snap-back zones assessed for the actual leads in use, and safe positions marked.",
-    "Enough crew at each station so the officer in charge can supervise.",
-    "Bridge-to-station communication tested; everyone knows the stop command.",
-    "Line condition and records up to date in the mooring line management plan."
-   ],
-   "sire2_tags": [
-    "9.3",
-    "9.4",
-    "4.3"
-   ],
-   "vessel_types": [
-    "chemical"
-   ],
-   "ship_type_label": "Chemical tanker",
-   "operation": "mooring",
-   "operation_label": "Lock transit and mooring",
-   "topic": "Mooring",
-   "severity": "fatality",
-   "source_body": "Dutch Safety Board (Onderzoeksraad voor Veiligheid)",
-   "source_short": "Dutch Safety Board",
-   "source_type": "investigation body",
-   "source_title": "Fatal outcome following parting of mooring line - Lessons learned from the accident on board the RN Privodino",
-   "source_url": "https://onderzoeksraad.nl/en/onderzoek/fatal-outcome-following-parting-of-mooring-line-lessons-learned/",
-   "source_published": "2020-11-05"
-  },
-  {
-   "cdi_tags": [
-    "Navigation"
-   ],
-   "psc_codes": [
-    "10133"
-   ],
-   "discussion_questions": [
-    "When was the last time we slowed down early for a fishing vessel instead of waiting for it to move?",
-    "How do we tell that a trawler is towing gear, by day and by night?",
-    "What is our minimum CPA in coastal waters, and who on the bridge can challenge it?",
-    "What would we do in the first five minutes after a collision?"
-   ],
-   "related_updates": [],
-   "occurred": "2024-04-25",
-   "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the GOV.UK summary and the report's Section 3 conclusions (PDF).",
-    "Severity set to 'damage' (vessel lost); the page does not report fatalities.",
-    "PSC 10133 Bridge operation is indicative only."
-   ],
-   "id": "collision-tanker-fishing-vessel-confined-waters-2024",
-   "title": "Tanker and trawler collision in confined waters: assumptions replaced action",
-   "summary3": "A crude oil tanker and a stern trawler towing its fishing gear collided in a firth, and the fishing vessel sank. Neither vessel took enough action to avoid the collision under the collision regulations until it was almost unavoidable. Assumptions about what the other vessel would do, and a feeling that there was little room to manoeuvre, meant the tanker's watchkeepers took no effective avoiding action.",
-   "what_went_wrong": [
-    "The tanker was the give-way vessel but did not alter course or speed in good time.",
-    "The bridge team assumed the trawler would act, and judged the area too restricted to manoeuvre.",
-    "The trawler's deployed gear limited its ability to manoeuvre once it was clear the tanker would not alter.",
-    "After the collision the tanker did not stop and offer assistance, which the investigators found conflicted with legal duties and put the fishing crew at risk."
-   ],
-   "root_cause": "As found by UK MAIB: neither vessel acted in line with the collision regulations until a collision was almost inevitable. On the tanker, assumptions about the trawler's intentions and the perceived lack of sea room meant no effective action was taken. On the trawler, an inexperienced watchkeeper was in charge and the navigational risk of this had not been assessed. No local traffic service was able to monitor the situation.",
-   "key_lessons": [
-    "Being in confined waters does not remove the duty to give way: plan the action early, including a reduction of speed.",
-    "Never act on an assumption about what a fishing vessel will do; vessels towing gear may be unable to manoeuvre quickly.",
-    "Use all means to confirm the risk of collision and the other vessel's status (lights, shapes, AIS, radar, VHF).",
-    "After any collision, stop, check on the other vessel and offer assistance."
-   ],
-   "check_on_board": [
-    "Master's standing orders cover minimum CPA in coastal and confined waters, and when to call the master.",
-    "Officers can recognise fishing vessel lights and shapes and know how gear limits their movement.",
-    "Passage plan marks fishing grounds and areas with limited sea room, with planned speed and contingencies.",
-    "Post-collision procedure (stop, assist, report) is in the SMS and known to the bridge team."
-   ],
-   "sire2_tags": [
-    "4.2",
-    "4.3"
-   ],
-   "vessel_types": [
-    "crude"
-   ],
-   "ship_type_label": "Crude oil tanker",
-   "operation": "navigation",
-   "operation_label": "Coastal navigation",
-   "topic": "Bridge & navigation",
-   "severity": "damage",
-   "source_body": "UK Marine Accident Investigation Branch (MAIB)",
-   "source_short": "UK MAIB",
-   "source_type": "investigation body",
-   "source_title": "Collision between the crude oil tanker Apache and the stern trawler Serinah (GH 116) (Accident Investigation Report 4/2026)",
-   "source_url": "https://www.gov.uk/maib-reports/collision-between-the-crude-oil-tanker-apache-and-the-stern-trawler-serinah-gh-116",
-   "source_published": "2026-02-05"
-  },
-  {
-   "cdi_tags": [
-    "Cargo operations (chemical)"
-   ],
-   "psc_codes": [],
-   "discussion_questions": [
-    "Which of our current cargoes are inhibited or heat-sensitive, and what are their limits?",
-    "How would we notice a slow temperature rise in a tank that is not being heated?",
-    "Could heat from our heated tanks reach a sensitive cargo through another tank?",
-    "When did we last report a cargo near miss to the office, and did other ships hear about it?"
-   ],
-   "related_updates": [],
-   "occurred": "2019-09-28",
-   "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the GOV.UK page, the synopsis and Section 3 conclusions (PDF).",
-    "Severity: two crew and fifteen emergency responders were injured (minor for the crew); set to 'damage' - please confirm.",
-    "5.7 Safety Management is our guess for fleet near-miss sharing; unsure whether OCIMF would place this under 2.7 Safety Management System instead.",
-    "No close Paris MoU deficiency code found; left blank rather than guess."
-   ],
-   "id": "styrene-runaway-polymerisation-heat-transfer-2019",
-   "title": "Styrene tank ruptured after runaway polymerisation: heat came from cargo two tanks away",
-   "summary3": "An inhibited styrene monomer cargo on a chemical tanker started to polymerise, the tank ruptured at a berth, and the released vapour ignited, causing explosions and a long fire. The cargo had been warmed for most of the voyage by heat passing from heated cargo through an intermediate tank, which used up the inhibitor faster than expected. The crew did not monitor the styrene temperature, so they did not see the danger building.",
-   "what_went_wrong": [
-    "The stowage plan kept the styrene away from directly adjacent heated cargo, but heat still reached it through an intermediate tank.",
-    "Nobody calculated the likely heat transfer during stowage planning; the investigators found this was beyond the tools and skills available.",
-    "The styrene temperature was not monitored and the cargo temperature alarms were not set, although the SMS required monitoring.",
-    "The actions listed on the inhibitor certificate for rising temperatures could not be carried out on board.",
-    "A similar polymerisation event on a sister ship two weeks earlier had not been shared with other masters."
-   ],
-   "root_cause": "As found by UK MAIB (on behalf of the flag State): runaway polymerisation started because the cargo stayed at an elevated temperature for much of the voyage, reducing the effect of the inhibitor. The heat came from other heated cargo via an intermediate tank, a risk that was not fully considered when the stowage was planned and approved. The crew saw the cargo as benign once inhibited and did not monitor it.",
-   "key_lessons": [
-    "For heat-sensitive or inhibited cargoes, consider heat transfer through intermediate tanks, not only direct neighbours.",
-    "Monitor and log the temperature of inhibited cargoes through the voyage, with alarms set, and report trends ashore.",
-    "Check that the inhibitor certificate's instructions are actually possible with the equipment on board.",
-    "Share near misses across the fleet quickly: an earlier warning could have prevented this accident."
-   ],
-   "check_on_board": [
-    "Inhibited cargoes on board identified, with their temperature limits and inhibitor details to hand.",
-    "Cargo temperature alarms set for heat-sensitive cargoes and checked at each watch.",
-    "Stowage plan reviewed for heat transfer from heated tanks, including through adjacent or intermediate tanks.",
-    "Procedure known for what to do if an inhibited cargo starts to warm up.",
-    "Near-miss reports from the fleet on cargo incidents read and discussed by cargo officers."
-   ],
-   "sire2_tags": [
-    "8.2",
-    "5.7"
-   ],
-   "vessel_types": [
-    "chemical"
-   ],
-   "ship_type_label": "Chemical tanker",
-   "operation": "cargo ops",
-   "operation_label": "Cargo care and heating",
-   "topic": "Cargo & vapour",
-   "severity": "damage",
-   "source_body": "UK Marine Accident Investigation Branch (MAIB)",
-   "source_short": "UK MAIB",
-   "source_type": "investigation body",
-   "source_title": "Cargo tank explosion and fire on chemical tanker Stolt Groenland (Accident Investigation Report 9/2021)",
-   "source_url": "https://www.gov.uk/maib-reports/cargo-tank-explosion-and-fire-on-chemical-tanker-stolt-groenland",
-   "source_published": "2021-07-20"
-  },
-  {
-   "cdi_tags": [
-    "Mooring (STS)"
-   ],
-   "psc_codes": [
-    "13101"
-   ],
-   "discussion_questions": [
-    "What exactly do we do if the engine does not start while we are still alongside the other ship?",
-    "Who on our bridge talks to the STS superintendent, and who talks to the engine room?",
-    "How do we check that everyone understood the separation plan, not just signed the checklist?",
-    "What would make you stop an STS operation?"
-   ],
-   "related_updates": [],
-   "occurred": "2009-08-10",
-   "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Report dated March 2010 on its cover; the GOV.UK page shows 23 Jan 2015, which looks like a web migration date. We show March 2010.",
-    "Older report (2009 accident): OCIMF guidance on STS service providers and the STS Transfer Guide have changed since; check the lessons still read as current.",
-    "Vessel types 'crude, product' assumed from 'oil tankers' - the report summary does not say which. Please confirm or change to 'all tankers'.",
-    "PSC 13101 Propulsion main engine is indicative only."
-   ],
-   "id": "sts-separation-engine-failed-to-start-2009",
-   "title": "Tankers collided while separating after an STS transfer: engine failed to start",
-   "summary3": "Two tankers collided at very low speed while separating at the end of a ship-to-ship transfer at an offshore STS area. One ship's main engine failed to start when ordered ahead, and both ships tried to manoeuvre clear, but they were already too close. There was no procedure for an engine failure, and two breakdowns in communication slowed the response.",
-   "what_went_wrong": [
-    "The main engine did not start when ordered ahead during separation, and stayed stopped for about four and a half minutes.",
-    "The crew had no procedure to follow for an engine failure during STS manoeuvring.",
-    "Communication broke down twice between the people involved, including over language and radio channels.",
-    "The unmooring and departure manoeuvre was not properly planned or briefed; checklists were relied on instead."
-   ],
-   "root_cause": "As found by UK MAIB: the collision resulted from the main engine failing to start as the ships separated. The response to the failure and poor communications contributed. The investigators also noted that the STS superintendent's workload was high and that hours of rest and performance of superintendents were not monitored by the service provider.",
-   "key_lessons": [
-    "Plan and brief the unmooring and separation as carefully as the approach; a checklist is not a plan.",
-    "Have a clear, rehearsed response to an engine failure at every stage of an STS operation.",
-    "Agree the working language, radio channels and who speaks to whom before the operation starts.",
-    "Watch the workload and rest of the STS superintendent; consider an assistant on long or complex operations."
-   ],
-   "check_on_board": [
-    "STS plan covers separation, with an engine-failure contingency for each stage.",
-    "Main engine tested astern and ahead before unmooring, with an engineer standing by in the ECR.",
-    "Working language and VHF channels agreed with the other ship and the STS superintendent.",
-    "Roles on the bridge written down for STS manoeuvres, including who handles communications."
-   ],
-   "sire2_tags": [
-    "9.5",
-    "4.3",
-    "4.4"
-   ],
-   "vessel_types": [
-    "crude",
-    "product"
-   ],
-   "ship_type_label": "Oil tankers (two)",
-   "operation": "STS",
-   "operation_label": "Ship-to-ship transfer, separation",
-   "topic": "STS",
-   "severity": "damage",
-   "source_body": "UK Marine Accident Investigation Branch (MAIB)",
-   "source_short": "UK MAIB",
-   "source_type": "investigation body",
-   "source_title": "Collision between oil tankers Saetta and Conger on completion of ship to ship transfer (Accident Investigation Report 3/2010)",
-   "source_url": "https://www.gov.uk/maib-reports/collision-between-oil-tankers-saetta-and-conger-on-completion-of-a-ship-to-ship-transfer-off-southwold-england",
-   "source_published": "2010-03"
-  },
-  {
-   "cdi_tags": [
-    "Navigation"
-   ],
-   "psc_codes": [
-    "10109",
-    "10133"
-   ],
-   "discussion_questions": [
-    "What do our navigation lights look like from ahead when the deck lights are on?",
-    "During pilotage, who on our bridge is watching the radar?",
-    "How would we identify and call a fast vessel that has no AIS?",
-    "When would we call the VTS to ask about traffic?"
-   ],
-   "related_updates": [],
-   "occurred": "2018-11-08",
-   "reuse_note": "Reuse terms not stated: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the NSIA report page (summary and all 15 recommendations). Report cover says 'Issued November 2019'; exact day not checked.",
-    "The other vessel was a naval frigate; our text calls it a warship and does not name it.",
-    "Unsure whether deck lights masking navigation lights sits in SIRE 2.0 4.1 (navigation equipment/lights) or 4.2 (procedures); tagged both.",
-    "Severity 'damage': seven people on the other vessel had minor injuries and there was a small oil spill."
-   ],
-   "id": "tanker-deck-lights-hid-navigation-lights-2018",
-   "title": "Deck lights hid a departing tanker's navigation lights: collision with a warship",
-   "summary3": "A loaded crude oil tanker leaving a terminal at night under pilotage was struck by a warship that was heading south at speed with its AIS not transmitting. The warship's bridge team believed the tanker's strong lights were a fixed object and did not realise they were on a collision course. The tanker's forward-facing deck lights made its navigation lights and warning signals harder to see.",
-   "what_went_wrong": [
-    "The tanker left the terminal with forward-pointing deck lights on so that crew could secure equipment, which reduced the visibility of its navigation lights and signal lamp.",
-    "No other vessels were plotted on the tanker's radar, and there was little discussion between the bridge team and the pilot about the traffic.",
-    "The other vessel was not transmitting AIS, so it could not be identified quickly on the tanker's displays or by the VTS.",
-    "The VTS was not following the other vessel's passage and did not warn the traffic about the tanker's departure."
-   ],
-   "root_cause": "As found by the Accident Investigation Board Norway (now NSIA): a combination of operational, technical, organisational and system factors on both vessels and at the VTS. For the tanker, the investigators found no safety measures to stop deck lighting from reducing the visibility of navigation lights, and that radar plotting and bridge-pilot communication did not build a shared picture of the traffic.",
-   "key_lessons": [
-    "Before departure or arrival at night, check that deck lighting does not mask navigation lights; switch off or shield forward-facing lights.",
-    "Under pilotage, keep plotting targets on radar and talk through the traffic with the pilot.",
-    "Do not rely on AIS to see every vessel: some ships do not transmit.",
-    "Use all means early to warn a vessel that seems unaware: VHF, light and sound signals, and the VTS."
-   ],
-   "check_on_board": [
-    "Night departure checklist includes a check of deck lights against navigation lights from outside the ship (or from the bridge wing).",
-    "Radar targets plotted and monitored during pilotage, not only when the pilot asks.",
-    "Bridge team briefed on how to call a vessel by VHF when its AIS is not visible.",
-    "Master-pilot exchange covers expected traffic and VTS reporting."
-   ],
-   "sire2_tags": [
-    "4.1",
-    "4.2",
-    "4.3"
-   ],
-   "vessel_types": [
-    "crude"
-   ],
-   "ship_type_label": "Crude oil tanker",
-   "operation": "pilotage",
-   "operation_label": "Terminal departure under pilotage",
-   "topic": "Bridge & navigation",
-   "severity": "damage",
-   "source_body": "Norwegian Safety Investigation Authority (NSIA), formerly AIBN",
-   "source_short": "Norway NSIA",
-   "source_type": "investigation body",
-   "source_title": "Part one report on the collision on 8 November 2018 between the frigate HNoMS Helge Ingstad and the oil tanker Sola TS outside the Sture Terminal in the Hjeltefjord in Hordaland county (Marine report 2019/08)",
-   "source_url": "https://nsia.no/Marine/Published-reports/2019-08-eng",
-   "source_published": "2019-11"
-  },
-  {
-   "cdi_tags": [
-    "Navigation"
-   ],
-   "psc_codes": [
-    "10113",
-    "10133"
-   ],
-   "discussion_questions": [
-    "When AIS and radar disagree, which one do we trust and why?",
-    "Would our lookout feel able to challenge the OOW? How do we make sure?",
-    "What is our minimum CPA at sea, and when must the master be called?",
-    "Who knows how to save the VDR data on this ship?"
-   ],
-   "related_updates": [],
-   "occurred": "2018-01-06",
-   "reuse_note": "OCIMF copyright; summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the OCIMF bulletin page and the bulletin PDF (purpose, contributory factors, learnings, note to inspectors).",
-    "The bulletin itself points inspectors to VIQ chapter 4 (Navigation); we mapped this to SIRE 2.0 sections 4.1-4.3.",
-    "Vessel type: the tanker carried condensate; filed under 'crude' for filtering - please confirm.",
-    "The underlying official report is by China MSA; we link to OCIMF's bulletin, which is the document we read."
-   ],
-   "id": "give-way-tanker-crossing-collision-ais-reliance-2018",
-   "title": "Over-reliance on AIS in a crossing situation: tanker collision, fire and 32 lives lost",
-   "summary3": "A loaded condensate tanker, the give-way vessel in a crossing situation, collided with a bulk carrier at night in open water. The tanker's cargo tanks were breached, leading to fire, explosions and the loss of the ship with all 32 crew. Industry analysis found that both ships broke key collision rules, leaned too much on AIS and did not use radar plotting well.",
-   "what_went_wrong": [
-    "Both ships failed on lookout, assessing the risk of collision and taking action to avoid it.",
-    "The tanker, as give-way vessel, did not keep clear; the other ship altered course when it should have stood on.",
-    "Both bridges relied heavily on AIS to identify and assess the other ship; one used it as its only source.",
-    "Bridge teamwork was weak: a lookout's advice was not acted on, the master was called late, and the watch was distracted by non-navigational talk.",
-    "AIS course and speed data from one ship, as received by others, differed noticeably from what it actually did."
-   ],
-   "root_cause": "As summarised by OCIMF from the official investigation by China's Maritime Safety Administration: the primary factors were failure to follow the collision regulations, improper use of AIS for collision avoidance, ineffective use of radar and ARPA, and poor bridge resource management. Distraction on the bridge and a reluctance to act for smaller vessels were secondary factors.",
-   "key_lessons": [
-    "AIS and ECDIS are aids: use radar, ARPA and visual bearings to judge the risk of collision.",
-    "Using electronic aids never removes the duty to follow the collision regulations at all times.",
-    "Speak up and respond: a lookout's warning must be acted on, and the master called early.",
-    "Know how to save VDR data after an incident, so the lessons can be learned."
-   ],
-   "check_on_board": [
-    "Master's standing orders state a minimum CPA and when the OOW must call the master.",
-    "OOWs plot targets on radar/ARPA and take visual bearings, not only AIS readings.",
-    "Bridge team practises speak-up: lookouts know they must report and can challenge.",
-    "Officers know how to save VDR data after an incident.",
-    "Non-navigational tasks kept off the bridge during busy or crossing traffic."
-   ],
-   "sire2_tags": [
-    "4.1",
-    "4.2",
-    "4.3"
-   ],
-   "vessel_types": [
-    "crude"
-   ],
-   "ship_type_label": "Tanker (condensate)",
-   "operation": "navigation",
-   "operation_label": "Open-sea navigation, crossing situation",
-   "topic": "Bridge & navigation",
-   "severity": "fatality",
-   "source_body": "Oil Companies International Marine Forum (OCIMF)",
-   "source_short": "OCIMF",
-   "source_type": "industry body",
-   "source_title": "OCIMF Safety Bulletin - Sanchi and CF Crystal Collision Incident",
-   "source_url": "https://www.ocimf.org/publications/information-papers/ocimf-safety-bulletin-sanchi-and-cf-crystal-collision-incident",
-   "source_published": "2020-04-20"
-  },
-  {
-   "cdi_tags": [
-    "Machinery",
-    "Navigation"
-   ],
-   "psc_codes": [
-    "13101"
-   ],
-   "discussion_questions": [
-    "If the engine does not respond to 'stop', what do we do in the first 30 seconds?",
-    "Who in the ECR is watching rpm during manoeuvring, and when do they call the bridge?",
-    "How long does it take us to change to engine-room control?",
-    "When did we last practise loss of engine control with the pilot on board?"
-   ],
-   "related_updates": [],
-   "occurred": "2016-09-06",
-   "reuse_note": "US federal work, generally public domain; photos may be third party. We summarise and link.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the full NTSB Marine Accident Brief (PDF).",
-    "The NTSB gives an equipment cause; the key lessons on response are our own, drawn from the sequence of events in the brief. Check they don't read as blame.",
-    "Severity 'pollution' (about 88,000 US gallons of gas oil spilled and burned; two pilots had minor burns)."
-   ],
-   "id": "loss-of-engine-control-astern-allision-fire-2016",
-   "title": "Engine kept running astern after 'stop': tanker hit mooring dolphins and spilled fuel",
-   "summary3": "A crude oil tanker in ballast was leaving a berth with two pilots and two tugs when its main engine went to a much higher astern speed than ordered and did not answer the telegraph. The ship struck mooring dolphins, a fuel tank was punctured, and the spilled gas oil caught fire and burned for about 45 minutes. The engine stopped only when the chief engineer took control and pressed the emergency stop in the engine control room.",
-   "what_went_wrong": [
-    "After a dead-slow-astern order the engine ran at about 80 rpm astern instead of 30.",
-    "Orders for stop and then ahead had no effect for several minutes while astern speed increased.",
-    "The tugs could not hold the ship in time and the stern hit two mooring dolphins.",
-    "The punctured fuel tank lay close to the hull side; the ship pre-dated the rule that now requires fuel tanks to be set inboard."
-   ],
-   "root_cause": "As determined by the US NTSB: the probable cause was a momentary abnormality in the main engine governor actuator system in responding to commands from the bridge. Investigators believed this was likely an electrical and/or mechanical failure, which manufacturer technicians could not reproduce afterwards.",
-   "key_lessons": [
-    "The engine room watch noticed the wrong rpm first: keep a close watch on rpm against the telegraph during manoeuvring.",
-    "If the engine does not answer the bridge, take engine-room control or use the emergency stop at once; do not keep repeating orders.",
-    "Brief the response to loss of engine control in the master-pilot exchange, including tugs and anchors.",
-    "Exercise loss of engine control as a drill, with bridge and engine room together."
-   ],
-   "check_on_board": [
-    "Bridge and ECR know how to change to engine-room control and where the emergency stops are.",
-    "Engineer in the ECR watching rpm against the telegraph during all manoeuvring.",
-    "Loss-of-propulsion / loss-of-control drill held in the last drill cycle, with bridge and ECR.",
-    "Anchors cleared and ready on departure and arrival in confined waters.",
-    "Bridge-ECR telephone tested before manoeuvring."
-   ],
-   "sire2_tags": [
-    "4.3",
-    "10.2",
-    "5.1"
-   ],
-   "vessel_types": [
-    "crude"
-   ],
-   "ship_type_label": "Crude oil tanker (in ballast)",
-   "operation": "pilotage",
-   "operation_label": "Unberthing under pilotage",
-   "topic": "Machinery",
-   "severity": "pollution",
-   "source_body": "US National Transportation Safety Board (NTSB)",
-   "source_short": "US NTSB",
-   "source_type": "investigation body",
-   "source_title": "Marine Accident Brief: Allision of Tanker Aframax River with Mooring Dolphins, and Subsequent Fire in Waterway (NTSB/MAB-18/06)",
-   "source_url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MAB1806.pdf",
-   "source_published": "2018-02-22"
-  },
-  {
-   "cdi_tags": [
-    "Safety management",
-    "Structure and hull"
-   ],
-   "psc_codes": [
-    "03108",
-    "15150"
-   ],
-   "discussion_questions": [
-    "Which open defects on our list would stop us sailing? Who decides?",
-    "Do we know the master's overriding authority wording in our SMS?",
-    "When did someone last inspect our air vent heads on deck?",
-    "If you saw serious corrosion in a tank, how would you report it?"
-   ],
-   "related_updates": [],
-   "occurred": "2025-01-12",
-   "reuse_note": "Reuse terms not stated: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the full TSIB final report (PDF): synopsis, conclusions and recommendations.",
-    "Topic filed under 'Machinery' (defects and maintenance); 'Personal safety' or a future 'Stability' topic could also fit.",
-    "Vessel type 'all tankers': the report says oil tanker but not crude or product.",
-    "SIRE chapter 11 (General Appearance and Condition) may also apply to the hull and deck defects."
-   ],
-   "id": "unfit-coastal-tanker-sank-defects-not-fixed-2025",
-   "title": "Small tanker sailed with known defects and sank: the master's overriding authority",
-   "summary3": "A small, old coastal oil tanker with very low freeboard was sailing to an STS location when seawater came on deck, entered a ballast tank through a broken air vent and the engine room through a corroded pipe, and the ship took a list. The ballast pump did not work, both generators then failed, and the ship lost power and steering and later sank; all eight crew were rescued. The investigators found that the defects were known before the voyage and that the master did not use his overriding authority to stop it.",
-   "what_went_wrong": [
-    "The ship sailed with an inoperative ballast pump, an under-performing generator, a corroded engine-room drain pipe and a broken air vent head on deck.",
-    "With freeboard under one metre in a moderate swell, water entered a ballast tank and the engine room.",
-    "The list could not be corrected without the ballast pump, and the generator failures left the ship not under command.",
-    "The voyage went ahead on the understanding that the defects would be repaired afterwards.",
-    "Crew had seen corroded and deformed structure in the ballast tanks that was not addressed at the last dry-docking."
-   ],
-   "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: hull and equipment defects that were not fixed before departure let seawater in and caused the list and sinking, so the ship was not fit for the voyage. The master did not use the overriding authority given in the SMS to stop the voyage, and the condition of the ballast tank structure suggested ship maintenance may not have been adequate.",
-   "key_lessons": [
-    "Defects that affect watertight integrity, stability or power must be fixed before sailing, not after.",
-    "The master's overriding authority exists for exactly this situation; the company must support its use.",
-    "Air vent heads, closing devices and drain pipes are part of the ship's watertight boundary: inspect them.",
-    "Report structural concerns in writing, and follow them up through dry-dock repair lists."
-   ],
-   "check_on_board": [
-    "Open defect list reviewed by master and chief engineer before every departure.",
-    "Ballast pumps, bilge alarms and generators tested and working before sailing.",
-    "Air vent heads and their closing devices on deck inspected and in good order.",
-    "Crew know how to raise a safety concern and that the master can refuse to sail.",
-    "Ballast tank inspection findings recorded and carried into the repair list."
-   ],
-   "sire2_tags": [
-    "2.4",
-    "2.7",
-    "10.4"
-   ],
-   "vessel_types": [
-    "all tankers"
-   ],
-   "ship_type_label": "Small coastal oil tanker",
-   "operation": "maintenance",
-   "operation_label": "Coastal voyage with open defects",
-   "topic": "Machinery",
-   "severity": "damage",
-   "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
-   "source_short": "Singapore TSIB",
-   "source_type": "investigation body",
-   "source_title": "Final Report: Sinking of tanker Silver Sincere in Singapore territorial waters on 12 January 2025 (TIB/MAI/CAS.188)",
-   "source_url": "https://isomer-user-content.by.gov.sg/287/739827ca-1f2a-4617-9d25-570bee8f9a64/sinking-of-oil-tanker-silver-sincere-in-singapore-territorial-waters-12-january-2025.pdf",
-   "source_published": "2025-11-20"
-  },
-  {
-   "cdi_tags": [
-    "Navigation",
-    "Crew management"
-   ],
-   "psc_codes": [
-    "18201",
-    "10133"
-   ],
-   "discussion_questions": [
-    "When you joined this ship, how rested were you before your first watch?",
-    "Are our radar alarms on right now? What limits are set?",
-    "What paperwork tempts us to leave the wheelhouse, and how could we move it?",
-    "At anchor, at what point do we call an approaching ship on VHF?"
-   ],
-   "related_updates": [],
-   "occurred": "2024-07-19",
-   "reuse_note": "Reuse terms not stated: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the full TSIB final report (PDF): synopsis and conclusions.",
-    "Fatigue / hours of rest: unsure whether this sits in SIRE 2.0 chapter 3 (crew) or 4.3; tagged 4.3 only - please check.",
-    "The fatality was a shore worker on the anchored tanker, not crew of either ship."
-   ],
-   "id": "oow-left-wheelhouse-fatigue-collision-anchored-tanker-2024",
-   "title": "Tired OOW left the wheelhouse for paperwork: collision with an anchored tanker and fire",
-   "summary3": "A product/chemical tanker on passage at dawn tried to pass between an anchored tanker and another ship less than a mile apart and collided with the anchored ship. Cargo and fuel escaped and caught fire on both ships; two shore workers on the anchored tanker were badly burned and one later died. The officer of the watch was in the chartroom doing reports, had slept about two hours in the previous day and a half after joining, and the radar CPA alarms were silenced or switched off.",
-   "what_went_wrong": [
-    "The OOW left the wheelhouse to prepare non-urgent reports in a busy traffic situation, leaving one rating alone on the bridge.",
-    "The OOW had joined the ship after overnight travel, started duties at once and had less than two hours' rest in about 38 hours, partly because of an unannounced alarm test.",
-    "CPA/TCPA alarms on one radar were silenced and on the other were turned off.",
-    "The anchored tanker saw the ship early but judged the risk low, and when it got close used light and sound signals but not VHF.",
-    "Its SMS did not say how to warn an approaching ship when at anchor."
-   ],
-   "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: prioritising paperwork over navigation reduced the bridge team's awareness, and the OOW was likely fatigued after travel, immediate duties and broken rest. Disabled radar alarms removed a safeguard. On the anchored ship, the lack of SMS guidance on warning methods limited the response.",
-   "key_lessons": [
-    "Navigation comes first: administrative tasks wait until traffic allows, and the OOW stays in the wheelhouse.",
-    "Newly joined watchkeepers need proper rest before their first watch; plan the handover around it.",
-    "Keep CPA/TCPA alarms active and set to sensible limits; do not silence the safeguard.",
-    "At anchor, warn an approaching ship early by every means, including VHF, and have this written in the SMS."
-   ],
-   "check_on_board": [
-    "Hours of rest of newly joined officers checked before they take a watch.",
-    "Radar CPA/TCPA alarms active on both radars, with limits set per the master's standing orders.",
-    "Unannounced alarm tests are not done during the rest period of watchkeepers who have just joined.",
-    "Anchor watch instructions say how to warn a ship standing into danger (VHF, light, sound, calling the master).",
-    "Reports and paperwork are scheduled away from watch time in busy waters."
-   ],
-   "sire2_tags": [
-    "4.2",
-    "4.3",
-    "4.1"
-   ],
-   "vessel_types": [
-    "product",
-    "chemical"
-   ],
-   "ship_type_label": "Product / chemical tanker",
-   "operation": "navigation",
-   "operation_label": "Coastal passage near an anchorage",
-   "topic": "Bridge & navigation",
-   "severity": "fatality",
-   "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
-   "source_short": "Singapore TSIB",
-   "source_type": "investigation body",
-   "source_title": "Final Report: Collision between Hafnia Nile and Ceres I at South China Sea on 19 July 2024 (TIB/MAI/CAS.173)",
-   "source_url": "https://isomer-user-content.by.gov.sg/287/a8ae896e-e98a-4c56-9ece-68b31ab97ad9/Collision%20between%20Hafnia%20Nile%20and%20Ceres%20I%20in%20the%20South%20China%20Sea%20on%2019July2024.pdf",
-   "source_published": "2025-12-28"
-  },
-  {
-   "cdi_tags": [
-    "Cargo operations",
-    "Safety management"
-   ],
-   "psc_codes": [
-    "18410",
-    "15150"
-   ],
-   "discussion_questions": [
-    "Where does the vapour go when we gas-free our tanks?",
-    "What gas readings would make us stop work on deck?",
-    "Who would you send to change a chute at 0300, and who keeps the lookout?",
-    "Do we all understand the limits in our gas-freeing procedure the same way?"
-   ],
-   "related_updates": [],
-   "occurred": "2022-06-01",
-   "reuse_note": "Reuse terms not stated: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the full TSIB final report (PDF): synopsis and conclusions.",
-    "Autopsy report was not available to the investigators; cause of death is the investigators' likely explanation.",
-    "Unsure whether gas-freeing on an oil/chemical tanker maps best to SIRE 2.0 8.3 (Oil and Chemical) or 8.2 (Chemicals); tagged 8.3.",
-    "PSC 18410 Gas instruments is indicative only."
-   ],
-   "id": "gas-freeing-air-chute-lookout-sent-on-deck-2022",
-   "title": "Gas-freeing on deck at night: crew member overcome by nitrogen and cargo vapour",
-   "summary3": "After tank cleaning on a chemical tanker, the lookout was sent from the bridge, alone and in the dark, to move a portable air chute from one cargo tank to another during gas-freeing. He was later found unconscious on deck and could not be revived. The investigators found that tank hatches were open instead of venting through the approved system, gas levels were not checked, and gas-freeing had no risk assessment or toolbox talk.",
-   "what_went_wrong": [
-    "The lookout was sent to deck alone at night to change over the air chute, leaving the OOW as the only lookout.",
-    "He did not stop the gas-freeing fan and carried no personal gas detector.",
-    "Tank cleaning hatches were left open, so vapour vented at deck level rather than through the approved venting system.",
-    "Gas concentration in the tanks was not checked before connecting the air chutes, and the work went on in still air.",
-    "Gas-freeing was not listed as a task needing a risk assessment, so none was done."
-   ],
-   "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: the crew member likely inhaled nitrogen and toxic vapour while changing over the air chute. Venting at deck level and not checking gas levels departed from the SMS. The officer in charge followed a practice he had seen in training and was unclear what 'safe limits' meant. Planning of tank cleaning and gas-freeing was inadequate, and the SMS was not effectively applied on board.",
-   "key_lessons": [
-    "Vent cargo tanks only through the approved venting system; open hatches put vapour where people work.",
-    "Anyone working on deck during gas-freeing carries a personal multi-gas detector and stops the fan before handling chutes.",
-    "Gas-freeing needs a risk assessment, a toolbox talk and clear gas limits that everyone understands.",
-    "Do not take the lookout off the bridge at night for deck work; plan manpower for the whole operation.",
-    "Stop deck work around open tanks in still air."
-   ],
-   "check_on_board": [
-    "Gas-freeing procedure states the venting route, the gas limits and who checks them.",
-    "Personal gas detectors (O2, HC, H2S, toxic as needed) available, calibrated and worn on deck during gas-freeing.",
-    "Risk assessment list includes tank cleaning and gas-freeing.",
-    "Night-time deck tasks during gas-freeing planned with day workers or extra crew, not the lookout.",
-    "Officers can explain what 'safe limits' means for the cargo just carried."
-   ],
-   "sire2_tags": [
-    "8.3",
-    "5.6",
-    "5.7",
-    "4.2"
-   ],
-   "vessel_types": [
-    "chemical",
-    "product"
-   ],
-   "ship_type_label": "Oil / chemical tanker",
-   "operation": "tank cleaning",
-   "operation_label": "Gas-freeing after tank cleaning",
-   "topic": "Cargo & vapour",
-   "severity": "fatality",
-   "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
-   "source_short": "Singapore TSIB",
-   "source_type": "investigation body",
-   "source_title": "Final Report: Fatality of crew onboard chemical tanker Concerto at sea on 1 June 2022 (TIB/MAI/CAS.126)",
-   "source_url": "https://isomer-user-content.by.gov.sg/287/bffba9fd-83ed-43fd-a7c2-90fd9785b766/cas-126---fatality-of-crew-onboard-srs-concerto-at-sea-1-june-2022.pdf",
-   "source_published": "2023-06-09"
-  },
-  {
-   "cdi_tags": [
-    "Navigation"
-   ],
-   "psc_codes": [
-    "10133"
-   ],
-   "discussion_questions": [
-    "When did you last take a visual bearing to check a crossing target?",
-    "What watch level does our SMS require in this strait, and do we meet it?",
-    "How would a tug and tow look on our radar and by eye at night?",
-    "If the VTS tells us a vessel will cross ahead, what do we do next?"
-   ],
-   "related_updates": [],
-   "occurred": "2023-02-05",
-   "reuse_note": "Reuse terms not stated: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the full TSIB final report (PDF): synopsis and conclusions.",
-    "Vessel type 'all tankers': the report says oil tanker but not crude or product.",
-    "4.4 Communications is our mapping for VTS communication; please check."
-   ],
-   "id": "tss-crossing-tug-and-tow-collision-brm-2023",
-   "title": "Collision with a tug and tow crossing a traffic scheme: watch level and visual bearings",
-   "summary3": "A tanker in ballast heading for a pilot boarding ground collided with a loaded barge being towed across a traffic separation scheme in clear weather. The barge was holed and the tanker's ballast tank ruptured. The investigators found that neither the tanker nor the tug followed the collision rules or used compass bearings to judge the risk, and that the tanker's bridge was manned below the level its own SMS required.",
-   "what_went_wrong": [
-    "The tanker's bridge team did not fully assess the situation after the VTS advised them of the crossing tug and tow.",
-    "Neither vessel took continuous compass bearings to judge the risk of collision.",
-    "The master did not allow for the tidal stream setting the tow towards the tanker's track.",
-    "Bridge manning was below the watch level for confined waters set in the company's navigation manual.",
-    "The tug's crew took the VTS reply as permission to cross and expected others to keep clear."
-   ],
-   "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: both vessels did not apply the collision rules or make a continuous assessment of the risk. On the tanker, bridge resource management was not applied effectively, the tidal set was not accounted for, and the watch level did not follow the SMS. The tug relied on AIS and VHF instead of the crossing rule, and was not manned in line with safe manning rules.",
-   "key_lessons": [
-    "Take compass bearings: a steady bearing is the simplest and most reliable warning.",
-    "A VTS advisory is information, not permission; each ship stays responsible for avoiding collision.",
-    "Allow for tidal stream on slow crossing traffic such as tugs and tows.",
-    "Man the bridge at the watch level your SMS requires for the area, and say so in the passage plan."
-   ],
-   "check_on_board": [
-    "Passage plan for straits and approaches states the bridge watch level, and the actual manning matches it.",
-    "OOWs take and record visual compass bearings of crossing traffic.",
-    "Tidal stream for the transit noted in the plan and briefed.",
-    "Bridge team briefed that VTS information does not change collision-rule duties."
-   ],
-   "sire2_tags": [
-    "4.2",
-    "4.3",
-    "4.4"
-   ],
-   "vessel_types": [
-    "all tankers"
-   ],
-   "ship_type_label": "Oil tanker (in ballast)",
-   "operation": "navigation",
-   "operation_label": "Traffic separation scheme, approach to pilot station",
-   "topic": "Bridge & navigation",
-   "severity": "damage",
-   "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
-   "source_short": "Singapore TSIB",
-   "source_type": "investigation body",
-   "source_title": "Final Report: Collision between BW Seine and barge SOL 2315 towed by tug SOL 1009 at Singapore Strait TSS on 5 February 2023 (TIB/MAI/CAS.138)",
-   "source_url": "https://isomer-user-content.by.gov.sg/287/2707c7ae-b5b3-4145-97db-1359edc26549/tib-mai-cas-138---collision-between-bw-seine-and-barge-sol-2315-towed-by-tug-sol-1009-in-singapore-strait-on-5-february-2023.pdf",
-   "source_published": "2024-05-20"
-  },
-  {
-   "cdi_tags": [
-    "Machinery"
-   ],
-   "psc_codes": [
-    "13108"
-   ],
-   "discussion_questions": [
-    "How would the next watch know about an isolation you made today?",
-    "Which breakers must be closed before we go to stand-by?",
-    "Can we let go an anchor right now if we lose all power?",
-    "If a ship hit us at the berth, what would each of us do first?"
-   ],
-   "related_updates": [],
-   "occurred": "2024-06-14",
-   "reuse_note": "Reuse terms not stated: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the full TSIB final report (PDF): synopsis and conclusions.",
-    "The ship that lost control was not a tanker; the lesson is transferable (machinery, permits, handover). The struck bunker tanker spilled cargo.",
-    "Topic 'Machinery' chosen; 'Pollution' would also fit. Last key lesson and check item (for tankers alongside) are our own addition, not from the report - keep or drop?",
-    "9.3 tagged for emergency anchor readiness; unsure this is how an inspector would see it."
-   ],
-   "id": "blackout-after-breakers-left-open-struck-bunker-tanker-2024",
-   "title": "Breakers left open after maintenance: blackout, loss of control and a bunker tanker holed",
-   "summary3": "A large dredger leaving an anchorage lost electrical power, steering and pitch control and, still turning at about 8 knots, struck a bunker tanker lying alongside a container ship. The tanker's hull was breached and its cargo oil caused severe pollution. Two circuit breakers opened for an inspection on the earlier shift had not been closed again, and the next shift did not know.",
-   "what_went_wrong": [
-    "Two breakers were opened for a transformer fan inspection and not reset afterwards; the work permit was not closed.",
-    "Watch handovers in the engine room and on the bridge were verbal, with no written log of work in progress.",
-    "When departure loads were started, the one remaining breaker overloaded and tripped, causing a blackout.",
-    "There was no automatic load shedding of non-essential equipment.",
-    "Neither anchor could be let go: one was stuck in the hawse pipe and the other needed hydraulic power that had been lost."
-   ],
-   "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: the blackout came from an overload trip because electrical isolation for maintenance was not reversed, and the following shift was unaware. Several SMS steps for the permit to work were not followed, handovers relied on memory, and the emergency anchor was not available.",
-   "key_lessons": [
-    "Every isolation needs a permit, a tag and a sign-off when it is restored; check the board before manoeuvring.",
-    "Hand over in writing: open work, isolations and abnormal line-ups go in a log the next watch reads.",
-    "Before departure, confirm the electrical configuration can take the manoeuvring load.",
-    "Keep an anchor ready to let go in an emergency without main power.",
-    "For tankers at berth or alongside: a ship that loses control nearby is a real threat, so keep the emergency plan for a spill and fire ready."
-   ],
-   "check_on_board": [
-    "Electrical isolation permits all closed out, and switchboard configuration checked before stand-by.",
-    "Engine room handover log records open jobs, isolations and alarms.",
-    "Anchor that is ready for emergency use can be released without hydraulic or electric power.",
-    "Preferential trip / load-shedding arrangements known and tested.",
-    "On tankers alongside: SOPEP and emergency response roles briefed for a collision or allision by another ship."
-   ],
-   "sire2_tags": [
-    "10.1",
-    "5.5",
-    "4.3",
-    "9.3"
-   ],
-   "vessel_types": [
-    "other"
-   ],
-   "ship_type_label": "Dredger (lesson transferable); bunker tanker struck",
-   "operation": "maintenance",
-   "operation_label": "Electrical isolation and departure",
-   "topic": "Machinery",
-   "severity": "pollution",
-   "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
-   "source_short": "Singapore TSIB",
-   "source_type": "investigation body",
-   "source_title": "Final Report: Allision of Dutch flagged Vox Maxima and Singapore flagged Marine Honour, Port of Singapore on 14 June 2024 (TIB/MAI/CAS.169)",
-   "source_url": "https://isomer-user-content.by.gov.sg/287/4f935a32-f953-47bf-88e8-b0299caff72c/allision-of-vox-maxima-and-marine-honour-in-the-port-of-singapore-on-14-june-2024---final-report.pdf",
-   "source_published": "2025-08-15"
-  },
-  {
-   "cdi_tags": [
-    "Cargo operations (chemical)"
-   ],
-   "psc_codes": [],
-   "discussion_questions": [
-    "What does our coating resistance list say about the next cargo?",
-    "Which parts of the system do we forget to flush when we change grades?",
-    "When did someone last record the coating condition in our tanks?",
-    "Who tells the office when a cargo sequence looks risky for the coating?"
-   ],
-   "related_updates": [],
-   "occurred": null,
-   "reuse_note": "Reuse terms not found: summary and link only.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the Casebook chapter PDF (case 3.1 and 'What can we learn?').",
-    "Publication date not printed on the page; '2024-01' is taken from the file's upload path. The case itself is anonymised and undated.",
-    "Commercial / cargo-claim lesson rather than a safety incident: keep it in 'Safety lessons'?",
-    "The club's text mentions the owner's chartering department; our text avoids that wording."
-   ],
-   "id": "chemical-cargo-contaminated-by-tank-coating",
-   "title": "Off-spec cargo traced to the tank coating: previous cargo absorbed and released",
-   "summary3": "A chemical tanker loaded mixed xylenes after two voyages carrying ethylene dichloride and cleaning its tanks, and the whole cargo was found off-specification for chlorides at discharge. The investigation pointed to the phenolic epoxy tank coating, which can absorb solvent-like cargoes and release them later, made worse by coating damage. The cargo was sold at a large loss.",
-   "what_went_wrong": [
-    "The previous cargo was absorbed into the tank coating and released into the next cargo.",
-    "Coating condition had been allowed to deteriorate, letting cargo seep behind it.",
-    "It could not be confirmed that vent lines to the P/V valves were flushed during tank cleaning.",
-    "Tank cleaning guidance did not cover how different cargoes behave with the coating in use."
-   ],
-   "root_cause": "As analysed by The Swedish Club: the likely cause was a combination of a deteriorated coating and absorption of the previous chlorinated cargo into the phenolic epoxy coating, which then contaminated the next cargo with chlorides.",
-   "key_lessons": [
-    "Check the coating resistance list before every loading, and plan cargo sequences with the coating in mind.",
-    "Avoid two successive aggressive cargoes where the coating has only limited resistance, and warn the charterer before fixing.",
-    "Flush vent lines and P/V valves, not only tanks and lines, when changing grades.",
-    "Have coatings inspected by the paint maker and repaired to their instructions."
-   ],
-   "check_on_board": [
-    "Coating resistance list on board and used for the next cargo.",
-    "Tank cleaning plan covers lines, vent lines and P/V valves, with records kept.",
-    "Coating condition recorded at each tank inspection, with damage reported.",
-    "Cargo officers know which of our usual cargoes the coating absorbs."
-   ],
-   "sire2_tags": [
-    "8.2"
-   ],
-   "vessel_types": [
-    "chemical"
-   ],
-   "ship_type_label": "Chemical tanker",
-   "operation": "tank cleaning",
-   "operation_label": "Grade change and tank cleaning",
-   "topic": "Cargo & vapour",
-   "severity": "damage",
-   "source_body": "The Swedish Club",
-   "source_short": "The Swedish Club",
-   "source_type": "P&I club",
-   "source_title": "The Swedish Club Casebook, 3 Cargo - tankers: 3.1 Hazardous chemical: Cargo contaminated cargo by tank coating",
-   "source_url": "https://www.swedishclub.com/uploads/2024/01/Casebook2023_3Cargo-tankers.pdf",
-   "source_published": "2024-01"
-  },
-  {
-   "cdi_tags": [
-    "Safety management (enclosed spaces)"
-   ],
-   "psc_codes": [
-    "04118",
-    "18410"
-   ],
-   "discussion_questions": [
-    "Which of our enclosed spaces could a visitor open today?",
-    "What would you do if you saw someone collapse inside a space?",
-    "How do we brief surveyors and terminal staff about our pump room and void spaces?",
-    "Has our rescue drill ever included someone who is not crew?"
-   ],
-   "related_updates": [],
-   "occurred": "2022-06-27",
-   "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
-   "intertanko_ref": null,
-   "ai_drafted": true,
-   "reviewed": false,
-   "publish": false,
-   "reviewer": null,
-   "reviewed_at": null,
-   "vr_published": null,
-   "lesson_of_week": null,
-   "checked_on": "2026-10-19",
-   "review_notes": [
-    "Read the GOV.UK summary and the report's Section 3 conclusions (PDF).",
-    "Not a tanker: kept as a transferable enclosed-space lesson (pump rooms, voids, terminal staff on board). Drop if you want tanker-only lessons.",
-    "The 'never enter to rescue without BA' lesson is general good practice, not a specific report finding."
-   ],
-   "id": "enclosed-space-cargo-access-third-parties-2022",
-   "title": "Three shore workers died in an oxygen-depleted space: control access for all on board",
-   "summary3": "During cargo loading at an anchorage, a shore worker went down the wrong cargo hold access hatch into an oxygen-depleted space high in hydrogen sulphide and collapsed. Two colleagues who went in to help also collapsed, and all three died. The access hatches were not locked, the atmosphere was not tested, and the workers had not been trained on enclosed space dangers.",
-   "what_went_wrong": [
-    "Hatches to enclosed spaces were left unlocked while shore workers were on board.",
-    "Atmosphere testing was not done before entries, against international guidance and the ship's own procedures.",
-    "The permit to work system was not used for access during cargo work, and the shore workers were not effectively supervised.",
-    "The workers had little understanding of the warning signs and had no basic safety training or correct PPE.",
-    "Rescue drills on board had not considered shore staff being involved."
-   ],
-   "root_cause": "As found by UK MAIB (on behalf of the flag State): the noxious atmosphere in the access space caused the three workers to lose consciousness and die. Access to enclosed spaces was not controlled, atmosphere testing and permits were not applied, and the port and terminal had not followed guidance on training and safe systems of work for shore workers.",
-   "key_lessons": [
-    "Lock or physically barrier every enclosed space access when it is not in use, especially with shore staff, surveyors or riding crew on board.",
-    "Test the atmosphere before every entry, every time; a permit applies during cargo work too.",
-    "Brief third parties on enclosed space hazards; do not assume they understand the signs.",
-    "Never enter to rescue without breathing apparatus: would-be rescuers are often the next victims.",
-    "Include third parties in enclosed space rescue drill scenarios."
-   ],
-   "check_on_board": [
-    "List of enclosed spaces on board is current, and every access is locked or barriered when not in use.",
-    "Pump room, void space and duct keel entries need a permit and a gas test every time.",
-    "Visitors, surveyors and terminal staff briefed on enclosed spaces when they come aboard.",
-    "Rescue equipment (BA, tripod, stretcher) ready near any open space being entered.",
-    "Last enclosed space rescue drill included a scenario with shore personnel."
-   ],
-   "sire2_tags": [
-    "5.5",
-    "5.6",
-    "5.1"
-   ],
-   "vessel_types": [
-    "other"
-   ],
-   "ship_type_label": "Bulk carrier (lesson transferable)",
-   "operation": "enclosed space entry",
-   "operation_label": "Cargo work with shore personnel",
-   "topic": "Enclosed spaces",
-   "severity": "fatality",
-   "source_body": "UK Marine Accident Investigation Branch (MAIB)",
-   "source_short": "UK MAIB",
-   "source_type": "investigation body",
-   "source_title": "Fatal accident on board bulk carrier Berge Mawson with loss of 3 lives (Accident Investigation Report 5/2025)",
-   "source_url": "https://www.gov.uk/maib-reports/fatal-accident-on-board-bulk-carrier-berge-mawson-with-loss-of-3-lives",
-   "source_published": "2025-03-20"
-  }
- ]
+  "_about": "Safety lessons. Our own summaries of public reports. Only records with reviewed=true AND publish=true are published by scripts/build.py; build.py --preview shows drafts with a 'Draft - awaiting review' badge.",
+  "sire2_reference": "OCIMF SIRE 2.0 Question Library v1.0 (January 2022), Part 1 ch. 1-7 and Part 2 ch. 8-12; section titles checked against the PDFs on 19 Oct 2026",
+  "lessons": [
+    {
+      "cdi_tags": [
+        "Mooring"
+      ],
+      "psc_codes": [
+        "18416"
+      ],
+      "discussion_questions": [
+        "Where exactly would you stand at our forward station when a spring goes under load?",
+        "Who gives the order to heave, and how does the bridge stop the operation?",
+        "When did we last check snap-back zones for the leads we normally use?",
+        "Is there a port or lock on our trade where the berthing plan is often unclear?"
+      ],
+      "related_updates": [],
+      "occurred": "2018-06-28",
+      "reuse_note": "Reuse terms not stated on the page: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": "2026-10-19",
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Written from the Board's English report page (summary, four failed barriers, eight recommendations); the full PDF was not read line by line.",
+        "4.3 (bridge team) is our mapping for the master-pilot agreement; 4.2 Navigational Procedures could also fit.",
+        "PSC 18416 is indicative only: line condition was not the main finding."
+      ],
+      "id": "mooring-spring-parted-lock-entry-2018",
+      "title": "Spring line parted under sudden load during a lock entry: one fatality",
+      "summary3": "A chemical tanker was entering a sea lock when a forward spring that had just been paid out came under heavy load. The mooring team could not react in time, the line parted and the part still on the winch whipped back and killed a crew member. The investigators found four safety barriers that failed on the day.",
+      "what_went_wrong": [
+        "The ship was not slowed down early enough for its planned stopping position in the lock.",
+        "The spring came under tension before the ship had reached its final position.",
+        "The officer leading the mooring team was not in a position to step in before the line parted.",
+        "Crew were standing inside the snap-back zone when the line failed."
+      ],
+      "root_cause": "As found by the Dutch Safety Board: the safety approach relied on people working as carefully as possible inside danger areas. The Board argues that mooring work should be organised so that, at the high-risk moments, crew work from safe positions and never need to enter snap-back zones. It also points to unclear agreements between the bridge team and the pilot about how the lock passage and the final position would be handled.",
+      "key_lessons": [
+        "Agree the final position in the lock, and the moment lines go under load, between master, pilot and mooring stations before the approach.",
+        "Lines are put under tension only on the order of the officer in command on the bridge.",
+        "The officer supervising a mooring station must be free to supervise, not handle lines.",
+        "Identify and mark safe work positions at each station, not only the danger zones."
+      ],
+      "check_on_board": [
+        "Mooring plan for the next port or lock briefed to all stations, including when lines go under load.",
+        "Snap-back zones assessed for the actual leads in use, and safe positions marked.",
+        "Enough crew at each station so the officer in charge can supervise.",
+        "Bridge-to-station communication tested; everyone knows the stop command.",
+        "Line condition and records up to date in the mooring line management plan."
+      ],
+      "sire2_tags": [
+        "9.3",
+        "9.4",
+        "4.3"
+      ],
+      "vessel_types": [
+        "chemical"
+      ],
+      "ship_type_label": "Chemical tanker",
+      "operation": "mooring",
+      "operation_label": "Lock transit and mooring",
+      "topic": "Mooring",
+      "severity": "fatality",
+      "source_body": "Dutch Safety Board (Onderzoeksraad voor Veiligheid)",
+      "source_short": "Dutch Safety Board",
+      "source_type": "investigation body",
+      "source_title": "Fatal outcome following parting of mooring line - Lessons learned from the accident on board the RN Privodino",
+      "source_url": "https://onderzoeksraad.nl/en/onderzoek/fatal-outcome-following-parting-of-mooring-line-lessons-learned/",
+      "source_published": "2020-11-05",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Navigation"
+      ],
+      "psc_codes": [
+        "10133"
+      ],
+      "discussion_questions": [
+        "When was the last time we slowed down early for a fishing vessel instead of waiting for it to move?",
+        "How do we tell that a trawler is towing gear, by day and by night?",
+        "What is our minimum CPA in coastal waters, and who on the bridge can challenge it?",
+        "What would we do in the first five minutes after a collision?"
+      ],
+      "related_updates": [],
+      "occurred": "2024-04-25",
+      "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the GOV.UK summary and the report's Section 3 conclusions (PDF).",
+        "Severity set to 'damage' (vessel lost); the page does not report fatalities.",
+        "PSC 10133 Bridge operation is indicative only."
+      ],
+      "id": "collision-tanker-fishing-vessel-confined-waters-2024",
+      "title": "Tanker and trawler collision in confined waters: assumptions replaced action",
+      "summary3": "A crude oil tanker and a stern trawler towing its fishing gear collided in a firth, and the fishing vessel sank. Neither vessel took enough action to avoid the collision under the collision regulations until it was almost unavoidable. Assumptions about what the other vessel would do, and a feeling that there was little room to manoeuvre, meant the tanker's watchkeepers took no effective avoiding action.",
+      "what_went_wrong": [
+        "The tanker was the give-way vessel but did not alter course or speed in good time.",
+        "The bridge team assumed the trawler would act, and judged the area too restricted to manoeuvre.",
+        "The trawler's deployed gear limited its ability to manoeuvre once it was clear the tanker would not alter.",
+        "After the collision the tanker did not stop and offer assistance, which the investigators found conflicted with legal duties and put the fishing crew at risk."
+      ],
+      "root_cause": "As found by UK MAIB: neither vessel acted in line with the collision regulations until a collision was almost inevitable. On the tanker, assumptions about the trawler's intentions and the perceived lack of sea room meant no effective action was taken. On the trawler, an inexperienced watchkeeper was in charge and the navigational risk of this had not been assessed. No local traffic service was able to monitor the situation.",
+      "key_lessons": [
+        "Being in confined waters does not remove the duty to give way: plan the action early, including a reduction of speed.",
+        "Never act on an assumption about what a fishing vessel will do; vessels towing gear may be unable to manoeuvre quickly.",
+        "Use all means to confirm the risk of collision and the other vessel's status (lights, shapes, AIS, radar, VHF).",
+        "After any collision, stop, check on the other vessel and offer assistance."
+      ],
+      "check_on_board": [
+        "Master's standing orders cover minimum CPA in coastal and confined waters, and when to call the master.",
+        "Officers can recognise fishing vessel lights and shapes and know how gear limits their movement.",
+        "Passage plan marks fishing grounds and areas with limited sea room, with planned speed and contingencies.",
+        "Post-collision procedure (stop, assist, report) is in the SMS and known to the bridge team."
+      ],
+      "sire2_tags": [
+        "4.2",
+        "4.3"
+      ],
+      "vessel_types": [
+        "crude"
+      ],
+      "ship_type_label": "Crude oil tanker",
+      "operation": "navigation",
+      "operation_label": "Coastal navigation",
+      "topic": "Bridge & navigation",
+      "severity": "damage",
+      "source_body": "UK Marine Accident Investigation Branch (MAIB)",
+      "source_short": "UK MAIB",
+      "source_type": "investigation body",
+      "source_title": "Collision between the crude oil tanker Apache and the stern trawler Serinah (GH 116) (Accident Investigation Report 4/2026)",
+      "source_url": "https://www.gov.uk/maib-reports/collision-between-the-crude-oil-tanker-apache-and-the-stern-trawler-serinah-gh-116",
+      "source_published": "2026-02-05",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Cargo operations (chemical)"
+      ],
+      "psc_codes": [],
+      "discussion_questions": [
+        "Which of our current cargoes are inhibited or heat-sensitive, and what are their limits?",
+        "How would we notice a slow temperature rise in a tank that is not being heated?",
+        "Could heat from our heated tanks reach a sensitive cargo through another tank?",
+        "When did we last report a cargo near miss to the office, and did other ships hear about it?"
+      ],
+      "related_updates": [],
+      "occurred": "2019-09-28",
+      "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the GOV.UK page, the synopsis and Section 3 conclusions (PDF).",
+        "Severity: two crew and fifteen emergency responders were injured (minor for the crew); set to 'damage' - please confirm.",
+        "5.7 Safety Management is our guess for fleet near-miss sharing; unsure whether OCIMF would place this under 2.7 Safety Management System instead.",
+        "No close Paris MoU deficiency code found; left blank rather than guess."
+      ],
+      "id": "styrene-runaway-polymerisation-heat-transfer-2019",
+      "title": "Styrene tank ruptured after runaway polymerisation: heat came from cargo two tanks away",
+      "summary3": "An inhibited styrene monomer cargo on a chemical tanker started to polymerise, the tank ruptured at a berth, and the released vapour ignited, causing explosions and a long fire. The cargo had been warmed for most of the voyage by heat passing from heated cargo through an intermediate tank, which used up the inhibitor faster than expected. The crew did not monitor the styrene temperature, so they did not see the danger building.",
+      "what_went_wrong": [
+        "The stowage plan kept the styrene away from directly adjacent heated cargo, but heat still reached it through an intermediate tank.",
+        "Nobody calculated the likely heat transfer during stowage planning; the investigators found this was beyond the tools and skills available.",
+        "The styrene temperature was not monitored and the cargo temperature alarms were not set, although the SMS required monitoring.",
+        "The actions listed on the inhibitor certificate for rising temperatures could not be carried out on board.",
+        "A similar polymerisation event on a sister ship two weeks earlier had not been shared with other masters."
+      ],
+      "root_cause": "As found by UK MAIB (on behalf of the flag State): runaway polymerisation started because the cargo stayed at an elevated temperature for much of the voyage, reducing the effect of the inhibitor. The heat came from other heated cargo via an intermediate tank, a risk that was not fully considered when the stowage was planned and approved. The crew saw the cargo as benign once inhibited and did not monitor it.",
+      "key_lessons": [
+        "For heat-sensitive or inhibited cargoes, consider heat transfer through intermediate tanks, not only direct neighbours.",
+        "Monitor and log the temperature of inhibited cargoes through the voyage, with alarms set, and report trends ashore.",
+        "Check that the inhibitor certificate's instructions are actually possible with the equipment on board.",
+        "Share near misses across the fleet quickly: an earlier warning could have prevented this accident."
+      ],
+      "check_on_board": [
+        "Inhibited cargoes on board identified, with their temperature limits and inhibitor details to hand.",
+        "Cargo temperature alarms set for heat-sensitive cargoes and checked at each watch.",
+        "Stowage plan reviewed for heat transfer from heated tanks, including through adjacent or intermediate tanks.",
+        "Procedure known for what to do if an inhibited cargo starts to warm up.",
+        "Near-miss reports from the fleet on cargo incidents read and discussed by cargo officers."
+      ],
+      "sire2_tags": [
+        "8.2",
+        "5.7"
+      ],
+      "vessel_types": [
+        "chemical"
+      ],
+      "ship_type_label": "Chemical tanker",
+      "operation": "cargo ops",
+      "operation_label": "Cargo care and heating",
+      "topic": "Cargo & vapour",
+      "severity": "damage",
+      "source_body": "UK Marine Accident Investigation Branch (MAIB)",
+      "source_short": "UK MAIB",
+      "source_type": "investigation body",
+      "source_title": "Cargo tank explosion and fire on chemical tanker Stolt Groenland (Accident Investigation Report 9/2021)",
+      "source_url": "https://www.gov.uk/maib-reports/cargo-tank-explosion-and-fire-on-chemical-tanker-stolt-groenland",
+      "source_published": "2021-07-20",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Mooring (STS)"
+      ],
+      "psc_codes": [
+        "13101"
+      ],
+      "discussion_questions": [
+        "What exactly do we do if the engine does not start while we are still alongside the other ship?",
+        "Who on our bridge talks to the STS superintendent, and who talks to the engine room?",
+        "How do we check that everyone understood the separation plan, not just signed the checklist?",
+        "What would make you stop an STS operation?"
+      ],
+      "related_updates": [],
+      "occurred": "2009-08-10",
+      "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Report dated March 2010 on its cover; the GOV.UK page shows 23 Jan 2015, which looks like a web migration date. We show March 2010.",
+        "Older report (2009 accident): OCIMF guidance on STS service providers and the STS Transfer Guide have changed since; check the lessons still read as current.",
+        "Vessel types 'crude, product' assumed from 'oil tankers' - the report summary does not say which. Please confirm or change to 'all tankers'.",
+        "PSC 13101 Propulsion main engine is indicative only."
+      ],
+      "id": "sts-separation-engine-failed-to-start-2009",
+      "title": "Tankers collided while separating after an STS transfer: engine failed to start",
+      "summary3": "Two tankers collided at very low speed while separating at the end of a ship-to-ship transfer at an offshore STS area. One ship's main engine failed to start when ordered ahead, and both ships tried to manoeuvre clear, but they were already too close. There was no procedure for an engine failure, and two breakdowns in communication slowed the response.",
+      "what_went_wrong": [
+        "The main engine did not start when ordered ahead during separation, and stayed stopped for about four and a half minutes.",
+        "The crew had no procedure to follow for an engine failure during STS manoeuvring.",
+        "Communication broke down twice between the people involved, including over language and radio channels.",
+        "The unmooring and departure manoeuvre was not properly planned or briefed; checklists were relied on instead."
+      ],
+      "root_cause": "As found by UK MAIB: the collision resulted from the main engine failing to start as the ships separated. The response to the failure and poor communications contributed. The investigators also noted that the STS superintendent's workload was high and that hours of rest and performance of superintendents were not monitored by the service provider.",
+      "key_lessons": [
+        "Plan and brief the unmooring and separation as carefully as the approach; a checklist is not a plan.",
+        "Have a clear, rehearsed response to an engine failure at every stage of an STS operation.",
+        "Agree the working language, radio channels and who speaks to whom before the operation starts.",
+        "Watch the workload and rest of the STS superintendent; consider an assistant on long or complex operations."
+      ],
+      "check_on_board": [
+        "STS plan covers separation, with an engine-failure contingency for each stage.",
+        "Main engine tested astern and ahead before unmooring, with an engineer standing by in the ECR.",
+        "Working language and VHF channels agreed with the other ship and the STS superintendent.",
+        "Roles on the bridge written down for STS manoeuvres, including who handles communications."
+      ],
+      "sire2_tags": [
+        "9.5",
+        "4.3",
+        "4.4"
+      ],
+      "vessel_types": [
+        "crude",
+        "product"
+      ],
+      "ship_type_label": "Oil tankers (two)",
+      "operation": "STS",
+      "operation_label": "Ship-to-ship transfer, separation",
+      "topic": "STS",
+      "severity": "damage",
+      "source_body": "UK Marine Accident Investigation Branch (MAIB)",
+      "source_short": "UK MAIB",
+      "source_type": "investigation body",
+      "source_title": "Collision between oil tankers Saetta and Conger on completion of ship to ship transfer (Accident Investigation Report 3/2010)",
+      "source_url": "https://www.gov.uk/maib-reports/collision-between-oil-tankers-saetta-and-conger-on-completion-of-a-ship-to-ship-transfer-off-southwold-england",
+      "source_published": "2010-03",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Navigation"
+      ],
+      "psc_codes": [
+        "10109",
+        "10133"
+      ],
+      "discussion_questions": [
+        "What do our navigation lights look like from ahead when the deck lights are on?",
+        "During pilotage, who on our bridge is watching the radar?",
+        "How would we identify and call a fast vessel that has no AIS?",
+        "When would we call the VTS to ask about traffic?"
+      ],
+      "related_updates": [],
+      "occurred": "2018-11-08",
+      "reuse_note": "Reuse terms not stated: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the NSIA report page (summary and all 15 recommendations). Report cover says 'Issued November 2019'; exact day not checked.",
+        "The other vessel was a naval frigate; our text calls it a warship and does not name it.",
+        "Unsure whether deck lights masking navigation lights sits in SIRE 2.0 4.1 (navigation equipment/lights) or 4.2 (procedures); tagged both.",
+        "Severity 'damage': seven people on the other vessel had minor injuries and there was a small oil spill."
+      ],
+      "id": "tanker-deck-lights-hid-navigation-lights-2018",
+      "title": "Deck lights hid a departing tanker's navigation lights: collision with a warship",
+      "summary3": "A loaded crude oil tanker leaving a terminal at night under pilotage was struck by a warship that was heading south at speed with its AIS not transmitting. The warship's bridge team believed the tanker's strong lights were a fixed object and did not realise they were on a collision course. The tanker's forward-facing deck lights made its navigation lights and warning signals harder to see.",
+      "what_went_wrong": [
+        "The tanker left the terminal with forward-pointing deck lights on so that crew could secure equipment, which reduced the visibility of its navigation lights and signal lamp.",
+        "No other vessels were plotted on the tanker's radar, and there was little discussion between the bridge team and the pilot about the traffic.",
+        "The other vessel was not transmitting AIS, so it could not be identified quickly on the tanker's displays or by the VTS.",
+        "The VTS was not following the other vessel's passage and did not warn the traffic about the tanker's departure."
+      ],
+      "root_cause": "As found by the Accident Investigation Board Norway (now NSIA): a combination of operational, technical, organisational and system factors on both vessels and at the VTS. For the tanker, the investigators found no safety measures to stop deck lighting from reducing the visibility of navigation lights, and that radar plotting and bridge-pilot communication did not build a shared picture of the traffic.",
+      "key_lessons": [
+        "Before departure or arrival at night, check that deck lighting does not mask navigation lights; switch off or shield forward-facing lights.",
+        "Under pilotage, keep plotting targets on radar and talk through the traffic with the pilot.",
+        "Do not rely on AIS to see every vessel: some ships do not transmit.",
+        "Use all means early to warn a vessel that seems unaware: VHF, light and sound signals, and the VTS."
+      ],
+      "check_on_board": [
+        "Night departure checklist includes a check of deck lights against navigation lights from outside the ship (or from the bridge wing).",
+        "Radar targets plotted and monitored during pilotage, not only when the pilot asks.",
+        "Bridge team briefed on how to call a vessel by VHF when its AIS is not visible.",
+        "Master-pilot exchange covers expected traffic and VTS reporting."
+      ],
+      "sire2_tags": [
+        "4.1",
+        "4.2",
+        "4.3"
+      ],
+      "vessel_types": [
+        "crude"
+      ],
+      "ship_type_label": "Crude oil tanker",
+      "operation": "pilotage",
+      "operation_label": "Terminal departure under pilotage",
+      "topic": "Bridge & navigation",
+      "severity": "damage",
+      "source_body": "Norwegian Safety Investigation Authority (NSIA), formerly AIBN",
+      "source_short": "Norway NSIA",
+      "source_type": "investigation body",
+      "source_title": "Part one report on the collision on 8 November 2018 between the frigate HNoMS Helge Ingstad and the oil tanker Sola TS outside the Sture Terminal in the Hjeltefjord in Hordaland county (Marine report 2019/08)",
+      "source_url": "https://nsia.no/Marine/Published-reports/2019-08-eng",
+      "source_published": "2019-11",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Navigation"
+      ],
+      "psc_codes": [
+        "10113",
+        "10133"
+      ],
+      "discussion_questions": [
+        "When AIS and radar disagree, which one do we trust and why?",
+        "Would our lookout feel able to challenge the OOW? How do we make sure?",
+        "What is our minimum CPA at sea, and when must the master be called?",
+        "Who knows how to save the VDR data on this ship?"
+      ],
+      "related_updates": [],
+      "occurred": "2018-01-06",
+      "reuse_note": "OCIMF copyright; summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the OCIMF bulletin page and the bulletin PDF (purpose, contributory factors, learnings, note to inspectors).",
+        "The bulletin itself points inspectors to VIQ chapter 4 (Navigation); we mapped this to SIRE 2.0 sections 4.1-4.3.",
+        "Vessel type: the tanker carried condensate; filed under 'crude' for filtering - please confirm.",
+        "The underlying official report is by China MSA; we link to OCIMF's bulletin, which is the document we read."
+      ],
+      "id": "give-way-tanker-crossing-collision-ais-reliance-2018",
+      "title": "Over-reliance on AIS in a crossing situation: tanker collision, fire and 32 lives lost",
+      "summary3": "A loaded condensate tanker, the give-way vessel in a crossing situation, collided with a bulk carrier at night in open water. The tanker's cargo tanks were breached, leading to fire, explosions and the loss of the ship with all 32 crew. Industry analysis found that both ships broke key collision rules, leaned too much on AIS and did not use radar plotting well.",
+      "what_went_wrong": [
+        "Both ships failed on lookout, assessing the risk of collision and taking action to avoid it.",
+        "The tanker, as give-way vessel, did not keep clear; the other ship altered course when it should have stood on.",
+        "Both bridges relied heavily on AIS to identify and assess the other ship; one used it as its only source.",
+        "Bridge teamwork was weak: a lookout's advice was not acted on, the master was called late, and the watch was distracted by non-navigational talk.",
+        "AIS course and speed data from one ship, as received by others, differed noticeably from what it actually did."
+      ],
+      "root_cause": "As summarised by OCIMF from the official investigation by China's Maritime Safety Administration: the primary factors were failure to follow the collision regulations, improper use of AIS for collision avoidance, ineffective use of radar and ARPA, and poor bridge resource management. Distraction on the bridge and a reluctance to act for smaller vessels were secondary factors.",
+      "key_lessons": [
+        "AIS and ECDIS are aids: use radar, ARPA and visual bearings to judge the risk of collision.",
+        "Using electronic aids never removes the duty to follow the collision regulations at all times.",
+        "Speak up and respond: a lookout's warning must be acted on, and the master called early.",
+        "Know how to save VDR data after an incident, so the lessons can be learned."
+      ],
+      "check_on_board": [
+        "Master's standing orders state a minimum CPA and when the OOW must call the master.",
+        "OOWs plot targets on radar/ARPA and take visual bearings, not only AIS readings.",
+        "Bridge team practises speak-up: lookouts know they must report and can challenge.",
+        "Officers know how to save VDR data after an incident.",
+        "Non-navigational tasks kept off the bridge during busy or crossing traffic."
+      ],
+      "sire2_tags": [
+        "4.1",
+        "4.2",
+        "4.3"
+      ],
+      "vessel_types": [
+        "crude"
+      ],
+      "ship_type_label": "Tanker (condensate)",
+      "operation": "navigation",
+      "operation_label": "Open-sea navigation, crossing situation",
+      "topic": "Bridge & navigation",
+      "severity": "fatality",
+      "source_body": "Oil Companies International Marine Forum (OCIMF)",
+      "source_short": "OCIMF",
+      "source_type": "industry body",
+      "source_title": "OCIMF Safety Bulletin - Sanchi and CF Crystal Collision Incident",
+      "source_url": "https://www.ocimf.org/publications/information-papers/ocimf-safety-bulletin-sanchi-and-cf-crystal-collision-incident",
+      "source_published": "2020-04-20",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Machinery",
+        "Navigation"
+      ],
+      "psc_codes": [
+        "13101"
+      ],
+      "discussion_questions": [
+        "If the engine does not respond to 'stop', what do we do in the first 30 seconds?",
+        "Who in the ECR is watching rpm during manoeuvring, and when do they call the bridge?",
+        "How long does it take us to change to engine-room control?",
+        "When did we last practise loss of engine control with the pilot on board?"
+      ],
+      "related_updates": [],
+      "occurred": "2016-09-06",
+      "reuse_note": "US federal work, generally public domain; photos may be third party. We summarise and link.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the full NTSB Marine Accident Brief (PDF).",
+        "The NTSB gives an equipment cause; the key lessons on response are our own, drawn from the sequence of events in the brief. Check they don't read as blame.",
+        "Severity 'pollution' (about 88,000 US gallons of gas oil spilled and burned; two pilots had minor burns)."
+      ],
+      "id": "loss-of-engine-control-astern-allision-fire-2016",
+      "title": "Engine kept running astern after 'stop': tanker hit mooring dolphins and spilled fuel",
+      "summary3": "A crude oil tanker in ballast was leaving a berth with two pilots and two tugs when its main engine went to a much higher astern speed than ordered and did not answer the telegraph. The ship struck mooring dolphins, a fuel tank was punctured, and the spilled gas oil caught fire and burned for about 45 minutes. The engine stopped only when the chief engineer took control and pressed the emergency stop in the engine control room.",
+      "what_went_wrong": [
+        "After a dead-slow-astern order the engine ran at about 80 rpm astern instead of 30.",
+        "Orders for stop and then ahead had no effect for several minutes while astern speed increased.",
+        "The tugs could not hold the ship in time and the stern hit two mooring dolphins.",
+        "The punctured fuel tank lay close to the hull side; the ship pre-dated the rule that now requires fuel tanks to be set inboard."
+      ],
+      "root_cause": "As determined by the US NTSB: the probable cause was a momentary abnormality in the main engine governor actuator system in responding to commands from the bridge. Investigators believed this was likely an electrical and/or mechanical failure, which manufacturer technicians could not reproduce afterwards.",
+      "key_lessons": [
+        "The engine room watch noticed the wrong rpm first: keep a close watch on rpm against the telegraph during manoeuvring.",
+        "If the engine does not answer the bridge, take engine-room control or use the emergency stop at once; do not keep repeating orders.",
+        "Brief the response to loss of engine control in the master-pilot exchange, including tugs and anchors.",
+        "Exercise loss of engine control as a drill, with bridge and engine room together."
+      ],
+      "check_on_board": [
+        "Bridge and ECR know how to change to engine-room control and where the emergency stops are.",
+        "Engineer in the ECR watching rpm against the telegraph during all manoeuvring.",
+        "Loss-of-propulsion / loss-of-control drill held in the last drill cycle, with bridge and ECR.",
+        "Anchors cleared and ready on departure and arrival in confined waters.",
+        "Bridge-ECR telephone tested before manoeuvring."
+      ],
+      "sire2_tags": [
+        "4.3",
+        "10.2",
+        "5.1"
+      ],
+      "vessel_types": [
+        "crude"
+      ],
+      "ship_type_label": "Crude oil tanker (in ballast)",
+      "operation": "pilotage",
+      "operation_label": "Unberthing under pilotage",
+      "topic": "Machinery",
+      "severity": "pollution",
+      "source_body": "US National Transportation Safety Board (NTSB)",
+      "source_short": "US NTSB",
+      "source_type": "investigation body",
+      "source_title": "Marine Accident Brief: Allision of Tanker Aframax River with Mooring Dolphins, and Subsequent Fire in Waterway (NTSB/MAB-18/06)",
+      "source_url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MAB1806.pdf",
+      "source_published": "2018-02-22",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Safety management",
+        "Structure and hull"
+      ],
+      "psc_codes": [
+        "03108",
+        "15150"
+      ],
+      "discussion_questions": [
+        "Which open defects on our list would stop us sailing? Who decides?",
+        "Do we know the master's overriding authority wording in our SMS?",
+        "When did someone last inspect our air vent heads on deck?",
+        "If you saw serious corrosion in a tank, how would you report it?"
+      ],
+      "related_updates": [],
+      "occurred": "2025-01-12",
+      "reuse_note": "Reuse terms not stated: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the full TSIB final report (PDF): synopsis, conclusions and recommendations.",
+        "Topic filed under 'Machinery' (defects and maintenance); 'Personal safety' or a future 'Stability' topic could also fit.",
+        "Vessel type 'all tankers': the report says oil tanker but not crude or product.",
+        "SIRE chapter 11 (General Appearance and Condition) may also apply to the hull and deck defects."
+      ],
+      "id": "unfit-coastal-tanker-sank-defects-not-fixed-2025",
+      "title": "Small tanker sailed with known defects and sank: the master's overriding authority",
+      "summary3": "A small, old coastal oil tanker with very low freeboard was sailing to an STS location when seawater came on deck, entered a ballast tank through a broken air vent and the engine room through a corroded pipe, and the ship took a list. The ballast pump did not work, both generators then failed, and the ship lost power and steering and later sank; all eight crew were rescued. The investigators found that the defects were known before the voyage and that the master did not use his overriding authority to stop it.",
+      "what_went_wrong": [
+        "The ship sailed with an inoperative ballast pump, an under-performing generator, a corroded engine-room drain pipe and a broken air vent head on deck.",
+        "With freeboard under one metre in a moderate swell, water entered a ballast tank and the engine room.",
+        "The list could not be corrected without the ballast pump, and the generator failures left the ship not under command.",
+        "The voyage went ahead on the understanding that the defects would be repaired afterwards.",
+        "Crew had seen corroded and deformed structure in the ballast tanks that was not addressed at the last dry-docking."
+      ],
+      "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: hull and equipment defects that were not fixed before departure let seawater in and caused the list and sinking, so the ship was not fit for the voyage. The master did not use the overriding authority given in the SMS to stop the voyage, and the condition of the ballast tank structure suggested ship maintenance may not have been adequate.",
+      "key_lessons": [
+        "Defects that affect watertight integrity, stability or power must be fixed before sailing, not after.",
+        "The master's overriding authority exists for exactly this situation; the company must support its use.",
+        "Air vent heads, closing devices and drain pipes are part of the ship's watertight boundary: inspect them.",
+        "Report structural concerns in writing, and follow them up through dry-dock repair lists."
+      ],
+      "check_on_board": [
+        "Open defect list reviewed by master and chief engineer before every departure.",
+        "Ballast pumps, bilge alarms and generators tested and working before sailing.",
+        "Air vent heads and their closing devices on deck inspected and in good order.",
+        "Crew know how to raise a safety concern and that the master can refuse to sail.",
+        "Ballast tank inspection findings recorded and carried into the repair list."
+      ],
+      "sire2_tags": [
+        "2.4",
+        "2.7",
+        "10.4"
+      ],
+      "vessel_types": [
+        "all tankers"
+      ],
+      "ship_type_label": "Small coastal oil tanker",
+      "operation": "maintenance",
+      "operation_label": "Coastal voyage with open defects",
+      "topic": "Machinery",
+      "severity": "damage",
+      "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
+      "source_short": "Singapore TSIB",
+      "source_type": "investigation body",
+      "source_title": "Final Report: Sinking of tanker Silver Sincere in Singapore territorial waters on 12 January 2025 (TIB/MAI/CAS.188)",
+      "source_url": "https://isomer-user-content.by.gov.sg/287/739827ca-1f2a-4617-9d25-570bee8f9a64/sinking-of-oil-tanker-silver-sincere-in-singapore-territorial-waters-12-january-2025.pdf",
+      "source_published": "2025-11-20",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Navigation",
+        "Crew management"
+      ],
+      "psc_codes": [
+        "18201",
+        "10133"
+      ],
+      "discussion_questions": [
+        "When you joined this ship, how rested were you before your first watch?",
+        "Are our radar alarms on right now? What limits are set?",
+        "What paperwork tempts us to leave the wheelhouse, and how could we move it?",
+        "At anchor, at what point do we call an approaching ship on VHF?"
+      ],
+      "related_updates": [],
+      "occurred": "2024-07-19",
+      "reuse_note": "Reuse terms not stated: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the full TSIB final report (PDF): synopsis and conclusions.",
+        "Fatigue / hours of rest: unsure whether this sits in SIRE 2.0 chapter 3 (crew) or 4.3; tagged 4.3 only - please check.",
+        "The fatality was a shore worker on the anchored tanker, not crew of either ship."
+      ],
+      "id": "oow-left-wheelhouse-fatigue-collision-anchored-tanker-2024",
+      "title": "Tired OOW left the wheelhouse for paperwork: collision with an anchored tanker and fire",
+      "summary3": "A product/chemical tanker on passage at dawn tried to pass between an anchored tanker and another ship less than a mile apart and collided with the anchored ship. Cargo and fuel escaped and caught fire on both ships; two shore workers on the anchored tanker were badly burned and one later died. The officer of the watch was in the chartroom doing reports, had slept about two hours in the previous day and a half after joining, and the radar CPA alarms were silenced or switched off.",
+      "what_went_wrong": [
+        "The OOW left the wheelhouse to prepare non-urgent reports in a busy traffic situation, leaving one rating alone on the bridge.",
+        "The OOW had joined the ship after overnight travel, started duties at once and had less than two hours' rest in about 38 hours, partly because of an unannounced alarm test.",
+        "CPA/TCPA alarms on one radar were silenced and on the other were turned off.",
+        "The anchored tanker saw the ship early but judged the risk low, and when it got close used light and sound signals but not VHF.",
+        "Its SMS did not say how to warn an approaching ship when at anchor."
+      ],
+      "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: prioritising paperwork over navigation reduced the bridge team's awareness, and the OOW was likely fatigued after travel, immediate duties and broken rest. Disabled radar alarms removed a safeguard. On the anchored ship, the lack of SMS guidance on warning methods limited the response.",
+      "key_lessons": [
+        "Navigation comes first: administrative tasks wait until traffic allows, and the OOW stays in the wheelhouse.",
+        "Newly joined watchkeepers need proper rest before their first watch; plan the handover around it.",
+        "Keep CPA/TCPA alarms active and set to sensible limits; do not silence the safeguard.",
+        "At anchor, warn an approaching ship early by every means, including VHF, and have this written in the SMS."
+      ],
+      "check_on_board": [
+        "Hours of rest of newly joined officers checked before they take a watch.",
+        "Radar CPA/TCPA alarms active on both radars, with limits set per the master's standing orders.",
+        "Unannounced alarm tests are not done during the rest period of watchkeepers who have just joined.",
+        "Anchor watch instructions say how to warn a ship standing into danger (VHF, light, sound, calling the master).",
+        "Reports and paperwork are scheduled away from watch time in busy waters."
+      ],
+      "sire2_tags": [
+        "4.2",
+        "4.3",
+        "4.1"
+      ],
+      "vessel_types": [
+        "product",
+        "chemical"
+      ],
+      "ship_type_label": "Product / chemical tanker",
+      "operation": "navigation",
+      "operation_label": "Coastal passage near an anchorage",
+      "topic": "Bridge & navigation",
+      "severity": "fatality",
+      "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
+      "source_short": "Singapore TSIB",
+      "source_type": "investigation body",
+      "source_title": "Final Report: Collision between Hafnia Nile and Ceres I at South China Sea on 19 July 2024 (TIB/MAI/CAS.173)",
+      "source_url": "https://isomer-user-content.by.gov.sg/287/a8ae896e-e98a-4c56-9ece-68b31ab97ad9/Collision%20between%20Hafnia%20Nile%20and%20Ceres%20I%20in%20the%20South%20China%20Sea%20on%2019July2024.pdf",
+      "source_published": "2025-12-28",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Cargo operations",
+        "Safety management"
+      ],
+      "psc_codes": [
+        "18410",
+        "15150"
+      ],
+      "discussion_questions": [
+        "Where does the vapour go when we gas-free our tanks?",
+        "What gas readings would make us stop work on deck?",
+        "Who would you send to change a chute at 0300, and who keeps the lookout?",
+        "Do we all understand the limits in our gas-freeing procedure the same way?"
+      ],
+      "related_updates": [],
+      "occurred": "2022-06-01",
+      "reuse_note": "Reuse terms not stated: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the full TSIB final report (PDF): synopsis and conclusions.",
+        "Autopsy report was not available to the investigators; cause of death is the investigators' likely explanation.",
+        "Unsure whether gas-freeing on an oil/chemical tanker maps best to SIRE 2.0 8.3 (Oil and Chemical) or 8.2 (Chemicals); tagged 8.3.",
+        "PSC 18410 Gas instruments is indicative only."
+      ],
+      "id": "gas-freeing-air-chute-lookout-sent-on-deck-2022",
+      "title": "Gas-freeing on deck at night: crew member overcome by nitrogen and cargo vapour",
+      "summary3": "After tank cleaning on a chemical tanker, the lookout was sent from the bridge, alone and in the dark, to move a portable air chute from one cargo tank to another during gas-freeing. He was later found unconscious on deck and could not be revived. The investigators found that tank hatches were open instead of venting through the approved system, gas levels were not checked, and gas-freeing had no risk assessment or toolbox talk.",
+      "what_went_wrong": [
+        "The lookout was sent to deck alone at night to change over the air chute, leaving the OOW as the only lookout.",
+        "He did not stop the gas-freeing fan and carried no personal gas detector.",
+        "Tank cleaning hatches were left open, so vapour vented at deck level rather than through the approved venting system.",
+        "Gas concentration in the tanks was not checked before connecting the air chutes, and the work went on in still air.",
+        "Gas-freeing was not listed as a task needing a risk assessment, so none was done."
+      ],
+      "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: the crew member likely inhaled nitrogen and toxic vapour while changing over the air chute. Venting at deck level and not checking gas levels departed from the SMS. The officer in charge followed a practice he had seen in training and was unclear what 'safe limits' meant. Planning of tank cleaning and gas-freeing was inadequate, and the SMS was not effectively applied on board.",
+      "key_lessons": [
+        "Vent cargo tanks only through the approved venting system; open hatches put vapour where people work.",
+        "Anyone working on deck during gas-freeing carries a personal multi-gas detector and stops the fan before handling chutes.",
+        "Gas-freeing needs a risk assessment, a toolbox talk and clear gas limits that everyone understands.",
+        "Do not take the lookout off the bridge at night for deck work; plan manpower for the whole operation.",
+        "Stop deck work around open tanks in still air."
+      ],
+      "check_on_board": [
+        "Gas-freeing procedure states the venting route, the gas limits and who checks them.",
+        "Personal gas detectors (O2, HC, H2S, toxic as needed) available, calibrated and worn on deck during gas-freeing.",
+        "Risk assessment list includes tank cleaning and gas-freeing.",
+        "Night-time deck tasks during gas-freeing planned with day workers or extra crew, not the lookout.",
+        "Officers can explain what 'safe limits' means for the cargo just carried."
+      ],
+      "sire2_tags": [
+        "8.3",
+        "5.6",
+        "5.7",
+        "4.2"
+      ],
+      "vessel_types": [
+        "chemical",
+        "product"
+      ],
+      "ship_type_label": "Oil / chemical tanker",
+      "operation": "tank cleaning",
+      "operation_label": "Gas-freeing after tank cleaning",
+      "topic": "Cargo & vapour",
+      "severity": "fatality",
+      "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
+      "source_short": "Singapore TSIB",
+      "source_type": "investigation body",
+      "source_title": "Final Report: Fatality of crew onboard chemical tanker Concerto at sea on 1 June 2022 (TIB/MAI/CAS.126)",
+      "source_url": "https://isomer-user-content.by.gov.sg/287/bffba9fd-83ed-43fd-a7c2-90fd9785b766/cas-126---fatality-of-crew-onboard-srs-concerto-at-sea-1-june-2022.pdf",
+      "source_published": "2023-06-09",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Navigation"
+      ],
+      "psc_codes": [
+        "10133"
+      ],
+      "discussion_questions": [
+        "When did you last take a visual bearing to check a crossing target?",
+        "What watch level does our SMS require in this strait, and do we meet it?",
+        "How would a tug and tow look on our radar and by eye at night?",
+        "If the VTS tells us a vessel will cross ahead, what do we do next?"
+      ],
+      "related_updates": [],
+      "occurred": "2023-02-05",
+      "reuse_note": "Reuse terms not stated: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the full TSIB final report (PDF): synopsis and conclusions.",
+        "Vessel type 'all tankers': the report says oil tanker but not crude or product.",
+        "4.4 Communications is our mapping for VTS communication; please check."
+      ],
+      "id": "tss-crossing-tug-and-tow-collision-brm-2023",
+      "title": "Collision with a tug and tow crossing a traffic scheme: watch level and visual bearings",
+      "summary3": "A tanker in ballast heading for a pilot boarding ground collided with a loaded barge being towed across a traffic separation scheme in clear weather. The barge was holed and the tanker's ballast tank ruptured. The investigators found that neither the tanker nor the tug followed the collision rules or used compass bearings to judge the risk, and that the tanker's bridge was manned below the level its own SMS required.",
+      "what_went_wrong": [
+        "The tanker's bridge team did not fully assess the situation after the VTS advised them of the crossing tug and tow.",
+        "Neither vessel took continuous compass bearings to judge the risk of collision.",
+        "The master did not allow for the tidal stream setting the tow towards the tanker's track.",
+        "Bridge manning was below the watch level for confined waters set in the company's navigation manual.",
+        "The tug's crew took the VTS reply as permission to cross and expected others to keep clear."
+      ],
+      "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: both vessels did not apply the collision rules or make a continuous assessment of the risk. On the tanker, bridge resource management was not applied effectively, the tidal set was not accounted for, and the watch level did not follow the SMS. The tug relied on AIS and VHF instead of the crossing rule, and was not manned in line with safe manning rules.",
+      "key_lessons": [
+        "Take compass bearings: a steady bearing is the simplest and most reliable warning.",
+        "A VTS advisory is information, not permission; each ship stays responsible for avoiding collision.",
+        "Allow for tidal stream on slow crossing traffic such as tugs and tows.",
+        "Man the bridge at the watch level your SMS requires for the area, and say so in the passage plan."
+      ],
+      "check_on_board": [
+        "Passage plan for straits and approaches states the bridge watch level, and the actual manning matches it.",
+        "OOWs take and record visual compass bearings of crossing traffic.",
+        "Tidal stream for the transit noted in the plan and briefed.",
+        "Bridge team briefed that VTS information does not change collision-rule duties."
+      ],
+      "sire2_tags": [
+        "4.2",
+        "4.3",
+        "4.4"
+      ],
+      "vessel_types": [
+        "all tankers"
+      ],
+      "ship_type_label": "Oil tanker (in ballast)",
+      "operation": "navigation",
+      "operation_label": "Traffic separation scheme, approach to pilot station",
+      "topic": "Bridge & navigation",
+      "severity": "damage",
+      "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
+      "source_short": "Singapore TSIB",
+      "source_type": "investigation body",
+      "source_title": "Final Report: Collision between BW Seine and barge SOL 2315 towed by tug SOL 1009 at Singapore Strait TSS on 5 February 2023 (TIB/MAI/CAS.138)",
+      "source_url": "https://isomer-user-content.by.gov.sg/287/2707c7ae-b5b3-4145-97db-1359edc26549/tib-mai-cas-138---collision-between-bw-seine-and-barge-sol-2315-towed-by-tug-sol-1009-in-singapore-strait-on-5-february-2023.pdf",
+      "source_published": "2024-05-20",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Machinery"
+      ],
+      "psc_codes": [
+        "13108"
+      ],
+      "discussion_questions": [
+        "How would the next watch know about an isolation you made today?",
+        "Which breakers must be closed before we go to stand-by?",
+        "Can we let go an anchor right now if we lose all power?",
+        "If a ship hit us at the berth, what would each of us do first?"
+      ],
+      "related_updates": [],
+      "occurred": "2024-06-14",
+      "reuse_note": "Reuse terms not stated: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the full TSIB final report (PDF): synopsis and conclusions.",
+        "The ship that lost control was not a tanker; the lesson is transferable (machinery, permits, handover). The struck bunker tanker spilled cargo.",
+        "Topic 'Machinery' chosen; 'Pollution' would also fit. Last key lesson and check item (for tankers alongside) are our own addition, not from the report - keep or drop?",
+        "9.3 tagged for emergency anchor readiness; unsure this is how an inspector would see it."
+      ],
+      "id": "blackout-after-breakers-left-open-struck-bunker-tanker-2024",
+      "title": "Breakers left open after maintenance: blackout, loss of control and a bunker tanker holed",
+      "summary3": "A large dredger leaving an anchorage lost electrical power, steering and pitch control and, still turning at about 8 knots, struck a bunker tanker lying alongside a container ship. The tanker's hull was breached and its cargo oil caused severe pollution. Two circuit breakers opened for an inspection on the earlier shift had not been closed again, and the next shift did not know.",
+      "what_went_wrong": [
+        "Two breakers were opened for a transformer fan inspection and not reset afterwards; the work permit was not closed.",
+        "Watch handovers in the engine room and on the bridge were verbal, with no written log of work in progress.",
+        "When departure loads were started, the one remaining breaker overloaded and tripped, causing a blackout.",
+        "There was no automatic load shedding of non-essential equipment.",
+        "Neither anchor could be let go: one was stuck in the hawse pipe and the other needed hydraulic power that had been lost."
+      ],
+      "root_cause": "As found by Singapore's Transport Safety Investigation Bureau: the blackout came from an overload trip because electrical isolation for maintenance was not reversed, and the following shift was unaware. Several SMS steps for the permit to work were not followed, handovers relied on memory, and the emergency anchor was not available.",
+      "key_lessons": [
+        "Every isolation needs a permit, a tag and a sign-off when it is restored; check the board before manoeuvring.",
+        "Hand over in writing: open work, isolations and abnormal line-ups go in a log the next watch reads.",
+        "Before departure, confirm the electrical configuration can take the manoeuvring load.",
+        "Keep an anchor ready to let go in an emergency without main power.",
+        "For tankers at berth or alongside: a ship that loses control nearby is a real threat, so keep the emergency plan for a spill and fire ready."
+      ],
+      "check_on_board": [
+        "Electrical isolation permits all closed out, and switchboard configuration checked before stand-by.",
+        "Engine room handover log records open jobs, isolations and alarms.",
+        "Anchor that is ready for emergency use can be released without hydraulic or electric power.",
+        "Preferential trip / load-shedding arrangements known and tested.",
+        "On tankers alongside: SOPEP and emergency response roles briefed for a collision or allision by another ship."
+      ],
+      "sire2_tags": [
+        "10.1",
+        "5.5",
+        "4.3",
+        "9.3"
+      ],
+      "vessel_types": [
+        "other"
+      ],
+      "ship_type_label": "Dredger (lesson transferable); bunker tanker struck",
+      "operation": "maintenance",
+      "operation_label": "Electrical isolation and departure",
+      "topic": "Machinery",
+      "severity": "pollution",
+      "source_body": "Transport Safety Investigation Bureau of Singapore (TSIB)",
+      "source_short": "Singapore TSIB",
+      "source_type": "investigation body",
+      "source_title": "Final Report: Allision of Dutch flagged Vox Maxima and Singapore flagged Marine Honour, Port of Singapore on 14 June 2024 (TIB/MAI/CAS.169)",
+      "source_url": "https://isomer-user-content.by.gov.sg/287/4f935a32-f953-47bf-88e8-b0299caff72c/allision-of-vox-maxima-and-marine-honour-in-the-port-of-singapore-on-14-june-2024---final-report.pdf",
+      "source_published": "2025-08-15",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Cargo operations (chemical)"
+      ],
+      "psc_codes": [],
+      "discussion_questions": [
+        "What does our coating resistance list say about the next cargo?",
+        "Which parts of the system do we forget to flush when we change grades?",
+        "When did someone last record the coating condition in our tanks?",
+        "Who tells the office when a cargo sequence looks risky for the coating?"
+      ],
+      "related_updates": [],
+      "occurred": null,
+      "reuse_note": "Reuse terms not found: summary and link only.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the Casebook chapter PDF (case 3.1 and 'What can we learn?').",
+        "Publication date not printed on the page; '2024-01' is taken from the file's upload path. The case itself is anonymised and undated.",
+        "Commercial / cargo-claim lesson rather than a safety incident: keep it in 'Safety lessons'?",
+        "The club's text mentions the owner's chartering department; our text avoids that wording."
+      ],
+      "id": "chemical-cargo-contaminated-by-tank-coating",
+      "title": "Off-spec cargo traced to the tank coating: previous cargo absorbed and released",
+      "summary3": "A chemical tanker loaded mixed xylenes after two voyages carrying ethylene dichloride and cleaning its tanks, and the whole cargo was found off-specification for chlorides at discharge. The investigation pointed to the phenolic epoxy tank coating, which can absorb solvent-like cargoes and release them later, made worse by coating damage. The cargo was sold at a large loss.",
+      "what_went_wrong": [
+        "The previous cargo was absorbed into the tank coating and released into the next cargo.",
+        "Coating condition had been allowed to deteriorate, letting cargo seep behind it.",
+        "It could not be confirmed that vent lines to the P/V valves were flushed during tank cleaning.",
+        "Tank cleaning guidance did not cover how different cargoes behave with the coating in use."
+      ],
+      "root_cause": "As analysed by The Swedish Club: the likely cause was a combination of a deteriorated coating and absorption of the previous chlorinated cargo into the phenolic epoxy coating, which then contaminated the next cargo with chlorides.",
+      "key_lessons": [
+        "Check the coating resistance list before every loading, and plan cargo sequences with the coating in mind.",
+        "Avoid two successive aggressive cargoes where the coating has only limited resistance, and warn the charterer before fixing.",
+        "Flush vent lines and P/V valves, not only tanks and lines, when changing grades.",
+        "Have coatings inspected by the paint maker and repaired to their instructions."
+      ],
+      "check_on_board": [
+        "Coating resistance list on board and used for the next cargo.",
+        "Tank cleaning plan covers lines, vent lines and P/V valves, with records kept.",
+        "Coating condition recorded at each tank inspection, with damage reported.",
+        "Cargo officers know which of our usual cargoes the coating absorbs."
+      ],
+      "sire2_tags": [
+        "8.2"
+      ],
+      "vessel_types": [
+        "chemical"
+      ],
+      "ship_type_label": "Chemical tanker",
+      "operation": "tank cleaning",
+      "operation_label": "Grade change and tank cleaning",
+      "topic": "Cargo & vapour",
+      "severity": "damage",
+      "source_body": "The Swedish Club",
+      "source_short": "The Swedish Club",
+      "source_type": "P&I club",
+      "source_title": "The Swedish Club Casebook, 3 Cargo - tankers: 3.1 Hazardous chemical: Cargo contaminated cargo by tank coating",
+      "source_url": "https://www.swedishclub.com/uploads/2024/01/Casebook2023_3Cargo-tankers.pdf",
+      "source_published": "2024-01",
+      "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Safety management (enclosed spaces)"
+      ],
+      "psc_codes": [
+        "04118",
+        "18410"
+      ],
+      "discussion_questions": [
+        "Which of our enclosed spaces could a visitor open today?",
+        "What would you do if you saw someone collapse inside a space?",
+        "How do we brief surveyors and terminal staff about our pump room and void spaces?",
+        "Has our rescue drill ever included someone who is not crew?"
+      ],
+      "related_updates": [],
+      "occurred": "2022-06-27",
+      "reuse_note": "Crown copyright; extracts allowed with acknowledgement. We summarise and link.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-19",
+      "vr_published": "2026-10-19",
+      "lesson_of_week": null,
+      "checked_on": "2026-10-19",
+      "review_notes": [
+        "Read the GOV.UK summary and the report's Section 3 conclusions (PDF).",
+        "Not a tanker: kept as a transferable enclosed-space lesson (pump rooms, voids, terminal staff on board). Drop if you want tanker-only lessons.",
+        "The 'never enter to rescue without BA' lesson is general good practice, not a specific report finding."
+      ],
+      "id": "enclosed-space-cargo-access-third-parties-2022",
+      "title": "Three shore workers died in an oxygen-depleted space: control access for all on board",
+      "summary3": "During cargo loading at an anchorage, a shore worker went down the wrong cargo hold access hatch into an oxygen-depleted space high in hydrogen sulphide and collapsed. Two colleagues who went in to help also collapsed, and all three died. The access hatches were not locked, the atmosphere was not tested, and the workers had not been trained on enclosed space dangers.",
+      "what_went_wrong": [
+        "Hatches to enclosed spaces were left unlocked while shore workers were on board.",
+        "Atmosphere testing was not done before entries, against international guidance and the ship's own procedures.",
+        "The permit to work system was not used for access during cargo work, and the shore workers were not effectively supervised.",
+        "The workers had little understanding of the warning signs and had no basic safety training or correct PPE.",
+        "Rescue drills on board had not considered shore staff being involved."
+      ],
+      "root_cause": "As found by UK MAIB (on behalf of the flag State): the noxious atmosphere in the access space caused the three workers to lose consciousness and die. Access to enclosed spaces was not controlled, atmosphere testing and permits were not applied, and the port and terminal had not followed guidance on training and safe systems of work for shore workers.",
+      "key_lessons": [
+        "Lock or physically barrier every enclosed space access when it is not in use, especially with shore staff, surveyors or riding crew on board.",
+        "Test the atmosphere before every entry, every time; a permit applies during cargo work too.",
+        "Brief third parties on enclosed space hazards; do not assume they understand the signs.",
+        "Never enter to rescue without breathing apparatus: would-be rescuers are often the next victims.",
+        "Include third parties in enclosed space rescue drill scenarios."
+      ],
+      "check_on_board": [
+        "List of enclosed spaces on board is current, and every access is locked or barriered when not in use.",
+        "Pump room, void space and duct keel entries need a permit and a gas test every time.",
+        "Visitors, surveyors and terminal staff briefed on enclosed spaces when they come aboard.",
+        "Rescue equipment (BA, tripod, stretcher) ready near any open space being entered.",
+        "Last enclosed space rescue drill included a scenario with shore personnel."
+      ],
+      "sire2_tags": [
+        "5.5",
+        "5.6",
+        "5.1"
+      ],
+      "vessel_types": [
+        "other"
+      ],
+      "ship_type_label": "Bulk carrier (lesson transferable)",
+      "operation": "enclosed space entry",
+      "operation_label": "Cargo work with shore personnel",
+      "topic": "Enclosed spaces",
+      "severity": "fatality",
+      "source_body": "UK Marine Accident Investigation Branch (MAIB)",
+      "source_short": "UK MAIB",
+      "source_type": "investigation body",
+      "source_title": "Fatal accident on board bulk carrier Berge Mawson with loss of 3 lives (Accident Investigation Report 5/2025)",
+      "source_url": "https://www.gov.uk/maib-reports/fatal-accident-on-board-bulk-carrier-berge-mawson-with-loss-of-3-lives",
+      "source_published": "2025-03-20",
+      "launch_batch": true
+    }
+  ]
 }

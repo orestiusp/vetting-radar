@@ -673,6 +673,9 @@ if LESSONS:
     _r = LS.build({"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "P": P, "signup_card": signup_card, "SITE_URL": SITE_URL,
                    "pagehead": pagehead, "logo": logo, "pmou": PSC_REF, "chrome": CHROME, "pdf_ok": bool(CHROME),
                    "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, LESSONS, PREVIEW, LOTW)
+    if LOTW and not os.path.exists(os.path.join(DIST, "lessons", LOTW["id"] + "-toolbox.pdf")):  # PDF fallback for the homepage card
+        _ix = os.path.join(DIST, "index.html"); _t = open(_ix).read().replace(f'lessons/{LOTW["id"]}-toolbox.pdf', f'lessons/{LOTW["id"]}-toolbox.html')
+        open(_ix, "w").write(_t)
     print(f"safety lessons: {_r['pages']} rendered ({sum(1 for l in LESSONS if not LS.is_pub(l))} drafts), {_r['pdfs']} toolbox PDFs" + (" [PREVIEW]" if PREVIEW else ""))
 else:
     print(f"safety lessons: none published ({len(LESSONS_ALL)} drafts in data/lessons.json; run with --preview to review them)")
