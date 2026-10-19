@@ -17,6 +17,11 @@ Not affiliated with OCIMF, CDI, RightShip or any employer. Always verify at sour
 ## Local preview
     python3 scripts/build.py && python3 -m http.server 8765 --directory dist
 
+## Homepage
+"Lessons first" (option C of three mockups, chosen 2026-10-19): the lesson of the week leads, with the signup beside it; on phones a
+"Get the weekly brief" link under the intro jumps to the signup below the lesson card. Styles in `site/home.css` (index only).
+Without published safety lessons the build falls back to the rule-changes homepage.
+
 ## Go-live (not done: no accounts created, nothing deployed)
 1. Push the repo to GitHub and enable GitHub Pages (or Cloudflare Pages) on dist/.
 2. Add a scheduled GitHub Action (e.g. daily) to run monitor.py, then build.py, then commit. Note: USCG returns 403 to some datacenter IPs.
@@ -33,6 +38,10 @@ fills in `summary`/`significance` and sets both flags to true.
 - `data/lessons.json`: lessons in our own words, linked to the official report. AI drafts, a person approves.
   The live build publishes only records with `reviewed: true` **and** `publish: true`. With none published, the nav link, homepage block and pages are not generated.
 - `python scripts/build.py --preview` (or `VR_PREVIEW=1`): local review build. Also renders drafts with a "Draft – awaiting review" badge, editor notes, a preview banner and `noindex`. Never deploy a preview build.
+- Lesson URLs (`lessons/<id>.html`): the slug ends in the year the incident **occurred** (`occurred`), not the year the report was published
+  (e.g. `mooring-spring-parted-lock-entry-2018`: incident 2018, report 2020). Keep doing this for new lessons. Never rename a published slug:
+  the URLs are live and may already be shared. (One launch lesson, `chemical-cargo-contaminated-by-tank-coating`, has no year because the
+  source gives no occurrence date; leave it as is.)
 - Each lesson gets `lessons/<id>.html` and a one-page toolbox talk `lessons/<id>-toolbox.html` (+ `.pdf` when headless Chrome is available).
   It also gets the hub `lessons.html`, the policy `lessons-policy.html` and `data/lessons.json`. A newsletter "Lesson of the week" snippet is written to `newsletter/snippets/`.
 - The build prints `lessons check:` warnings (never a build failure): missing fields, unknown SIRE/PSC tags, possible vessel names in our text, "owner" wording, and more than 2 new lessons in one ISO week. The 14 launch lessons (approved together on 2026-10-19) carry `"launch_batch": true` and are exempt from the weekly cap; do not set it on later additions.

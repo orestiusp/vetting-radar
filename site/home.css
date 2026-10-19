@@ -1,0 +1,49 @@
+/* Homepage ("lessons first", option C). Loaded only by index.html, on top of style.css + lessons.css. */
+/* small lesson cards, topic chips with counts, berry reader-reports strip */
+.ho-lms{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.ho-lms.four{grid-template-columns:repeat(4,minmax(0,1fr))}
+.lcard.ho-lm{padding:14px 16px 10px 20px}
+.lcard.ho-lm h3{font-size:.95rem;margin:0 0 8px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.lcard.ho-lm .tags{margin-bottom:8px}
+.ho-chips{margin:0 0 14px}.ho-chips a{font-size:.82rem;padding:6px 11px}.ho-chips .n{color:var(--muted);font-weight:500;margin-left:2px}
+.ho-rr{background:var(--rr-bg);border-top:1px solid var(--rr-line);border-bottom:1px solid var(--rr-line)}
+.ho-rr .rr-invite{margin:0;padding:14px 0 14px 14px}
+@media(max-width:900px){.ho-lms,.ho-lms.four{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.ho-lms,.ho-lms.four{grid-template-columns:1fr}}
+
+/* C: lessons lead. Lesson of the week is the main hero content, the signup beside it */
+.hero.ho-c{padding:30px 0 34px}
+.hero.ho-c .wrap{display:block}
+.ho-c-top h1{margin:10px 0 8px}.ho-c-top .sub{max-width:760px;margin:0 0 18px;font-size:1rem}
+.ho-c-top .eyebrow,.ho-c-top .eyebrow .pulse{color:#f3c66b}.ho-c-top .eyebrow .pulse{background:#f3c66b;box-shadow:0 0 0 4px rgba(243,198,107,.2)}
+.ho-c-main{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:22px;align-items:start}
+.ho-c-lotw{padding:20px 24px 16px;border-top:6px solid var(--c-safe);color:var(--text);box-shadow:0 10px 30px rgba(0,0,0,.25);scroll-margin-top:80px}
+.ho-c-k{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.ho-c-k .kicker{margin:0;color:var(--safe-ink)}
+.ho-c-k .cat{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--c-safe)}
+.ho-c-lotw h2{font-size:1.35rem;margin:8px 0 8px;line-height:1.25}.ho-c-lotw h2 a{color:var(--ink);text-decoration:none}.ho-c-lotw h2 a:hover{color:var(--teal)}
+.ho-c-lotw .sum{margin:0 0 12px;font-size:.92rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ho-c-chk{background:var(--safe-bg);border:1px solid var(--safe-line);border-radius:10px;padding:10px 14px;margin:0 0 10px}
+.ho-c-chk h4{margin:0 0 4px;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--safe-ink)}
+.ho-c-chk ol{margin:0;padding-left:20px;font-size:.88rem}.ho-c-chk li{margin:3px 0}
+.ho-c-lotw .tags{display:flex;flex-wrap:wrap;gap:6px}
+.btn.big{padding:13px 22px;font-size:1rem}
+.ho-c-btns{align-items:center;margin:14px 0 6px}
+.ho-c-src{margin:0;font-size:.8rem}
+.ho-c-side .herobox{max-width:none}
+@media(max-width:900px){.ho-c-main{grid-template-columns:1fr}}
+@media(max-width:600px){.hero.ho-c{padding:20px 0 24px}.ho-c-top .sub{font-size:.92rem}.ho-c-lotw{padding:16px 16px 14px}.ho-c-lotw h2{font-size:1.15rem}.ho-c-btns .btn{width:100%;justify-content:center}}
+
+/* C: rule changes on the light background */
+.latest.ho-flat{box-shadow:var(--shadow);border:1px solid var(--line)}
+.hero.ho-c p.sub{max-width:860px}
+.rr-invite a{white-space:nowrap}
+/* C on phones: the toolbox button comes straight after the summary, so it is above the fold */
+@media(max-width:600px){.ho-c-lotw{display:flex;flex-direction:column}.ho-c-k{order:0}.ho-c-lotw h2{order:1}.ho-c-lotw .sum{order:2}.ho-c-btns{order:3;margin:0 0 12px}
+ .ho-c-chk{order:4}.ho-c-lotw .tags{order:5}.ho-c-src{order:6;margin-top:10px}}
+/* "Get the weekly brief" link under the intro: only when the signup drops below the lesson card (one column, <=900px) */
+.ho-c-brief{display:none}
+@media(max-width:900px){
+ .ho-c-top .sub{margin-bottom:12px}
+ .ho-c-brief{display:inline-flex;align-items:center;gap:7px;margin:0 0 16px;padding:7px 13px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.28);color:#fff;font-size:.86rem;font-weight:600;text-decoration:none}
+ .ho-c-brief:hover{background:rgba(255,255,255,.18)}.ho-c-brief .ico{width:16px;height:16px;color:#f3c66b}
+ .ho-c-side .herobox{scroll-margin-top:76px}}
