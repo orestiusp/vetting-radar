@@ -4,6 +4,7 @@ import json, os, shutil, html, datetime as dt, re, glob, hashlib, base64, sys
 import markdown
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import lessons as LS
+import sire_lessons as SL
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = lambda *a: os.path.join(ROOT, *a)
@@ -26,6 +27,10 @@ LESSONS_ALL, LESSONS = LS.load(P("data", "lessons.json"), PREVIEW)
 PSC_REF = load(P("data", "psc_codes.json"), {}).get("codes", {})
 for _w in LS.check(LESSONS_ALL, set(PSC_REF)): print("lessons check:", _w)
 LOTW = LS.lesson_of_week(LESSONS, TODAY)
+# SIRE 2.0 lessons (data/sire_lessons.json): one SIRE 2.0 observation a week, shown beside the incident lesson of the week
+SIRE_ALL, SIRE_VIS = SL.load(P("data", "sire_lessons.json"), PREVIEW)
+for _w in SL.check(SIRE_ALL, set(PSC_REF)): print("SIRE lessons check:", _w)
+SIRE_LOTW = SL.of_week(SIRE_VIS, TODAY) if LOTW else None
 CHROME = next((c for c in (os.environ.get("VR_CHROME"), shutil.which("google-chrome"), shutil.which("chromium"), shutil.which("chromium-browser")) if c), None)
 CAT = {"sire":"SIRE / OCIMF","tmsa":"TMSA","cdi":"CDI","vetting-criteria":"Vetting schemes","oil-major":"Oil majors","terminal":"Terminals & ports",
        "psc":"Port State Control","industry":"Industry bodies","news":"OCIMF news","regulation":"IMO"}
@@ -382,9 +387,30 @@ if LOTW:
     C_SUB = ("One public incident report a week, in plain words, mapped to SIRE 2.0, CDI chapters and PSC codes, with a free one-page toolbox talk. "
              "Plus the vetting rule changes that matter.")
     c_tags = stags(LOTW) + "".join(f'<span class="ctag">CDI: {e(c)}</span>' for c in LOTW.get("cdi_tags", [])[:1]) + "".join(f'<span class="ptag">PMoU {e(c)}</span>' for c in LOTW.get("psc_codes", [])[:1])
+    if SIRE_LOTW:
+        C_SUB = ("Every week: one public incident report and one SIRE 2.0 observation, in plain words, each with a free one-page toolbox talk. "
+                 "Plus the vetting rule changes that matter.")
+    def sire_card(l):  # same format as the incident card, indigo accent (.sire)
+        h, lab = tb_href(l)
+        chk = "".join(f"<li>{e(x)}</li>" for x in l["check_on_board"][:4])
+        return (f'<article class="card ho-c-lotw sire" id="sire-lotw"><div class="ho-c-k"><span class="kicker">SIRE 2.0 lesson of the week</span><span class="cat">{e(l["topic"])}</span><span class="badge who">{e(l["ship_type_label"])}</span></div>'
+                f'<h2><a href="lessons/{e(l["id"])}.html">{e(l["title"])}</a></h2><p class="sum">{e(l["summary3"])}</p>'
+                f'<div class="ho-c-chk"><h4>What to check on board</h4><ol>{chk}</ol></div>'
+                f'<div class="tags">{SL.qtags(l, e)}{SL.rtags(l, e, 3)}{SL.ptags(l, e, 1)}</div>'
+                f'<div class="btnrow ho-c-btns"><a class="btn big" href="{e(h)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk (home, SIRE)">{icon("todo")}{e(lab)}</a><a class="btn light" href="lessons/{e(l["id"])}.html">Read the lesson</a></div>'
+                f'<p class="note ho-c-src">One page · free to print, no sign-up · {e(l["source_line"])} · <a href="{e(l["guidance_url"])}" rel="noopener">{e(l["guidance"])}</a></p></article>')
+    SIDE = (f'<aside class="ho-c-side"><div class="herobox" id="subscribe"><p class="hero-note">{icon("mail")}A new lesson and the rule changes, every week</p>{signup}</div></aside>'
+            if not SIRE_LOTW else sire_card(SIRE_LOTW))
+    # with two cards the signup leaves the hero column for a slim full-width bar right below them
+    SBAR = (f'<div class="ho-sbar" id="subscribe"><div class="ho-sbar-t">{icon("mail")}<p><b>The weekly brief</b><span class="d">One incident lesson, one SIRE 2.0 observation and the vetting rule changes, every week. Free, unsubscribe any time.</span></p></div>'
+            f'<div class="ho-sbar-f">{signup}</div></div>') if SIRE_LOTW else ""
+    # hero kicker: with a SIRE lesson, each part in its card's colour (amber incident, indigo SIRE 2.0), "for tankers" neutral
+    EYEBROW = ('<span class="eyebrow ho-eb2"><span class="eb-s"><span class="pulse"></span>Safety lessons</span><span class="eb-sep" aria-hidden="true">·</span>'
+               '<span class="eb-g"><span class="eb-r"><span class="pulse"></span>SIRE 2.0 lessons</span><span class="eb-n">for tankers</span></span></span>') if SIRE_LOTW \
+        else '<span class="eyebrow"><span class="pulse"></span>Safety lessons for tankers</span>'
     page("index.html", "Home", desc=C_SUB, full_title="Vetting Radar · " + C_H1.rstrip("."), head='<link rel="stylesheet" href="lessons.css"><link rel="stylesheet" href="home.css">', scripts=RR_SCRIPTS, body=f"""
-<section class="hero ho-c"><div class="wrap">
-<div class="ho-c-top"><span class="eyebrow"><span class="pulse"></span>Safety lessons for tankers</span><h1>{C_H1}</h1><p class="sub">{C_SUB}</p>
+<section class="hero ho-c{' ho-c2' if SIRE_LOTW else ''}"><div class="wrap">
+<div class="ho-c-top">{EYEBROW}<h1>{C_H1}</h1><p class="sub">{C_SUB}</p>
 <a class="ho-c-brief" href="#subscribe">{icon("mail")}Get the weekly brief, free <span aria-hidden="true">↓</span></a></div>
 <div class="ho-c-main">
 <article class="card ho-c-lotw" id="lotw"><div class="ho-c-k"><span class="kicker">Lesson of the week</span><span class="cat">{e(LOTW['topic'])}</span><span class="badge who">{e(LOTW.get('ship_type_label', ''))}</span></div>
@@ -393,8 +419,8 @@ if LOTW:
 <div class="tags">{c_tags}</div>
 <div class="btnrow ho-c-btns"><a class="btn big" href="{e(LOTW_TB)}" data-goatcounter-click="dl-toolbox-{e(LOTW['id'])}" data-goatcounter-title="Toolbox talk (home)">{icon("todo")}{e(LOTW_TBL)}</a><a class="btn light" href="lessons/{e(LOTW['id'])}.html">Read the lesson</a></div>
 <p class="note ho-c-src">One page · free to print, no sign-up · {SRC_L}</p></article>
-<aside class="ho-c-side"><div class="herobox" id="subscribe"><p class="hero-note">{icon("mail")}A new lesson and the rule changes, every week</p>{signup}</div></aside>
-</div></div></section>
+{SIDE}
+</div>{SBAR}</div></section>
 <section class="block tight"><div class="wrap"><div class="sechead"><div><h2>Safety lessons by topic</h2></div><a href="lessons.html">All {len(LESSONS)} lessons →</a></div>
 {TOPIC_CHIPS}<div class="ho-lms four">{"".join(lmini(l) for l in NEXT_L[:4])}</div></div></section>
 {TRUST}
@@ -735,12 +761,18 @@ for _old in glob.glob(os.path.join(DIST, "lessons", "*")) + glob.glob(os.path.jo
 for _f in ("lessons.html", "lessons-policy.html", os.path.join("data", "lessons.json")):
     if os.path.exists(os.path.join(DIST, _f)): os.remove(os.path.join(DIST, _f))
 if LESSONS:
-    _r = LS.build({"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "P": P, "signup_card": signup_card, "SITE_URL": SITE_URL,
+    # SIRE 2.0 lesson pages + toolbox talks first (lessons/ was just cleared), so their PDF links are known when the hub lists them
+    _rs = {"pages": 0, "pdfs": 0, "cards": []}
+    if SIRE_LOTW:
+        _rs = SL.build({"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "SITE_URL": SITE_URL, "logo": logo, "pmou": PSC_REF,
+                        "chrome": CHROME, "pdf_ok": bool(CHROME), "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, SIRE_VIS, PREVIEW)
+        print(f"SIRE 2.0 lessons: {_rs['pages']} rendered, {_rs['pdfs']} toolbox PDFs" + (" [PREVIEW]" if PREVIEW else ""))
+    _r = LS.build({"extra_cards": _rs["cards"], "extra_chapters": sorted({q["q"].split(".")[0] for l in (SIRE_VIS if SIRE_LOTW else []) for q in l["sire_questions"]}),"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "P": P, "signup_card": signup_card, "SITE_URL": SITE_URL,
                    "pagehead": pagehead, "logo": logo, "pmou": PSC_REF, "chrome": CHROME, "pdf_ok": bool(CHROME),
                    "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, LESSONS, PREVIEW, LOTW)
     # homepage: any toolbox PDF that could not be printed -> link the printable page instead, with its label
     _ix = os.path.join(DIST, "index.html"); _t = open(_ix).read()
-    for _l in LESSONS:
+    for _l in LESSONS + (SIRE_VIS if SIRE_LOTW else []):
         if not os.path.exists(os.path.join(DIST, "lessons", _l["id"] + "-toolbox.pdf")):
             _t = re.sub(r'(<a [^>]*href="lessons/' + re.escape(_l["id"]) + r'-toolbox\.)pdf("[^>]*>(?:<svg.*?</svg>)?)' + re.escape(LS.TOOLBOX_LABEL) + '</a>',
                         lambda m: m.group(1) + "html" + m.group(2) + LS.TOOLBOX_LABEL_HTML + "</a>", _t)

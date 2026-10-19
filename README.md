@@ -22,6 +22,13 @@ Not affiliated with OCIMF, CDI, RightShip or any employer. Always verify at sour
 "Get the weekly brief" link under the intro jumps to the signup below the lesson card. Styles in `site/home.css` (index only).
 Without published safety lessons the build falls back to the rule-changes homepage.
 
+## SIRE 2.0 lesson of the week (preview, branch `home-sire-lesson`)
+`data/sire_lessons.json` + `scripts/sire_lessons.py`: one SIRE 2.0 observation a week, beside the incident lesson of the week on the homepage
+(indigo accent, `.sire` in `site/lessons.css`), with its own lesson page and one-page toolbox talk (`lessons/<id>.html`, `-toolbox.pdf`).
+When a SIRE lesson is shown, the signup moves from the hero column to a slim full-width bar under the two cards (`.ho-sbar` in `site/home.css`).
+Published only with `reviewed` and `publish` true (never with `placeholder`); `build.py --preview` renders drafts. Observations are illustrative
+or fully anonymised (no vessel, IMO, operator, inspector, inspecting company, port or date) and paraphrased; Question Library guidance is paraphrased, never quoted as OCIMF text.
+
 ## Go-live (not done: no accounts created, nothing deployed)
 1. Push the repo to GitHub and enable GitHub Pages (or Cloudflare Pages) on dist/.
 2. Add a scheduled GitHub Action (e.g. daily) to run monitor.py, then build.py, then commit. Note: USCG returns 403 to some datacenter IPs.

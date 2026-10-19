@@ -132,3 +132,11 @@
 /* lesson card footer: each "·" stays with the item after it, so it never wraps onto a line of its own */
 .lcard .lfoot .lf-i{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
 .lcard .lfoot .sep{color:var(--muted)}
+/* SIRE 2.0 lessons: indigo accent family (not the incident amber, not the reader-report berry). The .sire wrapper re-points the
+   safe-* tokens, so cards, lesson pages and toolbox sheets reuse the incident styles unchanged. */
+:root{--c-sire:#4f5bd5;--sire-bg:#eef0fd;--sire-line:#cfd4f7;--sire-ink:#2e3a96;--sire-l:#aeb8ff}
+.sire{--c-safe:var(--c-sire);--safe-bg:var(--sire-bg);--safe-line:var(--sire-line);--safe-ink:var(--sire-ink)}
+.sire .three{color:#1f2a66}
+.pagehead.safe-head.sire .kicker{color:var(--sire-l)}
+.rtag{font-size:.72rem;font-weight:700;padding:3px 8px;border-radius:6px;background:#f1f4f8;color:#334155;border:1px solid #d9e1ea;white-space:nowrap}
+@media print{.rtag{white-space:normal}}

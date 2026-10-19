@@ -1,0 +1,99 @@
+{
+ "_about": "SIRE 2.0 lessons: one anonymised SIRE 2.0 observation a week, explained with the public OCIMF SIRE 2.0 Question Library guidance and the publications it references. Published only with reviewed=true AND publish=true; build.py --preview also renders drafts. Never include a vessel name, IMO, operator, inspector, inspecting company, port or date, and never quote the observation verbatim.",
+ "lessons": [
+  {
+   "id": "sire-enclosed-space-list-missed-chain-lockers-duct-keel",
+   "illustrative": true,
+   "reviewed": true,
+   "publish": true,
+   "sire_lesson_of_week": "2026-10-19",
+   "title": "Enclosed space list missed the chain lockers and duct keel",
+   "topic": "Enclosed spaces",
+   "ship_type_label": "All tankers",
+   "summary3": "An inspector observed that the ship's list of enclosed spaces left out the chain lockers and the duct keel. The responsible officer could not explain how the list had been put together or when it was last reviewed. The entry permit in use relied on that list to decide which spaces needed a permit, so two dangerous spaces could have been entered without one.",
+   "why_it_matters": [
+    "The list is the starting point of every entry decision: a space that is not on it may be entered without a permit, gas test or attendant.",
+    "Chain lockers and duct keels can be oxygen-deficient or toxic (rusting steel, leaking pipes, adjacent tanks) and are named as enclosed spaces in the IMO recommendations.",
+    "A space that tested safe can turn dangerous later: cargo or inert gas leaking from adjacent tanks, rusting steel using up oxygen, or a change in the work.",
+    "SIRE 2.0 tests the person as well as the paper: officers are expected to explain how the list was built and how it is kept up to date."
+   ],
+   "inspector_looks_for": [
+    "A company procedure that defines enclosed spaces and a ship-specific list of them, including spaces that use a controlled entry process instead of a permit.",
+    "Spot checks that spaces seen on deck and in the engine room are on the list and marked at their access.",
+    "Recent entry permits: a risk assessment, gas readings that fit the space and its previous content, a validity of no more than 12 hours, and all signatures.",
+    "An interview with the responsible officer and a rating about their roles in entry and on the permit.",
+    "Gas detectors in calibration and personal multi-gas detectors in use; rescue equipment in good order and drill records."
+   ],
+   "root_causes": [
+    "The list was copied from a sister ship or a template and never checked against this ship.",
+    "Nobody was named to own and review the list.",
+    "New crew were not shown the list during familiarisation.",
+    "The procedure said 'identify enclosed spaces' but gave no method for doing it."
+   ],
+   "key_lessons": [
+    "Build the list from a physical walk-down of this ship at delivery or takeover, and repeat it after any modification.",
+    "Name a responsible officer (normally the Chief Officer) to own the list, and review it at handover and in the annual SMS review.",
+    "Cross-check against the company master list; mark spaces not fitted on this ship as N/A instead of deleting them.",
+    "Include the list in familiarisation, so every officer can explain where it came from and how it is used."
+   ],
+   "check_on_board": [
+    "Walk the ship with the list: every tank, void, cofferdam, duct keel, chain locker, trunk, pump room and CO2 room is on it.",
+    "The list matches the company master list. Spaces not fitted on this ship are marked N/A, not silently deleted.",
+    "Warning signs are at every access to a listed space.",
+    "Recent permits are complete, with readings at several levels, and are signed off.",
+    "Gas meters are in calibration with bump-test records, and alarm settings are known.",
+    "Rescue equipment is ready at the entrance, and the last drill was within 2 months with a realistic scenario."
+   ],
+   "discussion_questions": [
+    "Which spaces near your workplace are enclosed? Show me on the list.",
+    "How can a space become dangerous after it was tested (cargo, rust, inerting, adjacent tanks)?",
+    "If the person inside collapses, what must the standby person do, and what must they not do?",
+    "What was our last near miss or incident involving entry, and what did we learn?"
+   ],
+   "sire_questions": [
+    {
+     "q": "5.5.1",
+     "title": "Enclosed space entry procedures (section 5.5 Permits to work)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "ISGOTT 6 ch. 10",
+     "full": "ISGOTT, Sixth Edition (OCIMF/ICS), Chapter 10 Enclosed Spaces"
+    },
+    {
+     "label": "IMO MSC.581(110)",
+     "full": "IMO Res. MSC.581(110), Revised Recommendations for Entering Enclosed Spaces Aboard Ships (June 2025; replaces A.1050(27), the version cited in Question Library v1.0)"
+    },
+    {
+     "label": "SOLAS III/19.3.3",
+     "full": "SOLAS III/19.3.3 and 19.3.6: enclosed space entry and rescue drills at least every two months, and what each drill covers"
+    },
+    {
+     "label": "SOLAS XI-1/7",
+     "full": "SOLAS XI-1/7: portable atmosphere testing instruments",
+     "chip": false
+    },
+    {
+     "label": "ISM Code 7",
+     "full": "ISM Code element 7: procedures for key shipboard operations",
+     "chip": false
+    },
+    {
+     "label": "TMSA KPI 9.1.4",
+     "full": "TMSA KPI 9.1.4: documented permit-to-work system (as cited in the Question Library)",
+     "chip": false
+    }
+   ],
+   "psc_codes": [
+    "04118"
+   ],
+   "source_line": "Illustrative SIRE 2.0 observation",
+   "source_note": "An illustrative example based on typical SIRE 2.0 findings, not a record of a real inspection.",
+   "guidance": "Guidance paraphrased from the OCIMF SIRE 2.0 Question Library",
+   "guidance_url": "https://www.ocimf.org/programmes/sire-2-0/",
+   "checked_on": "2026-10-19",
+   "vr_published": "2026-10-19"
+  }
+ ]
+}

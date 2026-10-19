@@ -47,3 +47,25 @@
  .ho-c-brief{display:inline-flex;align-items:center;gap:7px;margin:0 0 16px;padding:7px 13px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.28);color:#fff;font-size:.86rem;font-weight:600;text-decoration:none}
  .ho-c-brief:hover{background:rgba(255,255,255,.18)}.ho-c-brief .ico{width:16px;height:16px;color:#f3c66b}
  .ho-c-side .herobox{scroll-margin-top:76px}}
+/* Two lessons of the week (incident + SIRE 2.0) side by side; the signup moves to a slim bar right below them */
+.ho-c2 .ho-c-main{grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch}
+.ho-c2 .ho-c-lotw{display:flex;flex-direction:column}
+.ho-c2 .ho-c-lotw .tags{flex:1 0 auto;align-content:flex-start}
+.ho-sbar{margin-top:22px;background:#fff;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.25);color:var(--text);display:grid;grid-template-columns:minmax(0,.75fr) minmax(0,1.25fr);gap:24px;align-items:center;padding:8px 18px;scroll-margin-top:88px}
+.ho-sbar-t{display:flex;gap:12px;align-items:flex-start}.ho-sbar-t .ico{width:22px;height:22px;color:var(--teal);flex:none;margin-top:2px}
+.ho-sbar-t p{margin:0;font-size:.86rem;color:var(--muted);line-height:1.4}.ho-sbar-t b{display:block;color:var(--ink);font-size:1rem;margin-bottom:2px}
+.ho-sbar .signup{margin:0}
+@media(max-width:900px){.ho-c2 .ho-c-main{grid-template-columns:1fr}.ho-sbar{grid-template-columns:1fr;gap:4px;padding:14px 12px 4px}}
+/* below 1200px the embed shows its own title and description, so the bar keeps only its heading */
+@media(max-width:1199px){.ho-sbar-t .d{display:none}.ho-sbar-t b{margin:0}}
+/* wide screens: hide the embed's own title + description (the bar's left side says it) so the bar is one slim row.
+   Only >=1200px, where that text sits on two lines; the offset depends on it. Narrower screens show the full embed. */
+@media(min-width:1200px){.ho-sbar .bh-crop{min-height:0}.ho-sbar .bh-crop iframe{margin-top:-174px!important}.ho-sbar .bh-fallback{margin:0 0 4px;font-size:.78rem}}
+.ho-sbar .bh-fb-t:not(.done) b{display:none}  /* the bar already says "The weekly brief" */
+/* two-part hero kicker: "● Safety lessons · ● SIRE 2.0 lessons for tankers"; each part keeps together and wraps cleanly on phones */
+.ho-c-top .eyebrow.ho-eb2{display:flex;flex-wrap:wrap;align-items:center;column-gap:10px;row-gap:6px;color:#c9dbe7}
+.ho-eb2 .eb-s,.ho-eb2 .eb-r{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
+.ho-eb2 .eb-s{color:#f3c66b}
+.ho-c-top .ho-eb2 .eb-r{color:var(--sire-l)}.ho-c-top .ho-eb2 .eb-r .pulse{background:var(--sire-l);box-shadow:0 0 0 4px rgba(174,184,255,.2)}
+.ho-eb2 .eb-sep{color:rgba(201,219,231,.6)}.ho-eb2 .eb-g{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}.ho-eb2 .eb-n{color:#c9dbe7}
+@media(max-width:480px){.ho-eb2 .eb-sep{display:none}}  /* phones: the two parts sit on their own lines, no dangling dot */

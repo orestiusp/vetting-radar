@@ -214,9 +214,10 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
                 f'<div class="lfoot"><a href="{e(l["source_url"])}" rel="noopener">Source: {e(l["source_short"])}</a><span class="lf-i"><span class="sep" aria-hidden="true">·</span>Published {fmt_date(l["source_published"])}</span>'
                 f'<span class="lf-i"><span class="sep" aria-hidden="true">·</span><a href="{e(tbh)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk">{e(tbl)}</a></span></div></article>')
     used_topics = [t for t in TOPICS if any(l["topic"] == t for l in vis)]
-    used_ch = sorted({c for l in vis for c in chapters(l)}, key=int)
+    xcards = ctx.get("extra_cards", [])  # SIRE 2.0 lessons (sire_lessons.py), listed first, indigo
+    used_ch = sorted({c for l in vis for c in chapters(l)} | set(ctx.get("extra_chapters", [])), key=int)
     used_vt = [(k, v) for k, v in VESSELS if any(k in l["vessel_types"] for l in vis)]
-    used_src = [(k, v) for k, v in SOURCE_TYPES if any(l["source_type"] == k for l in vis)]
+    used_src = [(k, v) for k, v in SOURCE_TYPES if any(l["source_type"] == k for l in vis)] + ([("sire observation", "SIRE 2.0 observations")] if xcards else [])
     pills = '<a href="lessons.html" class="on" data-topic="">All topics</a>' + "".join(f'<a href="lessons.html?topic={slug(t)}" data-topic="{slug(t)}">{e(t)}</a>' for t in used_topics)
     n_draft = sum(1 for l in vis if not is_pub(l))
     body = f"""<section class="pagehead safe-head"><div class="wrap"><p class="kicker">Safety lessons</p><h1>Learn from public incident reports, mapped to SIRE 2.0</h1>
@@ -231,9 +232,9 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
 <label>SIRE 2.0 chapter<select id="lf-sire"><option value="">All chapters</option>{''.join(f'<option value="{c}">{c} {e(SIRE_CHAPTERS[c])}</option>' for c in used_ch)}</select></label>
 <label>Source type<select id="lf-src"><option value="">All sources</option>{''.join(f'<option value="{slug(k)}">{e(v)}</option>' for k, v in used_src)}</select></label>
 </div></form>
-<div class="rescount"><span><b id="lf-count">{len(vis)}</b> of {len(vis)} lessons shown</span><button class="linkbtn" type="button" id="lf-reset" hidden>Clear filters</button></div>
+<div class="rescount"><span><b id="lf-count">{len(vis) + len(xcards)}</b> of {len(vis) + len(xcards)} lessons shown</span><button class="linkbtn" type="button" id="lf-reset" hidden>Clear filters</button></div>
 <p class="note" id="lf-empty" hidden>No lessons match these filters yet. <a href="lessons.html">Show all</a>.</p>
-<div class="lcards" id="lcards">{''.join(card(l) for l in vis)}</div></div>
+<div class="lcards" id="lcards">{''.join(xcards)}{''.join(card(l) for l in vis)}</div></div>
 <aside class="side">
 <div class="card sbox"><h3>Toolbox talks, free</h3><p>Every lesson has a one-page sheet for the onboard safety meeting: what happened, discussion questions, a checklist and an attendance list. Print it or save it as a PDF. No sign-up.</p></div>
 <div class="card sbox"><h3>How we tag lessons</h3><p>Each lesson is tagged to SIRE 2.0 Question Library sections (OCIMF, v1.0), CDI SIR chapters and Paris MoU deficiency codes. Tags are our editorial view, not OCIMF's, CDI's or the investigators'.</p><a href="lessons-policy.html">How we write safety lessons</a></div>
