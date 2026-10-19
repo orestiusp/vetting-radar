@@ -144,7 +144,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}calendar.html">Calendar</a></li>{f'<li><a href="{pre}lessons.html">Safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}newsletter.html">Newsletter</a></li><li><a href="{pre}sources.html">Sources</a></li></ul></div>
 <div><h4>Vetting Rules</h4><ul>{cmp_links}</ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li>{f'<li><a href="{pre}lessons-policy.html">How we write safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li><li><a href="{pre}data/updates.json">Updates (JSON)</a></li></ul></div>
-</div><div class="fine"><span class="fl"><span class="fi">© {TODAY.year} Vetting Radar</span> · <span class="fi">Run by Orestis Perilis, Tanker Vetting Manager</span> · <span class="fi">{CONTACT_LINK}</span> · <span class="fi">Public sources only</span></span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
+</div><div class="fine"><span class="fl"><span class="fi">© {TODAY.year} Vetting Radar</span> · <span class="fi">{CONTACT_LINK}</span> · <span class="fi">Public sources only</span></span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
     doc = doc.replace('<meta charset="utf-8">', '<meta charset="utf-8">' + _security_meta(doc, csp), 1)  # CSP first, before any script
     path = os.path.join(DIST, fname); os.makedirs(os.path.dirname(path), exist_ok=True)
