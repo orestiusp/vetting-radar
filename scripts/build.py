@@ -404,9 +404,13 @@ if LOTW:
     # with two cards the signup leaves the hero column for a slim full-width bar right below them
     SBAR = (f'<div class="ho-sbar" id="subscribe"><div class="ho-sbar-t">{icon("mail")}<p><b>The weekly brief</b><span class="d">One incident lesson, one SIRE 2.0 observation and the vetting rule changes, every week. Free, unsubscribe any time.</span></p></div>'
             f'<div class="ho-sbar-f">{signup}</div></div>') if SIRE_LOTW else ""
+    # hero kicker: with a SIRE lesson, each part in its card's colour (amber incident, indigo SIRE 2.0), "for tankers" neutral
+    EYEBROW = ('<span class="eyebrow ho-eb2"><span class="eb-s"><span class="pulse"></span>Safety lessons</span><span class="eb-sep" aria-hidden="true">·</span>'
+               '<span class="eb-g"><span class="eb-r"><span class="pulse"></span>SIRE 2.0 lessons</span><span class="eb-n">for tankers</span></span></span>') if SIRE_LOTW \
+        else '<span class="eyebrow"><span class="pulse"></span>Safety lessons for tankers</span>'
     page("index.html", "Home", desc=C_SUB, full_title="Vetting Radar · " + C_H1.rstrip("."), head='<link rel="stylesheet" href="lessons.css"><link rel="stylesheet" href="home.css">', scripts=RR_SCRIPTS, body=f"""
 <section class="hero ho-c{' ho-c2' if SIRE_LOTW else ''}"><div class="wrap">
-<div class="ho-c-top"><span class="eyebrow"><span class="pulse"></span>Safety lessons for tankers</span><h1>{C_H1}</h1><p class="sub">{C_SUB}</p>
+<div class="ho-c-top">{EYEBROW}<h1>{C_H1}</h1><p class="sub">{C_SUB}</p>
 <a class="ho-c-brief" href="#subscribe">{icon("mail")}Get the weekly brief, free <span aria-hidden="true">↓</span></a></div>
 <div class="ho-c-main">
 <article class="card ho-c-lotw" id="lotw"><div class="ho-c-k"><span class="kicker">Lesson of the week</span><span class="cat">{e(LOTW['topic'])}</span><span class="badge who">{e(LOTW.get('ship_type_label', ''))}</span></div>
@@ -757,13 +761,15 @@ for _old in glob.glob(os.path.join(DIST, "lessons", "*")) + glob.glob(os.path.jo
 for _f in ("lessons.html", "lessons-policy.html", os.path.join("data", "lessons.json")):
     if os.path.exists(os.path.join(DIST, _f)): os.remove(os.path.join(DIST, _f))
 if LESSONS:
-    _r = LS.build({"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "P": P, "signup_card": signup_card, "SITE_URL": SITE_URL,
-                   "pagehead": pagehead, "logo": logo, "pmou": PSC_REF, "chrome": CHROME, "pdf_ok": bool(CHROME),
-                   "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, LESSONS, PREVIEW, LOTW)
-    if SIRE_LOTW:  # SIRE 2.0 lesson pages + toolbox talks (same lessons/ folder, after LS.build has cleared and filled it)
+    # SIRE 2.0 lesson pages + toolbox talks first (lessons/ was just cleared), so their PDF links are known when the hub lists them
+    _rs = {"pages": 0, "pdfs": 0, "cards": []}
+    if SIRE_LOTW:
         _rs = SL.build({"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "SITE_URL": SITE_URL, "logo": logo, "pmou": PSC_REF,
                         "chrome": CHROME, "pdf_ok": bool(CHROME), "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, SIRE_VIS, PREVIEW)
         print(f"SIRE 2.0 lessons: {_rs['pages']} rendered, {_rs['pdfs']} toolbox PDFs" + (" [PREVIEW]" if PREVIEW else ""))
+    _r = LS.build({"extra_cards": _rs["cards"], "extra_chapters": sorted({q["q"].split(".")[0] for l in (SIRE_VIS if SIRE_LOTW else []) for q in l["sire_questions"]}),"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "P": P, "signup_card": signup_card, "SITE_URL": SITE_URL,
+                   "pagehead": pagehead, "logo": logo, "pmou": PSC_REF, "chrome": CHROME, "pdf_ok": bool(CHROME),
+                   "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, LESSONS, PREVIEW, LOTW)
     # homepage: any toolbox PDF that could not be printed -> link the printable page instead, with its label
     _ix = os.path.join(DIST, "index.html"); _t = open(_ix).read()
     for _l in LESSONS + (SIRE_VIS if SIRE_LOTW else []):

@@ -4,8 +4,8 @@
   {
    "id": "sire-enclosed-space-list-missed-chain-lockers-duct-keel",
    "illustrative": true,
-   "reviewed": false,
-   "publish": false,
+   "reviewed": true,
+   "publish": true,
    "sire_lesson_of_week": "2026-10-19",
    "title": "Enclosed space list missed the chain lockers and duct keel",
    "topic": "Enclosed spaces",
@@ -92,7 +92,8 @@
    "source_note": "An illustrative example based on typical SIRE 2.0 findings, not a record of a real inspection.",
    "guidance": "Guidance paraphrased from the OCIMF SIRE 2.0 Question Library",
    "guidance_url": "https://www.ocimf.org/programmes/sire-2-0/",
-   "checked_on": "2026-10-19"
+   "checked_on": "2026-10-19",
+   "vr_published": "2026-10-19"
   }
  ]
 }

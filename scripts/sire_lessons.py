@@ -45,11 +45,22 @@ def rtags(l, e, n=None): return "".join(f'<span class="rtag">{e(r["label"])}</sp
 def ptags(l, e, n=None): return "".join(f'<span class="ptag">PMoU {e(c)}</span>' for c in l.get("psc_codes", [])[:n])
 def draft(l): return '' if is_pub(l) else ('<span class="draftb">Placeholder content</span>' if l.get("placeholder") else '<span class="draftb">Draft – awaiting review</span>')
 
+def hub_card(l, e, tb):
+    """Card for the Safety lessons hub (lessons.html): same .lcard as incident lessons, indigo via .sire; works with the hub filters."""
+    h, lab = tb
+    k = " ".join(l["why_it_matters"] + l["key_lessons"] + l["check_on_board"] + ["sire 2.0 observation", "vetting"]).lower()
+    return (f'<article class="card lcard sire" data-topic="{e(LS.slug(l["topic"]))}" data-vt="all-tankers" data-sire="{e(" ".join(sorted({q["q"].split(".")[0] for q in l["sire_questions"]}, key=int)))}" '
+            f'data-src="sire-observation" data-k="{e(k)}"><div class="top"><span class="cat">SIRE 2.0 · {e(l["topic"])}</span><span class="badge who">{e(l["ship_type_label"])}</span>{draft(l)}</div>'
+            f'<h3><a href="lessons/{e(l["id"])}.html">{e(l["title"])}</a></h3><p class="sum">{e(l["summary3"])}</p>'
+            f'<div class="tags">{qtags(l, e)}{rtags(l, e, 3)}{ptags(l, e, 1)}</div>'
+            f'<div class="lfoot"><span>{e(l["source_line"])}</span><span class="lf-i"><span class="sep" aria-hidden="true">·</span>'
+            f'<a href="{e(h)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk">{e(lab)}</a></span></div></article>')
+
 def build(ctx, vis, preview):
     """Render lessons/<id>.html and lessons/<id>-toolbox.html (+ .pdf) for each visible SIRE 2.0 lesson."""
     page, e, fmt_date, icon, DIST, SITE_URL, head = ctx["page"], ctx["e"], ctx["fmt_date"], ctx["icon"], ctx["DIST"], ctx["SITE_URL"], ctx["head"]
     os.makedirs(os.path.join(DIST, "lessons"), exist_ok=True)
-    pdf_n = 0
+    pdf_n, cards = 0, []
     for l in vis:
         lid = l["id"]
         qline = ", ".join(f'{q["q"]} {q["title"]}' for q in l["sire_questions"])
@@ -121,4 +132,5 @@ This sheet is Vetting Radar's own summary to support discussion. It is not OCIMF
 </aside></div></div>"""
         page(f"lessons/{lid}.html", l["title"], body, depth=1, section="lessons.html", head=head(1), desc=l["summary3"][:300],
              full_title=f"{l['title']} · SIRE 2.0 lessons · Vetting Radar", scripts='<script src="../lessons.js"></script>')
-    return {"pages": len(vis), "pdfs": pdf_n}
+        cards.append(hub_card(l, e, (f"lessons/{tbh}", tbl)))
+    return {"pages": len(vis), "pdfs": pdf_n, "cards": cards}
