@@ -171,6 +171,13 @@ def main():
     log = {"run_at": now().isoformat(timespec="seconds"), "scope": "partial" if a.only else "full",
            "sources_checked": len(sources), **{k: len(v) for k, v in results.items()},
            "errors": {s: state[s].get("last_error") for s in results["error"]}, "changed_ids": results["changed"]}
+    if not a.only:  # new safety-lesson candidates (queue only, never published automatically)
+        try:
+            sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            import lesson_candidates
+            log["lesson_candidates"] = lesson_candidates.run()
+        except Exception as e:
+            log["lesson_candidates"] = {"error": f"{type(e).__name__}: {str(e)[:200]}"}
     json.dump(log, open(P("data", "run_log.json"), "w"), indent=2)
     hist = load(P("data", "run_history.json"), [])
     hist.insert(0, log)

@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Build the static Vetting Radar site into dist/ from data/*.json, sources.json and newsletter/*.md."""
-import json, os, shutil, html, datetime as dt, re, glob, hashlib, base64
+import json, os, shutil, html, datetime as dt, re, glob, hashlib, base64, sys
 import markdown
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import lessons as LS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = lambda *a: os.path.join(ROOT, *a)
@@ -17,9 +19,17 @@ calendar = load(P("data", "calendar.json"), [])
 comp = load(P("data", "comparison.json"))
 runlog = load(P("data", "run_log.json"), {})
 TODAY = dt.date.today()
+# --preview (or VR_PREVIEW=1): local review build. Also renders unreviewed safety lessons, each with a "Draft – awaiting review" badge.
+# Never deploy a preview build: the workflow runs plain `build.py`, which publishes only lessons with reviewed=true and publish=true.
+PREVIEW = "--preview" in sys.argv or os.environ.get("VR_PREVIEW") == "1"
+LESSONS_ALL, LESSONS = LS.load(P("data", "lessons.json"), PREVIEW)
+PSC_REF = load(P("data", "psc_codes.json"), {}).get("codes", {})
+for _w in LS.check(LESSONS_ALL, set(PSC_REF)): print("lessons check:", _w)
+LOTW = LS.lesson_of_week(LESSONS, TODAY)
+CHROME = next((c for c in (os.environ.get("VR_CHROME"), shutil.which("google-chrome"), shutil.which("chromium"), shutil.which("chromium-browser")) if c), None)
 CAT = {"sire":"SIRE / OCIMF","tmsa":"TMSA","cdi":"CDI","vetting-criteria":"Vetting schemes","oil-major":"Oil majors","terminal":"Terminals & ports",
        "psc":"Port State Control","industry":"Industry bodies","news":"OCIMF news","regulation":"IMO"}
-NAV = [("updates.html","Updates"),("table.html","Compare"),("calendar.html","Calendar"),("newsletter.html","Newsletter")]
+NAV = [("updates.html","Updates"),("table.html","Compare"),("calendar.html","Calendar")] + ([("lessons.html","Safety lessons")] if LESSONS else []) + [("newsletter.html","Newsletter")]
 GROUP = {"sire":"scheme","cdi":"scheme","tmsa":"scheme","vetting-criteria":"scheme","oil-major":"major","terminal":"terminal","psc":"psc"}
 GROUP_LABEL = {"scheme":"Inspection scheme","major":"Oil major","terminal":"Terminal","psc":"Port State Control"}
 IMPACT_LABEL = {"high":"High impact","medium":"Medium impact","low":"Low impact"}
@@ -111,19 +121,19 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <link rel="icon" href="{pre}brand/favicon.svg" type="image/svg+xml"><link rel="icon" href="{pre}brand/favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="{pre}brand/favicon-16.png" sizes="16x16" type="image/png">
 <link rel="apple-touch-icon" href="{pre}brand/apple-touch-icon.png">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{SITE_URL}/brand/og-image.png"><meta name="twitter:title" content="{e(doc_title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="theme-color" content="#0b1a2c"><link rel="stylesheet" href="{pre}style.css">
-<link rel="alternate" type="application/json" href="{pre}data/updates.json" title="Vetting Radar reviewed updates (JSON)">{head}
+<link rel="alternate" type="application/json" href="{pre}data/updates.json" title="Vetting Radar reviewed updates (JSON)">{head}{'<meta name="robots" content="noindex,nofollow">' if PREVIEW else ''}
 <script>document.documentElement.classList.add("js")</script>
 {BH_ATTRIBUTION if csp == "site" else ""}</head><body>
 <a class="skip" href="#content">Skip to content</a>
-<header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{logo("h")}<span>Vetting <span class="r">Radar</span></span></a>
+{'<div class="previewbar">Preview build · not live · draft safety lessons awaiting review</div>' if PREVIEW else ''}<header class="site"><div class="wrap"><a class="brand" href="{pre}index.html" aria-label="Vetting Radar home">{logo("h")}<span>Vetting <span class="r">Radar</span></span></a>
 <nav class="main" id="mnav" aria-label="Main">{nav}</nav><a class="btn sm" href="{sub_href}">Subscribe</a>
 <button class="navtoggle" type="button" aria-expanded="false" aria-controls="mnav" aria-label="Menu"><span></span><span></span><span></span></button></div></header>
 <main id="content">{body}</main>
 <footer class="site"><div class="wrap"><div class="cols">
 <div><a class="brand" href="{pre}index.html">{logo("f")}<span>Vetting <span class="r">Radar</span></span></a><p class="fdisc">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries of public documents, not legal text: <b>always verify at the linked source.</b></p><p class="tm">Logos are trademarks of their respective owners, used only to identify the source.</p></div>
-<div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}calendar.html">Calendar</a></li><li><a href="{pre}newsletter.html">Newsletter</a></li><li><a href="{pre}sources.html">Sources</a></li></ul></div>
+<div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}calendar.html">Calendar</a></li>{f'<li><a href="{pre}lessons.html">Safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}newsletter.html">Newsletter</a></li><li><a href="{pre}sources.html">Sources</a></li></ul></div>
 <div><h4>Compare</h4><ul>{cmp_links}</ul></div>
-<div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li><li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li><li><a href="{pre}data/updates.json">Updates (JSON)</a></li></ul></div>
+<div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li>{f'<li><a href="{pre}lessons-policy.html">How we write safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li><li><a href="{pre}data/updates.json">Updates (JSON)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
     doc = doc.replace('<meta charset="utf-8">', '<meta charset="utf-8">' + _security_meta(doc, csp), 1)  # CSP first, before any script
@@ -326,6 +336,7 @@ page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_
 <ol class="lts">{''.join(latest_item(u) for u in TOP)}</ol></div></div>
 </div></section>
 {TRUST}
+{LS.lotw_block(LOTW, e, fmt_date, icon, f"lessons/{LOTW['id']}-toolbox.{'pdf' if CHROME else 'html'}" if LOTW else "")}
 <section class="block tight"><div class="wrap two">
 <div><div class="sechead"><div><h2>Check charterer requirements</h2><p class="note">Which oil majors' and terminals' criteria does your vessel meet?</p></div></div>
 <form class="card vpmini" action="table.html" method="get"><label><span>Vessel type</span><select name="type">{''.join(f'<option value="{k}">{v}</option>' for k, v in TYPES_VP)}</select></label>
@@ -341,7 +352,7 @@ page("index.html", "Home", desc=HERO_SUB, full_title="Vetting Radar · " + HERO_
 {f'<a class="nl-sample" href="newsletter/{SAMPLE[0]}.html"><span class="kicker">Sample · {fmt_date(SAMPLE[1].get("date", ""))}</span><b>{e(SAMPLE[1].get("title", ""))}</b><span class="go">Read it {icon("arrow")}</span></a>' if SAMPLE else ''}
 </div></div></section>
 <div class="wrap">{RR_INVITE}</div>
-{RR_JSON}""", scripts=RR_SCRIPTS)
+{RR_JSON}""", scripts=RR_SCRIPTS, head='<link rel="stylesheet" href="lessons.css">' if LOTW else "")
 
 # ---------- table: requirements lookup ----------
 LK = load(P("data", "lookup.json"), {"owners": {}})["owners"]
@@ -599,7 +610,7 @@ for md in sorted(glob.glob(P("newsletter", "issue-*.md"))):
     name = os.path.basename(md)[:-3]
     issues.append((name, fm))
     page(f"newsletter/{name}.html", fm.get("title", name), f'<div class="wrap page prose issue">{body}{signup_card}</div>', depth=1)
-    open(P("newsletter", name + ".html"), "w").write(open(os.path.join(DIST, "newsletter", name + ".html")).read().replace('href="../', 'href="../dist/').replace(GOATCOUNTER, ""))
+    if not PREVIEW: open(P("newsletter", name + ".html"), "w").write(open(os.path.join(DIST, "newsletter", name + ".html")).read().replace('href="../', 'href="../dist/').replace(GOATCOUNTER, ""))
 arch = "".join(f'<li><a class="row" href="newsletter/{n}.html"><span class="badge org">#{e(fm.get("issue",""))}</span><span class="t">{e(fm.get("title", n))}</span><time>{fmt_date(fm.get("date",""))}</time></a></li>' for n, fm in reversed(issues))
 page("newsletter.html", "Newsletter", pagehead("Newsletter", "The weekly brief", "What changed in vetting rules, who it affects and the dates ahead. Five minutes, every item sourced.") + f"""<div class="wrap page grid"><div>
 <h2 class="sm" style="margin-top:0">Archive</h2><ul class="card list">{arch}</ul><p class="note" style="margin-top:14px">Issues are also sent and archived on <a href="{BEEHIIV_URL}" rel="noopener">Beehiiv</a>.</p></div><aside class="side">{signup_card}</aside></div>""")
@@ -627,7 +638,7 @@ page("about.html", "About & disclaimer", pagehead("About", "About Vetting Radar"
 <h2>Corrections</h2><p>Spotted an error or a stale value? Email <a href="mailto:customer@vettingradar.com?subject=Correction">customer@vettingradar.com</a> (subject "Correction").</p></div>""")
 
 # ---------- static assets & data ----------
-for f in ("style.css", "app.js", "reports.js", "lookup.js"): shutil.copy(P("site", f), os.path.join(DIST, f))
+for f in ("style.css", "app.js", "reports.js", "lookup.js", "lessons.css", "lessons.js"): shutil.copy(P("site", f), os.path.join(DIST, f))
 # reader reports config: VR_SUPABASE_URL / VR_SUPABASE_ANON_KEY (+ optional VR_TURNSTILE_SITE_KEY, VR_VOTE_FUNCTION) override site/config.js
 if os.environ.get("VR_SUPABASE_URL") and os.environ.get("VR_SUPABASE_ANON_KEY"):
     _cfg = {"SUPABASE_URL": os.environ["VR_SUPABASE_URL"], "SUPABASE_ANON_KEY": os.environ["VR_SUPABASE_ANON_KEY"],
@@ -653,4 +664,16 @@ shutil.copy(P("sources.json"), os.path.join(DIST, "data", "sources.json"))
 _seed = P("supabase", "seed_editor_reports.json")
 if os.environ.get("VR_SEED_PREVIEW") == "1" and os.path.exists(_seed): shutil.copy(_seed, os.path.join(DIST, "data", "seed_preview.json"))
 elif os.path.exists(os.path.join(DIST, "data", "seed_preview.json")): os.remove(os.path.join(DIST, "data", "seed_preview.json"))
+
+# ---------- safety lessons (after static assets: the toolbox PDFs are printed from the built pages) ----------
+for _old in glob.glob(os.path.join(DIST, "lessons", "*")) + glob.glob(os.path.join(DIST, "_preview", "*")): os.remove(_old)
+for _f in ("lessons.html", "lessons-policy.html", os.path.join("data", "lessons.json")):
+    if os.path.exists(os.path.join(DIST, _f)): os.remove(os.path.join(DIST, _f))
+if LESSONS:
+    _r = LS.build({"page": page, "e": e, "fmt_date": fmt_date, "icon": icon, "DIST": DIST, "P": P, "signup_card": signup_card, "SITE_URL": SITE_URL,
+                   "pagehead": pagehead, "logo": logo, "pmou": PSC_REF, "chrome": CHROME, "pdf_ok": bool(CHROME),
+                   "head": lambda d: f'<link rel="stylesheet" href="{"../" * d}lessons.css">'}, LESSONS, PREVIEW, LOTW)
+    print(f"safety lessons: {_r['pages']} rendered ({sum(1 for l in LESSONS if not LS.is_pub(l))} drafts), {_r['pdfs']} toolbox PDFs" + (" [PREVIEW]" if PREVIEW else ""))
+else:
+    print(f"safety lessons: none published ({len(LESSONS_ALL)} drafts in data/lessons.json; run with --preview to review them)")
 print("built", sorted(os.listdir(DIST)))
