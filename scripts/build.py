@@ -29,7 +29,7 @@ LOTW = LS.lesson_of_week(LESSONS, TODAY)
 CHROME = next((c for c in (os.environ.get("VR_CHROME"), shutil.which("google-chrome"), shutil.which("chromium"), shutil.which("chromium-browser")) if c), None)
 CAT = {"sire":"SIRE / OCIMF","tmsa":"TMSA","cdi":"CDI","vetting-criteria":"Vetting schemes","oil-major":"Oil majors","terminal":"Terminals & ports",
        "psc":"Port State Control","industry":"Industry bodies","news":"OCIMF news","regulation":"IMO"}
-NAV = [("updates.html","Updates"),("table.html","Compare"),("calendar.html","Calendar")] + ([("lessons.html","Safety lessons")] if LESSONS else []) + [("newsletter.html","Newsletter")]
+NAV = [("updates.html","Updates"),("table.html","Vetting Rules"),("calendar.html","Calendar")] + ([("lessons.html","Safety lessons")] if LESSONS else []) + [("newsletter.html","Newsletter")]
 GROUP = {"sire":"scheme","cdi":"scheme","tmsa":"scheme","vetting-criteria":"scheme","oil-major":"major","terminal":"terminal","psc":"psc"}
 GROUP_LABEL = {"scheme":"Inspection scheme","major":"Oil major","terminal":"Terminal","psc":"Port State Control"}
 IMPACT_LABEL = {"high":"High impact","medium":"Medium impact","low":"Low impact"}
@@ -132,7 +132,7 @@ def page(fname, title, body, desc="Vetting Radar tracks public tanker vetting ru
 <footer class="site"><div class="wrap"><div class="cols">
 <div><a class="brand" href="{pre}index.html">{logo("f")}<span>Vetting <span class="r">Radar</span></span></a><p class="fdisc">Independent tracker of public tanker vetting rules. Not affiliated with OCIMF, CDI, RightShip, any oil major, terminal or employer. Summaries of public documents, not legal text: <b>always verify at the linked source.</b></p><p class="tm">Logos are trademarks of their respective owners, used only to identify the source.</p></div>
 <div><h4>Product</h4><ul><li><a href="{pre}updates.html">Updates</a></li><li><a href="{pre}calendar.html">Calendar</a></li>{f'<li><a href="{pre}lessons.html">Safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}newsletter.html">Newsletter</a></li><li><a href="{pre}sources.html">Sources</a></li></ul></div>
-<div><h4>Compare</h4><ul>{cmp_links}</ul></div>
+<div><h4>Vetting Rules</h4><ul>{cmp_links}</ul></div>
 <div><h4>About</h4><ul><li><a href="{pre}about.html">About &amp; disclaimer</a></li>{f'<li><a href="{pre}lessons-policy.html">How we write safety lessons</a></li>' if LESSONS else ''}<li><a href="{pre}sponsor.html">Sponsor</a></li><li><a href="{pre}data/comparison.csv">Data (CSV)</a></li><li><a href="{pre}data/updates.json">Updates (JSON)</a></li></ul></div>
 </div><div class="fine"><span>© {TODAY.year} Vetting Radar · Run by Orestis Perilis, Tanker Vetting Manager · Public sources only</span><span>Last built {fmt_date(TODAY.isoformat())}</span></div></div></footer>
 <script src="{pre}app.js"></script>{scripts}{GOATCOUNTER if stats else ""}</body></html>"""
@@ -255,7 +255,7 @@ page("updates.html", "Vetting rule updates", pagehead("Updates", "Vetting rule c
 # ---------- compare navigation ----------
 CP = load(P("data", "compare_pages.json"))
 def subnav(cur):
-    return '<nav class="subnav" aria-label="Compare pages"><div class="wrap">' + "".join(
+    return '<nav class="subnav" aria-label="Vetting Rules pages"><div class="wrap">' + "".join(
         f'<a href="{h}"{(" class=\"on rron\"" if h == "reports.html" else " class=\"on\"") + " aria-current=\"page\"" if h == cur else ""}{" class=\"rrtab\"" if h == "reports.html" and h != cur else ""}>{icon(i)}{l}</a>' for h, l, i in CMP_TABS) + "</div></nav>"
 
 # ---------- reader reports (user submitted; never official data) ----------
@@ -448,7 +448,7 @@ gaps = "".join(f"<li><b>{e(g['owner'])}</b>: {e(g['note'])}</li>" for g in comp[
 LK_JSON = '<script id="vr-lookup" type="application/json">' + json.dumps({k: v["rules"] for k, v in LK.items()}, ensure_ascii=False).replace("</", "<\\/") + '</script>'
 LK_SRC = '<script id="vr-src" type="application/json">' + json.dumps({r["id"]: r["source_url"] for r in comp["rows"]}).replace("</", "<\\/") + '</script>'
 page("table.html", "Who requires what — tanker vetting criteria compared", f"""
-""" + pagehead("Compare", "Who requires what", "Tanker acceptance criteria charterer by charterer, from cited public documents. Enter your vessel to see where it stands.") + subnav("table.html") + f"""<div class="wrap page widepage">
+""" + pagehead("Vetting Rules", "Who requires what", "Tanker acceptance criteria charterer by charterer, from cited public documents. Enter your vessel to see where it stands.") + subnav("table.html") + f"""<div class="wrap page widepage">
 <form class="card vp" id="vp" action="table.html" method="get" novalidate>
 <div class="vp-h"><h2>Check a vessel profile</h2><p class="note">Shows which oil majors' and terminals' public criteria the ship meets, fails or where the source can't decide. We never guess: unclear means check the source.</p></div>
 <div class="vp-f">
@@ -502,7 +502,7 @@ def ck_card(k):
 ck_cards = "".join(ck_card(k) for k in ck)
 page("compare-checklist.html", "Pre-screening checklist: what oil majors and terminals ask for", section="table.html",
      desc="The documents and conditions commonly required for oil-major and terminal clearance (SIRE recency, CAP, Q88/HVPQ, crew matrix, PSC, certificates), charterer by charterer, from public sources.",
-     body=pagehead("Compare", "Pre-screening checklist", "The documents and conditions most often checked before a tanker is cleared, and which oil majors and terminals publicly require each one.") + subnav("compare-checklist.html") + f"""
+     body=pagehead("Vetting Rules", "Pre-screening checklist", "The documents and conditions most often checked before a tanker is cleared, and which oil majors and terminals publicly require each one.") + subnav("compare-checklist.html") + f"""
 <div class="wrap page widepage"><p class="intro">Use this as a checklist before you submit a vessel for clearance: inspection recency, CAP, questionnaire and crew-matrix freshness, PSC record, certificates and TMSA. Each column is one oil major, terminal or vetting scheme; the header links to the public document we read. A dash means the cited source does not say, not that there is no rule.</p>
 {verified_bar()}
 {lvlegend(["req","cond","ns"], LV)}
@@ -519,7 +519,7 @@ for f in CP["frequency"]:
     rows_fq += f'<tr>{ocell(f["owner"], f"<div class=\"note fqn\">{e(f["note"])}</div>" if f.get("note") else "")}{tds}</tr>'
 page("compare-frequency.html", "Inspection frequency by vessel age, charterer by charterer", section="table.html",
      desc="How fresh a SIRE or oil-major inspection must be at each vessel age band, for oil majors, vetting schemes and terminals, from public sources.",
-     body=pagehead("Compare", "Inspection frequency by vessel age", "How recent the SIRE or oil-major inspection must be as a tanker gets older, and where each charterer stops accepting it.") + subnav("compare-frequency.html") + f"""
+     body=pagehead("Vetting Rules", "Inspection frequency by vessel age", "How recent the SIRE or oil-major inspection must be as a tanker gets older, and where each charterer stops accepting it.") + subnav("compare-frequency.html") + f"""
 <div class="wrap page widepage"><p class="intro">Each row is one oil major, terminal or vetting scheme, each column an age band. Colours show how tight the inspection window is; dark cells mean the charterer's published age limit excludes the vessel. Bands are approximate: charterers draw the line at slightly different ages (e.g. 10.1 or 15.1 years), so check the exact wording at source.</p>
 {verified_bar()}
 <div class="lvlegend fqlegend" aria-label="Legend">{''.join(f'<span><i class="fq {k}"></i>{e(v)}</span>' for k, v in FQ.items())}</div>
@@ -540,7 +540,7 @@ for t in CP["terminals"]:
 <div class="tfoot">{flagbtn(t["flag"])}{links}<span>·</span><span>Verified {fmt_date(CP['verified_on'])}</span><span>·</span><span>Verify at source</span></div>{rrbox(rid) if rid else ''}</article>"""
 page("compare-terminals.html", "Terminal requirements: age limits, SIRE, pre-arrival and escort rules", section="table.html",
      desc="Public terminal and port rules for tankers: age limits, SIRE/vetting, pre-arrival documents and escort tugs (Saudi Aramco, Fujairah, Trans Mountain, SIOT Trieste, Ceyhan, Brofjorden, Ingleside and more).",
-     body=pagehead("Compare", "Terminal requirements", "What terminals publish about vessel age, SIRE or terminal vetting, pre-arrival documents and escort tugs.") + subnav("compare-terminals.html") + f"""
+     body=pagehead("Vetting Rules", "Terminal requirements", "What terminals publish about vessel age, SIRE or terminal vetting, pre-arrival documents and escort tugs.") + subnav("compare-terminals.html") + f"""
 <div class="wrap page"><p class="intro">Terminals screen on top of the charterer's clearance. These cards summarise what each terminal's own public handbook or port notice says. Blank fields mean that document does not cover the point; other port rules or the charterer may still apply.</p>
 {verified_bar()}
 <div class="controls"><input id="tq" type="search" placeholder="Search terminals: e.g. escort, 25 years, Q88, H2S…"></div>
@@ -562,7 +562,7 @@ none = ", ".join(OWN[k]["name"] for k in CP["crew_none"])
 SUB = '<th scope="col" class="yh">Operator</th><th scope="col" class="yh">Rank</th><th scope="col" class="yh">Type</th><th scope="col" class="yh">All tankers</th>'
 page("compare-crew.html", "Crew-matrix requirements compared: officer experience, English, nationalities", section="table.html",
      desc="Officer experience minimums (years with operator, in rank, on type), English, nationality limits and crew-matrix freshness, charterer by charterer, from public sources.",
-     body=pagehead("Compare", "Crew-matrix comparison", "Senior officer experience, English, nationality limits and how fresh the crew matrix must be, per oil major.") + subnav("compare-crew.html") + f"""
+     body=pagehead("Vetting Rules", "Crew-matrix comparison", "Senior officer experience, English, nationality limits and how fresh the crew matrix must be, per oil major.") + subnav("compare-crew.html") + f"""
 <div class="wrap page widepage"><p class="intro">Most oil majors check the OCIMF officer / crew matrix against combined ("aggregate") experience for the Master + Chief Officer and the Chief Engineer + Second (or First) Engineer. Figures are minimum years: calendar time with the operator, then sea time in rank, on the same tanker type and on all tankers. A dash means the cited source does not set that value.</p>
 {verified_bar()}
 <div class="tablewrap mxwrap mx-cards"><table class="mx crew"><thead>
