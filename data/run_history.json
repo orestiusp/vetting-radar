@@ -1,5 +1,30 @@
 [
   {
+    "run_at": "2026-10-19T07:33:32+00:00",
+    "scope": "full",
+    "sources_checked": 96,
+    "baseline": 0,
+    "unchanged": 89,
+    "changed": 0,
+    "error": 7,
+    "errors": {
+      "uscg-psc-detentions": "HTTPError: 403 Client Error: Forbidden for url: https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offs",
+      "iomou-home": "HTTPError: 403 Client Error: Forbidden for url: https://www.iomou.org/",
+      "saudi-aramco-ports-terminals-book-jul-2025-pdf": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)",
+      "saudi-aramco-ports-terminals-general-rules-2025-pdf": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)",
+      "saudi-aramco-ports-terminals-page": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)",
+      "marathon-petroleum-global-marine-request-inspection": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
+      "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
+    },
+    "changed_ids": [],
+    "lesson_candidates": {
+      "new": 0,
+      "baseline": 0,
+      "errors": {},
+      "open_new": 0
+    }
+  },
+  {
     "run_at": "2026-10-19T07:05:48+00:00",
     "scope": "full",
     "sources_checked": 96,
