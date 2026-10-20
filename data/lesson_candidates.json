@@ -3,48 +3,80 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-10-20T05:25:08+00:00",
-      "last_ok": "2026-10-20T05:25:08+00:00",
+      "last_checked": "2026-10-20T06:37:12+00:00",
+      "last_ok": "2026-10-20T06:37:12+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-10-20T05:25:09+00:00",
-      "last_ok": "2026-10-20T05:25:09+00:00",
+      "last_checked": "2026-10-20T06:37:13+00:00",
+      "last_ok": "2026-10-20T06:37:13+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-10-20T05:25:10+00:00",
-      "last_ok": "2026-10-20T05:25:10+00:00",
+      "last_checked": "2026-10-20T06:37:14+00:00",
+      "last_ok": "2026-10-20T06:37:14+00:00",
       "last_error": null,
       "items_in_feed": 0
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-10-20T05:25:11+00:00",
-      "last_ok": "2026-10-20T05:25:11+00:00",
+      "last_checked": "2026-10-20T06:37:14+00:00",
+      "last_ok": "2026-10-20T06:37:14+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-10-20T05:25:11+00:00",
-      "last_ok": "2026-10-20T05:25:11+00:00",
+      "last_checked": "2026-10-20T06:37:15+00:00",
+      "last_ok": "2026-10-20T06:37:15+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-10-20T05:25:12+00:00",
-      "last_ok": "2026-10-20T05:25:12+00:00",
+      "last_checked": "2026-10-20T06:37:16+00:00",
+      "last_ok": "2026-10-20T06:37:16+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "30f5a944f4aa9614",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Introducing Insights: Expert perspectives from The Swedish Club",
+      "url": "https://www.swedishclub.com/news/club-news/introducing-insights-expert-perspectives-from-the-swedish-club/",
+      "published": "Tue, 20 Oct 2026 06:25:46 +0000",
+      "summary_from_feed": "The Swedish Club is introducing Insights, a new collection of articles bringing together knowledge, experience and perspectives from across the Club and our professional network. Insights is taking over from the former Triton Magazine, building on its long tradition of sharing expertise with members, brokers and the wider maritime industry – but in a more [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-10-20T06:37:15+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
+    {
+      "key": "86e1966aa02ccb14",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Maritime cybersecurity in an era of broken rules",
+      "url": "https://www.swedishclub.com/news/insights/maritime-cybersecurity-in-an-era-of-broken-rules/",
+      "published": "Tue, 20 Oct 2026 06:25:02 +0000",
+      "summary_from_feed": "Digitalisation has made shipping more connected and efficient than ever. But that connectivity is creating new vulnerabilities at a time when the wider maritime security environment is becoming considerably less predictable. For Thomas Nordberg of The Swedish Club, cyber risk can no longer be separated from that broader picture. “I can’t really think of many [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-10-20T06:37:15+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "fa038cc9db760f68",
       "feed": "swedish-club",
@@ -2494,5 +2526,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 1
+  "open_new": 3
 }
