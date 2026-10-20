@@ -1,7 +1,6 @@
 Articles in this section
 Change Tablet Power Button Actions Setup
 SIRE Programme Information
-SIRE Operator - HVPQ6 Grid Row Not Editable in the Offline Particulars Editor
 Mopria - Enable Wi-Fi Direct printing
 SIRE 2.0 - Inspector - Unable to Validate or Submit Report
 SIRE 2.0 Operator - API Access Request Process
@@ -9,6 +8,7 @@ Q88 - Requesting Access for Officer Matrix Submission
 SIRE 2.0 Operator - Inspection Request Cancellation Process
 BIRE Operator - Inspection Request Cancellation
 SIRE 2.0 - Error opening inspection. The inspection may be corrupted.
+Unable to select SIRE 2.0 inspection
 See more
 To request a SIRE 2.0 Inspection for a vessel, use the current SIRE Inspection Request Portal. The SIRE 2.0 Inspection option will only be available when the vessel meets all required criteria and the required documents have been published.
 Check the vessel meets all of the following requirements before requesting a SIRE 2.0 Inspection:

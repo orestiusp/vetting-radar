@@ -1,5 +1,83 @@
 [
   {
+    "id": "20261020T051906-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-10-20T05:19:06+00:00",
+    "previous_hash": "83d1ae672f50aece4834f2c74803c61698f51f780ccbf6ee3c4b46e3dfd9c6e8",
+    "new_hash": "46c8d77f39c939ac5cd80b3c25e10349319f292f1324ea61ee06302b037ff981",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -113,3 +113,3 @@\n Webinar: Understanding the LH2 Transportation Landscape – 21 October 2026 – Register now\n-INTERTANKO will host a webinar on 21 October (12:00 UTC) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation...\n+INTERTANKO will host a webinar on 21 October (12:00 BST) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation...\n 16 October 2026",
+      "lines_added": 1,
+      "lines_removed": 1,
+      "added_sample": [
+        "INTERTANKO will host a webinar on 21 October (12:00 BST) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation..."
+      ],
+      "removed_sample": [
+        "INTERTANKO will host a webinar on 21 October (12:00 UTC) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261020T051904-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-20T05:19:04+00:00",
+    "previous_hash": "bebe61a4d3f8898b7543044420d81c7bfadea3f95e94ff869f7ced933c06b120",
+    "new_hash": "cae75ef85bb1195e6a9bf43f009a4053666292b766dcb72f16c568dcbccff8b5",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,3 @@\n LAST DATA UPDATE :\n+EMSA\n Türk Loydu\n@@ -18,3 +19,2 @@\n Paris MoU\n-Emirates Classification Society\n USER ACTIVITY :",
+      "lines_added": 1,
+      "lines_removed": 1,
+      "added_sample": [
+        "EMSA"
+      ],
+      "removed_sample": [
+        "Emirates Classification Society"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261020T051858-ocimf-requesting-a-sire-2-0-inspection",
+    "source_id": "ocimf-requesting-a-sire-2-0-inspection",
+    "source_name": "OCIMF Help Centre – Requesting a SIRE 2.0 Inspection",
+    "owner": "OCIMF",
+    "category": "sire",
+    "url": "https://support.ocimf.org/hc/en-gb/articles/12641420845469-SIRE-Operator-Requesting-a-SIRE-2-0-Inspection",
+    "detected_at": "2026-10-20T05:18:58+00:00",
+    "previous_hash": "89da1c9ef14dbb05cbb29d35c16a32fbee549e419002d103d0f924c6df691562",
+    "new_hash": "be09a359fcf97fcc1370be55787cf66ac352c5b138e4e29141b1fcc162cf16be",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -3,3 +3,2 @@\n SIRE Programme Information\n-SIRE Operator - HVPQ6 Grid Row Not Editable in the Offline Particulars Editor\n Mopria - Enable Wi-Fi Direct printing\n@@ -11,2 +10,3 @@\n SIRE 2.0 - Error opening inspection. The inspection may be corrupted.\n+Unable to select SIRE 2.0 inspection\n See more",
+      "lines_added": 1,
+      "lines_removed": 1,
+      "added_sample": [
+        "Unable to select SIRE 2.0 inspection"
+      ],
+      "removed_sample": [
+        "SIRE Operator - HVPQ6 Grid Row Not Editable in the Offline Particulars Editor"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261019T110859-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

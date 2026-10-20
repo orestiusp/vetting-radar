@@ -1,0 +1,26 @@
+{
+  "id": "20261020T051904-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-20T05:19:04+00:00",
+  "previous_hash": "bebe61a4d3f8898b7543044420d81c7bfadea3f95e94ff869f7ced933c06b120",
+  "new_hash": "cae75ef85bb1195e6a9bf43f009a4053666292b766dcb72f16c568dcbccff8b5",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,3 @@\n LAST DATA UPDATE :\n+EMSA\n Türk Loydu\n@@ -18,3 +19,2 @@\n Paris MoU\n-Emirates Classification Society\n USER ACTIVITY :",
+    "lines_added": 1,
+    "lines_removed": 1,
+    "added_sample": [
+      "EMSA"
+    ],
+    "removed_sample": [
+      "Emirates Classification Society"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

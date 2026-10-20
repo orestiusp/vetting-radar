@@ -1,0 +1,26 @@
+{
+  "id": "20261020T051906-intertanko-news-desk",
+  "source_id": "intertanko-news-desk",
+  "source_name": "INTERTANKO – News desk",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk",
+  "detected_at": "2026-10-20T05:19:06+00:00",
+  "previous_hash": "83d1ae672f50aece4834f2c74803c61698f51f780ccbf6ee3c4b46e3dfd9c6e8",
+  "new_hash": "46c8d77f39c939ac5cd80b3c25e10349319f292f1324ea61ee06302b037ff981",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -113,3 +113,3 @@\n Webinar: Understanding the LH2 Transportation Landscape – 21 October 2026 – Register now\n-INTERTANKO will host a webinar on 21 October (12:00 UTC) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation...\n+INTERTANKO will host a webinar on 21 October (12:00 BST) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation...\n 16 October 2026",
+    "lines_added": 1,
+    "lines_removed": 1,
+    "added_sample": [
+      "INTERTANKO will host a webinar on 21 October (12:00 BST) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation..."
+    ],
+    "removed_sample": [
+      "INTERTANKO will host a webinar on 21 October (12:00 UTC) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

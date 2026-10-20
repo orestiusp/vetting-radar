@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-10-19T11:15:06+00:00",
-      "last_ok": "2026-10-19T11:15:06+00:00",
+      "last_checked": "2026-10-20T05:25:08+00:00",
+      "last_ok": "2026-10-20T05:25:08+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-10-19T11:15:07+00:00",
-      "last_ok": "2026-10-19T11:15:07+00:00",
+      "last_checked": "2026-10-20T05:25:09+00:00",
+      "last_ok": "2026-10-20T05:25:09+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-10-19T11:15:08+00:00",
-      "last_ok": "2026-10-19T11:15:08+00:00",
+      "last_checked": "2026-10-20T05:25:10+00:00",
+      "last_ok": "2026-10-20T05:25:10+00:00",
       "last_error": null,
       "items_in_feed": 0
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-10-19T11:15:08+00:00",
-      "last_ok": "2026-10-19T11:15:08+00:00",
+      "last_checked": "2026-10-20T05:25:11+00:00",
+      "last_ok": "2026-10-20T05:25:11+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-10-19T11:15:09+00:00",
-      "last_ok": "2026-10-19T11:15:09+00:00",
+      "last_checked": "2026-10-20T05:25:11+00:00",
+      "last_ok": "2026-10-20T05:25:11+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-10-19T11:15:10+00:00",
-      "last_ok": "2026-10-19T11:15:10+00:00",
+      "last_checked": "2026-10-20T05:25:12+00:00",
+      "last_ok": "2026-10-20T05:25:12+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "fa038cc9db760f68",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Persian Gulf and Strait of Hormuz: Operational Update",
+      "url": "https://www.swedishclub.com/news/member-alert/persian-gulf-and-strait-of-hormuz-operational-update/",
+      "published": "Mon, 19 Oct 2026 13:32:23 +0000",
+      "summary_from_feed": "Persian Gulf and Strait of Hormuz: Operational Update&#160; The security environment in the Persian Gulf, Strait of Hormuz and adjacent waters remains highly volatile. In view of the recent escalation and the continuing threat to commercial shipping, Members are strongly advised to avoid transiting the Strait of Hormuz unless the transit is operationally essential. Where [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-10-20T05:25:11+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "4342cd9af4c1b920",
       "feed": "ukpandi-circulars",
@@ -2478,5 +2494,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 0
+  "open_new": 1
 }
