@@ -1,0 +1,32 @@
+{
+  "id": "20261021T051938-paris-mou-home",
+  "source_id": "paris-mou-home",
+  "source_name": "Paris MoU – home",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/",
+  "detected_at": "2026-10-21T05:19:38+00:00",
+  "previous_hash": "ffad6fac1e9eb7312037079c15fc5eebf4ebe5caf24bac77b99cf72a7279cc33",
+  "new_hash": "b6686e9ba7ece7016a2bf39859287a8bdeb60b200c55247f9bf5949e5878efde",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -17,8 +17,8 @@\n Link to all news items\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n 31 August 2026\n Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633\n-11 August 2026\n-M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region\n-3 July 2026\n-Paris MoU publishes the Annual Report of 2025\n 3 August 2026",
+    "lines_added": 4,
+    "lines_removed": 4,
+    "added_sample": [
+      "20 October 2026",
+      "M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region",
+      "20 October 2026",
+      "Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988"
+    ],
+    "removed_sample": [
+      "11 August 2026",
+      "M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region",
+      "3 July 2026",
+      "Paris MoU publishes the Annual Report of 2025"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

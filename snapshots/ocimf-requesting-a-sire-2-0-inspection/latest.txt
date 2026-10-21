@@ -1,14 +1,14 @@
 Articles in this section
 Change Tablet Power Button Actions Setup
 SIRE Programme Information
+Vessel Operator - When to Contact the Submitting Member Directly
 Mopria - Enable Wi-Fi Direct printing
 SIRE 2.0 - Inspector - Unable to Validate or Submit Report
+SIRE - How to Submit Suggestions for Improvement
+How to Request a Port Addition to HVPQ Dropdown Fields
+How to Re-commission a Vessel That Was Incorrectly Decommissioned
 SIRE 2.0 Operator - API Access Request Process
 Q88 - Requesting Access for Officer Matrix Submission
-SIRE 2.0 Operator - Inspection Request Cancellation Process
-BIRE Operator - Inspection Request Cancellation
-SIRE 2.0 - Error opening inspection. The inspection may be corrupted.
-Unable to select SIRE 2.0 inspection
 See more
 To request a SIRE 2.0 Inspection for a vessel, use the current SIRE Inspection Request Portal. The SIRE 2.0 Inspection option will only be available when the vessel meets all required criteria and the required documents have been published.
 Check the vessel meets all of the following requirements before requesting a SIRE 2.0 Inspection:

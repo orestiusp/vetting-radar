@@ -1,5 +1,137 @@
 [
   {
+    "id": "20261021T051944-paris-mou-news",
+    "source_id": "paris-mou-news",
+    "source_name": "Paris MoU – News",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/posts/news/",
+    "detected_at": "2026-10-21T05:19:44+00:00",
+    "previous_hash": "ece8822e7846ef144516763e1e9fb85ecad9ca43847a05dee6dd60b149904ce3",
+    "new_hash": "b478bf73a517e9a5721fb4014b8093fefc574b34d14d6fca92d483438f2bbf4e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1,2 +1,8 @@\n News\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+More info\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n+More info\n 31 August 2026\n@@ -25,7 +31 @@\n More info\n-3 July 2026\n-Paris MoU publishes the Annual Report of 2025\n-More info\n-2 July 2026\n-Paris MoU publishes its 2025 Performance Lists\n-More info",
+      "lines_added": 6,
+      "lines_removed": 6,
+      "added_sample": [
+        "20 October 2026",
+        "M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region",
+        "More info",
+        "20 October 2026",
+        "Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988",
+        "More info"
+      ],
+      "removed_sample": [
+        "3 July 2026",
+        "Paris MoU publishes the Annual Report of 2025",
+        "More info",
+        "2 July 2026",
+        "Paris MoU publishes its 2025 Performance Lists",
+        "More info"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261021T051943-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-21T05:19:43+00:00",
+    "previous_hash": "cae75ef85bb1195e6a9bf43f009a4053666292b766dcb72f16c568dcbccff8b5",
+    "new_hash": "6e84e8469f69cd5b9c5fb9b5d306b57be660b6225477fc52f8f1fb9bb6beeef3",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,3 +15,6 @@\n LAST DATA UPDATE :\n-EMSA\n+IHS Maritime\n+Polish Register of Shipping\n+Green Award\n+Assuranceforeningen Gard - Bermuda\n Türk Loydu\n@@ -19,2 +22,5 @@\n Paris MoU\n+Abuja MoU\n+Tokyo MoU\n+Black Sea MoU\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 1,
+      "added_sample": [
+        "IHS Maritime",
+        "Polish Register of Shipping",
+        "Green Award",
+        "Assuranceforeningen Gard - Bermuda",
+        "Abuja MoU",
+        "Tokyo MoU",
+        "Black Sea MoU"
+      ],
+      "removed_sample": [
+        "EMSA"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261021T051938-paris-mou-home",
+    "source_id": "paris-mou-home",
+    "source_name": "Paris MoU – home",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/",
+    "detected_at": "2026-10-21T05:19:38+00:00",
+    "previous_hash": "ffad6fac1e9eb7312037079c15fc5eebf4ebe5caf24bac77b99cf72a7279cc33",
+    "new_hash": "b6686e9ba7ece7016a2bf39859287a8bdeb60b200c55247f9bf5949e5878efde",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -17,8 +17,8 @@\n Link to all news items\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n 31 August 2026\n Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633\n-11 August 2026\n-M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region\n-3 July 2026\n-Paris MoU publishes the Annual Report of 2025\n 3 August 2026",
+      "lines_added": 4,
+      "lines_removed": 4,
+      "added_sample": [
+        "20 October 2026",
+        "M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region",
+        "20 October 2026",
+        "Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988"
+      ],
+      "removed_sample": [
+        "11 August 2026",
+        "M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region",
+        "3 July 2026",
+        "Paris MoU publishes the Annual Report of 2025"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261021T051936-ocimf-requesting-a-sire-2-0-inspection",
+    "source_id": "ocimf-requesting-a-sire-2-0-inspection",
+    "source_name": "OCIMF Help Centre – Requesting a SIRE 2.0 Inspection",
+    "owner": "OCIMF",
+    "category": "sire",
+    "url": "https://support.ocimf.org/hc/en-gb/articles/12641420845469-SIRE-Operator-Requesting-a-SIRE-2-0-Inspection",
+    "detected_at": "2026-10-21T05:19:36+00:00",
+    "previous_hash": "be09a359fcf97fcc1370be55787cf66ac352c5b138e4e29141b1fcc162cf16be",
+    "new_hash": "e2524c7a8226486c6081f534fd2b37b50fca5f161addcbef25cee7879ab627f6",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -3,10 +3,10 @@\n SIRE Programme Information\n+Vessel Operator - When to Contact the Submitting Member Directly\n Mopria - Enable Wi-Fi Direct printing\n SIRE 2.0 - Inspector - Unable to Validate or Submit Report\n+SIRE - How to Submit Suggestions for Improvement\n+How to Request a Port Addition to HVPQ Dropdown Fields\n+How to Re-commission a Vessel That Was Incorrectly Decommissioned\n SIRE 2.0 Operator - API Access Request Process\n Q88 - Requesting Access for Officer Matrix Submission\n-SIRE 2.0 Operator - Inspection Request Cancellation Process\n-BIRE Operator - Inspection Request Cancellation\n-SIRE 2.0 - Error opening inspection. The inspection may be corrupted.\n-Unable to select SIRE 2.0 inspection\n See more",
+      "lines_added": 4,
+      "lines_removed": 4,
+      "added_sample": [
+        "Vessel Operator - When to Contact the Submitting Member Directly",
+        "SIRE - How to Submit Suggestions for Improvement",
+        "How to Request a Port Addition to HVPQ Dropdown Fields",
+        "How to Re-commission a Vessel That Was Incorrectly Decommissioned"
+      ],
+      "removed_sample": [
+        "SIRE 2.0 Operator - Inspection Request Cancellation Process",
+        "BIRE Operator - Inspection Request Cancellation",
+        "SIRE 2.0 - Error opening inspection. The inspection may be corrupted.",
+        "Unable to select SIRE 2.0 inspection"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261020T051906-intertanko-news-desk",
     "source_id": "intertanko-news-desk",
     "source_name": "INTERTANKO – News desk",

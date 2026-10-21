@@ -1,0 +1,36 @@
+{
+  "id": "20261021T051944-paris-mou-news",
+  "source_id": "paris-mou-news",
+  "source_name": "Paris MoU – News",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/posts/news/",
+  "detected_at": "2026-10-21T05:19:44+00:00",
+  "previous_hash": "ece8822e7846ef144516763e1e9fb85ecad9ca43847a05dee6dd60b149904ce3",
+  "new_hash": "b478bf73a517e9a5721fb4014b8093fefc574b34d14d6fca92d483438f2bbf4e",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1,2 +1,8 @@\n News\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+More info\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n+More info\n 31 August 2026\n@@ -25,7 +31 @@\n More info\n-3 July 2026\n-Paris MoU publishes the Annual Report of 2025\n-More info\n-2 July 2026\n-Paris MoU publishes its 2025 Performance Lists\n-More info",
+    "lines_added": 6,
+    "lines_removed": 6,
+    "added_sample": [
+      "20 October 2026",
+      "M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region",
+      "More info",
+      "20 October 2026",
+      "Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988",
+      "More info"
+    ],
+    "removed_sample": [
+      "3 July 2026",
+      "Paris MoU publishes the Annual Report of 2025",
+      "More info",
+      "2 July 2026",
+      "Paris MoU publishes its 2025 Performance Lists",
+      "More info"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

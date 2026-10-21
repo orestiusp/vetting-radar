@@ -1,0 +1,32 @@
+{
+  "id": "20261021T051936-ocimf-requesting-a-sire-2-0-inspection",
+  "source_id": "ocimf-requesting-a-sire-2-0-inspection",
+  "source_name": "OCIMF Help Centre – Requesting a SIRE 2.0 Inspection",
+  "owner": "OCIMF",
+  "category": "sire",
+  "url": "https://support.ocimf.org/hc/en-gb/articles/12641420845469-SIRE-Operator-Requesting-a-SIRE-2-0-Inspection",
+  "detected_at": "2026-10-21T05:19:36+00:00",
+  "previous_hash": "be09a359fcf97fcc1370be55787cf66ac352c5b138e4e29141b1fcc162cf16be",
+  "new_hash": "e2524c7a8226486c6081f534fd2b37b50fca5f161addcbef25cee7879ab627f6",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -3,10 +3,10 @@\n SIRE Programme Information\n+Vessel Operator - When to Contact the Submitting Member Directly\n Mopria - Enable Wi-Fi Direct printing\n SIRE 2.0 - Inspector - Unable to Validate or Submit Report\n+SIRE - How to Submit Suggestions for Improvement\n+How to Request a Port Addition to HVPQ Dropdown Fields\n+How to Re-commission a Vessel That Was Incorrectly Decommissioned\n SIRE 2.0 Operator - API Access Request Process\n Q88 - Requesting Access for Officer Matrix Submission\n-SIRE 2.0 Operator - Inspection Request Cancellation Process\n-BIRE Operator - Inspection Request Cancellation\n-SIRE 2.0 - Error opening inspection. The inspection may be corrupted.\n-Unable to select SIRE 2.0 inspection\n See more",
+    "lines_added": 4,
+    "lines_removed": 4,
+    "added_sample": [
+      "Vessel Operator - When to Contact the Submitting Member Directly",
+      "SIRE - How to Submit Suggestions for Improvement",
+      "How to Request a Port Addition to HVPQ Dropdown Fields",
+      "How to Re-commission a Vessel That Was Incorrectly Decommissioned"
+    ],
+    "removed_sample": [
+      "SIRE 2.0 Operator - Inspection Request Cancellation Process",
+      "BIRE Operator - Inspection Request Cancellation",
+      "SIRE 2.0 - Error opening inspection. The inspection may be corrupted.",
+      "Unable to select SIRE 2.0 inspection"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

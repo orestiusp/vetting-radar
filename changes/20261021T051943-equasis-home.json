@@ -1,0 +1,32 @@
+{
+  "id": "20261021T051943-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-21T05:19:43+00:00",
+  "previous_hash": "cae75ef85bb1195e6a9bf43f009a4053666292b766dcb72f16c568dcbccff8b5",
+  "new_hash": "6e84e8469f69cd5b9c5fb9b5d306b57be660b6225477fc52f8f1fb9bb6beeef3",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,3 +15,6 @@\n LAST DATA UPDATE :\n-EMSA\n+IHS Maritime\n+Polish Register of Shipping\n+Green Award\n+Assuranceforeningen Gard - Bermuda\n Türk Loydu\n@@ -19,2 +22,5 @@\n Paris MoU\n+Abuja MoU\n+Tokyo MoU\n+Black Sea MoU\n USER ACTIVITY :",
+    "lines_added": 7,
+    "lines_removed": 1,
+    "added_sample": [
+      "IHS Maritime",
+      "Polish Register of Shipping",
+      "Green Award",
+      "Assuranceforeningen Gard - Bermuda",
+      "Abuja MoU",
+      "Tokyo MoU",
+      "Black Sea MoU"
+    ],
+    "removed_sample": [
+      "EMSA"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
