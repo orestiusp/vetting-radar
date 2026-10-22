@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-10-21T05:25:47+00:00",
-      "last_ok": "2026-10-21T05:25:47+00:00",
+      "last_checked": "2026-10-22T05:26:51+00:00",
+      "last_ok": "2026-10-22T05:26:51+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-10-21T05:25:48+00:00",
-      "last_ok": "2026-10-21T05:25:48+00:00",
+      "last_checked": "2026-10-22T05:26:52+00:00",
+      "last_ok": "2026-10-22T05:26:52+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-10-21T05:25:49+00:00",
-      "last_ok": "2026-10-21T05:25:49+00:00",
+      "last_checked": "2026-10-22T05:26:53+00:00",
+      "last_ok": "2026-10-22T05:26:53+00:00",
       "last_error": null,
       "items_in_feed": 0
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-10-21T05:25:49+00:00",
-      "last_ok": "2026-10-21T05:25:49+00:00",
+      "last_checked": "2026-10-22T05:26:53+00:00",
+      "last_ok": "2026-10-22T05:26:53+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-10-21T05:25:50+00:00",
-      "last_ok": "2026-10-21T05:25:50+00:00",
+      "last_checked": "2026-10-22T05:26:54+00:00",
+      "last_ok": "2026-10-22T05:26:54+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-10-21T05:25:50+00:00",
-      "last_ok": "2026-10-21T05:25:50+00:00",
+      "last_checked": "2026-10-22T05:26:54+00:00",
+      "last_ok": "2026-10-22T05:26:54+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "f8edfe2e6ea4ee75",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "US authorises Russian origin diesel transactions under General License 135",
+      "url": "https://www.swedishclub.com/news/club-news/us-authorises-russian-origin-diesel-transactions-under-general-license-135/",
+      "published": "Wed, 21 Oct 2026 12:22:01 +0000",
+      "summary_from_feed": "Members are advised that the United States has temporarily lifted its own sanctions barrier to trade in Russian origin diesel as a measure aimed at global fuel supply. The licence opens a gap between US and European rules rather than a new trading channel for European service providers, and the Club, as an EU operator, [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-10-22T05:26:54+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "30f5a944f4aa9614",
       "feed": "swedish-club",
@@ -2526,5 +2542,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 3
+  "open_new": 4
 }

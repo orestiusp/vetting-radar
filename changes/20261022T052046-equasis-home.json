@@ -1,0 +1,37 @@
+{
+  "id": "20261022T052046-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-22T05:20:46+00:00",
+  "previous_hash": "6e84e8469f69cd5b9c5fb9b5d306b57be660b6225477fc52f8f1fb9bb6beeef3",
+  "new_hash": "79bc107ced7195633ba2ad3bfb7946f6d895993c7df2ffaba88d87047880d1e4",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,6 +15,7 @@\n LAST DATA UPDATE :\n-IHS Maritime\n-Polish Register of Shipping\n-Green Award\n-Assuranceforeningen Gard - Bermuda\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n+US Coast Guard\n+Steamship Mutual Underwriting Association\n+The London P&I Club\n Türk Loydu\n@@ -22,5 +23,3 @@\n Paris MoU\n-Abuja MoU\n-Tokyo MoU\n-Black Sea MoU\n+Indian Ocean MoU\n USER ACTIVITY :",
+    "lines_added": 6,
+    "lines_removed": 7,
+    "added_sample": [
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO",
+      "US Coast Guard",
+      "Steamship Mutual Underwriting Association",
+      "The London P&I Club",
+      "Indian Ocean MoU"
+    ],
+    "removed_sample": [
+      "IHS Maritime",
+      "Polish Register of Shipping",
+      "Green Award",
+      "Assuranceforeningen Gard - Bermuda",
+      "Abuja MoU",
+      "Tokyo MoU",
+      "Black Sea MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

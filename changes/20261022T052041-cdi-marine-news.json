@@ -1,0 +1,34 @@
+{
+  "id": "20261022T052041-cdi-marine-news",
+  "source_id": "cdi-marine-news",
+  "source_name": "CDI – Marine news",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_news",
+  "detected_at": "2026-10-22T05:20:41+00:00",
+  "previous_hash": "425a8ae375045cb3889075d9fdce734c75e71dd7d6aff691276fe755528678db",
+  "new_hash": "a59e7e7e1d8bae413ebbaf97fd1688a511cbe14abdf7aaf1a790985486034be8",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,13 @@\n CDI\n+21 October 2026\n+New CDI-T report for terminal “ADPO nv”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+ADPO nv\n+• Country:\n+Belgium\n+• Inspection date:\n+25th September 2026\n 9 October 2026",
+    "lines_added": 11,
+    "lines_removed": 0,
+    "added_sample": [
+      "21 October 2026",
+      "New CDI-T report for terminal “ADPO nv”",
+      "A new report is uploaded in the",
+      "CDI-Terminals",
+      "database for:",
+      "• Terminal:",
+      "ADPO nv",
+      "• Country:",
+      "Belgium",
+      "• Inspection date:",
+      "25th September 2026"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
