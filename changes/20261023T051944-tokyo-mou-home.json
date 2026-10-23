@@ -1,0 +1,28 @@
+{
+  "id": "20261023T051944-tokyo-mou-home",
+  "source_id": "tokyo-mou-home",
+  "source_name": "Tokyo MOU – home",
+  "owner": "Tokyo MOU",
+  "category": "psc",
+  "url": "https://www.tokyo-mou.org/",
+  "detected_at": "2026-10-23T05:19:44+00:00",
+  "previous_hash": "07686f968ce838cdfceb2a6a284f3309411a85eccfe71ed055e137217bdccc8d",
+  "new_hash": "71ca8171f4a1ea12d0ba0ad1c56574ebd056972a2ed0fc3e753a3a687922a8e4",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -8,2 +8,4 @@\n View All\n+October 23, 2026\n+Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n October 9, 2026\n@@ -16,4 +18,2 @@\n Annual Report 2025\n-March 17, 2026\n-Preliminary results of CIC on Ballast Water Management 2025\n Hot Issues",
+    "lines_added": 2,
+    "lines_removed": 2,
+    "added_sample": [
+      "October 23, 2026",
+      "Safety Bulletin 05/26 – Improper extensions of Statutory Certification"
+    ],
+    "removed_sample": [
+      "March 17, 2026",
+      "Preliminary results of CIC on Ballast Water Management 2025"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

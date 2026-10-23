@@ -1,0 +1,37 @@
+{
+  "id": "20261023T051946-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-23T05:19:46+00:00",
+  "previous_hash": "79bc107ced7195633ba2ad3bfb7946f6d895993c7df2ffaba88d87047880d1e4",
+  "new_hash": "768bc87b1e6dfca7b6eea2ca3107ab2b8d6bf12db4df2a2c87f09b8c0fb60508",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,7 +15,4 @@\n LAST DATA UPDATE :\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n-US Coast Guard\n-Steamship Mutual Underwriting Association\n-The London P&I Club\n+Polish Register of Shipping\n+Russian Maritime Register of Shipping\n Türk Loydu\n@@ -23,3 +20,7 @@\n Paris MoU\n-Indian Ocean MoU\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n USER ACTIVITY :",
+    "lines_added": 7,
+    "lines_removed": 6,
+    "added_sample": [
+      "Polish Register of Shipping",
+      "Russian Maritime Register of Shipping",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping",
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO"
+    ],
+    "removed_sample": [
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO",
+      "US Coast Guard",
+      "Steamship Mutual Underwriting Association",
+      "The London P&I Club",
+      "Indian Ocean MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

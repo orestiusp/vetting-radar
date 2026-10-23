@@ -1,0 +1,38 @@
+{
+  "id": "20261023T051944-tokyo-mou-press-releases",
+  "source_id": "tokyo-mou-press-releases",
+  "source_name": "Tokyo MOU – Press releases",
+  "owner": "Tokyo MOU",
+  "category": "psc",
+  "url": "https://www.tokyo-mou.org/news/press-releases/",
+  "detected_at": "2026-10-23T05:19:44+00:00",
+  "previous_hash": "9795478dd72c928024b6b424ccc3891d83c67027d33d89febe3c4983ed565709",
+  "new_hash": "1d87d254f4d7e635fef395940ad9bb2af2b9705034b3f878a8f83aae93863b59",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -4,2 +4,8 @@\n Press Releases\n+October 23, 2026\n+Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n+Press Releases\n+,\n+Safety Bulletin\n+: Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n October 9, 2026\n@@ -44,7 +50,5 @@\n : Preliminary results of the 2024 CIC on Crew Wages and Seafarer Employment Agreements (MLC, 2006)\n-November 18, 2024\n-Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea\n-Press Releases\n-: Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea\n Recent Articles\n+October 23, 2026\n+Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n October 9, 2026\n@@ -53,4 +57,2 @@\n CIC on on Ballast Water Management Convention (BWMC 2004) 2025\n-September 18, 2026\n-Tokyo MOU Port State Control Committee 37th Meeting in Singapore\n View All",
+    "lines_added": 8,
+    "lines_removed": 6,
+    "added_sample": [
+      "October 23, 2026",
+      "Safety Bulletin 05/26 – Improper extensions of Statutory Certification",
+      "Press Releases",
+      ",",
+      "Safety Bulletin",
+      ": Safety Bulletin 05/26 – Improper extensions of Statutory Certification",
+      "October 23, 2026",
+      "Safety Bulletin 05/26 – Improper extensions of Statutory Certification"
+    ],
+    "removed_sample": [
+      "November 18, 2024",
+      "Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea",
+      "Press Releases",
+      ": Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea",
+      "September 18, 2026",
+      "Tokyo MOU Port State Control Committee 37th Meeting in Singapore"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

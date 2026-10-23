@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261023T051946-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-23T05:19:46+00:00",
+    "previous_hash": "79bc107ced7195633ba2ad3bfb7946f6d895993c7df2ffaba88d87047880d1e4",
+    "new_hash": "768bc87b1e6dfca7b6eea2ca3107ab2b8d6bf12db4df2a2c87f09b8c0fb60508",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,7 +15,4 @@\n LAST DATA UPDATE :\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n-US Coast Guard\n-Steamship Mutual Underwriting Association\n-The London P&I Club\n+Polish Register of Shipping\n+Russian Maritime Register of Shipping\n Türk Loydu\n@@ -23,3 +20,7 @@\n Paris MoU\n-Indian Ocean MoU\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 6,
+      "added_sample": [
+        "Polish Register of Shipping",
+        "Russian Maritime Register of Shipping",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping",
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO"
+      ],
+      "removed_sample": [
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO",
+        "US Coast Guard",
+        "Steamship Mutual Underwriting Association",
+        "The London P&I Club",
+        "Indian Ocean MoU"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261023T051944-tokyo-mou-press-releases",
+    "source_id": "tokyo-mou-press-releases",
+    "source_name": "Tokyo MOU – Press releases",
+    "owner": "Tokyo MOU",
+    "category": "psc",
+    "url": "https://www.tokyo-mou.org/news/press-releases/",
+    "detected_at": "2026-10-23T05:19:44+00:00",
+    "previous_hash": "9795478dd72c928024b6b424ccc3891d83c67027d33d89febe3c4983ed565709",
+    "new_hash": "1d87d254f4d7e635fef395940ad9bb2af2b9705034b3f878a8f83aae93863b59",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -4,2 +4,8 @@\n Press Releases\n+October 23, 2026\n+Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n+Press Releases\n+,\n+Safety Bulletin\n+: Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n October 9, 2026\n@@ -44,7 +50,5 @@\n : Preliminary results of the 2024 CIC on Crew Wages and Seafarer Employment Agreements (MLC, 2006)\n-November 18, 2024\n-Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea\n-Press Releases\n-: Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea\n Recent Articles\n+October 23, 2026\n+Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n October 9, 2026\n@@ -53,4 +57,2 @@\n CIC on on Ballast Water Management Convention (BWMC 2004) 2025\n-September 18, 2026\n-Tokyo MOU Port State Control Committee 37th Meeting in Singapore\n View All",
+      "lines_added": 8,
+      "lines_removed": 6,
+      "added_sample": [
+        "October 23, 2026",
+        "Safety Bulletin 05/26 – Improper extensions of Statutory Certification",
+        "Press Releases",
+        ",",
+        "Safety Bulletin",
+        ": Safety Bulletin 05/26 – Improper extensions of Statutory Certification",
+        "October 23, 2026",
+        "Safety Bulletin 05/26 – Improper extensions of Statutory Certification"
+      ],
+      "removed_sample": [
+        "November 18, 2024",
+        "Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea",
+        "Press Releases",
+        ": Tokyo MOU Port State Control Committee held the 35th Meeting in Incheon, Republic of Korea",
+        "September 18, 2026",
+        "Tokyo MOU Port State Control Committee 37th Meeting in Singapore"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261023T051944-tokyo-mou-home",
+    "source_id": "tokyo-mou-home",
+    "source_name": "Tokyo MOU – home",
+    "owner": "Tokyo MOU",
+    "category": "psc",
+    "url": "https://www.tokyo-mou.org/",
+    "detected_at": "2026-10-23T05:19:44+00:00",
+    "previous_hash": "07686f968ce838cdfceb2a6a284f3309411a85eccfe71ed055e137217bdccc8d",
+    "new_hash": "71ca8171f4a1ea12d0ba0ad1c56574ebd056972a2ed0fc3e753a3a687922a8e4",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -8,2 +8,4 @@\n View All\n+October 23, 2026\n+Safety Bulletin 05/26 – Improper extensions of Statutory Certification\n October 9, 2026\n@@ -16,4 +18,2 @@\n Annual Report 2025\n-March 17, 2026\n-Preliminary results of CIC on Ballast Water Management 2025\n Hot Issues",
+      "lines_added": 2,
+      "lines_removed": 2,
+      "added_sample": [
+        "October 23, 2026",
+        "Safety Bulletin 05/26 – Improper extensions of Statutory Certification"
+      ],
+      "removed_sample": [
+        "March 17, 2026",
+        "Preliminary results of CIC on Ballast Water Management 2025"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261022T052046-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",
