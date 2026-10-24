@@ -1,0 +1,34 @@
+{
+  "id": "20261024T051717-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-24T05:17:17+00:00",
+  "previous_hash": "768bc87b1e6dfca7b6eea2ca3107ab2b8d6bf12db4df2a2c87f09b8c0fb60508",
+  "new_hash": "841acb9c3872c433b9137684130a72f93e2fc3e65ed367e533ae6f693f56a132",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,7 +15,7 @@\n LAST DATA UPDATE :\n-Polish Register of Shipping\n-Russian Maritime Register of Shipping\n+CDI\n Türk Loydu\n Mediterranean MoU\n-Paris MoU\n+Caribbean MoU\n+Biro Klasifikasi Indonesia\n Nippon Kaiji Kyokai\n@@ -23,4 +23,4 @@\n American Bureau of Shipping\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n+Polish Register of Shipping\n+Russian Maritime Register of Shipping\n USER ACTIVITY :",
+    "lines_added": 5,
+    "lines_removed": 5,
+    "added_sample": [
+      "CDI",
+      "Caribbean MoU",
+      "Biro Klasifikasi Indonesia",
+      "Polish Register of Shipping",
+      "Russian Maritime Register of Shipping"
+    ],
+    "removed_sample": [
+      "Polish Register of Shipping",
+      "Russian Maritime Register of Shipping",
+      "Paris MoU",
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

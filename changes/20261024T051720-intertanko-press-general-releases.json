@@ -1,0 +1,30 @@
+{
+  "id": "20261024T051720-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-10-24T05:17:20+00:00",
+  "previous_hash": "da48101b2045da56f91fe90feca935a5d839d24ec9968dddfad9e6c7806a812e",
+  "new_hash": "244f6e4e53c7d255922cdbbc2ad7c861f6e78864cffc588afb8c2cb2c7428342",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -87,7 +87,7 @@\n NEWS\n-16 October 2026\n+23 October 2026\n Advice for Members regarding situation in Gulf Region\n ===========\n-16 October: High number of attacks continue in the Gulf\n-In the Gulf region last week, 11 ships were...\n+23 October: Attacks in Gulf Region continue as US mid-term elections approach\n+Ships continue to be attacked across the...\n 15 October 2026",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "23 October 2026",
+      "23 October: Attacks in Gulf Region continue as US mid-term elections approach",
+      "Ships continue to be attacked across the..."
+    ],
+    "removed_sample": [
+      "16 October 2026",
+      "16 October: High number of attacks continue in the Gulf",
+      "In the Gulf region last week, 11 ships were..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

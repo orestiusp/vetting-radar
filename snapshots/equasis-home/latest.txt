@@ -13,16 +13,16 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-Polish Register of Shipping
-Russian Maritime Register of Shipping
+CDI
 Türk Loydu
 Mediterranean MoU
-Paris MoU
+Caribbean MoU
+Biro Klasifikasi Indonesia
 Nippon Kaiji Kyokai
 Lloyd's Register
 American Bureau of Shipping
-US Coast Guard - QualShip 21
-US Coast Guard - E_ZERO
+Polish Register of Shipping
+Russian Maritime Register of Shipping
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

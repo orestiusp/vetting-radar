@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-10-23T05:25:52+00:00",
-      "last_ok": "2026-10-23T05:25:52+00:00",
+      "last_checked": "2026-10-24T05:23:22+00:00",
+      "last_ok": "2026-10-24T05:23:22+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-10-23T05:25:53+00:00",
-      "last_ok": "2026-10-23T05:25:53+00:00",
+      "last_checked": "2026-10-24T05:23:23+00:00",
+      "last_ok": "2026-10-24T05:23:23+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-10-23T05:25:53+00:00",
-      "last_ok": "2026-10-23T05:25:53+00:00",
+      "last_checked": "2026-10-24T05:23:24+00:00",
+      "last_ok": "2026-10-24T05:23:24+00:00",
       "last_error": null,
       "items_in_feed": 0
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-10-23T05:25:54+00:00",
-      "last_ok": "2026-10-23T05:25:54+00:00",
+      "last_checked": "2026-10-24T05:23:24+00:00",
+      "last_ok": "2026-10-24T05:23:24+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-10-23T05:25:55+00:00",
-      "last_ok": "2026-10-23T05:25:55+00:00",
+      "last_checked": "2026-10-24T05:23:25+00:00",
+      "last_ok": "2026-10-24T05:23:25+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-10-23T05:25:56+00:00",
-      "last_ok": "2026-10-23T05:25:56+00:00",
+      "last_checked": "2026-10-24T05:23:26+00:00",
+      "last_ok": "2026-10-24T05:23:26+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "c949912cfc85f3f3",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "The golf simulator that led to the voyage data recorder",
+      "url": "https://www.swedishclub.com/news/insights/the-golf-simulator-that-led-to-the-voyage-data-recorder/",
+      "published": "Fri, 23 Oct 2026 06:00:00 +0000",
+      "summary_from_feed": "Of all the equipment on board a modern cruise ship, a golf simulator might seem an unlikely place to begin a discussion about seaworthiness. For ethical hacker Ken Munro, however, that is precisely the point. His team was carrying out a penetration test when it found that the simulator’s PC was connected through a third-party [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-10-24T05:23:25+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "f8edfe2e6ea4ee75",
       "feed": "swedish-club",
@@ -2542,5 +2558,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 4
+  "open_new": 5
 }

@@ -1,5 +1,157 @@
 [
   {
+    "id": "20261024T051720-intertanko-press-general-releases",
+    "source_id": "intertanko-press-general-releases",
+    "source_name": "INTERTANKO – Press & general releases",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk/press-general-releases",
+    "detected_at": "2026-10-24T05:17:20+00:00",
+    "previous_hash": "da48101b2045da56f91fe90feca935a5d839d24ec9968dddfad9e6c7806a812e",
+    "new_hash": "244f6e4e53c7d255922cdbbc2ad7c861f6e78864cffc588afb8c2cb2c7428342",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -87,7 +87,7 @@\n NEWS\n-16 October 2026\n+23 October 2026\n Advice for Members regarding situation in Gulf Region\n ===========\n-16 October: High number of attacks continue in the Gulf\n-In the Gulf region last week, 11 ships were...\n+23 October: Attacks in Gulf Region continue as US mid-term elections approach\n+Ships continue to be attacked across the...\n 15 October 2026",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "23 October 2026",
+        "23 October: Attacks in Gulf Region continue as US mid-term elections approach",
+        "Ships continue to be attacked across the..."
+      ],
+      "removed_sample": [
+        "16 October 2026",
+        "16 October: High number of attacks continue in the Gulf",
+        "In the Gulf region last week, 11 ships were..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261024T051720-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-10-24T05:17:20+00:00",
+    "previous_hash": "46c8d77f39c939ac5cd80b3c25e10349319f292f1324ea61ee06302b037ff981",
+    "new_hash": "8e2ce2b349a8a15b4e60758d43cbb4a28bdc6a81b1fe34d304f2a71e2afc8ac6",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -87,30 +87,28 @@\n NEWS\n-16 October 2026\n-Security Update: High number of attacks continue in the Gulf\n-In the Gulf region last week, 11 ships were hit and this week saw 10 suffer the same fate. Two...\n-16 October 2026\n-India extends compliance period for new coastal waters requirements\n-Following INTERTANKO’s previous update on India’s new requirements for foreign ships, India’s Directorate General of Maritime Administration (DGMA) has issued...\n-16 October 2026\n-Singapore strengthens bunkering framework with new fuel standards and contracts\n-Singapore has introduced three new bunker standards covering ammonia bunkering, bunker fuel sampling and the detection of polymers in residual...\n-16 October 2026\n-Decarbonisation, security and regional regulations discussed at 27th Latin American Panel in Cartagena\n-Key challenges and developments affecting tanker operations in Latin America, including maritime security, regional regulations, decarbonisation, market developments and commercial...\n-16 October 2026\n-Vetting Committee puts consistency and practical solutions centre stage in Paris\n-SIRE 2.0 and inspection consistency, incident reporting, benchmarking, Port State Control and the development of practical guidance and tools...\n-16 October 2026\n-INTERTANKO and SLOM sign Memorandum of Understanding during XXII Jornada SLOM\n-INTERTANKO and SLOM (the Latin American Society of Oil Maritime Terminal and Monobuoy Operators) have signed a Memorandum of Understanding...\n-16 October 2026\n-INTERTANKO at SIBCON 2026: From bunkering standards to a multi-fuel future\n-INTERTANKO was actively involved in the Singapore International Bunkering Conference and Exhibition (SIBCON) 2026, held in Singapore between 13-15 October...\n-16 October 2026\n-INTERTANKO GHG Benchmarking Toolbox: Version 2 coming soon\n-Development of Version 2 of INTERTANKO’s GHG Benchmarking Toolbox is approaching its final stages, with the launch planned for 20...\n-16 October 2026\n-Webinar: Understanding the LH2 Transportation Landscape – 21 October 2026 – Register now\n-INTERTANKO will host a webinar on 21 October (12:00 BST) examining the emerging carriage landscape for liquid hydrogen (LH2) transportation...\n-16 October 2026\n+23 October 2026\n+Security Update: Attacks in Gulf Region continue as US mid-term elections approach\n+Ships continue to be attacked across the Gulf Region. Fortunately, only a few minor injuries have been reported among seafarers...\n+23 October 2026\n+IOPC Funds: October 2026 sessions round-up\n+INTERTANKO attended the International Oil Pollution Compensation (IOPC) Funds October Sessions (19-23 October), at the IMO this week.\n+INTERTANKO...\n+23 October 2026\n+China: INTERTANKO advances tanker owners' interests at North Bund Forum 2026\n+INTERTANKO Managing Director Tim Wilkins, together with Senior Technical Manager and Country Manager (China and HKSAR) KC Wong, participated in...\n+23 October 2026\n+INTERTANKO calls for stronger industry–enforcement engagement on illegal boardings in the Straits of Malacca and Singapore\n+ReCAAP ISC reported a significant decline in incidents of piracy and armed robbery against ships in Asia at the ReCAAP...\n+23 October 2026\n+INTERTANKO strengthens engagement with MPA Singapore\n+INTERTANKO Managing Director Tim Wilkins visited the Maritime and Port Authority of Singapore (MPA) on 23 October, where he met...\n+23 October 2026\n+EMSA publishes 2026 overview of marine casualties and incidents\n+The European Maritime Safety Agency (EMSA) has published its 2026 annual overview of marine casualties and incidents reported in European...\n+23 October 2026\n+INTERTANKO launches GHG Benchmarking Toolbox 2.0\n+Version 2.0 of INTERTANKO’s GHG Benchmarking Toolbox was released this week and is now available on the INTERTANKO website....\n+23 October 2026\n+Strong turnout for INTERTANKO webinar on the LH₂ transportation landscape\n+Close to 60 Members joined INTERTANKO’s online seminar on the use of liquid hydrogen (LH₂) as cargo on 21 October,...\n+23 October 2026\n Asian Regional Panel Meeting, Mumbai – 3 November 2026 – Agenda available\n@@ -118,2 +116,5 @@\n…(truncated)",
+      "lines_added": 29,
+      "lines_removed": 28,
+      "added_sample": [
+        "23 October 2026",
+        "Security Update: Attacks in Gulf Region continue as US mid-term elections approach",
+        "Ships continue to be attacked across the Gulf Region. Fortunately, only a few minor injuries have been reported among seafarers...",
+        "23 October 2026",
+        "IOPC Funds: October 2026 sessions round-up",
+        "INTERTANKO attended the International Oil Pollution Compensation (IOPC) Funds October Sessions (19-23 October), at the IMO this week.",
+        "INTERTANKO...",
+        "23 October 2026",
+        "China: INTERTANKO advances tanker owners' interests at North Bund Forum 2026",
+        "INTERTANKO Managing Director Tim Wilkins, together with Senior Technical Manager and Country Manager (China and HKSAR) KC Wong, participated in...",
+        "23 October 2026",
+        "INTERTANKO calls for stronger industry–enforcement engagement on illegal boardings in the Straits of Malacca and Singapore",
+        "ReCAAP ISC reported a significant decline in incidents of piracy and armed robbery against ships in Asia at the ReCAAP...",
+        "23 October 2026",
+        "INTERTANKO strengthens engagement with MPA Singapore"
+      ],
+      "removed_sample": [
+        "16 October 2026",
+        "Security Update: High number of attacks continue in the Gulf",
+        "In the Gulf region last week, 11 ships were hit and this week saw 10 suffer the same fate. Two...",
+        "16 October 2026",
+        "India extends compliance period for new coastal waters requirements",
+        "Following INTERTANKO’s previous update on India’s new requirements for foreign ships, India’s Directorate General of Maritime Administration (DGMA) has issued...",
+        "16 October 2026",
+        "Singapore strengthens bunkering framework with new fuel standards and contracts",
+        "Singapore has introduced three new bunker standards covering ammonia bunkering, bunker fuel sampling and the detection of polymers in residual...",
+        "16 October 2026",
+        "Decarbonisation, security and regional regulations discussed at 27th Latin American Panel in Cartagena",
+        "Key challenges and developments affecting tanker operations in Latin America, including maritime security, regional regulations, decarbonisation, market developments and commercial...",
+        "16 October 2026",
+        "Vetting Committee puts consistency and practical solutions centre stage in Paris",
+        "SIRE 2.0 and inspection consistency, incident reporting, benchmarking, Port State Control and the development of practical guidance and tools..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261024T051717-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-24T05:17:17+00:00",
+    "previous_hash": "768bc87b1e6dfca7b6eea2ca3107ab2b8d6bf12db4df2a2c87f09b8c0fb60508",
+    "new_hash": "841acb9c3872c433b9137684130a72f93e2fc3e65ed367e533ae6f693f56a132",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,7 +15,7 @@\n LAST DATA UPDATE :\n-Polish Register of Shipping\n-Russian Maritime Register of Shipping\n+CDI\n Türk Loydu\n Mediterranean MoU\n-Paris MoU\n+Caribbean MoU\n+Biro Klasifikasi Indonesia\n Nippon Kaiji Kyokai\n@@ -23,4 +23,4 @@\n American Bureau of Shipping\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n+Polish Register of Shipping\n+Russian Maritime Register of Shipping\n USER ACTIVITY :",
+      "lines_added": 5,
+      "lines_removed": 5,
+      "added_sample": [
+        "CDI",
+        "Caribbean MoU",
+        "Biro Klasifikasi Indonesia",
+        "Polish Register of Shipping",
+        "Russian Maritime Register of Shipping"
+      ],
+      "removed_sample": [
+        "Polish Register of Shipping",
+        "Russian Maritime Register of Shipping",
+        "Paris MoU",
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261024T051712-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-10-24T05:17:12+00:00",
+    "previous_hash": "a59e7e7e1d8bae413ebbaf97fd1688a511cbe14abdf7aaf1a790985486034be8",
+    "new_hash": "76a87b00547dd411e62e3d71d98729633ab450dce44892d1b31bf2421c3dbf86",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,13 @@\n CDI\n+23 October 2026\n+New CDI-T report for terminal “Kinder Morgan Chester”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Kinder Morgan Chester\n+• Country:\n+United States\n+• Inspection date:\n+1st October 2026\n 21 October 2026",
+      "lines_added": 11,
+      "lines_removed": 0,
+      "added_sample": [
+        "23 October 2026",
+        "New CDI-T report for terminal “Kinder Morgan Chester”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "Kinder Morgan Chester",
+        "• Country:",
+        "United States",
+        "• Inspection date:",
+        "1st October 2026"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261023T051946-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",
