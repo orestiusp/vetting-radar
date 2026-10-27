@@ -13,16 +13,12 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-CDI
-Türk Loydu
+Emirates Classification Society
+Det Norske Veritas
+VesselTracker
+AXS Marine
 Mediterranean MoU
-Caribbean MoU
-Biro Klasifikasi Indonesia
-Nippon Kaiji Kyokai
-Lloyd's Register
-American Bureau of Shipping
-Polish Register of Shipping
-Russian Maritime Register of Shipping
+Paris MoU
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

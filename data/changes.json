@@ -1,5 +1,43 @@
 [
   {
+    "id": "20261027T052211-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-27T05:22:11+00:00",
+    "previous_hash": "841acb9c3872c433b9137684130a72f93e2fc3e65ed367e533ae6f693f56a132",
+    "new_hash": "e0e54757b03c1ddfb08f64dc876b99fbcd2e1fc1d322785177dd88d35e8a8b5c",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,12 +15,8 @@\n LAST DATA UPDATE :\n-CDI\n-Türk Loydu\n+Emirates Classification Society\n+Det Norske Veritas\n+VesselTracker\n+AXS Marine\n Mediterranean MoU\n-Caribbean MoU\n-Biro Klasifikasi Indonesia\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n-Polish Register of Shipping\n-Russian Maritime Register of Shipping\n+Paris MoU\n USER ACTIVITY :",
+      "lines_added": 5,
+      "lines_removed": 9,
+      "added_sample": [
+        "Emirates Classification Society",
+        "Det Norske Veritas",
+        "VesselTracker",
+        "AXS Marine",
+        "Paris MoU"
+      ],
+      "removed_sample": [
+        "CDI",
+        "Türk Loydu",
+        "Caribbean MoU",
+        "Biro Klasifikasi Indonesia",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping",
+        "Polish Register of Shipping",
+        "Russian Maritime Register of Shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261024T051720-intertanko-press-general-releases",
     "source_id": "intertanko-press-general-releases",
     "source_name": "INTERTANKO – Press & general releases",
