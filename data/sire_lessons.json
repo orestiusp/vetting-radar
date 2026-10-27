@@ -98,8 +98,8 @@
   {
    "id": "sire-portable-gas-instruments-not-tested-inert-limits",
    "illustrative": true,
-   "reviewed": false,
-   "publish": false,
+   "reviewed": true,
+   "publish": true,
    "sire_lesson_of_week": "2026-10-27",
    "title": "Portable gas instruments not tested, and the officer unsure of their limits in an inert atmosphere",
    "topic": "Cargo & vapour",
