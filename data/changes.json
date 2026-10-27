@@ -1,5 +1,82 @@
 [
   {
+    "id": "20261027T212130-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-27T21:21:30+00:00",
+    "previous_hash": "e0e54757b03c1ddfb08f64dc876b99fbcd2e1fc1d322785177dd88d35e8a8b5c",
+    "new_hash": "44ec45c2b243fc6313c7ab321af11ec07b8458e2121b4953928e165d2624ebdb",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,8 +15,11 @@\n LAST DATA UPDATE :\n-Emirates Classification Society\n-Det Norske Veritas\n-VesselTracker\n-AXS Marine\n+IHS Maritime\n+OCIMF\n+Türk Loydu\n+MarineTraffic\n Mediterranean MoU\n Paris MoU\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 4,
+      "added_sample": [
+        "IHS Maritime",
+        "OCIMF",
+        "Türk Loydu",
+        "MarineTraffic",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ],
+      "removed_sample": [
+        "Emirates Classification Society",
+        "Det Norske Veritas",
+        "VesselTracker",
+        "AXS Marine"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261027T212126-rightship-updates-to-vetting-baseline-criteria",
+    "source_id": "rightship-updates-to-vetting-baseline-criteria",
+    "source_name": "RightShip – Updates to vetting baseline criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+    "detected_at": "2026-10-27T21:21:26+00:00",
+    "previous_hash": "f976f318e839be83b60a168dec8cb1a04bbc954ba469b0f3748fada66d8539e8",
+    "new_hash": "9aae62bf59c437aef8ae95e290c6cb6504318caf58b89e7d21c98fcba8c0b67c",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1,5 +1,9 @@\n-29 June 2023\n-Updates to Vetting Baseline Criteria\n+Rightship\n+Jun 29, 2023, 8:39:00 PM\n+< 1 min read\n+Updates to Vetting Baseline Criteria | Rightship\n+Previous\n+Next\n+Key Takeaways\n RightShip has made a series of updates to our vetting baseline criteria.\n-Share Article\n Our vetting criteria is at the heart of our vessel vetting service, which enables our customers to make better decisions for their ships, the welfare of their crews, and the security of their cargoes.\n@@ -15,5 +19,5 @@\n For further support contact the team at RightShip\n-Contact us\n-Subscribe to our news\n-Stay up to date with RightShip’s projects and innovation\n-Subscribe\n+Rightship\n+Rightship\n+Get the Latest News and Update From RightShip\n+RELATED ARTICLES",
+      "lines_added": 11,
+      "lines_removed": 7,
+      "added_sample": [
+        "Rightship",
+        "Jun 29, 2023, 8:39:00 PM",
+        "< 1 min read",
+        "Updates to Vetting Baseline Criteria | Rightship",
+        "Previous",
+        "Next",
+        "Key Takeaways",
+        "Rightship",
+        "Rightship",
+        "Get the Latest News and Update From RightShip",
+        "RELATED ARTICLES"
+      ],
+      "removed_sample": [
+        "29 June 2023",
+        "Updates to Vetting Baseline Criteria",
+        "Share Article",
+        "Contact us",
+        "Subscribe to our news",
+        "Stay up to date with RightShip’s projects and innovation",
+        "Subscribe"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261027T052211-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

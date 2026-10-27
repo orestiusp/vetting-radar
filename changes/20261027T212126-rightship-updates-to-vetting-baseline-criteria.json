@@ -1,0 +1,42 @@
+{
+  "id": "20261027T212126-rightship-updates-to-vetting-baseline-criteria",
+  "source_id": "rightship-updates-to-vetting-baseline-criteria",
+  "source_name": "RightShip – Updates to vetting baseline criteria",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+  "detected_at": "2026-10-27T21:21:26+00:00",
+  "previous_hash": "f976f318e839be83b60a168dec8cb1a04bbc954ba469b0f3748fada66d8539e8",
+  "new_hash": "9aae62bf59c437aef8ae95e290c6cb6504318caf58b89e7d21c98fcba8c0b67c",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1,5 +1,9 @@\n-29 June 2023\n-Updates to Vetting Baseline Criteria\n+Rightship\n+Jun 29, 2023, 8:39:00 PM\n+< 1 min read\n+Updates to Vetting Baseline Criteria | Rightship\n+Previous\n+Next\n+Key Takeaways\n RightShip has made a series of updates to our vetting baseline criteria.\n-Share Article\n Our vetting criteria is at the heart of our vessel vetting service, which enables our customers to make better decisions for their ships, the welfare of their crews, and the security of their cargoes.\n@@ -15,5 +19,5 @@\n For further support contact the team at RightShip\n-Contact us\n-Subscribe to our news\n-Stay up to date with RightShip’s projects and innovation\n-Subscribe\n+Rightship\n+Rightship\n+Get the Latest News and Update From RightShip\n+RELATED ARTICLES",
+    "lines_added": 11,
+    "lines_removed": 7,
+    "added_sample": [
+      "Rightship",
+      "Jun 29, 2023, 8:39:00 PM",
+      "< 1 min read",
+      "Updates to Vetting Baseline Criteria | Rightship",
+      "Previous",
+      "Next",
+      "Key Takeaways",
+      "Rightship",
+      "Rightship",
+      "Get the Latest News and Update From RightShip",
+      "RELATED ARTICLES"
+    ],
+    "removed_sample": [
+      "29 June 2023",
+      "Updates to Vetting Baseline Criteria",
+      "Share Article",
+      "Contact us",
+      "Subscribe to our news",
+      "Stay up to date with RightShip’s projects and innovation",
+      "Subscribe"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
