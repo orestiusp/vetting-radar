@@ -1,0 +1,14 @@
+{
+  "_about": "Newsletter issues for the Archive page (archive.html). One record per issue: date (YYYY-MM-DD, send date), issue (number), title (subject line), summary (one or two sentences), url (link to the issue, e.g. the Beehiiv web version or newsletter/issue-NNN.html), sent (true once it has gone out) and publish (true to list it). The live build lists only records with sent=true AND publish=true, newest first; build.py --preview also lists drafts with a Draft badge. No issue goes out without the editor's OK, so add sent=true only after a real send. newsletter/issue-001 is a sample issue, never sent, and is not listed here.",
+  "issues": [
+    {
+      "date": "2026-10-27",
+      "issue": null,
+      "title": "Hot work beside an open tank, and gas meters nobody tested",
+      "summary": "One incident lesson (unpermitted hot work and a tank explosion), one SIRE 2.0 lesson (portable gas instruments) and short vetting news.",
+      "url": null,
+      "sent": false,
+      "publish": false
+    }
+  ]
+}

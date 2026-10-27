@@ -94,6 +94,114 @@
    "guidance_url": "https://www.ocimf.org/programmes/sire-2-0/",
    "checked_on": "2026-10-19",
    "vr_published": "2026-10-19"
+  },
+  {
+   "id": "sire-portable-gas-instruments-not-tested-inert-limits",
+   "illustrative": true,
+   "reviewed": true,
+   "publish": true,
+   "sire_lesson_of_week": "2026-10-27",
+   "title": "Portable gas instruments not tested, and the officer unsure of their limits in an inert atmosphere",
+   "topic": "Cargo & vapour",
+   "ship_type_label": "All tankers",
+   "summary3": "One of the two portable multi-gas instruments in the cargo control room had last been checked with test gas more than two months earlier, although the check is due monthly. Asked about it, the officer could not say whether the instrument's flammable-gas sensor could be used in an inert atmosphere. Nor could the officer say which instrument on board should be used to measure hydrocarbon % volume in inerted tanks.",
+   "why_it_matters": [
+    "Every enclosed space entry, tank entry, gas-freeing and inerting operation depends on the atmosphere reading.",
+    "A catalytic (% LFL) sensor gives unreliable readings in an oxygen-deficient atmosphere, so it cannot be used to measure hydrocarbons in an inerted tank.",
+    "A sensor poisoned by silicones, lead or H2S can read low without any warning.",
+    "An untested instrument, or an officer who does not know its limits, produces a reading the crew trusts but should not.",
+    "That is why inspectors combine a check of the records with questions to the officer."
+   ],
+   "inspector_looks_for": [
+    "Instruments of the type and number required by the SMS and listed in the inventory, including one for O2 and HC % volume where inert gas or nitrogen padding is used.",
+    "Test-gas check records at the interval set by the manufacturer and the SMS, and calibration records in date.",
+    "Test gas cylinders in date, with the right concentration, and spare sensors and consumables.",
+    "Manuals on board in the working language.",
+    "An officer who can explain the sensor types, their limits in inert or over-pressure conditions, and what poisons them."
+   ],
+   "root_causes": [
+    "The test-gas check is not in the planned maintenance system or a routine, so it slips when the officer changes or the ship is busy.",
+    "Familiarisation covers how to switch the instrument on, not what each sensor can and cannot measure.",
+    "Instruments on board are treated as interchangeable, so nobody knows which one is meant for inerted tanks."
+   ],
+   "key_lessons": [
+    "No test, no entry: an instrument without a recent test-gas check is not fit to clear a space.",
+    "Know which instrument measures what: % LFL in air, % volume HC in inert atmospheres, O2, H2S and CO.",
+    "If a reading is doubtful, or the two instruments disagree, stop and use the second instrument before anyone goes in.",
+    "Record every test-gas check and do an operational check before each use."
+   ],
+   "check_on_board": [
+    "Type and number of instruments match the SMS and the inventory: at least two that measure O2, LFL, H2S and CO, plus one for O2 and HC % volume in inert atmospheres where inert gas or nitrogen padding is used.",
+    "Test-gas checks done at the manufacturer and SMS interval, at least monthly and after any fault, and recorded, with an operational check before each use.",
+    "Calibration in date as the manufacturer requires (ashore or on board), with records on file; disposable personal monitors show commissioning and expiry dates and are withdrawn on expiry.",
+    "Test gas cylinders in date with the right concentration, and spare sensors, filters, tubes and other consumables on board.",
+    "Manuals on board in the working language, and officers can explain the sensor technology, the inert and over-pressure limits, and what poisons the sensors.",
+    "Officers know when personal monitors must be worn: enclosed space, tank or pumproom entry, and cargo or bunkers containing H2S."
+   ],
+   "discussion_questions": [
+    "Which of our instruments can measure HC in an inerted tank, which cannot, and why?",
+    "What can poison a catalytic sensor, and how would you notice?",
+    "If the two instruments give different readings before an entry, what do you do?"
+   ],
+   "toolbox_plan": [
+    "Minute 1: the observation and why it matters.",
+    "Minutes 2-3: hold one of our own instruments, show its last test-gas check and calibration date, name its sensors, and say which readings are valid in an inert atmosphere.",
+    "Minute 4: do a live bump test as the manual describes, and record it.",
+    "Minute 5: rule of the day: no test, no entry; if the reading is doubtful, stop and use the second instrument."
+   ],
+   "sire_questions": [
+    {
+     "q": "5.6.1",
+     "title": "Portable and personal gas measurement instruments (section 5.6 Fixed and portable gas detecting systems; ROVIQ: cargo control room, pumproom)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "ISGOTT 6 2.4",
+     "full": "ISGOTT, Sixth Edition (OCIMF/ICS), section 2.4 on gas measurement and instruments (2.4.1, 2.4.7)"
+    },
+    {
+     "label": "ISGOTT 6 10.8",
+     "full": "ISGOTT, Sixth Edition (OCIMF/ICS), section 10.8 (enclosed spaces: atmosphere testing)"
+    },
+    {
+     "label": "SOLAS XI-1/7",
+     "full": "SOLAS XI-1/7 (Res. MSC.380(94)): portable atmosphere testing instruments"
+    },
+    {
+     "label": "IMO MSC.581(110)",
+     "full": "IMO Res. MSC.581(110), Revised Recommendations for Entering Enclosed Spaces Aboard Ships (June 2025; replaces A.1050(27))"
+    },
+    {
+     "label": "SOLAS II-2/4.5.7.1",
+     "full": "SOLAS II-2/4.5.7.1: portable instruments for measuring oxygen and flammable vapour concentrations on tankers",
+     "chip": false
+    },
+    {
+     "label": "MSC.1/Circ.1456, 1477, 1561",
+     "full": "IMO MSC.1/Circ.1456, MSC.1/Circ.1477 and MSC.1/Circ.1561 (guidance on the carriage and use of portable atmosphere testing instruments)",
+     "chip": false
+    },
+    {
+     "label": "TMSA KPI 6.1.2",
+     "full": "TMSA KPI 6.1.2 (as cited in the Question Library)",
+     "chip": false
+    },
+    {
+     "label": "IBC 13.2 / IGC 13.6.19-20",
+     "full": "IBC Code 13.2 and IGC Code 13.6.19-20: vapour detection for chemical and gas carriers",
+     "chip": false
+    }
+   ],
+   "psc_codes": [
+    "18410"
+   ],
+   "source_line": "Illustrative SIRE 2.0 observation",
+   "source_note": "An illustrative example based on typical SIRE 2.0 findings, not a record of a real inspection.",
+   "guidance": "Guidance paraphrased from the OCIMF SIRE 2.0 Question Library",
+   "guidance_url": "https://www.ocimf.org/programmes/sire-2-0/",
+   "checked_on": "2026-10-27",
+   "vr_published": "2026-10-27"
   }
  ]
 }

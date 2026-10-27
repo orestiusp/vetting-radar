@@ -34,7 +34,7 @@ SIRE_LOTW = SL.of_week(SIRE_VIS, TODAY) if LOTW else None
 CHROME = next((c for c in (os.environ.get("VR_CHROME"), shutil.which("google-chrome"), shutil.which("chromium"), shutil.which("chromium-browser")) if c), None)
 CAT = {"sire":"SIRE / OCIMF","tmsa":"TMSA","cdi":"CDI","vetting-criteria":"Vetting schemes","oil-major":"Oil majors","terminal":"Terminals & ports",
        "psc":"Port State Control","industry":"Industry bodies","news":"OCIMF news","regulation":"IMO"}
-NAV = [("updates.html","Updates"),("table.html","Vetting Rules"),("calendar.html","Calendar")] + ([("lessons.html","Safety lessons")] if LESSONS else []) + [("newsletter.html","Newsletter")]
+NAV = [("updates.html","Updates"),("table.html","Vetting Rules"),("calendar.html","Calendar")] + ([("lessons.html","Safety lessons")] if LESSONS else []) + [("newsletter.html","Newsletter")] + [("archive.html","Archive")]
 GROUP = {"sire":"scheme","cdi":"scheme","tmsa":"scheme","vetting-criteria":"scheme","oil-major":"major","terminal":"terminal","psc":"psc"}
 GROUP_LABEL = {"scheme":"Inspection scheme","major":"Oil major","terminal":"Terminal","psc":"Port State Control"}
 IMPACT_LABEL = {"high":"High impact","medium":"Medium impact","low":"Low impact"}
@@ -403,11 +403,11 @@ if LOTW:
                 f'<div class="ho-c-chk"><h4>What to check on board</h4><ol>{chk}</ol></div>'
                 f'<div class="tags">{SL.qtags(l, e)}{SL.rtags(l, e, 3)}{SL.ptags(l, e, 1)}</div>'
                 f'<div class="btnrow ho-c-btns"><a class="btn big" href="{e(h)}" data-goatcounter-click="dl-toolbox-{e(l["id"])}" data-goatcounter-title="Toolbox talk (home, SIRE)">{icon("todo")}{e(lab)}</a><a class="btn light" href="lessons/{e(l["id"])}.html">Read the lesson</a></div>'
-                f'<p class="note ho-c-src">One page · free to print, no sign-up · {e(l["source_line"])} · <a href="{e(l["guidance_url"])}" rel="noopener">{e(l["guidance"])}</a></p></article>')
+                f'<p class="note ho-c-src">One page · free to print, no sign-up · {e(l["source_line"])} · <a href="{e(l["guidance_url"])}" rel="noopener">{e(l["guidance"])}</a> · <a href="archive.html#lessons-of-the-week">Past lessons</a></p></article>')
     SIDE = (f'<aside class="ho-c-side"><div class="herobox" id="subscribe"><p class="hero-note">{icon("mail")}A new lesson and the rule changes, every week</p>{signup}</div></aside>'
             if not SIRE_LOTW else sire_card(SIRE_LOTW))
     # with two cards the signup leaves the hero column for a slim full-width bar right below them
-    SBAR = (f'<div class="ho-sbar" id="subscribe"><div class="ho-sbar-t">{icon("mail")}<p><b>The weekly brief</b><span class="d">One incident lesson, one SIRE 2.0 observation and the vetting rule changes, every week. Free, unsubscribe any time.</span></p></div>'
+    SBAR = (f'<div class="ho-sbar" id="subscribe"><div class="ho-sbar-t">{icon("mail")}<p><b>The weekly brief <a class="ho-sbar-arc" href="archive.html">Past issues →</a></b><span class="d">One incident lesson, one SIRE 2.0 observation and the vetting rule changes, every week. Free, unsubscribe any time.</span></p></div>'
             f'<div class="ho-sbar-f">{signup}</div></div>') if SIRE_LOTW else ""
     # hero kicker: with a SIRE lesson, each part in its card's colour (amber incident, indigo SIRE 2.0), "for tankers" neutral
     EYEBROW = ('<span class="eyebrow ho-eb2"><span class="eb-s"><span class="pulse"></span>Safety lessons</span><span class="eb-sep" aria-hidden="true">·</span>'
@@ -423,7 +423,7 @@ if LOTW:
 <div class="ho-c-chk"><h4>What to check on board</h4><ol>{CHK}</ol></div>
 <div class="tags">{c_tags}</div>
 <div class="btnrow ho-c-btns"><a class="btn big" href="{e(LOTW_TB)}" data-goatcounter-click="dl-toolbox-{e(LOTW['id'])}" data-goatcounter-title="Toolbox talk (home)">{icon("todo")}{e(LOTW_TBL)}</a><a class="btn light" href="lessons/{e(LOTW['id'])}.html">Read the lesson</a></div>
-<p class="note ho-c-src">One page · free to print, no sign-up · {SRC_L}</p></article>
+<p class="note ho-c-src">One page · free to print, no sign-up · {SRC_L} · <a href="archive.html#lessons-of-the-week">Past lessons</a></p></article>
 {SIDE}
 </div>{SBAR}</div></section>
 <section class="block tight"><div class="wrap"><div class="sechead"><div><h2>Safety lessons by topic</h2></div><a href="lessons.html">All {len(LESSONS)} lessons →</a></div>
@@ -787,6 +787,45 @@ if LESSONS:
     print(f"safety lessons: {_r['pages']} rendered ({sum(1 for l in LESSONS if not LS.is_pub(l))} drafts), {_r['pdfs']} toolbox PDFs" + (" [PREVIEW]" if PREVIEW else ""))
 else:
     print(f"safety lessons: none published ({len(LESSONS_ALL)} drafts in data/lessons.json; run with --preview to review them)")
+# ---------- archive: past newsletter issues + past lessons of the week (incident and SIRE 2.0), newest first ----------
+# Newsletter issues come from data/newsletters.json (live: sent AND publish; preview: drafts too, badged).
+# Lessons: every visible lesson with a lesson_of_week / sire_lesson_of_week date up to today, grouped by ISO week.
+NL_ALL = load(P("data", "newsletters.json"), {"issues": []}).get("issues", [])
+NL_VIS = sorted([i for i in NL_ALL if PREVIEW or (i.get("sent") and i.get("publish"))], key=lambda i: i.get("date", ""), reverse=True)
+def _nl_row(i):
+    dr = '' if (i.get("sent") and i.get("publish")) or not i.get("issue") else '<span class="draftb">Draft – not sent</span>'
+    t = (f'<span class="t">{e(i.get("title", ""))}{dr}<small>{e(i.get("summary", ""))}</small></span>')
+    inner = f'<span class="badge org">{"#" + e(i["issue"]) if i.get("issue") else "Draft"}</span>{t}<time datetime="{e(i.get("date", ""))}">{fmt_date(i.get("date", ""))}</time>'
+    return f'<li><a class="row" href="{e(i["url"])}">{inner}</a></li>' if i.get("url") else f'<li><div class="row">{inner}</div></li>'
+_ARC_L = [("incident", l, l["lesson_of_week"]) for l in (LESSONS if LOTW else []) if l.get("lesson_of_week") and l["lesson_of_week"] <= TODAY.isoformat()]
+_ARC_L += [("sire", l, l["sire_lesson_of_week"]) for l in (SIRE_VIS if SIRE_LOTW else []) if l.get("sire_lesson_of_week") and l["sire_lesson_of_week"] <= TODAY.isoformat()]
+_WEEKS = {}
+for _k, _l, _d in _ARC_L: _WEEKS.setdefault(dt.date.fromisoformat(_d).isocalendar()[:2], []).append((_k, _l, _d))
+def _arc_card(k, l):
+    sire = k == "sire"
+    dr = '' if (SL.is_pub(l) if sire else LS.is_pub(l)) else '<span class="draftb">Draft – awaiting review</span>'
+    src = e(l["source_line"]) if sire else f'Source: {e(l["source_short"])}'
+    return (f'<article class="card lcard arc-card{" sire" if sire else ""}"><div class="top"><span class="cat">{"SIRE 2.0 lesson" if sire else "Incident lesson"} · {e(l["topic"])}</span>{dr}</div>'
+            f'<h3><a href="lessons/{e(l["id"])}.html">{e(l["title"])}</a></h3><p class="sum">{e(l["summary3"])}</p>'
+            f'<div class="lfoot"><span>{src}</span><span class="lf-i"><span class="sep" aria-hidden="true">·</span><a href="lessons/{e(l["id"])}.html">Read the lesson</a></span></div></article>')
+_wk_html = ""
+for _wk in sorted(_WEEKS, reverse=True):
+    _items = sorted(_WEEKS[_wk], key=lambda x: x[0] != "incident")  # incident first, SIRE 2.0 beside it
+    _d0 = min(x[2] for x in _items)
+    _wk_html += (f'<section class="arc-week" aria-labelledby="wk-{_d0}"><h3 class="arc-wh" id="wk-{_d0}">Week of {fmt_date(_d0)}</h3>'
+                 f'<div class="lcards">{"".join(_arc_card(k, l) for k, l, _d in _items)}</div></section>')
+_sample = (f' Meanwhile, read the <a href="newsletter/{SAMPLE[0]}.html">sample issue</a>.' if SAMPLE else "")
+_nl_html = (f'<ul class="card list arc-nl">{"".join(_nl_row(i) for i in NL_VIS)}</ul>' if NL_VIS else
+            f'<div class="card arc-empty">{icon("mail")}<div><b>First issue coming soon</b><p>Past issues of the weekly brief will be listed here once they have been sent.{_sample}</p></div></div>')
+_lw_html = (_wk_html if _wk_html else '<div class="card arc-empty"><div><b>No lessons of the week yet</b><p>Each week\'s incident lesson and SIRE 2.0 lesson will be listed here.</p></div></div>')
+page("archive.html", "Archive", pagehead("Newsletter &amp; lessons", "Archive", "Past issues of the weekly brief and every lesson of the week, newest first.") + f"""<div class="wrap page grid arc"><div>
+<nav class="arc-jump" aria-label="On this page"><a href="#issues">Newsletter issues</a><a href="#lessons-of-the-week">Lessons of the week</a>{'<a href="lessons.html">All safety lessons →</a>' if LESSONS else ''}</nav>
+<h2 class="sm" id="issues">Newsletter issues</h2>{_nl_html}
+<h2 class="sm" id="lessons-of-the-week">Lessons of the week</h2><p class="note arc-lede">One public incident report and one SIRE 2.0 observation each week, in our own words, each with a free toolbox talk.</p>{_lw_html}
+</div><aside class="side"><h2 class="sm">Get the next issue</h2>{signup_card}</aside></div>""",
+     desc="Archive of the Vetting Radar weekly brief and of every safety lesson of the week (incident reports and SIRE 2.0 observations), newest first.",
+     head='<link rel="stylesheet" href="lessons.css">')
+
 # old homepage mockups (home-options branch, review only): never ship stale copies left in dist/
 for _old in ("home-a.html", "home-b.html", "home-c.html", "home-options.css"):
     if os.path.exists(os.path.join(DIST, _old)): os.remove(os.path.join(DIST, _old))

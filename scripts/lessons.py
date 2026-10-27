@@ -237,6 +237,7 @@ This sheet is Vetting Radar's own short summary to support discussion. It is not
 <div class="lcards" id="lcards">{''.join(xcards)}{''.join(card(l) for l in vis)}</div></div>
 <aside class="side">
 <div class="card sbox"><h3>Toolbox talks, free</h3><p>Every lesson has a one-page sheet for the onboard safety meeting: what happened, discussion questions, a checklist and an attendance list. Print it or save it as a PDF. No sign-up.</p></div>
+<div class="card sbox"><h3>Past lessons of the week</h3><p>Every week's incident lesson and SIRE 2.0 lesson, newest first, with past issues of the weekly brief.</p><a href="archive.html">Open the archive</a></div>
 <div class="card sbox"><h3>How we tag lessons</h3><p>Each lesson is tagged to SIRE 2.0 Question Library sections (OCIMF, v1.0), CDI SIR chapters and Paris MoU deficiency codes. Tags are our editorial view, not OCIMF's, CDI's or the investigators'.</p><a href="lessons-policy.html">How we write safety lessons</a></div>
 <h2 class="sm">Lesson of the week, by email</h2>{signup_card}
 </aside></div></div>"""

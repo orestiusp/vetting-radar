@@ -980,6 +980,77 @@
       "source_url": "https://www.gov.uk/maib-reports/fatal-accident-on-board-bulk-carrier-berge-mawson-with-loss-of-3-lives",
       "source_published": "2025-03-20",
       "launch_batch": true
+    },
+    {
+      "cdi_tags": [
+        "Safety management"
+      ],
+      "psc_codes": [
+        "15150"
+      ],
+      "discussion_questions": [
+        "Which of our tools count as hot work when used outside the engine room workshop?",
+        "If a senior officer started hot work on deck without a permit, what would you say and do?",
+        "Where on deck can flammable gas escape even when the cargo tanks are closed?",
+        "How could we free a seized bolt on deck without a flame or sparks?"
+      ],
+      "related_updates": [],
+      "occurred": "2025-05-24",
+      "reuse_note": "US federal work, generally public domain; photos may be third party. We summarise and link.",
+      "intertanko_ref": null,
+      "ai_drafted": true,
+      "reviewed": true,
+      "publish": true,
+      "reviewer": "Orestis Perilis",
+      "reviewed_at": "2026-10-27",
+      "vr_published": "2026-10-27",
+      "lesson_of_week": "2026-10-27",
+      "checked_on": "2026-10-27",
+      "id": "hot-work-torch-beside-open-tank-explosion-2025",
+      "title": "Torch used beside an open tank opening: unpermitted hot work caused a fatal explosion",
+      "summary3": "During loading alongside, the chief engineer of a liquid bulk tank vessel used a small propane torch on deck to free broken bolts on a cargo tank hatch cover. Fittings had been taken off the cover, leaving open holes into a tank whose cargo gave off flammable gas. The flame ignited the gas and the tank exploded, killing the chief engineer and injuring three crew.",
+      "what_went_wrong": [
+        "Hot work was done on deck without a permit, a gas test or any of the precautions in the company's own hot work procedure.",
+        "Removing the fittings left open holes into a cargo tank, so flammable gas could reach the flame; the opening was not closed or isolated first.",
+        "Cargo left over from the previous day had been giving off flammable gas, and loading was under way at the same time.",
+        "The master twice told the chief engineer not to use the torch on deck, but the job was not stopped.",
+        "The fittings had been modified by the crew years earlier and had not been used for about five years, so they were seized when needed.",
+        "Training records showed no training specific to hot work or to the gases the cargo produced."
+      ],
+      "root_cause": "As found by the US NTSB: the probable cause was unapproved hot work above a tank holding a cargo that produced flammable methane gas; the torch flame ignited the gas and the tank was overpressurised. Other tools that did not need a flame were available and could have prevented the accident.",
+      "key_lessons": [
+        "Any flame, heat or spark-producing tool on deck is hot work, even a small plumbing torch: no permit and no gas test means no flame, whatever the rank of the person.",
+        "Before any work near a cargo tank, close every opening into it; an open hole turns a safe spot into a hazardous area.",
+        "Try cold methods first: penetrating oil, a stud extractor, slow drilling, or taking the part to the workshop.",
+        "A warning is not enough: anyone who sees unsafe hot work should stop the job and call the master, and the company should back them.",
+        "Treat a change to cargo tank fittings as a change to be assessed, recorded and kept in the maintenance plan."
+      ],
+      "check_on_board": [
+        "Hot work procedure and permit on board, in line with ISGOTT and the SMS, and crew can say when it applies (including small torches and heat guns).",
+        "Recent hot work permits complete: location, gas readings, isolation of nearby tanks and lines, fire watch and the required sign-offs.",
+        "Portable torches, grinders and heat guns kept in a controlled place and issued only against a permit.",
+        "Openings into cargo tanks (ullage ports, cleaning hatches, sighting ports) closed when not in use, with no unapproved changes to tank fittings.",
+        "Stop work authority discussed at the last safety meeting, including how to stop a senior officer."
+      ],
+      "sire2_tags": [
+        "5.5",
+        "5.7",
+        "2.5"
+      ],
+      "vessel_types": [
+        "other"
+      ],
+      "ship_type_label": "Liquid bulk tank vessel (lesson transferable)",
+      "operation": "hot work",
+      "operation_label": "Hot work on deck during loading",
+      "topic": "Fire",
+      "severity": "fatality",
+      "source_body": "US National Transportation Safety Board (NTSB)",
+      "source_short": "US NTSB",
+      "source_type": "investigation body",
+      "source_title": "Marine Investigation Report: Explosion aboard Sludge Vessel Hunts Point (MIR-26-22)",
+      "source_url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MIR2622.pdf",
+      "source_published": "2026-07-15"
     }
   ]
 }
