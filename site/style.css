@@ -22,8 +22,9 @@ header.site .wrap{display:flex;align-items:center;gap:20px;height:80px}
 footer.site .brand{font-size:1.25rem}footer.site .brand svg{width:40px;height:40px}
 nav.main{display:flex;gap:2px}
 nav.main a{color:#c9dbe7;text-decoration:none;padding:8px 12px;border-radius:8px;font-size:0.875rem;font-weight:500}
-/* small laptops (921-1080px): a little less padding so the five menu items stay on one line beside Subscribe */
+/* small laptops (921-1080px): a little less padding so the six menu items stay on one line beside Subscribe */
 @media(min-width:921px) and (max-width:1080px){nav.main a{padding:8px 10px;white-space:nowrap}}
+@media(min-width:921px) and (max-width:1000px){header.site .wrap{gap:14px}nav.main a{padding:8px 7px}}
 nav.main a:hover{color:#fff;background:rgba(255,255,255,.07)}
 nav.main a.on{color:#fff;background:rgba(95,211,243,.14)}
 .btn{display:inline-flex;align-items:center;gap:8px;background:var(--teal);color:#fff;border:1px solid var(--teal);border-radius:10px;padding:11px 18px;font:inherit;font-weight:600;font-size:0.875rem;cursor:pointer;text-decoration:none;transition:background .15s}

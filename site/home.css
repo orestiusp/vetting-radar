@@ -69,3 +69,4 @@
 .ho-c-top .ho-eb2 .eb-r{color:var(--sire-l)}.ho-c-top .ho-eb2 .eb-r .pulse{background:var(--sire-l);box-shadow:0 0 0 4px rgba(174,184,255,.2)}
 .ho-eb2 .eb-sep{color:rgba(201,219,231,.6)}.ho-eb2 .eb-g{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}.ho-eb2 .eb-n{color:#c9dbe7}
 @media(max-width:480px){.ho-eb2 .eb-sep{display:none}}  /* phones: the two parts sit on their own lines, no dangling dot */
+.ho-sbar-t b .ho-sbar-arc{font-size:.8rem;font-weight:600;margin-left:8px;white-space:nowrap}

@@ -140,3 +140,17 @@
 .pagehead.safe-head.sire .kicker{color:var(--sire-l)}
 .rtag{font-size:.72rem;font-weight:700;padding:3px 8px;border-radius:6px;background:#f1f4f8;color:#334155;border:1px solid #d9e1ea;white-space:nowrap}
 @media print{.rtag{white-space:normal}}
+/* Archive page (archive.html): past newsletter issues + lessons of the week grouped by week; incident cards amber, SIRE 2.0 cards indigo (.sire) */
+.arc-jump{display:flex;flex-wrap:wrap;gap:8px 18px;margin:0 0 18px;font-size:.875rem;font-weight:600}
+.arc-jump a{text-decoration:none}.arc-jump a:hover{text-decoration:underline}
+.arc h2.sm{margin:0 0 12px;scroll-margin-top:96px}.arc h2.sm+.arc-lede{margin:-6px 0 14px}
+.arc #lessons-of-the-week{margin-top:34px}
+.arc-nl .row{display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:14px;align-items:center;padding:14px 18px;color:var(--ink)}
+.arc-nl .t .draftb{margin-left:8px;vertical-align:middle}
+.arc-empty{display:flex;gap:14px;align-items:flex-start;padding:18px 20px}
+.arc-empty .ico{width:24px;height:24px;color:var(--teal);flex:none;margin-top:2px}
+.arc-empty b{color:var(--ink);font-size:1rem}.arc-empty p{margin:4px 0 0;color:var(--muted);font-size:.9rem}
+.arc-week+.arc-week{margin-top:26px}
+.arc-wh{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.arc-card .top .draftb{margin-left:auto}
+@media(max-width:560px){.arc-nl .row{grid-template-columns:auto minmax(0,1fr);gap:6px 12px;padding:14px 16px}.arc-nl time{order:-1;grid-column:1/-1}.arc-empty{padding:16px}}
