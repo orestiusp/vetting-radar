@@ -1,0 +1,24 @@
+{
+  "id": "20261029T053037-tokyo-mou-inspections-detentions",
+  "source_id": "tokyo-mou-inspections-detentions",
+  "source_name": "Tokyo MOU – Inspections & detentions",
+  "owner": "Tokyo MOU",
+  "category": "psc",
+  "url": "https://www.tokyo-mou.org/inspections-detentions/",
+  "detected_at": "2026-10-29T05:30:37+00:00",
+  "previous_hash": "f7dc9c9f7796e8f636ee906fa144a182e37889a3d335412da3090798f0fc31d7",
+  "new_hash": "7d39e75fd31f0f2f93668f1faf0253da5a1dfa47d1bcb8171830398581a630bb",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -55 +55,2 @@\n GTC13\n+GTC14",
+    "lines_added": 1,
+    "lines_removed": 0,
+    "added_sample": [
+      "GTC14"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

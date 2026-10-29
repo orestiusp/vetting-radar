@@ -1,0 +1,39 @@
+{
+  "id": "20261029T053039-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-29T05:30:39+00:00",
+  "previous_hash": "44ec45c2b243fc6313c7ab321af11ec07b8458e2121b4953928e165d2624ebdb",
+  "new_hash": "22bafc516ce83515984ccfb32926b2403302779fc3f58e3c4c2277d29f0e2bb7",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,11 +15,12 @@\n LAST DATA UPDATE :\n-IHS Maritime\n-OCIMF\n+US Coast Guard\n+US Coast Guard - E_ZERO\n+US Coast Guard - QualShip 21\n+American Bureau of Shipping\n+Nippon Kaiji Kyokai\n+Polish Register of Shipping\n+Lloyd's Register\n Türk Loydu\n-MarineTraffic\n+Paris MoU\n Mediterranean MoU\n-Paris MoU\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n USER ACTIVITY :",
+    "lines_added": 8,
+    "lines_removed": 7,
+    "added_sample": [
+      "US Coast Guard",
+      "US Coast Guard - E_ZERO",
+      "US Coast Guard - QualShip 21",
+      "American Bureau of Shipping",
+      "Nippon Kaiji Kyokai",
+      "Polish Register of Shipping",
+      "Lloyd's Register",
+      "Paris MoU"
+    ],
+    "removed_sample": [
+      "IHS Maritime",
+      "OCIMF",
+      "MarineTraffic",
+      "Paris MoU",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

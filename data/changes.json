@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261029T053039-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-29T05:30:39+00:00",
+    "previous_hash": "44ec45c2b243fc6313c7ab321af11ec07b8458e2121b4953928e165d2624ebdb",
+    "new_hash": "22bafc516ce83515984ccfb32926b2403302779fc3f58e3c4c2277d29f0e2bb7",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,11 +15,12 @@\n LAST DATA UPDATE :\n-IHS Maritime\n-OCIMF\n+US Coast Guard\n+US Coast Guard - E_ZERO\n+US Coast Guard - QualShip 21\n+American Bureau of Shipping\n+Nippon Kaiji Kyokai\n+Polish Register of Shipping\n+Lloyd's Register\n Türk Loydu\n-MarineTraffic\n+Paris MoU\n Mediterranean MoU\n-Paris MoU\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n USER ACTIVITY :",
+      "lines_added": 8,
+      "lines_removed": 7,
+      "added_sample": [
+        "US Coast Guard",
+        "US Coast Guard - E_ZERO",
+        "US Coast Guard - QualShip 21",
+        "American Bureau of Shipping",
+        "Nippon Kaiji Kyokai",
+        "Polish Register of Shipping",
+        "Lloyd's Register",
+        "Paris MoU"
+      ],
+      "removed_sample": [
+        "IHS Maritime",
+        "OCIMF",
+        "MarineTraffic",
+        "Paris MoU",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261029T053037-tokyo-mou-inspections-detentions",
+    "source_id": "tokyo-mou-inspections-detentions",
+    "source_name": "Tokyo MOU – Inspections & detentions",
+    "owner": "Tokyo MOU",
+    "category": "psc",
+    "url": "https://www.tokyo-mou.org/inspections-detentions/",
+    "detected_at": "2026-10-29T05:30:37+00:00",
+    "previous_hash": "f7dc9c9f7796e8f636ee906fa144a182e37889a3d335412da3090798f0fc31d7",
+    "new_hash": "7d39e75fd31f0f2f93668f1faf0253da5a1dfa47d1bcb8171830398581a630bb",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -55 +55,2 @@\n GTC13\n+GTC14",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "GTC14"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261029T053037-tokyo-mou-detention-list",
+    "source_id": "tokyo-mou-detention-list",
+    "source_name": "Tokyo MOU – Detention list",
+    "owner": "Tokyo MOU",
+    "category": "psc",
+    "url": "https://www.tokyo-mou.org/inspections-detentions/detention-list/",
+    "detected_at": "2026-10-29T05:30:37+00:00",
+    "previous_hash": "4dd447f119406fba7923c6a74ef0c719a4bfa08d14ef04542ddc2f782da3800f",
+    "new_hash": "64fc083cdf4bfc214577e0b11f1022feebe3485b22cf6e93b365b8274215bb9e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -45 +45,2 @@\n GTC13\n+GTC14",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "GTC14"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261027T212130-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

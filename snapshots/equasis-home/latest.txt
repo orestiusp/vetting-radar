@@ -13,15 +13,16 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-IHS Maritime
-OCIMF
-Türk Loydu
-MarineTraffic
-Mediterranean MoU
-Paris MoU
-Nippon Kaiji Kyokai
-Lloyd's Register
+US Coast Guard
+US Coast Guard - E_ZERO
+US Coast Guard - QualShip 21
 American Bureau of Shipping
+Nippon Kaiji Kyokai
+Polish Register of Shipping
+Lloyd's Register
+Türk Loydu
+Paris MoU
+Mediterranean MoU
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

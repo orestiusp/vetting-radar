@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-10-28T05:35:20+00:00",
-      "last_ok": "2026-10-28T05:35:20+00:00",
+      "last_checked": "2026-10-29T05:36:44+00:00",
+      "last_ok": "2026-10-29T05:36:44+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-10-28T05:35:21+00:00",
-      "last_ok": "2026-10-28T05:35:21+00:00",
+      "last_checked": "2026-10-29T05:36:45+00:00",
+      "last_ok": "2026-10-29T05:36:45+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-10-28T05:35:22+00:00",
-      "last_ok": "2026-10-28T05:35:22+00:00",
+      "last_checked": "2026-10-29T05:36:45+00:00",
+      "last_ok": "2026-10-29T05:36:45+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-10-28T05:35:23+00:00",
-      "last_ok": "2026-10-28T05:35:23+00:00",
+      "last_checked": "2026-10-29T05:36:46+00:00",
+      "last_ok": "2026-10-29T05:36:46+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-10-28T05:35:23+00:00",
-      "last_ok": "2026-10-28T05:35:23+00:00",
+      "last_checked": "2026-10-29T05:36:47+00:00",
+      "last_ok": "2026-10-29T05:36:47+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-10-28T05:35:24+00:00",
-      "last_ok": "2026-10-28T05:35:24+00:00",
+      "last_checked": "2026-10-29T05:36:47+00:00",
+      "last_ok": "2026-10-29T05:36:47+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "3f332ac6d133d888",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Fighting back against cybercrime: why knowledge is key",
+      "url": "https://www.swedishclub.com/news/insights/fighting-back-against-cybercrime-why-knowledge-is-key/",
+      "published": "Wed, 28 Oct 2026 07:00:00 +0000",
+      "summary_from_feed": "Cyber incidents in shipping are more common than many realise. Daniel Ng, CEO of CyberOwl, says better visibility, shared knowledge and basic cyber discipline can make the threat far more manageable. Cybercrime in shipping has a visibility problem. The attacks happen, but most never become public. That leaves the industry caught between two unhelpful extremes: [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-10-29T05:36:47+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "08f4f7647e5ae08a",
       "feed": "no-nsia",
@@ -2574,5 +2590,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 6
+  "open_new": 7
 }
