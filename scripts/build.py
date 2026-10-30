@@ -747,6 +747,7 @@ shutil.copytree(P("site", "brand"), os.path.join(DIST, "brand"), dirs_exist_ok=T
 shutil.copytree(P("assets", "logos"), os.path.join(DIST, "assets", "logos"), dirs_exist_ok=True, ignore=shutil.ignore_patterns("manifest.json"))
 if os.path.isdir(P("assets", "video")): shutil.copytree(P("assets", "video"), os.path.join(DIST, "assets", "video"), dirs_exist_ok=True)  # lesson videos + posters
 shutil.copy(P("site", "brand", "favicon.ico"), os.path.join(DIST, "favicon.ico"))
+shutil.copy(P("site", "google2ce646fb24badbed.html"), os.path.join(DIST, "google2ce646fb24badbed.html"))  # Google Search Console verification
 os.makedirs(os.path.join(DIST, "data"), exist_ok=True)
 # public changes feed: unreviewed entries are reduced to "change detected" metadata (no diff text, no draft summary)
 pub_changes = []
