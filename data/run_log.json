@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-30T09:36:53+00:00",
+  "run_at": "2026-10-30T09:58:39+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
@@ -8,16 +8,16 @@
   "error": 7,
   "errors": {
     "uscg-psc-detentions": "HTTPError: 403 Client Error: Forbidden for url: https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offs",
+    "iomou-home": "HTTPError: 403 Client Error: Forbidden for url: https://www.iomou.org/",
     "saudi-aramco-ports-terminals-book-jul-2025-pdf": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)",
     "saudi-aramco-ports-terminals-general-rules-2025-pdf": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)",
     "saudi-aramco-ports-terminals-page": "ReadTimeout: HTTPSConnectionPool(host='www.aramco.com', port=443): Read timed out. (read timeout=180)",
     "marathon-petroleum-global-marine-request-inspection": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
-    "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/",
-    "sjofartsverket-brofjorden-port-information": "ConnectTimeout: HTTPSConnectionPool(host='www.sjofartsverket.se', port=443): Max retries exceeded with url: /en/services/pilotage/pilotstation-marstrand/port-information/brofjorden/ (Caused by ConnectTimeoutError(<HT"
+    "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
   },
   "changed_ids": [
-    "iomou-home",
-    "equasis-home"
+    "rightship-updates-to-vetting-baseline-criteria",
+    "intertanko-news-desk"
   ],
   "lesson_candidates": {
     "new": 0,

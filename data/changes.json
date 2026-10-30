@@ -1,5 +1,85 @@
 [
   {
+    "id": "20261030T095237-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-10-30T09:52:37+00:00",
+    "previous_hash": "8e2ce2b349a8a15b4e60758d43cbb4a28bdc6a81b1fe34d304f2a71e2afc8ac6",
+    "new_hash": "e82cf32220588fb7181f82beaf53d30a784ee7a21e0e28ae68dc8db6496b46e1",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -87,2 +87,28 @@\n NEWS\n+30 October 2026\n+Seafarers’ Vetting Seminar, Mumbai – 4 November 2026 – Agenda available\n+INTERTANKO will hold its next Seafarers’ Vetting Seminar in Mumbai on Wednesday 4 November 2026, at the Courtyard by Marriott...\n+30 October 2026\n+North American Panel Meeting, Houston – 5 November – Agenda available\n+The next meeting of the North American Panel (58th Session) will take place on Thursday 5 November 2026 at ABS...\n+30 October 2026\n+Hellenic Mediterranean Panel Meeting – Athens, 10 December – Agenda available\n+The next meeting of INTERTANKO's Hellenic Mediterranean Panel will take place in person at the Stavros Niarchos Foundation Cultural Centre...\n+30 October 2026\n+Gaps in War Risks Clauses guidance published\n+War risks clauses remain an essential component of tanker charterparties. However, they should not be viewed as comprehensive risk allocation...\n+30 October 2026\n+INTERTANKO fills the gap in seafarer training\n+INTERTANKO’s Council oversaw the release on 20 May of the latest part of the Seafarer’s Initiative with the launch of...\n+30 October 2026\n+INTERTANKO’s Guide to the Vetting Process 15th Edition – available to order\n+INTERTANKO's 'Guide to the Vetting Process 15th Edition' has been completely revised and updated for 2025 and is available to...\n+30 October 2026\n+Recent guidance\n+Recent guidance releases are listed below. Visit INTERTANKO’s Info Centre for the full list of Guidance and Publications.\n+State...\n+30 October 2026\n+INTERTANKO DIARY\n+INTERTANKO events can be viewed on the Events Calendar by clicking here.\n+3 November 2026 – Asian Regional Panel Meeting, MumbaiContact: Singapore@intertanko....\n 23 October 2026\n@@ -94,27 +120,2 @@\n INTERTANKO...\n-23 October 2026\n-China: INTERTANKO advances tanker owners' interests at North Bund Forum 2026\n-INTERTANKO Managing Director Tim Wilkins, together with Senior Technical Manager and Country Manager (China and HKSAR) KC Wong, participated in...\n-23 October 2026\n-INTERTANKO calls for stronger industry–enforcement engagement on illegal boardings in the Straits of Malacca and Singapore\n-ReCAAP ISC reported a significant decline in incidents of piracy and armed robbery against ships in Asia at the ReCAAP...\n-23 October 2026\n-INTERTANKO strengthens engagement with MPA Singapore\n-INTERTANKO Managing Director Tim Wilkins visited the Maritime and Port Authority of Singapore (MPA) on 23 October, where he met...\n-23 October 2026\n-EMSA publishes 2026 overview of marine casualties and incidents\n-The European Maritime Safety Agency (EMSA) has published its 2026 annual overview of marine casualties and incidents reported in European...\n-23 October 2026\n-INTERTANKO launches GHG Benchmarking Toolbox 2.0\n-Version 2.0 of INTERTANKO’s GHG Benchmarking Toolbox was released this week and is now available on the INTERTANKO website....\n-23 October 2026\n-Strong turnout for INTERTANKO webinar on the LH₂ transportation landscape\n-Close to 60 Members joined INTERTANKO’s online seminar on the use of liquid hydrogen (LH₂) as cargo on 21 October,...\n-23 October 2026\n-Asian Regional Panel Meeting, Mumbai – 3 November 2026 – Agenda available\n-The next Asian Regional Panel (ARP) meeting will take place on Tuesday 3 November 2026, in Mumbai.\n-The meeting will...\n-23 October 2026\n-Seafarers’ Vetting Seminar, Mumbai – 4 November 2026 – Agenda available\n-INTERTANKO will hold its next Seafarers’ Vetting Seminar in Mumbai on Wednesday 4 November 2026, at the Courtyard by Marriott...\n INTERTANKO",
+      "lines_added": 26,
+      "lines_removed": 25,
+      "added_sample": [
+        "30 October 2026",
+        "Seafarers’ Vetting Seminar, Mumbai – 4 November 2026 – Agenda available",
+        "INTERTANKO will hold its next Seafarers’ Vetting Seminar in Mumbai on Wednesday 4 November 2026, at the Courtyard by Marriott...",
+        "30 October 2026",
+        "North American Panel Meeting, Houston – 5 November – Agenda available",
+        "The next meeting of the North American Panel (58th Session) will take place on Thursday 5 November 2026 at ABS...",
+        "30 October 2026",
+        "Hellenic Mediterranean Panel Meeting – Athens, 10 December – Agenda available",
+        "The next meeting of INTERTANKO's Hellenic Mediterranean Panel will take place in person at the Stavros Niarchos Foundation Cultural Centre...",
+        "30 October 2026",
+        "Gaps in War Risks Clauses guidance published",
+        "War risks clauses remain an essential component of tanker charterparties. However, they should not be viewed as comprehensive risk allocation...",
+        "30 October 2026",
+        "INTERTANKO fills the gap in seafarer training",
+        "INTERTANKO’s Council oversaw the release on 20 May of the latest part of the Seafarer’s Initiative with the launch of..."
+      ],
+      "removed_sample": [
+        "23 October 2026",
+        "China: INTERTANKO advances tanker owners' interests at North Bund Forum 2026",
+        "INTERTANKO Managing Director Tim Wilkins, together with Senior Technical Manager and Country Manager (China and HKSAR) KC Wong, participated in...",
+        "23 October 2026",
+        "INTERTANKO calls for stronger industry–enforcement engagement on illegal boardings in the Straits of Malacca and Singapore",
+        "ReCAAP ISC reported a significant decline in incidents of piracy and armed robbery against ships in Asia at the ReCAAP...",
+        "23 October 2026",
+        "INTERTANKO strengthens engagement with MPA Singapore",
+        "INTERTANKO Managing Director Tim Wilkins visited the Maritime and Port Authority of Singapore (MPA) on 23 October, where he met...",
+        "23 October 2026",
+        "EMSA publishes 2026 overview of marine casualties and incidents",
+        "The European Maritime Safety Agency (EMSA) has published its 2026 annual overview of marine casualties and incidents reported in European...",
+        "23 October 2026",
+        "INTERTANKO launches GHG Benchmarking Toolbox 2.0",
+        "Version 2.0 of INTERTANKO’s GHG Benchmarking Toolbox was released this week and is now available on the INTERTANKO website...."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T095230-rightship-updates-to-vetting-baseline-criteria",
+    "source_id": "rightship-updates-to-vetting-baseline-criteria",
+    "source_name": "RightShip – Updates to vetting baseline criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+    "detected_at": "2026-10-30T09:52:30+00:00",
+    "previous_hash": "9aae62bf59c437aef8ae95e290c6cb6504318caf58b89e7d21c98fcba8c0b67c",
+    "new_hash": "1984f10041e8c66c6e288c9abff0e20ca12a3e8a0443cc2c202eefc75a099ceb",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1,3 +1,3 @@\n Rightship\n-Jun 29, 2023, 8:39:00 PM\n+Jun 29, 2023\n < 1 min read",
+      "lines_added": 1,
+      "lines_removed": 1,
+      "added_sample": [
+        "Jun 29, 2023"
+      ],
+      "removed_sample": [
+        "Jun 29, 2023, 8:39:00 PM"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261030T093048-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",
