@@ -111,10 +111,15 @@ This sheet is Vetting Radar's own summary to support discussion. It is not OCIMF
         maprows = "".join(f'<tr><td>SIRE 2.0</td><td><span class="stag">{e(q["q"])}</span></td><td>{e(q["title"])}</td></tr>' for q in l["sire_questions"])
         maprows += "".join(f'<tr><td>Publication</td><td><span class="rtag">{e(r["label"])}</span></td><td>{e(r.get("full", ""))}</td></tr>' for r in l.get("refs", []))
         maprows += "".join(f'<tr><td>PSC</td><td><span class="ptag">Paris MoU {e(c)}</span></td><td>{e(ctx["pmou"].get(c, ""))} (indicative)</td></tr>' for c in l.get("psc_codes", []))
+        v = l.get("video")  # optional: two <video>s (16:9 / 9:16), CSS shows one per viewport; preload="none" so nothing downloads until play
+        vid = (f'<figure class="lvideo">'
+               f'<video class="lv-wide" controls muted playsinline preload="none" poster="../{e(v["wide_poster"])}" aria-label="{e(v["label"])}"><source src="../{e(v["wide"])}" type="video/mp4"></video>'
+               f'<video class="lv-vert" controls muted playsinline preload="none" poster="../{e(v["vertical_poster"])}" aria-label="{e(v["label"])}"><source src="../{e(v["vertical"])}" type="video/mp4"></video>'
+               f'<figcaption>{e(v.get("caption", ""))}</figcaption></figure>') if v else ""
         body = f"""<section class="pagehead safe-head sire"><div class="wrap"><p class="kicker"><a href="../lessons.html">Safety lessons</a> › SIRE 2.0 observation › {e(l['topic'])}</p>
 <h1>{e(l['title'])}</h1><div class="metaline"><span class="badge who">{e(l['ship_type_label'])}</span><span class="badge who">{"Illustrative" if l.get("illustrative") else "Anonymised"} SIRE 2.0 observation</span>{draft(l)}</div></div></section>
 <div class="wrap page sire"><div class="lesson-grid"><div><article class="card lbody">
-<h2>What the inspector observed</h2><div class="three">{e(l['summary3'])}</div>
+<h2>What the inspector observed</h2>{vid}<div class="three">{e(l['summary3'])}</div>
 <h2>Why it matters</h2><ul>{li(l['why_it_matters'], 8)}</ul>
 <h2>Why it happens (typical root causes)</h2><ul>{li(l['root_causes'], 8)}</ul>
 <h2>What the inspector will look for</h2><p class="note">Our paraphrase of the SIRE 2.0 Question Library guidance for {e(", ".join(q["q"] for q in l["sire_questions"]))}. Read the full text in the Question Library.</p><ul>{li(l['inspector_looks_for'], 8)}</ul>

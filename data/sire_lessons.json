@@ -104,6 +104,14 @@
    "title": "Portable gas instruments not tested, and the officer unsure of their limits in an inert atmosphere",
    "topic": "Cargo & vapour",
    "ship_type_label": "All tankers",
+   "video": {
+    "wide": "assets/video/sire-gas-instruments-16x9.mp4",
+    "wide_poster": "assets/video/sire-gas-instruments-16x9-poster.jpg",
+    "vertical": "assets/video/sire-gas-instruments-9x16.mp4",
+    "vertical_poster": "assets/video/sire-gas-instruments-9x16-poster.jpg",
+    "label": "Short video of this SIRE 2.0 observation: portable gas instruments not tested",
+    "caption": "Illustrative example · 72 s"
+   },
    "summary3": "One of the two portable multi-gas instruments in the cargo control room had last been checked with test gas more than two months earlier, although the check is due monthly. Asked about it, the officer could not say whether the instrument's flammable-gas sensor could be used in an inert atmosphere. Nor could the officer say which instrument on board should be used to measure hydrocarbon % volume in inerted tanks.",
    "why_it_matters": [
     "Every enclosed space entry, tank entry, gas-freeing and inerting operation depends on the atmosphere reading.",

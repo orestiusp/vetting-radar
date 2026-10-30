@@ -154,3 +154,12 @@
 .arc-wh{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px;padding-bottom:6px;border-bottom:1px solid var(--line)}
 .arc-card .top .draftb{margin-left:auto}
 @media(max-width:560px){.arc-nl .row{grid-template-columns:auto minmax(0,1fr);gap:6px 12px;padding:14px 16px}.arc-nl time{order:-1;grid-column:1/-1}.arc-empty{padding:16px}}
+/* Lesson video (SIRE 2.0 lessons with a "video" record): 16:9 on desktop, 9:16 below 600px; only the visible one is ever fetched (preload="none") */
+.lvideo{margin:4px 0 14px;padding:0}
+.lvideo video{display:block;width:100%;background:#0b1a2c;border-radius:10px;border:1px solid var(--safe-line);box-shadow:0 2px 10px rgba(11,26,44,.12)}
+.lvideo .lv-wide{aspect-ratio:16/9}
+.lvideo .lv-vert{display:none;aspect-ratio:9/16;max-width:360px;margin:0 auto}
+.lvideo figcaption{margin-top:6px;font-size:.78rem;font-weight:600;color:var(--safe-ink);letter-spacing:.02em}
+.lvideo figcaption::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--c-safe);margin-right:7px;vertical-align:1px}
+@media (max-width:599px){.lvideo .lv-wide{display:none}.lvideo .lv-vert{display:block}}
+@media print{.lvideo{display:none}}
