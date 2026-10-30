@@ -1,0 +1,24 @@
+{
+  "id": "20261030T053052-rightship-inspection-validity-criteria",
+  "source_id": "rightship-inspection-validity-criteria",
+  "source_name": "RightShip – Inspection Validity Criteria",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+  "detected_at": "2026-10-30T05:30:52+00:00",
+  "previous_hash": "65a62f8d6b743230416031ce76034dcaaf0d0cb5f95f6491c5f596557aafb064",
+  "new_hash": "1ba479c1bca53a7a714c57e6f673207d757b1b06c668a6823485fe0e975c7b00",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -86,2 +86,3 @@\n Due Diligence Hub\n+Due Diligence Hub for Oil, Gas, Chemicals\n Screening (Trade Check)",
+    "lines_added": 1,
+    "lines_removed": 0,
+    "added_sample": [
+      "Due Diligence Hub for Oil, Gas, Chemicals"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

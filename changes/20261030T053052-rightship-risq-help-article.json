@@ -1,0 +1,24 @@
+{
+  "id": "20261030T053052-rightship-risq-help-article",
+  "source_id": "rightship-risq-help-article",
+  "source_name": "RightShip – RISQ help article",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://help.rightship.com/en/articles/rightships-inspection-questionnaire-risq",
+  "detected_at": "2026-10-30T05:30:52+00:00",
+  "previous_hash": "16fe8b09dcd6a64e71ffb737b360ea290889f32708c0ea018cee3388dae08c9d",
+  "new_hash": "ba8e524daa6fa4c466b64c28925b7a66f7096fbbdd4abe9a0359bacd0a33cc69",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -46,2 +46,3 @@\n Due Diligence Hub\n+Due Diligence Hub for Oil, Gas, Chemicals\n Screening (Trade Check)",
+    "lines_added": 1,
+    "lines_removed": 0,
+    "added_sample": [
+      "Due Diligence Hub for Oil, Gas, Chemicals"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

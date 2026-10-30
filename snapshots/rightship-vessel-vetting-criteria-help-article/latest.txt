@@ -19,6 +19,7 @@ Vetting & Vessel Risk Evaluation Workflow Products
 About RightShip Vetting
 Vet Request, Tracking and RFI Process
 Due Diligence Hub
+Due Diligence Hub for Oil, Gas, Chemicals
 Screening (Trade Check)
 RightShip Inspections
 RightShip Inspection Report Access

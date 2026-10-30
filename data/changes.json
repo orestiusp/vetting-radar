@@ -1,5 +1,189 @@
 [
   {
+    "id": "20261030T053052-rightship-risq-help-article",
+    "source_id": "rightship-risq-help-article",
+    "source_name": "RightShip – RISQ help article",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/rightships-inspection-questionnaire-risq",
+    "detected_at": "2026-10-30T05:30:52+00:00",
+    "previous_hash": "16fe8b09dcd6a64e71ffb737b360ea290889f32708c0ea018cee3388dae08c9d",
+    "new_hash": "ba8e524daa6fa4c466b64c28925b7a66f7096fbbdd4abe9a0359bacd0a33cc69",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -46,2 +46,3 @@\n Due Diligence Hub\n+Due Diligence Hub for Oil, Gas, Chemicals\n Screening (Trade Check)",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "Due Diligence Hub for Oil, Gas, Chemicals"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T053052-rightship-inspection-validity-criteria",
+    "source_id": "rightship-inspection-validity-criteria",
+    "source_name": "RightShip – Inspection Validity Criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+    "detected_at": "2026-10-30T05:30:52+00:00",
+    "previous_hash": "65a62f8d6b743230416031ce76034dcaaf0d0cb5f95f6491c5f596557aafb064",
+    "new_hash": "1ba479c1bca53a7a714c57e6f673207d757b1b06c668a6823485fe0e975c7b00",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -86,2 +86,3 @@\n Due Diligence Hub\n+Due Diligence Hub for Oil, Gas, Chemicals\n Screening (Trade Check)",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "Due Diligence Hub for Oil, Gas, Chemicals"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T053048-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-30T05:30:48+00:00",
+    "previous_hash": "22bafc516ce83515984ccfb32926b2403302779fc3f58e3c4c2277d29f0e2bb7",
+    "new_hash": "15fd9d5261d7a62a5c855caff6dbe8d35521ac49324e666115f6be8695ccb14a",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,12 +15,12 @@\n LAST DATA UPDATE :\n-US Coast Guard\n-US Coast Guard - E_ZERO\n-US Coast Guard - QualShip 21\n+Indian Ocean MoU\n+Hydor AS\n+Russian Maritime Register of Shipping\n+Lloyd's Register\n+Nippon Kaiji Kyokai\n American Bureau of Shipping\n-Nippon Kaiji Kyokai\n-Polish Register of Shipping\n-Lloyd's Register\n-Türk Loydu\n Paris MoU\n Mediterranean MoU\n+Türk Loydu\n+US Coast Guard\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 7,
+      "added_sample": [
+        "Indian Ocean MoU",
+        "Hydor AS",
+        "Russian Maritime Register of Shipping",
+        "Lloyd's Register",
+        "Nippon Kaiji Kyokai",
+        "Türk Loydu",
+        "US Coast Guard"
+      ],
+      "removed_sample": [
+        "US Coast Guard",
+        "US Coast Guard - E_ZERO",
+        "US Coast Guard - QualShip 21",
+        "Nippon Kaiji Kyokai",
+        "Polish Register of Shipping",
+        "Lloyd's Register",
+        "Türk Loydu"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T053048-imo-media-centre-press-briefings",
+    "source_id": "imo-media-centre-press-briefings",
+    "source_name": "IMO – Media centre press briefings",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+    "detected_at": "2026-10-30T05:30:48+00:00",
+    "previous_hash": "e0ced95370f7556c0b068094d5f4f039032919037778bc9b72e7ec78be5297bd",
+    "new_hash": "6bf61d2da3883e4907c796b2ef43f466bfdd0020116dfeff82c8bc8622da9bfe",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,8 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+28 October 2026\n+Maritime leaders push for stronger action on global shipping rules in Busan\n+World Maritime Day Parallel Event spotlights theme “From Policy into Practice: Powering Maritime Excellence”.\n+09 October 2026\n+IMO adopts frameworks to assess marine geoengineering research activities\n+New guidance will help governments evaluate marine geoengineering research proposals to ensure they are safe for the environment.\n 02 October 2026\n@@ -29,7 +35 @@\n IMO Secretary-General condemns attack on international shipping\n-23 July 2026\n-Statement on recent attacks on ships in the Red Sea\n-Renewed attacks on international shipping in the region are \"indefensible\", says IMO Secretary-General.\n-13 July 2026\n-IMO Council reaffirms commitment to protecting vital shipping lanes\n-IMO Council defends freedom of navigation, international law and safety of seafarers.",
+      "lines_added": 6,
+      "lines_removed": 6,
+      "added_sample": [
+        "28 October 2026",
+        "Maritime leaders push for stronger action on global shipping rules in Busan",
+        "World Maritime Day Parallel Event spotlights theme “From Policy into Practice: Powering Maritime Excellence”.",
+        "09 October 2026",
+        "IMO adopts frameworks to assess marine geoengineering research activities",
+        "New guidance will help governments evaluate marine geoengineering research proposals to ensure they are safe for the environment."
+      ],
+      "removed_sample": [
+        "23 July 2026",
+        "Statement on recent attacks on ships in the Red Sea",
+        "Renewed attacks on international shipping in the region are \"indefensible\", says IMO Secretary-General.",
+        "13 July 2026",
+        "IMO Council reaffirms commitment to protecting vital shipping lanes",
+        "IMO Council defends freedom of navigation, international law and safety of seafarers."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T053043-rightship-vessel-vetting-criteria-help-article",
+    "source_id": "rightship-vessel-vetting-criteria-help-article",
+    "source_name": "RightShip – Vessel vetting criteria (help article)",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria",
+    "detected_at": "2026-10-30T05:30:43+00:00",
+    "previous_hash": "2f48f8ca8dd8cfaf32a83776022f205933ca893e1dd335fdea0924b7ea92a420",
+    "new_hash": "2825b35168566e27869f909cd9da2af065950aea0cb9dfcb7f7ccc0f273f5682",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -21,2 +21,3 @@\n Due Diligence Hub\n+Due Diligence Hub for Oil, Gas, Chemicals\n Screening (Trade Check)",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "Due Diligence Hub for Oil, Gas, Chemicals"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T053042-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-10-30T05:30:42+00:00",
+    "previous_hash": "76a87b00547dd411e62e3d71d98729633ab450dce44892d1b31bf2421c3dbf86",
+    "new_hash": "3a259f553c4b7e860befcce7ad0de1759523fcc3406bd43680eb354d1c061501",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,24 @@\n CDI\n+30 October 2026\n+New CDI-T report for terminal “Topsafe Sealink Terminal (Dongguan) Co., Ltd”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Topsafe Sealink Terminal (Dongguan) Co., Ltd\n+• Country:\n+China\n+• Inspection date:\n+15th October 2026\n+30 October 2026\n+New CDI-T report for terminal “Topsafe Petrochemical Logistics and Storage Servic...”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Topsafe Petrochemical Logistics and Storage Services Co. Ltd.\n+• Country:\n+China\n+• Inspection date:\n+13th October 2026\n 23 October 2026",
+      "lines_added": 22,
+      "lines_removed": 0,
+      "added_sample": [
+        "30 October 2026",
+        "New CDI-T report for terminal “Topsafe Sealink Terminal (Dongguan) Co., Ltd”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "Topsafe Sealink Terminal (Dongguan) Co., Ltd",
+        "• Country:",
+        "China",
+        "• Inspection date:",
+        "15th October 2026",
+        "30 October 2026",
+        "New CDI-T report for terminal “Topsafe Petrochemical Logistics and Storage Servic...”",
+        "A new report is uploaded in the",
+        "CDI-Terminals"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261029T053039-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

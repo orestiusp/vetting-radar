@@ -1,0 +1,36 @@
+{
+  "id": "20261030T053048-imo-media-centre-press-briefings",
+  "source_id": "imo-media-centre-press-briefings",
+  "source_name": "IMO – Media centre press briefings",
+  "owner": "IMO",
+  "category": "regulation",
+  "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+  "detected_at": "2026-10-30T05:30:48+00:00",
+  "previous_hash": "e0ced95370f7556c0b068094d5f4f039032919037778bc9b72e7ec78be5297bd",
+  "new_hash": "6bf61d2da3883e4907c796b2ef43f466bfdd0020116dfeff82c8bc8622da9bfe",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,8 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+28 October 2026\n+Maritime leaders push for stronger action on global shipping rules in Busan\n+World Maritime Day Parallel Event spotlights theme “From Policy into Practice: Powering Maritime Excellence”.\n+09 October 2026\n+IMO adopts frameworks to assess marine geoengineering research activities\n+New guidance will help governments evaluate marine geoengineering research proposals to ensure they are safe for the environment.\n 02 October 2026\n@@ -29,7 +35 @@\n IMO Secretary-General condemns attack on international shipping\n-23 July 2026\n-Statement on recent attacks on ships in the Red Sea\n-Renewed attacks on international shipping in the region are \"indefensible\", says IMO Secretary-General.\n-13 July 2026\n-IMO Council reaffirms commitment to protecting vital shipping lanes\n-IMO Council defends freedom of navigation, international law and safety of seafarers.",
+    "lines_added": 6,
+    "lines_removed": 6,
+    "added_sample": [
+      "28 October 2026",
+      "Maritime leaders push for stronger action on global shipping rules in Busan",
+      "World Maritime Day Parallel Event spotlights theme “From Policy into Practice: Powering Maritime Excellence”.",
+      "09 October 2026",
+      "IMO adopts frameworks to assess marine geoengineering research activities",
+      "New guidance will help governments evaluate marine geoengineering research proposals to ensure they are safe for the environment."
+    ],
+    "removed_sample": [
+      "23 July 2026",
+      "Statement on recent attacks on ships in the Red Sea",
+      "Renewed attacks on international shipping in the region are \"indefensible\", says IMO Secretary-General.",
+      "13 July 2026",
+      "IMO Council reaffirms commitment to protecting vital shipping lanes",
+      "IMO Council defends freedom of navigation, international law and safety of seafarers."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

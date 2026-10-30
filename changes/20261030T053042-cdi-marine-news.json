@@ -1,0 +1,38 @@
+{
+  "id": "20261030T053042-cdi-marine-news",
+  "source_id": "cdi-marine-news",
+  "source_name": "CDI – Marine news",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_news",
+  "detected_at": "2026-10-30T05:30:42+00:00",
+  "previous_hash": "76a87b00547dd411e62e3d71d98729633ab450dce44892d1b31bf2421c3dbf86",
+  "new_hash": "3a259f553c4b7e860befcce7ad0de1759523fcc3406bd43680eb354d1c061501",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,24 @@\n CDI\n+30 October 2026\n+New CDI-T report for terminal “Topsafe Sealink Terminal (Dongguan) Co., Ltd”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Topsafe Sealink Terminal (Dongguan) Co., Ltd\n+• Country:\n+China\n+• Inspection date:\n+15th October 2026\n+30 October 2026\n+New CDI-T report for terminal “Topsafe Petrochemical Logistics and Storage Servic...”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Topsafe Petrochemical Logistics and Storage Services Co. Ltd.\n+• Country:\n+China\n+• Inspection date:\n+13th October 2026\n 23 October 2026",
+    "lines_added": 22,
+    "lines_removed": 0,
+    "added_sample": [
+      "30 October 2026",
+      "New CDI-T report for terminal “Topsafe Sealink Terminal (Dongguan) Co., Ltd”",
+      "A new report is uploaded in the",
+      "CDI-Terminals",
+      "database for:",
+      "• Terminal:",
+      "Topsafe Sealink Terminal (Dongguan) Co., Ltd",
+      "• Country:",
+      "China",
+      "• Inspection date:",
+      "15th October 2026",
+      "30 October 2026",
+      "New CDI-T report for terminal “Topsafe Petrochemical Logistics and Storage Servic...”",
+      "A new report is uploaded in the",
+      "CDI-Terminals"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

@@ -13,16 +13,16 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-US Coast Guard
-US Coast Guard - E_ZERO
-US Coast Guard - QualShip 21
-American Bureau of Shipping
-Nippon Kaiji Kyokai
-Polish Register of Shipping
+Indian Ocean MoU
+Hydor AS
+Russian Maritime Register of Shipping
 Lloyd's Register
-Türk Loydu
+Nippon Kaiji Kyokai
+American Bureau of Shipping
 Paris MoU
 Mediterranean MoU
+Türk Loydu
+US Coast Guard
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

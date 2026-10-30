@@ -1,0 +1,24 @@
+{
+  "id": "20261030T053043-rightship-vessel-vetting-criteria-help-article",
+  "source_id": "rightship-vessel-vetting-criteria-help-article",
+  "source_name": "RightShip – Vessel vetting criteria (help article)",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria",
+  "detected_at": "2026-10-30T05:30:43+00:00",
+  "previous_hash": "2f48f8ca8dd8cfaf32a83776022f205933ca893e1dd335fdea0924b7ea92a420",
+  "new_hash": "2825b35168566e27869f909cd9da2af065950aea0cb9dfcb7f7ccc0f273f5682",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -21,2 +21,3 @@\n Due Diligence Hub\n+Due Diligence Hub for Oil, Gas, Chemicals\n Screening (Trade Check)",
+    "lines_added": 1,
+    "lines_removed": 0,
+    "added_sample": [
+      "Due Diligence Hub for Oil, Gas, Chemicals"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

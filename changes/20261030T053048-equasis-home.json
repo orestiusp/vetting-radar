@@ -1,0 +1,38 @@
+{
+  "id": "20261030T053048-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-30T05:30:48+00:00",
+  "previous_hash": "22bafc516ce83515984ccfb32926b2403302779fc3f58e3c4c2277d29f0e2bb7",
+  "new_hash": "15fd9d5261d7a62a5c855caff6dbe8d35521ac49324e666115f6be8695ccb14a",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,12 +15,12 @@\n LAST DATA UPDATE :\n-US Coast Guard\n-US Coast Guard - E_ZERO\n-US Coast Guard - QualShip 21\n+Indian Ocean MoU\n+Hydor AS\n+Russian Maritime Register of Shipping\n+Lloyd's Register\n+Nippon Kaiji Kyokai\n American Bureau of Shipping\n-Nippon Kaiji Kyokai\n-Polish Register of Shipping\n-Lloyd's Register\n-Türk Loydu\n Paris MoU\n Mediterranean MoU\n+Türk Loydu\n+US Coast Guard\n USER ACTIVITY :",
+    "lines_added": 7,
+    "lines_removed": 7,
+    "added_sample": [
+      "Indian Ocean MoU",
+      "Hydor AS",
+      "Russian Maritime Register of Shipping",
+      "Lloyd's Register",
+      "Nippon Kaiji Kyokai",
+      "Türk Loydu",
+      "US Coast Guard"
+    ],
+    "removed_sample": [
+      "US Coast Guard",
+      "US Coast Guard - E_ZERO",
+      "US Coast Guard - QualShip 21",
+      "Nippon Kaiji Kyokai",
+      "Polish Register of Shipping",
+      "Lloyd's Register",
+      "Türk Loydu"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
