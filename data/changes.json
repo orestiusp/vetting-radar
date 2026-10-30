@@ -1,5 +1,69 @@
 [
   {
+    "id": "20261030T093048-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-10-30T09:30:48+00:00",
+    "previous_hash": "15fd9d5261d7a62a5c855caff6dbe8d35521ac49324e666115f6be8695ccb14a",
+    "new_hash": "b8f511c20dc78157d319e01d1035528b4e7de20817c69bf1aa1eb6990df1ebe5",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,5 @@\n LAST DATA UPDATE :\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n Indian Ocean MoU\n@@ -22,5 +25,2 @@\n Paris MoU\n-Mediterranean MoU\n-Türk Loydu\n-US Coast Guard\n USER ACTIVITY :",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ],
+      "removed_sample": [
+        "Mediterranean MoU",
+        "Türk Loydu",
+        "US Coast Guard"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261030T093046-iomou-home",
+    "source_id": "iomou-home",
+    "source_name": "Indian Ocean MOU – home",
+    "owner": "IOMOU",
+    "category": "psc",
+    "url": "https://www.iomou.org/",
+    "detected_at": "2026-10-30T09:30:46+00:00",
+    "previous_hash": "03976b430c362b716e984cc15b738e09f42c96094f12a74a3595806563f6cfd4",
+    "new_hash": "e049e0b907ecaaefe85b07494a89e1be9154836789b21f111e14dd5be54a9421",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -124,15 +124,15 @@\n Ship Detention List\n-17 October 2026\n+30 October 2026\n The Committee of the IOMOU during its 16th Committee meeting decided to publish ship detention list in an on-line mode for public view.\n Underperforming Ships List\n-17 October 2026\n+30 October 2026\n The 16th IOMOU Committee decided to publish a list of underperforming ships based on criteria of more than 2 detentions in last 24 months for the purpose of eradicating sub-standard ships.\n Ships on Watchlist\n-17 October 2026\n+30 October 2026\n The list contains the alert received from the Secretariat of another MOU, a flag State and a classification society In accordance with Section 3.8.2 (non-compliance of agreed conditions) of the Indian Ocean MOU.\n Banned Vessels by Member Authorities\n-17 October 2026\n+30 October 2026\n The list contains all ships that are currently banned by member authorities of the IOMOU in the Indian Ocean MOU region.\n Ship Risk Profile (SRP)\n-17 October 2026\n+30 October 2026\n The NIR assigns SRP (High, Standard or Low risk) to every ship in IOCIS database, based on recorded PSC inspection data of KPIs for last 36 months using Ship Risk Profile Calculation matrix.",
+      "lines_added": 5,
+      "lines_removed": 5,
+      "added_sample": [
+        "30 October 2026",
+        "30 October 2026",
+        "30 October 2026",
+        "30 October 2026",
+        "30 October 2026"
+      ],
+      "removed_sample": [
+        "17 October 2026",
+        "17 October 2026",
+        "17 October 2026",
+        "17 October 2026",
+        "17 October 2026"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261030T053052-rightship-risq-help-article",
     "source_id": "rightship-risq-help-article",
     "source_name": "RightShip – RISQ help article",

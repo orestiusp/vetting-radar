@@ -122,19 +122,19 @@ Press Release for CIC on Crew Wages and Seafarers' Employment Agreements (MLC) f
 6 August 2024
 RISK INDICATORS
 Ship Detention List
-17 October 2026
+30 October 2026
 The Committee of the IOMOU during its 16th Committee meeting decided to publish ship detention list in an on-line mode for public view.
 Underperforming Ships List
-17 October 2026
+30 October 2026
 The 16th IOMOU Committee decided to publish a list of underperforming ships based on criteria of more than 2 detentions in last 24 months for the purpose of eradicating sub-standard ships.
 Ships on Watchlist
-17 October 2026
+30 October 2026
 The list contains the alert received from the Secretariat of another MOU, a flag State and a classification society In accordance with Section 3.8.2 (non-compliance of agreed conditions) of the Indian Ocean MOU.
 Banned Vessels by Member Authorities
-17 October 2026
+30 October 2026
 The list contains all ships that are currently banned by member authorities of the IOMOU in the Indian Ocean MOU region.
 Ship Risk Profile (SRP)
-17 October 2026
+30 October 2026
 The NIR assigns SRP (High, Standard or Low risk) to every ship in IOCIS database, based on recorded PSC inspection data of KPIs for last 36 months using Ship Risk Profile Calculation matrix.
 Online
 Validator

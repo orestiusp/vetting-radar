@@ -1,0 +1,30 @@
+{
+  "id": "20261030T093048-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-30T09:30:48+00:00",
+  "previous_hash": "15fd9d5261d7a62a5c855caff6dbe8d35521ac49324e666115f6be8695ccb14a",
+  "new_hash": "b8f511c20dc78157d319e01d1035528b4e7de20817c69bf1aa1eb6990df1ebe5",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,5 @@\n LAST DATA UPDATE :\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n Indian Ocean MoU\n@@ -22,5 +25,2 @@\n Paris MoU\n-Mediterranean MoU\n-Türk Loydu\n-US Coast Guard\n USER ACTIVITY :",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping"
+    ],
+    "removed_sample": [
+      "Mediterranean MoU",
+      "Türk Loydu",
+      "US Coast Guard"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
