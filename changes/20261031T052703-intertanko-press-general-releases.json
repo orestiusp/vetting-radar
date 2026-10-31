@@ -1,0 +1,30 @@
+{
+  "id": "20261031T052703-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-10-31T05:27:03+00:00",
+  "previous_hash": "244f6e4e53c7d255922cdbbc2ad7c861f6e78864cffc588afb8c2cb2c7428342",
+  "new_hash": "94f55a2bfd8f591888abe272bd7a42ba1df95b7d1fd9b4eafeb1e2f0baa6950e",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -87,7 +87,7 @@\n NEWS\n-23 October 2026\n+30 October 2026\n Advice for Members regarding situation in Gulf Region\n ===========\n-23 October: Attacks in Gulf Region continue as US mid-term elections approach\n-Ships continue to be attacked across the...\n+30 October: New Hormuz attack method highlights continuing threat\n+The maritime security situation remains volatile, with the threat in the...\n 15 October 2026",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "30 October 2026",
+      "30 October: New Hormuz attack method highlights continuing threat",
+      "The maritime security situation remains volatile, with the threat in the..."
+    ],
+    "removed_sample": [
+      "23 October 2026",
+      "23 October: Attacks in Gulf Region continue as US mid-term elections approach",
+      "Ships continue to be attacked across the..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

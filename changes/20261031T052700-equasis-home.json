@@ -1,0 +1,32 @@
+{
+  "id": "20261031T052700-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-10-31T05:27:00+00:00",
+  "previous_hash": "b8f511c20dc78157d319e01d1035528b4e7de20817c69bf1aa1eb6990df1ebe5",
+  "new_hash": "c89c8521c8ff2a5de0441564daf264a56495f9e7682f531ab88ff09a55a35efe",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,6 @@\n LAST DATA UPDATE :\n+Biro Klasifikasi Indonesia\n+Paris MoU\n+Mediterranean MoU\n+Türk Loydu\n Nippon Kaiji Kyokai\n@@ -21,6 +25,2 @@\n Russian Maritime Register of Shipping\n-Lloyd's Register\n-Nippon Kaiji Kyokai\n-American Bureau of Shipping\n-Paris MoU\n USER ACTIVITY :",
+    "lines_added": 4,
+    "lines_removed": 4,
+    "added_sample": [
+      "Biro Klasifikasi Indonesia",
+      "Paris MoU",
+      "Mediterranean MoU",
+      "Türk Loydu"
+    ],
+    "removed_sample": [
+      "Lloyd's Register",
+      "Nippon Kaiji Kyokai",
+      "American Bureau of Shipping",
+      "Paris MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
