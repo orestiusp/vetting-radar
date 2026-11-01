@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-10-31T05:33:05+00:00",
+  "run_at": "2026-11-01T05:37:38+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
-  "unchanged": 86,
-  "changed": 3,
+  "unchanged": 89,
+  "changed": 0,
   "error": 7,
   "errors": {
     "uscg-psc-detentions": "HTTPError: 403 Client Error: Forbidden for url: https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offs",
@@ -15,11 +15,7 @@
     "marathon-petroleum-global-marine-request-inspection": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
     "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
   },
-  "changed_ids": [
-    "equasis-home",
-    "intertanko-news-desk",
-    "intertanko-press-general-releases"
-  ],
+  "changed_ids": [],
   "lesson_candidates": {
     "new": 0,
     "baseline": 0,
