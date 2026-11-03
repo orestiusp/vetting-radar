@@ -1,5 +1,81 @@
 [
   {
+    "id": "20261103T054028-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-03T05:40:28+00:00",
+    "previous_hash": "c89c8521c8ff2a5de0441564daf264a56495f9e7682f531ab88ff09a55a35efe",
+    "new_hash": "87db6f76293c9c400e45223a932dcc233a161d3a3b678156432ad04a31387a0e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,12 +15,8 @@\n LAST DATA UPDATE :\n-Biro Klasifikasi Indonesia\n-Paris MoU\n+UK P&I Club\n+The London P&I Club\n+INTERCARGO\n+Assuranceforeningen Skuld - Norway\n+Türk Loydu\n Mediterranean MoU\n-Türk Loydu\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n-Indian Ocean MoU\n-Hydor AS\n-Russian Maritime Register of Shipping\n USER ACTIVITY :",
+      "lines_added": 5,
+      "lines_removed": 9,
+      "added_sample": [
+        "UK P&I Club",
+        "The London P&I Club",
+        "INTERCARGO",
+        "Assuranceforeningen Skuld - Norway",
+        "Türk Loydu"
+      ],
+      "removed_sample": [
+        "Biro Klasifikasi Indonesia",
+        "Paris MoU",
+        "Türk Loydu",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping",
+        "Indian Ocean MoU",
+        "Hydor AS",
+        "Russian Maritime Register of Shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261103T054023-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-03T05:40:23+00:00",
+    "previous_hash": "3a259f553c4b7e860befcce7ad0de1759523fcc3406bd43680eb354d1c061501",
+    "new_hash": "9229846e1410cd5dd2e01bd92f02bcb0cff594744da653193673b3e3c538e158",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,24 @@\n CDI\n+3 November 2026\n+New CDI-T report for terminal “Arabian Chemical Terminals Ltd.”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Arabian Chemical Terminals Ltd.\n+• Country:\n+Saudi Arabia\n+• Inspection date:\n+8th October 2026\n+2 November 2026\n+New CDI-T report for terminal “Chane Terminal Pernis”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Chane Terminal Pernis\n+• Country:\n+Netherlands\n+• Inspection date:\n+8th October 2026\n 30 October 2026",
+      "lines_added": 22,
+      "lines_removed": 0,
+      "added_sample": [
+        "3 November 2026",
+        "New CDI-T report for terminal “Arabian Chemical Terminals Ltd.”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "Arabian Chemical Terminals Ltd.",
+        "• Country:",
+        "Saudi Arabia",
+        "• Inspection date:",
+        "8th October 2026",
+        "2 November 2026",
+        "New CDI-T report for terminal “Chane Terminal Pernis”",
+        "A new report is uploaded in the",
+        "CDI-Terminals"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261031T052703-intertanko-press-general-releases",
     "source_id": "intertanko-press-general-releases",
     "source_name": "INTERTANKO – Press & general releases",

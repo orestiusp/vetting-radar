@@ -1,0 +1,38 @@
+{
+  "id": "20261103T054023-cdi-marine-news",
+  "source_id": "cdi-marine-news",
+  "source_name": "CDI – Marine news",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_news",
+  "detected_at": "2026-11-03T05:40:23+00:00",
+  "previous_hash": "3a259f553c4b7e860befcce7ad0de1759523fcc3406bd43680eb354d1c061501",
+  "new_hash": "9229846e1410cd5dd2e01bd92f02bcb0cff594744da653193673b3e3c538e158",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,24 @@\n CDI\n+3 November 2026\n+New CDI-T report for terminal “Arabian Chemical Terminals Ltd.”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Arabian Chemical Terminals Ltd.\n+• Country:\n+Saudi Arabia\n+• Inspection date:\n+8th October 2026\n+2 November 2026\n+New CDI-T report for terminal “Chane Terminal Pernis”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Chane Terminal Pernis\n+• Country:\n+Netherlands\n+• Inspection date:\n+8th October 2026\n 30 October 2026",
+    "lines_added": 22,
+    "lines_removed": 0,
+    "added_sample": [
+      "3 November 2026",
+      "New CDI-T report for terminal “Arabian Chemical Terminals Ltd.”",
+      "A new report is uploaded in the",
+      "CDI-Terminals",
+      "database for:",
+      "• Terminal:",
+      "Arabian Chemical Terminals Ltd.",
+      "• Country:",
+      "Saudi Arabia",
+      "• Inspection date:",
+      "8th October 2026",
+      "2 November 2026",
+      "New CDI-T report for terminal “Chane Terminal Pernis”",
+      "A new report is uploaded in the",
+      "CDI-Terminals"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
