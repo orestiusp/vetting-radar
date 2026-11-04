@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-03T05:46:32+00:00",
+  "run_at": "2026-11-04T05:50:51+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
-  "unchanged": 87,
-  "changed": 2,
+  "unchanged": 86,
+  "changed": 3,
   "error": 7,
   "errors": {
     "uscg-psc-detentions": "HTTPError: 403 Client Error: Forbidden for url: https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offs",
@@ -17,10 +17,11 @@
   },
   "changed_ids": [
     "cdi-marine-news",
-    "equasis-home"
+    "equasis-home",
+    "intertanko-news-desk"
   ],
   "lesson_candidates": {
-    "new": 1,
+    "new": 0,
     "baseline": 0,
     "errors": {},
     "open_new": 8

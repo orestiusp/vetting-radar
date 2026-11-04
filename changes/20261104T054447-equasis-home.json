@@ -1,0 +1,32 @@
+{
+  "id": "20261104T054447-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-04T05:44:47+00:00",
+  "previous_hash": "87db6f76293c9c400e45223a932dcc233a161d3a3b678156432ad04a31387a0e",
+  "new_hash": "181ea120de9602ea767c3ed16c6ee6f1b6ca4e91660038c7c0f523a7b16bc548",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,7 @@\n LAST DATA UPDATE :\n+MarineTraffic\n+Croatian Register of Shipping\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n UK P&I Club\n@@ -18,5 +23,2 @@\n INTERCARGO\n-Assuranceforeningen Skuld - Norway\n-Türk Loydu\n-Mediterranean MoU\n USER ACTIVITY :",
+    "lines_added": 5,
+    "lines_removed": 3,
+    "added_sample": [
+      "MarineTraffic",
+      "Croatian Register of Shipping",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping"
+    ],
+    "removed_sample": [
+      "Assuranceforeningen Skuld - Norway",
+      "Türk Loydu",
+      "Mediterranean MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

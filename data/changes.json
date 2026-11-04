@@ -1,5 +1,105 @@
 [
   {
+    "id": "20261104T054449-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-11-04T05:44:49+00:00",
+    "previous_hash": "ace5e912fec1bf3ccac965a2ffe4316177241fe6f84052f817a43ac076fd791a",
+    "new_hash": "f9c489150fb65291d7481f5e82272924c9a3a23240abec02d9a8ee986fd968c2",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -87,2 +87,9 @@\n NEWS\n+3 November 2026\n+Commercial & Markets Committee Meeting, London - 23 November\n+Date and Time\n+Monday, 23 November\n+1100-1130 Arrival and coffee1130-1300 Meeting1300-1400 Lunch1400-1600 Meeting\n+Meeting venue\n+INTERTANKO London Office, St Clare...\n 30 October 2026\n@@ -115,5 +122,2 @@\n War risks clauses remain an essential component of tanker charterparties. However, they should not be viewed as comprehensive risk allocation...\n-30 October 2026\n-INTERTANKO fills the gap in seafarer training\n-INTERTANKO’s Council oversaw the release on 20 May of the latest part of the Seafarer’s Initiative with the launch of...\n INTERTANKO",
+      "lines_added": 7,
+      "lines_removed": 3,
+      "added_sample": [
+        "3 November 2026",
+        "Commercial & Markets Committee Meeting, London - 23 November",
+        "Date and Time",
+        "Monday, 23 November",
+        "1100-1130 Arrival and coffee1130-1300 Meeting1300-1400 Lunch1400-1600 Meeting",
+        "Meeting venue",
+        "INTERTANKO London Office, St Clare..."
+      ],
+      "removed_sample": [
+        "30 October 2026",
+        "INTERTANKO fills the gap in seafarer training",
+        "INTERTANKO’s Council oversaw the release on 20 May of the latest part of the Seafarer’s Initiative with the launch of..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261104T054447-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-04T05:44:47+00:00",
+    "previous_hash": "87db6f76293c9c400e45223a932dcc233a161d3a3b678156432ad04a31387a0e",
+    "new_hash": "181ea120de9602ea767c3ed16c6ee6f1b6ca4e91660038c7c0f523a7b16bc548",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,7 @@\n LAST DATA UPDATE :\n+MarineTraffic\n+Croatian Register of Shipping\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n UK P&I Club\n@@ -18,5 +23,2 @@\n INTERCARGO\n-Assuranceforeningen Skuld - Norway\n-Türk Loydu\n-Mediterranean MoU\n USER ACTIVITY :",
+      "lines_added": 5,
+      "lines_removed": 3,
+      "added_sample": [
+        "MarineTraffic",
+        "Croatian Register of Shipping",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ],
+      "removed_sample": [
+        "Assuranceforeningen Skuld - Norway",
+        "Türk Loydu",
+        "Mediterranean MoU"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261104T054442-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-04T05:44:42+00:00",
+    "previous_hash": "9229846e1410cd5dd2e01bd92f02bcb0cff594744da653193673b3e3c538e158",
+    "new_hash": "ae67df0446784f48d0d79e3d5d0696ccdcff4c3853d3dbbaf06f9ac8d9663b6b",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,13 @@\n CDI\n+3 November 2026\n+New CDI-T report for terminal “LBC Freeport”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+LBC Freeport\n+• Country:\n+United States\n+• Inspection date:\n+22nd September 2026\n 3 November 2026",
+      "lines_added": 11,
+      "lines_removed": 0,
+      "added_sample": [
+        "3 November 2026",
+        "New CDI-T report for terminal “LBC Freeport”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "LBC Freeport",
+        "• Country:",
+        "United States",
+        "• Inspection date:",
+        "22nd September 2026"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261103T054028-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

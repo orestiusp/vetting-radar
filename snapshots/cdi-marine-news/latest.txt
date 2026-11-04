@@ -70,6 +70,17 @@ The official launch of CDI’s “ Alternative Energy & Power Supply” (AEPS) Q
 General Manager
 CDI
 3 November 2026
+New CDI-T report for terminal “LBC Freeport”
+A new report is uploaded in the
+CDI-Terminals
+database for:
+• Terminal:
+LBC Freeport
+• Country:
+United States
+• Inspection date:
+22nd September 2026
+3 November 2026
 New CDI-T report for terminal “Arabian Chemical Terminals Ltd.”
 A new report is uploaded in the
 CDI-Terminals

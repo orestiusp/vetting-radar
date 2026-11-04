@@ -1,0 +1,34 @@
+{
+  "id": "20261104T054449-intertanko-news-desk",
+  "source_id": "intertanko-news-desk",
+  "source_name": "INTERTANKO – News desk",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk",
+  "detected_at": "2026-11-04T05:44:49+00:00",
+  "previous_hash": "ace5e912fec1bf3ccac965a2ffe4316177241fe6f84052f817a43ac076fd791a",
+  "new_hash": "f9c489150fb65291d7481f5e82272924c9a3a23240abec02d9a8ee986fd968c2",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -87,2 +87,9 @@\n NEWS\n+3 November 2026\n+Commercial & Markets Committee Meeting, London - 23 November\n+Date and Time\n+Monday, 23 November\n+1100-1130 Arrival and coffee1130-1300 Meeting1300-1400 Lunch1400-1600 Meeting\n+Meeting venue\n+INTERTANKO London Office, St Clare...\n 30 October 2026\n@@ -115,5 +122,2 @@\n War risks clauses remain an essential component of tanker charterparties. However, they should not be viewed as comprehensive risk allocation...\n-30 October 2026\n-INTERTANKO fills the gap in seafarer training\n-INTERTANKO’s Council oversaw the release on 20 May of the latest part of the Seafarer’s Initiative with the launch of...\n INTERTANKO",
+    "lines_added": 7,
+    "lines_removed": 3,
+    "added_sample": [
+      "3 November 2026",
+      "Commercial & Markets Committee Meeting, London - 23 November",
+      "Date and Time",
+      "Monday, 23 November",
+      "1100-1130 Arrival and coffee1130-1300 Meeting1300-1400 Lunch1400-1600 Meeting",
+      "Meeting venue",
+      "INTERTANKO London Office, St Clare..."
+    ],
+    "removed_sample": [
+      "30 October 2026",
+      "INTERTANKO fills the gap in seafarer training",
+      "INTERTANKO’s Council oversaw the release on 20 May of the latest part of the Seafarer’s Initiative with the launch of..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
