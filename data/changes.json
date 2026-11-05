@@ -1,5 +1,215 @@
 [
   {
+    "id": "20261105T054742-rightship-risq-help-article",
+    "source_id": "rightship-risq-help-article",
+    "source_name": "RightShip – RISQ help article",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/rightships-inspection-questionnaire-risq",
+    "detected_at": "2026-11-05T05:47:42+00:00",
+    "previous_hash": "ba8e524daa6fa4c466b64c28925b7a66f7096fbbdd4abe9a0359bacd0a33cc69",
+    "new_hash": "b0339108a9fa5d723409d361bddd5c0e787b3117dd81f2868ea1b00f9e7fae32",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,3 +71,2 @@\n Energy Saving Devices\n-Maritime Emissions Portal\n Management Audit",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Maritime Emissions Portal"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261105T054742-rightship-inspection-validity-criteria",
+    "source_id": "rightship-inspection-validity-criteria",
+    "source_name": "RightShip – Inspection Validity Criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+    "detected_at": "2026-11-05T05:47:42+00:00",
+    "previous_hash": "1ba479c1bca53a7a714c57e6f673207d757b1b06c668a6823485fe0e975c7b00",
+    "new_hash": "f0ab63ebfbfa606f7b69292d8369a46c52e6e9e3ad4dc6b4ddc866a8fa5830a5",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -111,3 +111,2 @@\n Energy Saving Devices\n-Maritime Emissions Portal\n Management Audit",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Maritime Emissions Portal"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261105T054738-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-05T05:47:38+00:00",
+    "previous_hash": "181ea120de9602ea767c3ed16c6ee6f1b6ca4e91660038c7c0f523a7b16bc548",
+    "new_hash": "8a7368124266d2884ab359d3028fcc03114e158328d007580ed3c226e5599bbf",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,10 +15,10 @@\n LAST DATA UPDATE :\n-MarineTraffic\n-Croatian Register of Shipping\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n-UK P&I Club\n-The London P&I Club\n-INTERCARGO\n+IHS Maritime\n+Türk Loydu\n+Mediterranean MoU\n+Paris MoU\n+Indian Ocean MoU\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n+US Coast Guard\n USER ACTIVITY :",
+      "lines_added": 8,
+      "lines_removed": 8,
+      "added_sample": [
+        "IHS Maritime",
+        "Türk Loydu",
+        "Mediterranean MoU",
+        "Paris MoU",
+        "Indian Ocean MoU",
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO",
+        "US Coast Guard"
+      ],
+      "removed_sample": [
+        "MarineTraffic",
+        "Croatian Register of Shipping",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping",
+        "UK P&I Club",
+        "The London P&I Club",
+        "INTERCARGO"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261105T054734-rightship-vessel-vetting-criteria-help-article",
+    "source_id": "rightship-vessel-vetting-criteria-help-article",
+    "source_name": "RightShip – Vessel vetting criteria (help article)",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria",
+    "detected_at": "2026-11-05T05:47:34+00:00",
+    "previous_hash": "2825b35168566e27869f909cd9da2af065950aea0cb9dfcb7f7ccc0f273f5682",
+    "new_hash": "6b56dc0155602075c5377591c1b86c1f4633c309c34f4ecfec77b665a2d2f8a3",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -46,3 +46,2 @@\n Energy Saving Devices\n-Maritime Emissions Portal\n Management Audit",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Maritime Emissions Portal"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261105T054733-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-05T05:47:33+00:00",
+    "previous_hash": "ae67df0446784f48d0d79e3d5d0696ccdcff4c3853d3dbbaf06f9ac8d9663b6b",
+    "new_hash": "f0856729f1cf03656059c5bae46d43297a6ef2fb26135fc4264c952185b8659f",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,13 @@\n CDI\n+5 November 2026\n+New CDI-T report for terminal “Granel Química Ltda. Alemoa”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Granel Química Ltda. Alemoa\n+• Country:\n+Brazil\n+• Inspection date:\n+17th October 2026\n 3 November 2026",
+      "lines_added": 11,
+      "lines_removed": 0,
+      "added_sample": [
+        "5 November 2026",
+        "New CDI-T report for terminal “Granel Química Ltda. Alemoa”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "Granel Química Ltda. Alemoa",
+        "• Country:",
+        "Brazil",
+        "• Inspection date:",
+        "17th October 2026"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261105T054731-ocimf-members-news-newsletter-index",
+    "source_id": "ocimf-members-news-newsletter-index",
+    "source_name": "OCIMF – Members' News newsletter index",
+    "owner": "OCIMF",
+    "category": "news",
+    "url": "https://www.ocimf.org/news-and-events/newsletter",
+    "detected_at": "2026-11-05T05:47:31+00:00",
+    "previous_hash": "5a75566056f1d3beaf5986ed1af2fb026c1aa5b3473b0d19e8470ce949c32137",
+    "new_hash": "2c95fcd5dd79f74b67b07d9dc999822007777284dc4ff74e4d4ff673f9efb31c",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -2,2 +2,6 @@\n Keep up to date with the latest news at OCIMF and find out how we are delivering best practice for the maritime industry.\n+OCIMF Members' News - Issue 164\n+Expired\n+04 November 2026\n+\"In September, the SIRE 2.0 programme reached a major milestone in passing its second anniversary.\"\n OCIMF Members' News - Issue 163\n@@ -38,6 +42,2 @@\n \"OCIMF is committed to widening its circle of collaboration, with operators, service providers, manufacturers, regulators, educators and others, so that safe practice keeps pace with change.\"\n-Issue 154 - December 2025\n-Expired\n-17 December 2025\n-\"To close out the year, I’d like to extend warm holiday wishes to all, and safe and secure voyages to our seafarers everywhere.\"\n ×",
+      "lines_added": 4,
+      "lines_removed": 4,
+      "added_sample": [
+        "OCIMF Members' News - Issue 164",
+        "Expired",
+        "04 November 2026",
+        "\"In September, the SIRE 2.0 programme reached a major milestone in passing its second anniversary.\""
+      ],
+      "removed_sample": [
+        "Issue 154 - December 2025",
+        "Expired",
+        "17 December 2025",
+        "\"To close out the year, I’d like to extend warm holiday wishes to all, and safe and secure voyages to our seafarers everywhere.\""
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261105T054731-ocimf-news-press-releases",
+    "source_id": "ocimf-news-press-releases",
+    "source_name": "OCIMF – News & press releases",
+    "owner": "OCIMF",
+    "category": "news",
+    "url": "https://www.ocimf.org/news-and-events/news",
+    "detected_at": "2026-11-05T05:47:31+00:00",
+    "previous_hash": "5a75566056f1d3beaf5986ed1af2fb026c1aa5b3473b0d19e8470ce949c32137",
+    "new_hash": "2c95fcd5dd79f74b67b07d9dc999822007777284dc4ff74e4d4ff673f9efb31c",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -2,2 +2,6 @@\n Keep up to date with the latest news at OCIMF and find out how we are delivering best practice for the maritime industry.\n+OCIMF Members' News - Issue 164\n+Expired\n+04 November 2026\n+\"In September, the SIRE 2.0 programme reached a major milestone in passing its second anniversary.\"\n OCIMF Members' News - Issue 163\n@@ -38,6 +42,2 @@\n \"OCIMF is committed to widening its circle of collaboration, with operators, service providers, manufacturers, regulators, educators and others, so that safe practice keeps pace with change.\"\n-Issue 154 - December 2025\n-Expired\n-17 December 2025\n-\"To close out the year, I’d like to extend warm holiday wishes to all, and safe and secure voyages to our seafarers everywhere.\"\n ×",
+      "lines_added": 4,
+      "lines_removed": 4,
+      "added_sample": [
+        "OCIMF Members' News - Issue 164",
+        "Expired",
+        "04 November 2026",
+        "\"In September, the SIRE 2.0 programme reached a major milestone in passing its second anniversary.\""
+      ],
+      "removed_sample": [
+        "Issue 154 - December 2025",
+        "Expired",
+        "17 December 2025",
+        "\"To close out the year, I’d like to extend warm holiday wishes to all, and safe and secure voyages to our seafarers everywhere.\""
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261104T054449-intertanko-news-desk",
     "source_id": "intertanko-news-desk",
     "source_name": "INTERTANKO – News desk",

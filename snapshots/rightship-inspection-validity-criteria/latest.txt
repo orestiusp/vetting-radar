@@ -109,5 +109,4 @@ GHG Rating Standard
 Submitting Documentation
 CII Rating on RightShip Platform
 Energy Saving Devices
-Maritime Emissions Portal
 Management Audit

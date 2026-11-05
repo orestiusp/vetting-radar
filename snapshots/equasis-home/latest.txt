@@ -13,14 +13,14 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-MarineTraffic
-Croatian Register of Shipping
-Nippon Kaiji Kyokai
-Lloyd's Register
-American Bureau of Shipping
-UK P&I Club
-The London P&I Club
-INTERCARGO
+IHS Maritime
+Türk Loydu
+Mediterranean MoU
+Paris MoU
+Indian Ocean MoU
+US Coast Guard - QualShip 21
+US Coast Guard - E_ZERO
+US Coast Guard
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

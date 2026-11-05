@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-04T05:50:51+00:00",
-      "last_ok": "2026-11-04T05:50:51+00:00",
+      "last_checked": "2026-11-05T05:53:43+00:00",
+      "last_ok": "2026-11-05T05:53:43+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-04T05:50:52+00:00",
-      "last_ok": "2026-11-04T05:50:52+00:00",
+      "last_checked": "2026-11-05T05:53:44+00:00",
+      "last_ok": "2026-11-05T05:53:44+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-04T05:50:52+00:00",
-      "last_ok": "2026-11-04T05:50:52+00:00",
+      "last_checked": "2026-11-05T05:53:44+00:00",
+      "last_ok": "2026-11-05T05:53:44+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-04T05:50:53+00:00",
-      "last_ok": "2026-11-04T05:50:53+00:00",
+      "last_checked": "2026-11-05T05:53:45+00:00",
+      "last_ok": "2026-11-05T05:53:45+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-04T05:50:54+00:00",
-      "last_ok": "2026-11-04T05:50:54+00:00",
+      "last_checked": "2026-11-05T05:53:46+00:00",
+      "last_ok": "2026-11-05T05:53:46+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-04T05:50:54+00:00",
-      "last_ok": "2026-11-04T05:50:54+00:00",
+      "last_checked": "2026-11-05T05:53:46+00:00",
+      "last_ok": "2026-11-05T05:53:46+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "164a18d576a15ea6",
+      "feed": "ukpandi-circulars",
+      "source_body": "UK P&I Club",
+      "source_type": "pandi",
+      "title": "Circular 19/26: Annual General Meeting Update",
+      "url": "https://www.ukpandi.com/news-and-resources/circulars/article/circular-19/26-annual-general-meeting-update/",
+      "published": "Wed, 04 Nov 2026 08:53:00 +0000",
+      "summary_from_feed": "",
+      "relevance": "unsorted",
+      "found_at": "2026-11-05T05:53:46+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "679aa5a735303fcd",
       "feed": "swedish-club",
@@ -2606,5 +2622,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 8
+  "open_new": 9
 }

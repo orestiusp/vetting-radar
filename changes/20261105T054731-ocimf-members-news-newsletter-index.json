@@ -1,0 +1,32 @@
+{
+  "id": "20261105T054731-ocimf-members-news-newsletter-index",
+  "source_id": "ocimf-members-news-newsletter-index",
+  "source_name": "OCIMF – Members' News newsletter index",
+  "owner": "OCIMF",
+  "category": "news",
+  "url": "https://www.ocimf.org/news-and-events/newsletter",
+  "detected_at": "2026-11-05T05:47:31+00:00",
+  "previous_hash": "5a75566056f1d3beaf5986ed1af2fb026c1aa5b3473b0d19e8470ce949c32137",
+  "new_hash": "2c95fcd5dd79f74b67b07d9dc999822007777284dc4ff74e4d4ff673f9efb31c",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -2,2 +2,6 @@\n Keep up to date with the latest news at OCIMF and find out how we are delivering best practice for the maritime industry.\n+OCIMF Members' News - Issue 164\n+Expired\n+04 November 2026\n+\"In September, the SIRE 2.0 programme reached a major milestone in passing its second anniversary.\"\n OCIMF Members' News - Issue 163\n@@ -38,6 +42,2 @@\n \"OCIMF is committed to widening its circle of collaboration, with operators, service providers, manufacturers, regulators, educators and others, so that safe practice keeps pace with change.\"\n-Issue 154 - December 2025\n-Expired\n-17 December 2025\n-\"To close out the year, I’d like to extend warm holiday wishes to all, and safe and secure voyages to our seafarers everywhere.\"\n ×",
+    "lines_added": 4,
+    "lines_removed": 4,
+    "added_sample": [
+      "OCIMF Members' News - Issue 164",
+      "Expired",
+      "04 November 2026",
+      "\"In September, the SIRE 2.0 programme reached a major milestone in passing its second anniversary.\""
+    ],
+    "removed_sample": [
+      "Issue 154 - December 2025",
+      "Expired",
+      "17 December 2025",
+      "\"To close out the year, I’d like to extend warm holiday wishes to all, and safe and secure voyages to our seafarers everywhere.\""
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "20261105T054738-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-05T05:47:38+00:00",
+  "previous_hash": "181ea120de9602ea767c3ed16c6ee6f1b6ca4e91660038c7c0f523a7b16bc548",
+  "new_hash": "8a7368124266d2884ab359d3028fcc03114e158328d007580ed3c226e5599bbf",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,10 +15,10 @@\n LAST DATA UPDATE :\n-MarineTraffic\n-Croatian Register of Shipping\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n-UK P&I Club\n-The London P&I Club\n-INTERCARGO\n+IHS Maritime\n+Türk Loydu\n+Mediterranean MoU\n+Paris MoU\n+Indian Ocean MoU\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n+US Coast Guard\n USER ACTIVITY :",
+    "lines_added": 8,
+    "lines_removed": 8,
+    "added_sample": [
+      "IHS Maritime",
+      "Türk Loydu",
+      "Mediterranean MoU",
+      "Paris MoU",
+      "Indian Ocean MoU",
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO",
+      "US Coast Guard"
+    ],
+    "removed_sample": [
+      "MarineTraffic",
+      "Croatian Register of Shipping",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping",
+      "UK P&I Club",
+      "The London P&I Club",
+      "INTERCARGO"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

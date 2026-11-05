@@ -1,0 +1,24 @@
+{
+  "id": "20261105T054742-rightship-inspection-validity-criteria",
+  "source_id": "rightship-inspection-validity-criteria",
+  "source_name": "RightShip – Inspection Validity Criteria",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+  "detected_at": "2026-11-05T05:47:42+00:00",
+  "previous_hash": "1ba479c1bca53a7a714c57e6f673207d757b1b06c668a6823485fe0e975c7b00",
+  "new_hash": "f0ab63ebfbfa606f7b69292d8369a46c52e6e9e3ad4dc6b4ddc866a8fa5830a5",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -111,3 +111,2 @@\n Energy Saving Devices\n-Maritime Emissions Portal\n Management Audit",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "Maritime Emissions Portal"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
