@@ -1,0 +1,30 @@
+{
+  "id": "20261106T054549-imo-media-centre-press-briefings",
+  "source_id": "imo-media-centre-press-briefings",
+  "source_name": "IMO – Media centre press briefings",
+  "owner": "IMO",
+  "category": "regulation",
+  "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+  "detected_at": "2026-11-06T05:45:49+00:00",
+  "previous_hash": "6bf61d2da3883e4907c796b2ef43f466bfdd0020116dfeff82c8bc8622da9bfe",
+  "new_hash": "47a6e05723d6a5ec2807336e44b2231d7b216d48cc97574d7682f1a1e8af9fad",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,5 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+04 November 2026\n+Dalian Maritime University's Yu Jiajia to receive 2027 IMO Gender Equality Award\n+From the bridge to the classroom, Ms Yu has helped build a more inclusive maritime sector in China, serving as a role model for the global maritime community.\n 28 October 2026\n@@ -32,4 +35 @@\n IMO Secretary-General demands immediate and unconditional release of more than 90 seafarers held captive.\n-12 August 2026\n-Statement on deadly ship attack in the Red Sea\n-IMO Secretary-General condemns attack on international shipping",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "04 November 2026",
+      "Dalian Maritime University's Yu Jiajia to receive 2027 IMO Gender Equality Award",
+      "From the bridge to the classroom, Ms Yu has helped build a more inclusive maritime sector in China, serving as a role model for the global maritime community."
+    ],
+    "removed_sample": [
+      "12 August 2026",
+      "Statement on deadly ship attack in the Red Sea",
+      "IMO Secretary-General condemns attack on international shipping"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

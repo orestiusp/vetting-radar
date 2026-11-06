@@ -1,5 +1,133 @@
 [
   {
+    "id": "20261106T054549-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-06T05:45:49+00:00",
+    "previous_hash": "8a7368124266d2884ab359d3028fcc03114e158328d007580ed3c226e5599bbf",
+    "new_hash": "dd49969f32be4a3bde534732eb1356088cb05fde8af2485d3529408fca1a53d1",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,3 +15,2 @@\n LAST DATA UPDATE :\n-IHS Maritime\n Türk Loydu\n@@ -19,6 +18,9 @@\n Paris MoU\n-Indian Ocean MoU\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n-US Coast Guard\n+Croatian Register of Shipping\n+Korean Register of Shipping\n+China Classification Society\n+Russian Maritime Register of Shipping\n+Phoenix Register of Shipping\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 5,
+      "added_sample": [
+        "Croatian Register of Shipping",
+        "Korean Register of Shipping",
+        "China Classification Society",
+        "Russian Maritime Register of Shipping",
+        "Phoenix Register of Shipping",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register"
+      ],
+      "removed_sample": [
+        "IHS Maritime",
+        "Indian Ocean MoU",
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO",
+        "US Coast Guard"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261106T054549-imo-media-centre-press-briefings",
+    "source_id": "imo-media-centre-press-briefings",
+    "source_name": "IMO – Media centre press briefings",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+    "detected_at": "2026-11-06T05:45:49+00:00",
+    "previous_hash": "6bf61d2da3883e4907c796b2ef43f466bfdd0020116dfeff82c8bc8622da9bfe",
+    "new_hash": "47a6e05723d6a5ec2807336e44b2231d7b216d48cc97574d7682f1a1e8af9fad",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,5 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+04 November 2026\n+Dalian Maritime University's Yu Jiajia to receive 2027 IMO Gender Equality Award\n+From the bridge to the classroom, Ms Yu has helped build a more inclusive maritime sector in China, serving as a role model for the global maritime community.\n 28 October 2026\n@@ -32,4 +35 @@\n IMO Secretary-General demands immediate and unconditional release of more than 90 seafarers held captive.\n-12 August 2026\n-Statement on deadly ship attack in the Red Sea\n-IMO Secretary-General condemns attack on international shipping",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "04 November 2026",
+        "Dalian Maritime University's Yu Jiajia to receive 2027 IMO Gender Equality Award",
+        "From the bridge to the classroom, Ms Yu has helped build a more inclusive maritime sector in China, serving as a role model for the global maritime community."
+      ],
+      "removed_sample": [
+        "12 August 2026",
+        "Statement on deadly ship attack in the Red Sea",
+        "IMO Secretary-General condemns attack on international shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261106T054544-cdi-marine-document-downloads",
+    "source_id": "cdi-marine-document-downloads",
+    "source_name": "CDI – Marine document downloads",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_download_documents",
+    "detected_at": "2026-11-06T05:45:44+00:00",
+    "previous_hash": "78b012d0547d1b999b0a8e8a9235543de5b93f899dedbc63319910880fd4eff2",
+    "new_hash": "0d447ea49b040739113055932f0c1d829ed023805fd5b3274c0d60afb7eb0ea8",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -82,2 +82,7 @@\n 10.5: 中文翻译 (Chinese Translation): Dry Bulk Carrier Chapter 5 10\n+th\n+Edition SIR\n+USD 10.00\n+(358 Kb)\n+10.5: 中文翻译 (Chinese Translation): AEPS Questionnaire CDI 10\n th",
+      "lines_added": 5,
+      "lines_removed": 0,
+      "added_sample": [
+        "th",
+        "Edition SIR",
+        "USD 10.00",
+        "(358 Kb)",
+        "10.5: 中文翻译 (Chinese Translation): AEPS Questionnaire CDI 10"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261106T054544-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-06T05:45:44+00:00",
+    "previous_hash": "f0856729f1cf03656059c5bae46d43297a6ef2fb26135fc4264c952185b8659f",
+    "new_hash": "6478c5b5c60d4c20482d7bb7fc989f7a50d7dbdf5035aa236f27a6d224f8f50c",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -71,2 +71,13 @@\n CDI\n+5 November 2026\n+New CDI-T report for terminal “UM Terminals Ltd”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+UM Terminals Ltd\n+• Country:\n+United Kingdom\n+• Inspection date:\n+21st October 2026\n 5 November 2026",
+      "lines_added": 11,
+      "lines_removed": 0,
+      "added_sample": [
+        "5 November 2026",
+        "New CDI-T report for terminal “UM Terminals Ltd”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "UM Terminals Ltd",
+        "• Country:",
+        "United Kingdom",
+        "• Inspection date:",
+        "21st October 2026"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261105T054742-rightship-risq-help-article",
     "source_id": "rightship-risq-help-article",
     "source_name": "RightShip – RISQ help article",

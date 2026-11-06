@@ -1,0 +1,28 @@
+{
+  "id": "20261106T054544-cdi-marine-document-downloads",
+  "source_id": "cdi-marine-document-downloads",
+  "source_name": "CDI – Marine document downloads",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_download_documents",
+  "detected_at": "2026-11-06T05:45:44+00:00",
+  "previous_hash": "78b012d0547d1b999b0a8e8a9235543de5b93f899dedbc63319910880fd4eff2",
+  "new_hash": "0d447ea49b040739113055932f0c1d829ed023805fd5b3274c0d60afb7eb0ea8",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -82,2 +82,7 @@\n 10.5: 中文翻译 (Chinese Translation): Dry Bulk Carrier Chapter 5 10\n+th\n+Edition SIR\n+USD 10.00\n+(358 Kb)\n+10.5: 中文翻译 (Chinese Translation): AEPS Questionnaire CDI 10\n th",
+    "lines_added": 5,
+    "lines_removed": 0,
+    "added_sample": [
+      "th",
+      "Edition SIR",
+      "USD 10.00",
+      "(358 Kb)",
+      "10.5: 中文翻译 (Chinese Translation): AEPS Questionnaire CDI 10"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

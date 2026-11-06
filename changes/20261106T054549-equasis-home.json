@@ -1,0 +1,36 @@
+{
+  "id": "20261106T054549-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-06T05:45:49+00:00",
+  "previous_hash": "8a7368124266d2884ab359d3028fcc03114e158328d007580ed3c226e5599bbf",
+  "new_hash": "dd49969f32be4a3bde534732eb1356088cb05fde8af2485d3529408fca1a53d1",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,3 +15,2 @@\n LAST DATA UPDATE :\n-IHS Maritime\n Türk Loydu\n@@ -19,6 +18,9 @@\n Paris MoU\n-Indian Ocean MoU\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n-US Coast Guard\n+Croatian Register of Shipping\n+Korean Register of Shipping\n+China Classification Society\n+Russian Maritime Register of Shipping\n+Phoenix Register of Shipping\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n USER ACTIVITY :",
+    "lines_added": 7,
+    "lines_removed": 5,
+    "added_sample": [
+      "Croatian Register of Shipping",
+      "Korean Register of Shipping",
+      "China Classification Society",
+      "Russian Maritime Register of Shipping",
+      "Phoenix Register of Shipping",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register"
+    ],
+    "removed_sample": [
+      "IHS Maritime",
+      "Indian Ocean MoU",
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO",
+      "US Coast Guard"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

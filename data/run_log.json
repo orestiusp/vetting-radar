@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-05T05:53:42+00:00",
+  "run_at": "2026-11-06T05:51:53+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
-  "unchanged": 82,
-  "changed": 7,
+  "unchanged": 85,
+  "changed": 4,
   "error": 7,
   "errors": {
     "uscg-psc-detentions": "HTTPError: 403 Client Error: Forbidden for url: https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Commercial-Vessel-Compliance/Foreign-Offs",
@@ -16,16 +16,13 @@
     "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
   },
   "changed_ids": [
-    "ocimf-news-press-releases",
-    "ocimf-members-news-newsletter-index",
     "cdi-marine-news",
-    "rightship-vessel-vetting-criteria-help-article",
-    "equasis-home",
-    "rightship-inspection-validity-criteria",
-    "rightship-risq-help-article"
+    "cdi-marine-document-downloads",
+    "imo-media-centre-press-briefings",
+    "equasis-home"
   ],
   "lesson_candidates": {
-    "new": 1,
+    "new": 0,
     "baseline": 0,
     "errors": {},
     "open_new": 9

@@ -70,6 +70,17 @@ The official launch of CDI’s “ Alternative Energy & Power Supply” (AEPS) Q
 General Manager
 CDI
 5 November 2026
+New CDI-T report for terminal “UM Terminals Ltd”
+A new report is uploaded in the
+CDI-Terminals
+database for:
+• Terminal:
+UM Terminals Ltd
+• Country:
+United Kingdom
+• Inspection date:
+21st October 2026
+5 November 2026
 New CDI-T report for terminal “Granel Química Ltda. Alemoa”
 A new report is uploaded in the
 CDI-Terminals
