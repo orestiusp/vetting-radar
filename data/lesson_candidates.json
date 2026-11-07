@@ -3,48 +3,96 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-06T05:51:53+00:00",
-      "last_ok": "2026-11-06T05:51:53+00:00",
+      "last_checked": "2026-11-07T05:42:18+00:00",
+      "last_ok": "2026-11-07T05:42:18+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-06T05:51:54+00:00",
-      "last_ok": "2026-11-06T05:51:54+00:00",
+      "last_checked": "2026-11-07T05:42:19+00:00",
+      "last_ok": "2026-11-07T05:42:19+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-06T05:51:55+00:00",
-      "last_ok": "2026-11-06T05:51:55+00:00",
+      "last_checked": "2026-11-07T05:42:20+00:00",
+      "last_ok": "2026-11-07T05:42:20+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-06T05:51:56+00:00",
-      "last_ok": "2026-11-06T05:51:56+00:00",
+      "last_checked": "2026-11-07T05:42:21+00:00",
+      "last_ok": "2026-11-07T05:42:21+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-06T05:51:56+00:00",
-      "last_ok": "2026-11-06T05:51:56+00:00",
+      "last_checked": "2026-11-07T05:42:22+00:00",
+      "last_ok": "2026-11-07T05:42:22+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-06T05:51:57+00:00",
-      "last_ok": "2026-11-06T05:51:57+00:00",
+      "last_checked": "2026-11-07T05:42:22+00:00",
+      "last_ok": "2026-11-07T05:42:22+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "b543e79a925ac537",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "CINS operational guidance November 2026",
+      "url": "https://www.swedishclub.com/news/member-alert/cins-operational-guidance-november-2026/",
+      "published": "Fri, 06 Nov 2026 14:48:26 +0000",
+      "summary_from_feed": "CINS has published new operational guidance addressing the carriage of lithium-ion batteries shipped under IMDG Code Special Provision 188 (SP188). Drawing on experience from container fire incidents and input from carriers, terminal operators and shore-based firefighting specialists, the guidance highlights practical measures to improve cargo visibility, risk-informed stowage planning and emergen",
+      "relevance": "tanker-relevant",
+      "found_at": "2026-11-07T05:42:22+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
+    {
+      "key": "1cc510b96694b920",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "On the frontline",
+      "url": "https://www.swedishclub.com/news/insights/on-the-frontline/",
+      "published": "Fri, 06 Nov 2026 07:02:21 +0000",
+      "summary_from_feed": "Cyber security is an operational and business risk, not simply an IT problem. Captain VS Parani argues that shipowners need a response built around four things: people, processes, technology and insurance. In 1997, Captain VS Parani was sailing in the Mediterranean as a Second Mate when something was suddenly wrong: the ship’s digital position was [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-11-07T05:42:22+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
+    {
+      "key": "91fed497e3eeda81",
+      "feed": "ukpandi-circulars",
+      "source_body": "UK P&I Club",
+      "source_type": "pandi",
+      "title": "Circular 20/26: Update from the Board",
+      "url": "https://www.ukpandi.com/news-and-resources/circulars/article/circular-20/26-update-from-the-board/",
+      "published": "Fri, 06 Nov 2026 13:34:00 +0000",
+      "summary_from_feed": "",
+      "relevance": "unsorted",
+      "found_at": "2026-11-07T05:42:22+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "164a18d576a15ea6",
       "feed": "ukpandi-circulars",
@@ -2622,5 +2670,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 9
+  "open_new": 12
 }

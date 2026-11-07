@@ -1,5 +1,229 @@
 [
   {
+    "id": "20261107T053617-intertanko-press-general-releases",
+    "source_id": "intertanko-press-general-releases",
+    "source_name": "INTERTANKO – Press & general releases",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk/press-general-releases",
+    "detected_at": "2026-11-07T05:36:17+00:00",
+    "previous_hash": "94f55a2bfd8f591888abe272bd7a42ba1df95b7d1fd9b4eafeb1e2f0baa6950e",
+    "new_hash": "46ecda430f14d892c88fbe95609c8070772b958f97b0c50e91ac415361bd51ec",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -87,7 +87,7 @@\n NEWS\n-30 October 2026\n+6 November 2026\n Advice for Members regarding situation in Gulf Region\n ===========\n-30 October: New Hormuz attack method highlights continuing threat\n-The maritime security situation remains volatile, with the threat in the...\n+6 November: Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms\n+While the...\n 15 October 2026",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "6 November 2026",
+        "6 November: Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms",
+        "While the..."
+      ],
+      "removed_sample": [
+        "30 October 2026",
+        "30 October: New Hormuz attack method highlights continuing threat",
+        "The maritime security situation remains volatile, with the threat in the..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261107T053616-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-11-07T05:36:16+00:00",
+    "previous_hash": "f9c489150fb65291d7481f5e82272924c9a3a23240abec02d9a8ee986fd968c2",
+    "new_hash": "2f556932f678883cf8142ab147ab9f0dcdef22d2d7f03157ce1d7f71584674bf",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -87,37 +87,32 @@\n NEWS\n-3 November 2026\n-Commercial & Markets Committee Meeting, London - 23 November\n-Date and Time\n-Monday, 23 November\n-1100-1130 Arrival and coffee1130-1300 Meeting1300-1400 Lunch1400-1600 Meeting\n-Meeting venue\n-INTERTANKO London Office, St Clare...\n-30 October 2026\n-Security Update: New Hormuz attack method highlights continuing threat\n-The maritime security situation remains volatile, with the threat in the Strait of Hormuz continuing to be assessed as severe....\n-30 October 2026\n-Russian diesel: US sanctions relief and EU restrictions\n-On 9 October, the US Department of the Treasury's Office of Foreign Assets Controls (OFAC) issued Russia-related General License 135,...\n-30 October 2026\n-Tripartite 2026 focuses on future-ready ship design and regulatory certainty\n-INTERTANKO joined shipbuilders, classification societies and fellow owner associations at Tripartite 2026, held in Tokyo between 28-29 October.\n-Coordinated on...\n-30 October 2026\n-Strengthening cooperation with the Turkish Shipowners' Association & Turkish Chamber of Shipping\n-INTERTANKO continued to strengthen its engagement with the Turkish maritime community through meetings with the Turkish Shipowners' Association and the...\n-30 October 2026\n-JMIC issues additional guidance on blockade-related screening\n-The Joint Maritime Information Center (JMIC) has issued Advisory 016-26, providing additional practical guidance for vessels that may be subject...\n-30 October 2026\n-Seafarers’ Vetting Seminar, Mumbai – 4 November 2026 – Agenda available\n-INTERTANKO will hold its next Seafarers’ Vetting Seminar in Mumbai on Wednesday 4 November 2026, at the Courtyard by Marriott...\n-30 October 2026\n-North American Panel Meeting, Houston – 5 November – Agenda available\n-The next meeting of the North American Panel (58th Session) will take place on Thursday 5 November 2026 at ABS...\n-30 October 2026\n-Hellenic Mediterranean Panel Meeting – Athens, 10 December – Agenda available\n+6 November 2026\n+Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms\n+While the rest of the Gulf region remains relatively calm, the number of attacks inside the Gulf and the Strait...\n+6 November 2026\n+OFAC warns maritime sector over false flag sanctions risks\n+The US Office of Foreign Assets Control (OFAC) has issued a new alert highlighting the increasing use of false flags...\n+6 November 2026\n+Free Forum/Webinar on Biofouling – join the discussion on 24 Nov in person or online\n+Biofouling remains an important part of INTERTANKO’s strategic workplan and, with this in mind, we are to utilise the wealth...\n+6 November 2026\n+Safety, security and industry engagement take centre stage at Asian Regional Panel in Mumbai\n+Maritime safety, security, regulatory developments, environmental issues, vetting and human reliability were all high on the agenda at INTERTANKO’s Asian...\n+6 November 2026\n+Seafarers at the forefront: INTERTANKO Vetting Seminar highlights the importance of shipboard experience in vetting and safe operations\n+The experiences and contribution of seafarers were at the centre of discussions on vetting, inspections, safety and industry improvement as...\n+6 November 2026\n+Bunker Sub-Committee meeting minutes available\n+The minutes of the 57th Bunker Sub-Committee meeting held on 23 September 2026 at DNV’s headquarters in Høvik, Norway, are...\n+6 November 2026\n+Hellenic Mediterranean Panel Meeting – Athens, 10 December – Register now\n The next meeting of INTERTANKO's Hellenic Mediterranean Panel will take place in person at the Stavros Niarchos Foundation Cultural Centre...\n-30 October 2026\n+6 November 2026\n Gaps in War Risks Clauses guidance published\n War risks clauses remain an essential component of tanker charterparties. However, they should not be viewed as comprehensive risk allocation...\n…(truncated)",
+      "lines_added": 27,
+      "lines_removed": 32,
+      "added_sample": [
+        "6 November 2026",
+        "Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms",
+        "While the rest of the Gulf region remains relatively calm, the number of attacks inside the Gulf and the Strait...",
+        "6 November 2026",
+        "OFAC warns maritime sector over false flag sanctions risks",
+        "The US Office of Foreign Assets Control (OFAC) has issued a new alert highlighting the increasing use of false flags...",
+        "6 November 2026",
+        "Free Forum/Webinar on Biofouling – join the discussion on 24 Nov in person or online",
+        "Biofouling remains an important part of INTERTANKO’s strategic workplan and, with this in mind, we are to utilise the wealth...",
+        "6 November 2026",
+        "Safety, security and industry engagement take centre stage at Asian Regional Panel in Mumbai",
+        "Maritime safety, security, regulatory developments, environmental issues, vetting and human reliability were all high on the agenda at INTERTANKO’s Asian...",
+        "6 November 2026",
+        "Seafarers at the forefront: INTERTANKO Vetting Seminar highlights the importance of shipboard experience in vetting and safe operations",
+        "The experiences and contribution of seafarers were at the centre of discussions on vetting, inspections, safety and industry improvement as..."
+      ],
+      "removed_sample": [
+        "3 November 2026",
+        "Commercial & Markets Committee Meeting, London - 23 November",
+        "Date and Time",
+        "Monday, 23 November",
+        "1100-1130 Arrival and coffee1130-1300 Meeting1300-1400 Lunch1400-1600 Meeting",
+        "Meeting venue",
+        "INTERTANKO London Office, St Clare...",
+        "30 October 2026",
+        "Security Update: New Hormuz attack method highlights continuing threat",
+        "The maritime security situation remains volatile, with the threat in the Strait of Hormuz continuing to be assessed as severe....",
+        "30 October 2026",
+        "Russian diesel: US sanctions relief and EU restrictions",
+        "On 9 October, the US Department of the Treasury's Office of Foreign Assets Controls (OFAC) issued Russia-related General License 135,...",
+        "30 October 2026",
+        "Tripartite 2026 focuses on future-ready ship design and regulatory certainty"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261107T053614-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-07T05:36:14+00:00",
+    "previous_hash": "dd49969f32be4a3bde534732eb1356088cb05fde8af2485d3529408fca1a53d1",
+    "new_hash": "a1f8585e08152b039551e5c4aa24b30cbce8647a12d7572cf06dff94ffa50374",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,4 @@\n LAST DATA UPDATE :\n+Korean Register of Shipping\n+Indian Register of Shipping\n Türk Loydu\n@@ -18,9 +20,6 @@\n Paris MoU\n-Croatian Register of Shipping\n-Korean Register of Shipping\n-China Classification Society\n-Russian Maritime Register of Shipping\n-Phoenix Register of Shipping\n+Biro Klasifikasi Indonesia\n Nippon Kaiji Kyokai\n Lloyd's Register\n+American Bureau of Shipping\n USER ACTIVITY :",
+      "lines_added": 4,
+      "lines_removed": 5,
+      "added_sample": [
+        "Korean Register of Shipping",
+        "Indian Register of Shipping",
+        "Biro Klasifikasi Indonesia",
+        "American Bureau of Shipping"
+      ],
+      "removed_sample": [
+        "Croatian Register of Shipping",
+        "Korean Register of Shipping",
+        "China Classification Society",
+        "Russian Maritime Register of Shipping",
+        "Phoenix Register of Shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261107T053614-imo-meeting-summaries",
+    "source_id": "imo-meeting-summaries",
+    "source_name": "IMO – Meeting summaries",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/Default.aspx",
+    "detected_at": "2026-11-07T05:36:14+00:00",
+    "previous_hash": "d6b4d9768731bee69ae5ea02032214131245137bad7325b1a06b64cb8727501f",
+    "new_hash": "2e60abb2731993eb394717fbdfab4482c309828799864144203e2d8f665892c4",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -20,2 +20,3 @@\n Session / 02 - 06 November\n+COMPLETED\n IMO Council",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "COMPLETED"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261107T053614-imo-media-centre-press-briefings",
+    "source_id": "imo-media-centre-press-briefings",
+    "source_name": "IMO – Media centre press briefings",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+    "detected_at": "2026-11-07T05:36:14+00:00",
+    "previous_hash": "47a6e05723d6a5ec2807336e44b2231d7b216d48cc97574d7682f1a1e8af9fad",
+    "new_hash": "a06118cca8720ee4a8300104991ed95cb3a0be15209df181d2a711851f4c365f",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,8 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+06 November 2026\n+IMO Council urges stronger protection of seafarers amid threats to global shipping\n+Council condemns attacks on merchant shipping in the Red Sea and Black Sea; mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.\n+05 November 2026\n+IMO Council backs second term for Secretary-General Arsenio Dominguez\n+Decision to extend the Secretary-General’s mandate for another four years is subject to approval by the IMO Assembly in 2027.\n 04 November 2026\n@@ -29,7 +35 @@\n Conflicts must not be used as pretext to attack merchant ships.\n-28 August 2026\n-Six months of uncertainty for seafarers in Strait of Hormuz\n-IMO Secretary-General urges practical solutions and renewed cooperation to restore freedom of navigation\n-24 August 2026\n-IMO calls for urgent action as piracy resumes in the Gulf of Aden\n-IMO Secretary-General demands immediate and unconditional release of more than 90 seafarers held captive.",
+      "lines_added": 6,
+      "lines_removed": 6,
+      "added_sample": [
+        "06 November 2026",
+        "IMO Council urges stronger protection of seafarers amid threats to global shipping",
+        "Council condemns attacks on merchant shipping in the Red Sea and Black Sea; mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.",
+        "05 November 2026",
+        "IMO Council backs second term for Secretary-General Arsenio Dominguez",
+        "Decision to extend the Secretary-General’s mandate for another four years is subject to approval by the IMO Assembly in 2027."
+      ],
+      "removed_sample": [
+        "28 August 2026",
+        "Six months of uncertainty for seafarers in Strait of Hormuz",
+        "IMO Secretary-General urges practical solutions and renewed cooperation to restore freedom of navigation",
+        "24 August 2026",
+        "IMO calls for urgent action as piracy resumes in the Gulf of Aden",
+        "IMO Secretary-General demands immediate and unconditional release of more than 90 seafarers held captive."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261107T053610-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-07T05:36:10+00:00",
+    "previous_hash": "6478c5b5c60d4c20482d7bb7fc989f7a50d7dbdf5035aa236f27a6d224f8f50c",
+    "new_hash": "1d2c36a5a932329719ecebb498fb0a8c957327370cc0fee0bfa7af58b9662b86",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,2 +13,5 @@\n chemdist@cdim.org\n+6 November 2026\n+CDI Welcome Viroque Bioenergy S.L. to CDI-T\n+CDI Is pleased to announce that Viroque Bioenergy S.L. has joined CDI-T as a chemical company participant\n 18 September 2026\n@@ -16,12 +19,2 @@\n CDI is pleased to announce that Excelerate Energy Inc have joined both the CDI-Marine Scheme as Chemical company participants and the CDI-Terminal inspection scheme as a Chemical company participants\n-11 September 2026\n-CDI: Vacancy General Manager\n-CDI is seeking a\n-General Manager\n-to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.\n-Details, qualifications, skills, and experience are set out in the job advert available here\n-CDI GM Job Advert 2026.pdf\n-The closing date for applications is the 16th October 2026\n-General Manager\n-CDI\n 15 September 2026\n@@ -258,2 +251,12 @@\n 3rd September 2026\n+11 September 2026\n+CDI: Vacancy General Manager\n+CDI is seeking a\n+General Manager\n+to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.\n+Details, qualifications, skills, and experience are set out in the job advert available here\n+CDI GM Job Advert 2026.pdf\n+The closing date for applications is the 16th October 2026\n+General Manager\n+CDI\n 13 September 2026",
+      "lines_added": 13,
+      "lines_removed": 10,
+      "added_sample": [
+        "6 November 2026",
+        "CDI Welcome Viroque Bioenergy S.L. to CDI-T",
+        "CDI Is pleased to announce that Viroque Bioenergy S.L. has joined CDI-T as a chemical company participant",
+        "11 September 2026",
+        "CDI: Vacancy General Manager",
+        "CDI is seeking a",
+        "General Manager",
+        "to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.",
+        "Details, qualifications, skills, and experience are set out in the job advert available here",
+        "CDI GM Job Advert 2026.pdf",
+        "The closing date for applications is the 16th October 2026",
+        "General Manager",
+        "CDI"
+      ],
+      "removed_sample": [
+        "11 September 2026",
+        "CDI: Vacancy General Manager",
+        "CDI is seeking a",
+        "General Manager",
+        "to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.",
+        "Details, qualifications, skills, and experience are set out in the job advert available here",
+        "CDI GM Job Advert 2026.pdf",
+        "The closing date for applications is the 16th October 2026",
+        "General Manager",
+        "CDI"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261106T054549-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

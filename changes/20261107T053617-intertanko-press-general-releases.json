@@ -1,0 +1,30 @@
+{
+  "id": "20261107T053617-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-11-07T05:36:17+00:00",
+  "previous_hash": "94f55a2bfd8f591888abe272bd7a42ba1df95b7d1fd9b4eafeb1e2f0baa6950e",
+  "new_hash": "46ecda430f14d892c88fbe95609c8070772b958f97b0c50e91ac415361bd51ec",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -87,7 +87,7 @@\n NEWS\n-30 October 2026\n+6 November 2026\n Advice for Members regarding situation in Gulf Region\n ===========\n-30 October: New Hormuz attack method highlights continuing threat\n-The maritime security situation remains volatile, with the threat in the...\n+6 November: Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms\n+While the...\n 15 October 2026",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "6 November 2026",
+      "6 November: Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms",
+      "While the..."
+    ],
+    "removed_sample": [
+      "30 October 2026",
+      "30 October: New Hormuz attack method highlights continuing threat",
+      "The maritime security situation remains volatile, with the threat in the..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

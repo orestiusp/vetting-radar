@@ -1,0 +1,47 @@
+{
+  "id": "20261107T053610-cdi-marine-news",
+  "source_id": "cdi-marine-news",
+  "source_name": "CDI – Marine news",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_news",
+  "detected_at": "2026-11-07T05:36:10+00:00",
+  "previous_hash": "6478c5b5c60d4c20482d7bb7fc989f7a50d7dbdf5035aa236f27a6d224f8f50c",
+  "new_hash": "1d2c36a5a932329719ecebb498fb0a8c957327370cc0fee0bfa7af58b9662b86",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,2 +13,5 @@\n chemdist@cdim.org\n+6 November 2026\n+CDI Welcome Viroque Bioenergy S.L. to CDI-T\n+CDI Is pleased to announce that Viroque Bioenergy S.L. has joined CDI-T as a chemical company participant\n 18 September 2026\n@@ -16,12 +19,2 @@\n CDI is pleased to announce that Excelerate Energy Inc have joined both the CDI-Marine Scheme as Chemical company participants and the CDI-Terminal inspection scheme as a Chemical company participants\n-11 September 2026\n-CDI: Vacancy General Manager\n-CDI is seeking a\n-General Manager\n-to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.\n-Details, qualifications, skills, and experience are set out in the job advert available here\n-CDI GM Job Advert 2026.pdf\n-The closing date for applications is the 16th October 2026\n-General Manager\n-CDI\n 15 September 2026\n@@ -258,2 +251,12 @@\n 3rd September 2026\n+11 September 2026\n+CDI: Vacancy General Manager\n+CDI is seeking a\n+General Manager\n+to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.\n+Details, qualifications, skills, and experience are set out in the job advert available here\n+CDI GM Job Advert 2026.pdf\n+The closing date for applications is the 16th October 2026\n+General Manager\n+CDI\n 13 September 2026",
+    "lines_added": 13,
+    "lines_removed": 10,
+    "added_sample": [
+      "6 November 2026",
+      "CDI Welcome Viroque Bioenergy S.L. to CDI-T",
+      "CDI Is pleased to announce that Viroque Bioenergy S.L. has joined CDI-T as a chemical company participant",
+      "11 September 2026",
+      "CDI: Vacancy General Manager",
+      "CDI is seeking a",
+      "General Manager",
+      "to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.",
+      "Details, qualifications, skills, and experience are set out in the job advert available here",
+      "CDI GM Job Advert 2026.pdf",
+      "The closing date for applications is the 16th October 2026",
+      "General Manager",
+      "CDI"
+    ],
+    "removed_sample": [
+      "11 September 2026",
+      "CDI: Vacancy General Manager",
+      "CDI is seeking a",
+      "General Manager",
+      "to join its dynamic team. The position of “General Manager” will become available as part of a planned succession process.",
+      "Details, qualifications, skills, and experience are set out in the job advert available here",
+      "CDI GM Job Advert 2026.pdf",
+      "The closing date for applications is the 16th October 2026",
+      "General Manager",
+      "CDI"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

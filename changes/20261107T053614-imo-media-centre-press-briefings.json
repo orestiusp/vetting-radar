@@ -1,0 +1,36 @@
+{
+  "id": "20261107T053614-imo-media-centre-press-briefings",
+  "source_id": "imo-media-centre-press-briefings",
+  "source_name": "IMO – Media centre press briefings",
+  "owner": "IMO",
+  "category": "regulation",
+  "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+  "detected_at": "2026-11-07T05:36:14+00:00",
+  "previous_hash": "47a6e05723d6a5ec2807336e44b2231d7b216d48cc97574d7682f1a1e8af9fad",
+  "new_hash": "a06118cca8720ee4a8300104991ed95cb3a0be15209df181d2a711851f4c365f",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,8 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+06 November 2026\n+IMO Council urges stronger protection of seafarers amid threats to global shipping\n+Council condemns attacks on merchant shipping in the Red Sea and Black Sea; mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.\n+05 November 2026\n+IMO Council backs second term for Secretary-General Arsenio Dominguez\n+Decision to extend the Secretary-General’s mandate for another four years is subject to approval by the IMO Assembly in 2027.\n 04 November 2026\n@@ -29,7 +35 @@\n Conflicts must not be used as pretext to attack merchant ships.\n-28 August 2026\n-Six months of uncertainty for seafarers in Strait of Hormuz\n-IMO Secretary-General urges practical solutions and renewed cooperation to restore freedom of navigation\n-24 August 2026\n-IMO calls for urgent action as piracy resumes in the Gulf of Aden\n-IMO Secretary-General demands immediate and unconditional release of more than 90 seafarers held captive.",
+    "lines_added": 6,
+    "lines_removed": 6,
+    "added_sample": [
+      "06 November 2026",
+      "IMO Council urges stronger protection of seafarers amid threats to global shipping",
+      "Council condemns attacks on merchant shipping in the Red Sea and Black Sea; mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.",
+      "05 November 2026",
+      "IMO Council backs second term for Secretary-General Arsenio Dominguez",
+      "Decision to extend the Secretary-General’s mandate for another four years is subject to approval by the IMO Assembly in 2027."
+    ],
+    "removed_sample": [
+      "28 August 2026",
+      "Six months of uncertainty for seafarers in Strait of Hormuz",
+      "IMO Secretary-General urges practical solutions and renewed cooperation to restore freedom of navigation",
+      "24 August 2026",
+      "IMO calls for urgent action as piracy resumes in the Gulf of Aden",
+      "IMO Secretary-General demands immediate and unconditional release of more than 90 seafarers held captive."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
