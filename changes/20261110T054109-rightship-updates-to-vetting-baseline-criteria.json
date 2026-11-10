@@ -1,0 +1,24 @@
+{
+  "id": "20261110T054109-rightship-updates-to-vetting-baseline-criteria",
+  "source_id": "rightship-updates-to-vetting-baseline-criteria",
+  "source_name": "RightShip – Updates to vetting baseline criteria",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+  "detected_at": "2026-11-10T05:41:09+00:00",
+  "previous_hash": "1984f10041e8c66c6e288c9abff0e20ca12a3e8a0443cc2c202eefc75a099ceb",
+  "new_hash": "b24fe964b9797114c11cf2cd0738b85ba7e53173e0c78a23acf3b2bab4266a70",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -19,2 +19,3 @@\n For further support contact the team at RightShip\n+Contact Us\n Rightship",
+    "lines_added": 1,
+    "lines_removed": 0,
+    "added_sample": [
+      "Contact Us"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

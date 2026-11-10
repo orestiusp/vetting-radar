@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-09T05:57:41+00:00",
-      "last_ok": "2026-11-09T05:57:41+00:00",
+      "last_checked": "2026-11-10T05:47:18+00:00",
+      "last_ok": "2026-11-10T05:47:18+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-09T05:57:42+00:00",
-      "last_ok": "2026-11-09T05:57:42+00:00",
+      "last_checked": "2026-11-10T05:47:19+00:00",
+      "last_ok": "2026-11-10T05:47:19+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-09T05:57:42+00:00",
-      "last_ok": "2026-11-09T05:57:42+00:00",
+      "last_checked": "2026-11-10T05:47:20+00:00",
+      "last_ok": "2026-11-10T05:47:20+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-09T05:57:43+00:00",
-      "last_ok": "2026-11-09T05:57:43+00:00",
+      "last_checked": "2026-11-10T05:47:21+00:00",
+      "last_ok": "2026-11-10T05:47:21+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-09T05:57:44+00:00",
-      "last_ok": "2026-11-09T05:57:44+00:00",
+      "last_checked": "2026-11-10T05:47:22+00:00",
+      "last_ok": "2026-11-10T05:47:22+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-09T05:57:44+00:00",
-      "last_ok": "2026-11-09T05:57:44+00:00",
+      "last_checked": "2026-11-10T05:47:22+00:00",
+      "last_ok": "2026-11-10T05:47:22+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "85fa2c4dbf1efc8d",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Container fires involving UN 3378 sodium percarbonate",
+      "url": "https://www.swedishclub.com/news/member-alert/container-fires-involving-un-3378-sodium-percarbonate/",
+      "published": "Mon, 09 Nov 2026 07:47:31 +0000",
+      "summary_from_feed": "Recent incidents Since early October 2026, several container fires have involved UN 3378 sodium carbonate peroxyhydrate, commonly called sodium percarbonate, loaded at the Chinese ports of Qingdao and Lianyungang. In the cases reviewed, the cargo was correctly declared under its proper UN number, class, and packing group. Members carrying this type of cargo from these [&#8230;]",
+      "relevance": "unsorted",
+      "found_at": "2026-11-10T05:47:22+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "b543e79a925ac537",
       "feed": "swedish-club",
@@ -2670,5 +2686,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 12
+  "open_new": 13
 }

@@ -1,5 +1,130 @@
 [
   {
+    "id": "20261110T054114-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-10T05:41:14+00:00",
+    "previous_hash": "a1f8585e08152b039551e5c4aa24b30cbce8647a12d7572cf06dff94ffa50374",
+    "new_hash": "bb79c5989ac2a6fe63ddb3ba476bf3c300610f9015f8c17148bb7b3a22bb7fac",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,4 +15,4 @@\n LAST DATA UPDATE :\n-Korean Register of Shipping\n-Indian Register of Shipping\n+West of England Shipowners\n+Japan Ship Owners' P&I Association\n Türk Loydu\n@@ -20,6 +20,2 @@\n Paris MoU\n-Biro Klasifikasi Indonesia\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n USER ACTIVITY :",
+      "lines_added": 2,
+      "lines_removed": 6,
+      "added_sample": [
+        "West of England Shipowners",
+        "Japan Ship Owners' P&I Association"
+      ],
+      "removed_sample": [
+        "Korean Register of Shipping",
+        "Indian Register of Shipping",
+        "Biro Klasifikasi Indonesia",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261110T054114-imo-meeting-summaries",
+    "source_id": "imo-meeting-summaries",
+    "source_name": "IMO – Meeting summaries",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/Default.aspx",
+    "detected_at": "2026-11-10T05:41:14+00:00",
+    "previous_hash": "2e60abb2731993eb394717fbdfab4482c309828799864144203e2d8f665892c4",
+    "new_hash": "845ab73bd76a5b3968721a583a9c8a538f4a3dfa83b8faff92f15bb0dba3ee91",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -17,7 +17,2 @@\n November\n-138\n-th\n-Session / 02 - 06 November\n-COMPLETED\n-IMO Council\n Session / 23 - 27 November\n@@ -117,2 +112,8 @@\n Completed Meetings\n+November\n+138\n+th\n+Session / 02 - 06 November\n+COMPLETED\n+IMO Council\n October",
+      "lines_added": 6,
+      "lines_removed": 5,
+      "added_sample": [
+        "November",
+        "138",
+        "th",
+        "Session / 02 - 06 November",
+        "COMPLETED",
+        "IMO Council"
+      ],
+      "removed_sample": [
+        "138",
+        "th",
+        "Session / 02 - 06 November",
+        "COMPLETED",
+        "IMO Council"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261110T054109-rightship-updates-to-vetting-baseline-criteria",
+    "source_id": "rightship-updates-to-vetting-baseline-criteria",
+    "source_name": "RightShip – Updates to vetting baseline criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+    "detected_at": "2026-11-10T05:41:09+00:00",
+    "previous_hash": "1984f10041e8c66c6e288c9abff0e20ca12a3e8a0443cc2c202eefc75a099ceb",
+    "new_hash": "b24fe964b9797114c11cf2cd0738b85ba7e53173e0c78a23acf3b2bab4266a70",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -19,2 +19,3 @@\n For further support contact the team at RightShip\n+Contact Us\n Rightship",
+      "lines_added": 1,
+      "lines_removed": 0,
+      "added_sample": [
+        "Contact Us"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261110T054109-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-10T05:41:09+00:00",
+    "previous_hash": "1d2c36a5a932329719ecebb498fb0a8c957327370cc0fee0bfa7af58b9662b86",
+    "new_hash": "eae0500aec1b2cfd5d7ad704f7ce05b554518807d6e908474526f579b92605fa",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -64,2 +64,13 @@\n CDI\n+9 November 2026\n+New CDI-T report for terminal “Kinder Morgan Wilmington”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Kinder Morgan Wilmington\n+• Country:\n+United States\n+• Inspection date:\n+28th September 2026\n 5 November 2026",
+      "lines_added": 11,
+      "lines_removed": 0,
+      "added_sample": [
+        "9 November 2026",
+        "New CDI-T report for terminal “Kinder Morgan Wilmington”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "Kinder Morgan Wilmington",
+        "• Country:",
+        "United States",
+        "• Inspection date:",
+        "28th September 2026"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261107T053617-intertanko-press-general-releases",
     "source_id": "intertanko-press-general-releases",
     "source_name": "INTERTANKO – Press & general releases",

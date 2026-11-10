@@ -1,0 +1,35 @@
+{
+  "id": "20261110T054114-imo-meeting-summaries",
+  "source_id": "imo-meeting-summaries",
+  "source_name": "IMO – Meeting summaries",
+  "owner": "IMO",
+  "category": "regulation",
+  "url": "https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/Default.aspx",
+  "detected_at": "2026-11-10T05:41:14+00:00",
+  "previous_hash": "2e60abb2731993eb394717fbdfab4482c309828799864144203e2d8f665892c4",
+  "new_hash": "845ab73bd76a5b3968721a583a9c8a538f4a3dfa83b8faff92f15bb0dba3ee91",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -17,7 +17,2 @@\n November\n-138\n-th\n-Session / 02 - 06 November\n-COMPLETED\n-IMO Council\n Session / 23 - 27 November\n@@ -117,2 +112,8 @@\n Completed Meetings\n+November\n+138\n+th\n+Session / 02 - 06 November\n+COMPLETED\n+IMO Council\n October",
+    "lines_added": 6,
+    "lines_removed": 5,
+    "added_sample": [
+      "November",
+      "138",
+      "th",
+      "Session / 02 - 06 November",
+      "COMPLETED",
+      "IMO Council"
+    ],
+    "removed_sample": [
+      "138",
+      "th",
+      "Session / 02 - 06 November",
+      "COMPLETED",
+      "IMO Council"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

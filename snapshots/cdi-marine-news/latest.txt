@@ -62,6 +62,17 @@ CDI will shortly release PDF versions of the AEPS questionnaire, next week, whic
 The official launch of CDI’s “ Alternative Energy & Power Supply” (AEPS) Questionnaire is scheduled for Monday 14th December 2026
 General Manager
 CDI
+9 November 2026
+New CDI-T report for terminal “Kinder Morgan Wilmington”
+A new report is uploaded in the
+CDI-Terminals
+database for:
+• Terminal:
+Kinder Morgan Wilmington
+• Country:
+United States
+• Inspection date:
+28th September 2026
 5 November 2026
 New CDI-T report for terminal “UM Terminals Ltd”
 A new report is uploaded in the
