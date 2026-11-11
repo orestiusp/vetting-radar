@@ -1,0 +1,24 @@
+{
+  "id": "20261111T054549-rightship-inspection-validity-criteria",
+  "source_id": "rightship-inspection-validity-criteria",
+  "source_name": "RightShip – Inspection Validity Criteria",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+  "detected_at": "2026-11-11T05:45:49+00:00",
+  "previous_hash": "f0ab63ebfbfa606f7b69292d8369a46c52e6e9e3ad4dc6b4ddc866a8fa5830a5",
+  "new_hash": "bb13d101c3910cfad915d90b97c107bdc2e41069860ffce9930b993a909c5690",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -89,3 +89,2 @@\n RightShip Inspections\n-RightShip Inspection Report Access\n RightFLEET",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "RightShip Inspection Report Access"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

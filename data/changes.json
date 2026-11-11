@@ -1,5 +1,135 @@
 [
   {
+    "id": "20261111T054550-rightship-risq-help-article",
+    "source_id": "rightship-risq-help-article",
+    "source_name": "RightShip – RISQ help article",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/rightships-inspection-questionnaire-risq",
+    "detected_at": "2026-11-11T05:45:50+00:00",
+    "previous_hash": "b0339108a9fa5d723409d361bddd5c0e787b3117dd81f2868ea1b00f9e7fae32",
+    "new_hash": "c5391bcad6a3c29fd919ac618f944da38b05e0437f89f5253450af3ef237fa3c",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -49,3 +49,2 @@\n RightShip Inspections\n-RightShip Inspection Report Access\n RightFLEET",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "RightShip Inspection Report Access"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261111T054549-rightship-inspection-validity-criteria",
+    "source_id": "rightship-inspection-validity-criteria",
+    "source_name": "RightShip – Inspection Validity Criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/inspection-validity-criteria",
+    "detected_at": "2026-11-11T05:45:49+00:00",
+    "previous_hash": "f0ab63ebfbfa606f7b69292d8369a46c52e6e9e3ad4dc6b4ddc866a8fa5830a5",
+    "new_hash": "bb13d101c3910cfad915d90b97c107bdc2e41069860ffce9930b993a909c5690",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -89,3 +89,2 @@\n RightShip Inspections\n-RightShip Inspection Report Access\n RightFLEET",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "RightShip Inspection Report Access"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261111T054546-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-11T05:45:46+00:00",
+    "previous_hash": "bb79c5989ac2a6fe63ddb3ba476bf3c300610f9015f8c17148bb7b3a22bb7fac",
+    "new_hash": "7cb6856a59fa2cc58d61cf3b66eee84e3efeefeb7b56a220f31c564377759042",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,4 +15,5 @@\n LAST DATA UPDATE :\n-West of England Shipowners\n-Japan Ship Owners' P&I Association\n+IHS Maritime\n+Korean Register of Shipping\n+Britannia Steamship insurance Association\n Türk Loydu\n@@ -20,2 +21,5 @@\n Paris MoU\n+MarineTraffic\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n USER ACTIVITY :",
+      "lines_added": 6,
+      "lines_removed": 2,
+      "added_sample": [
+        "IHS Maritime",
+        "Korean Register of Shipping",
+        "Britannia Steamship insurance Association",
+        "MarineTraffic",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register"
+      ],
+      "removed_sample": [
+        "West of England Shipowners",
+        "Japan Ship Owners' P&I Association"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261111T054542-rightship-updates-to-vetting-baseline-criteria",
+    "source_id": "rightship-updates-to-vetting-baseline-criteria",
+    "source_name": "RightShip – Updates to vetting baseline criteria",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://rightship.com/insights/updates-vetting-baseline-criteria",
+    "detected_at": "2026-11-11T05:45:42+00:00",
+    "previous_hash": "b24fe964b9797114c11cf2cd0738b85ba7e53173e0c78a23acf3b2bab4266a70",
+    "new_hash": "73c7263a04ef15ac604b26eec84e48df08094c6df2b5ebd0dbabcd8326c893c6",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -3,3 +3,3 @@\n < 1 min read\n-Updates to Vetting Baseline Criteria | Rightship\n+Updates to Vetting Baseline Criteria\n Previous",
+      "lines_added": 1,
+      "lines_removed": 1,
+      "added_sample": [
+        "Updates to Vetting Baseline Criteria"
+      ],
+      "removed_sample": [
+        "Updates to Vetting Baseline Criteria | Rightship"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261111T054542-rightship-vessel-vetting-criteria-help-article",
+    "source_id": "rightship-vessel-vetting-criteria-help-article",
+    "source_name": "RightShip – Vessel vetting criteria (help article)",
+    "owner": "RightShip",
+    "category": "vetting-criteria",
+    "url": "https://help.rightship.com/en/articles/4995365-rightship-s-vessel-vetting-criteria",
+    "detected_at": "2026-11-11T05:45:42+00:00",
+    "previous_hash": "6b56dc0155602075c5377591c1b86c1f4633c309c34f4ecfec77b665a2d2f8a3",
+    "new_hash": "cf5fd4200161210fcce7cb21c7a22d54fceaa45fe89bc58e3d58e74e745e42a2",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -24,3 +24,2 @@\n RightShip Inspections\n-RightShip Inspection Report Access\n RightFLEET",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "RightShip Inspection Report Access"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261110T054114-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

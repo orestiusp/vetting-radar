@@ -1,0 +1,24 @@
+{
+  "id": "20261111T054550-rightship-risq-help-article",
+  "source_id": "rightship-risq-help-article",
+  "source_name": "RightShip – RISQ help article",
+  "owner": "RightShip",
+  "category": "vetting-criteria",
+  "url": "https://help.rightship.com/en/articles/rightships-inspection-questionnaire-risq",
+  "detected_at": "2026-11-11T05:45:50+00:00",
+  "previous_hash": "b0339108a9fa5d723409d361bddd5c0e787b3117dd81f2868ea1b00f9e7fae32",
+  "new_hash": "c5391bcad6a3c29fd919ac618f944da38b05e0437f89f5253450af3ef237fa3c",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -49,3 +49,2 @@\n RightShip Inspections\n-RightShip Inspection Report Access\n RightFLEET",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "RightShip Inspection Report Access"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

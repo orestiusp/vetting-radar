@@ -13,11 +13,15 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-West of England Shipowners
-Japan Ship Owners' P&I Association
+IHS Maritime
+Korean Register of Shipping
+Britannia Steamship insurance Association
 Türk Loydu
 Mediterranean MoU
 Paris MoU
+MarineTraffic
+Nippon Kaiji Kyokai
+Lloyd's Register
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

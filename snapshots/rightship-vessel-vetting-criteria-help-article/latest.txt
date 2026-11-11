@@ -22,7 +22,6 @@ Due Diligence Hub
 Due Diligence Hub for Oil, Gas, Chemicals
 Screening (Trade Check)
 RightShip Inspections
-RightShip Inspection Report Access
 RightFLEET
 PSC RiskIQ
 Fleet Focus

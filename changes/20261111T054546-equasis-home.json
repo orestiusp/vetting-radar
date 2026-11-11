@@ -1,0 +1,32 @@
+{
+  "id": "20261111T054546-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-11T05:45:46+00:00",
+  "previous_hash": "bb79c5989ac2a6fe63ddb3ba476bf3c300610f9015f8c17148bb7b3a22bb7fac",
+  "new_hash": "7cb6856a59fa2cc58d61cf3b66eee84e3efeefeb7b56a220f31c564377759042",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,4 +15,5 @@\n LAST DATA UPDATE :\n-West of England Shipowners\n-Japan Ship Owners' P&I Association\n+IHS Maritime\n+Korean Register of Shipping\n+Britannia Steamship insurance Association\n Türk Loydu\n@@ -20,2 +21,5 @@\n Paris MoU\n+MarineTraffic\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n USER ACTIVITY :",
+    "lines_added": 6,
+    "lines_removed": 2,
+    "added_sample": [
+      "IHS Maritime",
+      "Korean Register of Shipping",
+      "Britannia Steamship insurance Association",
+      "MarineTraffic",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register"
+    ],
+    "removed_sample": [
+      "West of England Shipowners",
+      "Japan Ship Owners' P&I Association"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
