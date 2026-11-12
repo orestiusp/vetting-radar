@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-11T05:51:50+00:00",
-      "last_ok": "2026-11-11T05:51:50+00:00",
+      "last_checked": "2026-11-12T05:53:53+00:00",
+      "last_ok": "2026-11-12T05:53:53+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-11T05:51:51+00:00",
-      "last_ok": "2026-11-11T05:51:51+00:00",
+      "last_checked": "2026-11-12T05:53:56+00:00",
+      "last_ok": "2026-11-12T05:53:56+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-11T05:51:52+00:00",
-      "last_ok": "2026-11-11T05:51:52+00:00",
+      "last_checked": "2026-11-12T05:53:56+00:00",
+      "last_ok": "2026-11-12T05:53:56+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-11T05:51:52+00:00",
-      "last_ok": "2026-11-11T05:51:52+00:00",
+      "last_checked": "2026-11-12T05:53:57+00:00",
+      "last_ok": "2026-11-12T05:53:57+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-11T05:51:53+00:00",
-      "last_ok": "2026-11-11T05:51:53+00:00",
+      "last_checked": "2026-11-12T05:53:57+00:00",
+      "last_ok": "2026-11-12T05:53:57+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-11T05:51:54+00:00",
-      "last_ok": "2026-11-11T05:51:54+00:00",
+      "last_checked": "2026-11-12T05:53:58+00:00",
+      "last_ok": "2026-11-12T05:53:58+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "f710330f8359f4b6",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "When the map lies",
+      "url": "https://www.swedishclub.com/news/insights/when-the-map-lies/",
+      "published": "Wed, 11 Nov 2026 08:25:51 +0000",
+      "summary_from_feed": "By Capt Aly Elsayed AFNI, Senior Technical Manager, The Nautical Institute; Lars Løge and Magnus Hov Lieng, Space Norway GNSS interference is creating a navigation challenge in which everything on the bridge can appear to be working normally while the vessel’s displayed position is wrong. Drawing on early observations from The Nautical Institute’s STEER project [&#8230;]",
+      "relevance": "transferable",
+      "found_at": "2026-11-12T05:53:57+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "85fa2c4dbf1efc8d",
       "feed": "swedish-club",
@@ -2686,5 +2702,5 @@
       "lesson_id": null
     }
   ],
-  "open_new": 13
+  "open_new": 14
 }

@@ -1,0 +1,32 @@
+{
+  "id": "20261112T054748-imo-media-centre-press-briefings",
+  "source_id": "imo-media-centre-press-briefings",
+  "source_name": "IMO – Media centre press briefings",
+  "owner": "IMO",
+  "category": "regulation",
+  "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+  "detected_at": "2026-11-12T05:47:48+00:00",
+  "previous_hash": "a06118cca8720ee4a8300104991ed95cb3a0be15209df181d2a711851f4c365f",
+  "new_hash": "61f41708c3c32de2b2856803010de5076a1405b515745bce0c3e4e1b5f6fae78",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -11,5 +11,8 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+11 November 2026\n+IMO Secretary-General calls on States to enforce maritime rules in the Strait of Hormuz\n+Secretary-General urges concrete measures to ensure compliance with international maritime regulations\n 06 November 2026\n IMO Council urges stronger protection of seafarers amid threats to global shipping\n-Council condemns attacks on merchant shipping in the Red Sea and Black Sea; mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.\n+Council condemns attacks on merchant shipping in the Red Sea and Black Sea, mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.\n 05 November 2026\n@@ -32,4 +35 @@\n Global regulations will deliver safer, more resilient shipping when they are implemented worldwide.\n-16 September 2026\n-Stop attacking merchant ships and seafarers: IMO Secretary-General to Member States\n-Conflicts must not be used as pretext to attack merchant ships.",
+    "lines_added": 4,
+    "lines_removed": 4,
+    "added_sample": [
+      "11 November 2026",
+      "IMO Secretary-General calls on States to enforce maritime rules in the Strait of Hormuz",
+      "Secretary-General urges concrete measures to ensure compliance with international maritime regulations",
+      "Council condemns attacks on merchant shipping in the Red Sea and Black Sea, mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure."
+    ],
+    "removed_sample": [
+      "Council condemns attacks on merchant shipping in the Red Sea and Black Sea; mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure.",
+      "16 September 2026",
+      "Stop attacking merchant ships and seafarers: IMO Secretary-General to Member States",
+      "Conflicts must not be used as pretext to attack merchant ships."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
