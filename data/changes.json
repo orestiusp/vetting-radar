@@ -1,5 +1,36 @@
 [
   {
+    "id": "20261113T054747-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-13T05:47:47+00:00",
+    "previous_hash": "7cb6856a59fa2cc58d61cf3b66eee84e3efeefeb7b56a220f31c564377759042",
+    "new_hash": "a7056dd67984a8c058ee8adc00f463ceb6ee8476246f3ac5d3ecd110c514dcfa",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,5 +15,2 @@\n LAST DATA UPDATE :\n-IHS Maritime\n-Korean Register of Shipping\n-Britannia Steamship insurance Association\n Türk Loydu\n@@ -21,4 +18,4 @@\n Paris MoU\n-MarineTraffic\n-Nippon Kaiji Kyokai\n+Indian Register of Shipping\n+Russian Maritime Register of Shipping\n Lloyd's Register",
+      "lines_added": 2,
+      "lines_removed": 5,
+      "added_sample": [
+        "Indian Register of Shipping",
+        "Russian Maritime Register of Shipping"
+      ],
+      "removed_sample": [
+        "IHS Maritime",
+        "Korean Register of Shipping",
+        "Britannia Steamship insurance Association",
+        "MarineTraffic",
+        "Nippon Kaiji Kyokai"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261112T054748-imo-media-centre-press-briefings",
     "source_id": "imo-media-centre-press-briefings",
     "source_name": "IMO – Media centre press briefings",
