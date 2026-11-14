@@ -1,0 +1,30 @@
+{
+  "id": "20261114T053817-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-11-14T05:38:17+00:00",
+  "previous_hash": "46ecda430f14d892c88fbe95609c8070772b958f97b0c50e91ac415361bd51ec",
+  "new_hash": "0f2e3df478af29c2d7d98672088c35f52670ff01f0dc0e125d99668758e07419",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -87,7 +87,7 @@\n NEWS\n-6 November 2026\n+13 November 2026\n Advice for Members regarding situation in Gulf Region\n ===========\n-6 November: Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms\n-While the...\n+13 November: Attacks spread across the Gulf\n+Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in...\n 15 October 2026",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "13 November 2026",
+      "13 November: Attacks spread across the Gulf",
+      "Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in..."
+    ],
+    "removed_sample": [
+      "6 November 2026",
+      "6 November: Attacks in Gulf and Strait of Hormuz increase in ferocity while rest of the region calms",
+      "While the..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

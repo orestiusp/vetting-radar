@@ -13,12 +13,16 @@ Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
+Phoenix Register of Shipping
+Indian Register of Shipping
 Türk Loydu
 Mediterranean MoU
 Paris MoU
-Indian Register of Shipping
-Russian Maritime Register of Shipping
+Nippon Kaiji Kyokai
 Lloyd's Register
+American Bureau of Shipping
+Indian Ocean MoU
+Türk Loydu
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors

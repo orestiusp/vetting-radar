@@ -1,0 +1,32 @@
+{
+  "id": "20261114T053815-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-14T05:38:15+00:00",
+  "previous_hash": "a7056dd67984a8c058ee8adc00f463ceb6ee8476246f3ac5d3ecd110c514dcfa",
+  "new_hash": "de7ae3213a4fd01c53e7fb5da0ca15d2715dbecb766562e1a2b00187ffc7188b",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,4 @@\n LAST DATA UPDATE :\n+Phoenix Register of Shipping\n+Indian Register of Shipping\n Türk Loydu\n@@ -18,5 +20,7 @@\n Paris MoU\n-Indian Register of Shipping\n-Russian Maritime Register of Shipping\n+Nippon Kaiji Kyokai\n Lloyd's Register\n+American Bureau of Shipping\n+Indian Ocean MoU\n+Türk Loydu\n USER ACTIVITY :",
+    "lines_added": 6,
+    "lines_removed": 2,
+    "added_sample": [
+      "Phoenix Register of Shipping",
+      "Indian Register of Shipping",
+      "Nippon Kaiji Kyokai",
+      "American Bureau of Shipping",
+      "Indian Ocean MoU",
+      "Türk Loydu"
+    ],
+    "removed_sample": [
+      "Indian Register of Shipping",
+      "Russian Maritime Register of Shipping"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
