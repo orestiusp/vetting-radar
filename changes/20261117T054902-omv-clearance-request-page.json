@@ -1,0 +1,40 @@
+{
+  "id": "20261117T054902-omv-clearance-request-page",
+  "source_id": "omv-clearance-request-page",
+  "source_name": "OMV clearance request page (Adriatic Vetting)",
+  "owner": "OMV",
+  "category": "oil-major",
+  "url": "https://adriaticvetting.it/clearance-request/",
+  "detected_at": "2026-11-17T05:49:02+00:00",
+  "previous_hash": "5a909d5fe9eb2fd712612480f4eea66743973bacdf4ff3bd92fa06fefdeec5a7",
+  "new_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1,72 +1 @@\n-Please follow the 3 steps\n-Warranties\n-Barge Warranties\n-Complete the OMV Warranties.\n-Include all required informations.\n-*Alternatively send to:\n-c\n-hartering@uk.omv.com\n-,\n-vetting@omv.com\n-,\n-janmartin.kusztrich1@omv.com, trieste@adriaticvetting.it\n-DOWNLOADS\n-Supporting Documents\n-OMV-MSC-2026\n-SIOT Terminal booklet Rev 2026\n-Vessel Clearance Documents\n-OMV-Vessel-Warranties-2025\n-OMV-Barge-Warranties-2025\n-FAQ\n-For further questions, please contact our corresponding departments.\n-What happens after required documents have been sent to OMV?\n-OMV Vetting Department and/or Chartering will contact you regarding the vetting decision and in case of questions.\n-What to do in case the \"send a mail\" link does not work?\n-Please send all documents and required information to:\n-chartering@uk.omv.com\n-vetting@omv.com\n-janmartin.kusztrich1@omv.com\n-trieste@adriaticvetting.it\n-How does the “Send a mail” in the third step work?\n-It is a “mailto” hyperlink, which opens a new message in your system default email client. If you don’t have any installed (or in case it doesn´t work) please send an email with the required attachments and information to the email addresses indicated in step 3.\n-What information/attachments are to be included in your email in case the “Send a mail” hyperlink doesn´t work ?\n-Please include in your email the required documents as well as the following text with your information:\n-OMV Vessel Clearance REQUEST\n-Vessel Name:\n-Cargo:\n-B/L Date:\n-Load Port:\n-Discharge Port:\n-Operators Comment:\n-Operators Contact:\n-CONTACTS\n-OMV Vetting\n-Jan-Martin Kusztrich\n-Strategic Shipping & Vetting Manager\n-Pipeline JV & Shipping\n-Address:\n-OMV Downstream GmbH\n-Trabrennstrasse 6-8\n-A-1020 Vienna Austria\n-Direct line: +43(1)40440-23027\n-Mobile: +43(664) 856-7572\n-Personal Email:\n-JanMartin.Kusztrich1@omv.com\n-Vetting Email:\n-vetting@omv\n-.com\n…(truncated)",
+    "lines_added": 1,
+    "lines_removed": 72,
+    "added_sample": [
+      "Please wait while your request is being verified..."
+    ],
+    "removed_sample": [
+      "Please follow the 3 steps",
+      "Warranties",
+      "Barge Warranties",
+      "Complete the OMV Warranties.",
+      "Include all required informations.",
+      "*Alternatively send to:",
+      "c",
+      "hartering@uk.omv.com",
+      ",",
+      "vetting@omv.com",
+      ",",
+      "janmartin.kusztrich1@omv.com, trieste@adriaticvetting.it",
+      "DOWNLOADS",
+      "Supporting Documents",
+      "OMV-MSC-2026"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

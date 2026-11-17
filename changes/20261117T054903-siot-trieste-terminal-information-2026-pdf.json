@@ -1,0 +1,40 @@
+{
+  "id": "20261117T054903-siot-trieste-terminal-information-2026-pdf",
+  "source_id": "siot-trieste-terminal-information-2026-pdf",
+  "source_name": "SIOT Trieste – Terminal Information & Port Regulations 2026 (PDF)",
+  "owner": "SIOT / TAL",
+  "category": "terminal",
+  "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/SIOT-Terminal-Information-and-Port-Regulations-Revision-2026.pdf",
+  "detected_at": "2026-11-17T05:49:03+00:00",
+  "previous_hash": "ad9009caa2642a1d969338296cc96f6ad4b339adb0388c2feedcad0a3a08d99e",
+  "new_hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1,2024 +1 @@\n-SIOT Marine Receiving Facilities\n-Trieste – Italy\n-TERMINAL INFORMATION and\n-PORT REGULATIONS\n-Revision 6th in force from 1st September 2026\n-SIOT* Marine Receiving Facilities in Trieste 2026 Edition\n-*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06\n-TERMINAL INFORMATION AND PORT REGULATIONS Page 2 of 93\n-COMPLIANCE NOTICE\n-Please Note:\n-There is a minimum requirement at this terminal that all vessels\n-should comply at all times to International Regulations (as\n-S.O.L.A.S., ISPS code, FSS, MARPOL, IGS and so on) and in all\n-respects with the latest edition of the following industry\n-publications:\n-OCIMF: “International Safety Guide for Oil Tankers & Terminals”\n-(ISGOTT).\n-“Mooring Equipment Guidelines” (MEG).\n-“Recommendations for Oil and Chemical Tanker\n-Manifolds and Associated Equipment”.\n-If any non-compliance with the recommendations contained in the\n-said publications is identified, whether prior to, during or after\n-cargo operations, then the terminal reserves the right, at their\n-absolute discretion, to (without limitation):\n-• reject the vessel;\n-• cease operations;\n-• suspend operations;\n-• remove the vessel from the berth;\n-• refuse completion of the intended operation; or\n-• require attendance of and or assistance from marine or cargo\n-expert(s) acceptable to the terminal.\n-All loss of time, costs and expenses associated with the terminal\n-exercising its rights, as set out above, shall be for the vessel's\n-account.\n-The aforesaid shall be without prejudice to any rights the terminal\n-may otherwise have, pursuant to the contents of this Terminal\n-Information and Port Regulations booklet.\n-SIOT* Marine Receiving Facilities in Trieste 2026 Edition\n-*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06\n-TERMINAL INFORMATION AND PORT REGULATIONS Page 3 of 93\n-REV. DATE REV. ITEM\n-01 October 2011 New Edition\n-02 February 2015 Revision – into force from 1st March, 2015\n-03 February 2019 Revision – into force from 1st April, 2019\n-04 May 2022 Revision – to come into force on 1st June, 2022\n-05 May 2025 Revision – to come into force on 1st June, 2025\n-06 July 2026 Revision – to come into force on 1st September, 2026\n-Master-Doc: Owner: Dr. Fabrizio Stein\n-Author Approved and released\n-Date: 27th July 2026 27th July 2026\n-Department: M.F. SUPERINTENDENT TAL OP MANAGER\n-Name: Dr. Fabrizio Stein Ing. Massimo Diminich\n-Signature:\n-SIOT* Marine Receiving Facilities in Trieste 2026 Edition\n-*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06\n-TERMINAL INFORMATION AND PORT REGULATIONS Page 4 of 93\n-Contents\n…(truncated)",
+    "lines_added": 1,
+    "lines_removed": 2024,
+    "added_sample": [
+      ""
+    ],
+    "removed_sample": [
+      "SIOT Marine Receiving Facilities",
+      "Trieste – Italy",
+      "TERMINAL INFORMATION and",
+      "PORT REGULATIONS",
+      "Revision 6th in force from 1st September 2026",
+      "SIOT* Marine Receiving Facilities in Trieste 2026 Edition",
+      "*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06",
+      "TERMINAL INFORMATION AND PORT REGULATIONS Page 2 of 93",
+      "COMPLIANCE NOTICE",
+      "Please Note:",
+      "There is a minimum requirement at this terminal that all vessels",
+      "should comply at all times to International Regulations (as",
+      "S.O.L.A.S., ISPS code, FSS, MARPOL, IGS and so on) and in all",
+      "respects with the latest edition of the following industry",
+      "publications:"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
