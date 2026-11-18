@@ -1,0 +1,24 @@
+{
+  "id": "20261118T133508-intertanko-terminal-vetting-database",
+  "source_id": "intertanko-terminal-vetting-database",
+  "source_name": "INTERTANKO – Terminal Vetting Database",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/benchmarking-databases/bdt/terminal-vetting-tvd",
+  "detected_at": "2026-11-18T13:35:08+00:00",
+  "previous_hash": "2834ae3a5a8a69ce43e11133ef7a66e184935650782445799fa2d4b76d436282",
+  "new_hash": "edf9f6828ef82aec03f422fdd5ed500db27f5f02aadcf500a05cf5febfc65579",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "Recruitment"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "20261118T133511-intertanko-news-desk",
+  "source_id": "intertanko-news-desk",
+  "source_name": "INTERTANKO – News desk",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk",
+  "detected_at": "2026-11-18T13:35:11+00:00",
+  "previous_hash": "746557cb9a1a37192d2c710b3fa36a0a09b4a7c1b52cb2458fd8a764a5d0c1d8",
+  "new_hash": "3c178ea1e21a6d9eb6c9fa6192760ec186ce94817bf8bf97b5b6766770e852f9",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "Recruitment"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "20261118T133507-intertanko-vetting-psc-topic-news",
+  "source_id": "intertanko-vetting-psc-topic-news",
+  "source_name": "INTERTANKO – Vetting & PSC topic news",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/topics-issues/issue/vetting-port-state-control?subview=newsarchive",
+  "detected_at": "2026-11-18T13:35:07+00:00",
+  "previous_hash": "e9f07bd05e2105101a2e880f2fd5ccddd181a2b1b5ab64a5e0f99008736c8ee0",
+  "new_hash": "f5995fa532831d756510bb9df221d7ec7196686f0570249b51e99e2a857a203d",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "Recruitment"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

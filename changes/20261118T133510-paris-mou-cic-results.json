@@ -1,0 +1,37 @@
+{
+  "id": "20261118T133510-paris-mou-cic-results",
+  "source_id": "paris-mou-cic-results",
+  "source_name": "Paris MoU – CIC results",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/cic-results/",
+  "detected_at": "2026-11-18T13:35:10+00:00",
+  "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+  "new_hash": "ae9792c22d746ed1620e312599e8846a290d3cdf509699aeac0ad7dbad343151",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1 +1,12 @@\n-Please wait while your request is being verified...\n+(Concentrated) Inspection Campaign Results\n+To maintain high safety and environmental standards across the maritime industry, the Paris MoU – often jointly with\n+the Tokyo MoU – regularly launch\n+a Concentrated Inspection Campaign (CIC) or a Focused Inspection Campaign (FIC).\n+A Concentrated Inspection Campaign is a targeted, three-month inspection initiative that uses\n+standardized questionnaires to enforce compliance with specific international safety and environmental regulations.\n+Following these inspections, the\n+results are analysed and presented to the governing bodies of the MoUs for potential submission to the International Maritime Organization (IMO) to influence global maritime policy.\n+The outcome of the latest CICs and FICs can be found below.\n+Report on Crew Wages & SEAs 2024\n+Report on Fire Doors 2023\n+Report on Fire Safety 2023",
+    "lines_added": 12,
+    "lines_removed": 1,
+    "added_sample": [
+      "(Concentrated) Inspection Campaign Results",
+      "To maintain high safety and environmental standards across the maritime industry, the Paris MoU – often jointly with",
+      "the Tokyo MoU – regularly launch",
+      "a Concentrated Inspection Campaign (CIC) or a Focused Inspection Campaign (FIC).",
+      "A Concentrated Inspection Campaign is a targeted, three-month inspection initiative that uses",
+      "standardized questionnaires to enforce compliance with specific international safety and environmental regulations.",
+      "Following these inspections, the",
+      "results are analysed and presented to the governing bodies of the MoUs for potential submission to the International Maritime Organization (IMO) to influence global maritime policy.",
+      "The outcome of the latest CICs and FICs can be found below.",
+      "Report on Crew Wages & SEAs 2024",
+      "Report on Fire Doors 2023",
+      "Report on Fire Safety 2023"
+    ],
+    "removed_sample": [
+      "Please wait while your request is being verified..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

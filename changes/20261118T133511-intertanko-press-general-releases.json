@@ -1,0 +1,34 @@
+{
+  "id": "20261118T133511-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-11-18T13:35:11+00:00",
+  "previous_hash": "0f2e3df478af29c2d7d98672088c35f52670ff01f0dc0e125d99668758e07419",
+  "new_hash": "736ec97c72a0a7b9130d59810a84869848aa6e134a7f812d3fc71603cb52f454",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us\n@@ -87,2 +86,7 @@\n NEWS\n+18 November 2026\n+Shipping industry urges governments to agree on global GHG regulations to provide regulatory certainty and incentivise maritime decarbonisation\n+For immediate release\n+18 November 2026\n+In advance of the UN International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC...\n 13 November 2026\n@@ -119,6 +123,2 @@\n Hundreds of vessels remain unable to transit the Strait of Hormuz and, in the event of a return to more...\n-6 May 2026\n-INTERTANKO statement on the pause to Project Freedom\n-6 May 2026\n-Following yesterday evening's announcement that \"Project Freedom\" is to be paused while diplomatic efforts continue, INTERTANKO welcomes...\n INTERTANKO",
+    "lines_added": 5,
+    "lines_removed": 5,
+    "added_sample": [
+      "18 November 2026",
+      "Shipping industry urges governments to agree on global GHG regulations to provide regulatory certainty and incentivise maritime decarbonisation",
+      "For immediate release",
+      "18 November 2026",
+      "In advance of the UN International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC..."
+    ],
+    "removed_sample": [
+      "Recruitment",
+      "6 May 2026",
+      "INTERTANKO statement on the pause to Project Freedom",
+      "6 May 2026",
+      "Following yesterday evening's announcement that \"Project Freedom\" is to be paused while diplomatic efforts continue, INTERTANKO welcomes..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

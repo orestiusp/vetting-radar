@@ -1,0 +1,32 @@
+{
+  "id": "20261118T133510-paris-mou-banning",
+  "source_id": "paris-mou-banning",
+  "source_name": "Paris MoU – Banning",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/banning/",
+  "detected_at": "2026-11-18T13:35:10+00:00",
+  "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+  "new_hash": "492d0563dc78d58876671e57ad0e0cb66aa10fe7a39ea2a807511bfcc2f108b5",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1 +1,7 @@\n-Please wait while your request is being verified...\n+Current Bannings\n+The Refusal of Access/Banning page lists ships that have been formally banned from entering any port or anchorage in the Paris MoU region — a measure applied following multiple detentions or a failure to honor detention conditions.\n+Each entry shows the ship’s particulars along with the port, date, and reason for the ban, making it possible to see which vessels are currently excluded from the Paris MoU region altogether.\n+This page provides a quick, transparent way to check whether a ship under consideration for charter, cargo, or business dealings is currently banned from Paris MoU ports, helping you avoid high-risk or substandard vessels.\n+Disclaimer\n+Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system.\n+No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data.",
+    "lines_added": 7,
+    "lines_removed": 1,
+    "added_sample": [
+      "Current Bannings",
+      "The Refusal of Access/Banning page lists ships that have been formally banned from entering any port or anchorage in the Paris MoU region — a measure applied following multiple detentions or a failure to honor detention conditions.",
+      "Each entry shows the ship’s particulars along with the port, date, and reason for the ban, making it possible to see which vessels are currently excluded from the Paris MoU region altogether.",
+      "This page provides a quick, transparent way to check whether a ship under consideration for charter, cargo, or business dealings is currently banned from Paris MoU ports, helping you avoid high-risk or substandard vessels.",
+      "Disclaimer",
+      "Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system.",
+      "No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data."
+    ],
+    "removed_sample": [
+      "Please wait while your request is being verified..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

@@ -1,5 +1,690 @@
 [
   {
+    "id": "20261118T133514-siot-trieste-terminal-information-2026-pdf",
+    "source_id": "siot-trieste-terminal-information-2026-pdf",
+    "source_name": "SIOT Trieste – Terminal Information & Port Regulations 2026 (PDF)",
+    "owner": "SIOT / TAL",
+    "category": "terminal",
+    "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/SIOT-Terminal-Information-and-Port-Regulations-Revision-2026.pdf",
+    "detected_at": "2026-11-18T13:35:14+00:00",
+    "previous_hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "new_hash": "ad9009caa2642a1d969338296cc96f6ad4b339adb0388c2feedcad0a3a08d99e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,2024 @@\n-\n+SIOT Marine Receiving Facilities\n+Trieste – Italy\n+TERMINAL INFORMATION and\n+PORT REGULATIONS\n+Revision 6th in force from 1st September 2026\n+SIOT* Marine Receiving Facilities in Trieste 2026 Edition\n+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06\n+TERMINAL INFORMATION AND PORT REGULATIONS Page 2 of 93\n+COMPLIANCE NOTICE\n+Please Note:\n+There is a minimum requirement at this terminal that all vessels\n+should comply at all times to International Regulations (as\n+S.O.L.A.S., ISPS code, FSS, MARPOL, IGS and so on) and in all\n+respects with the latest edition of the following industry\n+publications:\n+OCIMF: “International Safety Guide for Oil Tankers & Terminals”\n+(ISGOTT).\n+“Mooring Equipment Guidelines” (MEG).\n+“Recommendations for Oil and Chemical Tanker\n+Manifolds and Associated Equipment”.\n+If any non-compliance with the recommendations contained in the\n+said publications is identified, whether prior to, during or after\n+cargo operations, then the terminal reserves the right, at their\n+absolute discretion, to (without limitation):\n+• reject the vessel;\n+• cease operations;\n+• suspend operations;\n+• remove the vessel from the berth;\n+• refuse completion of the intended operation; or\n+• require attendance of and or assistance from marine or cargo\n+expert(s) acceptable to the terminal.\n+All loss of time, costs and expenses associated with the terminal\n+exercising its rights, as set out above, shall be for the vessel's\n+account.\n+The aforesaid shall be without prejudice to any rights the terminal\n+may otherwise have, pursuant to the contents of this Terminal\n+Information and Port Regulations booklet.\n+SIOT* Marine Receiving Facilities in Trieste 2026 Edition\n+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06\n+TERMINAL INFORMATION AND PORT REGULATIONS Page 3 of 93\n+REV. DATE REV. ITEM\n+01 October 2011 New Edition\n+02 February 2015 Revision – into force from 1st March, 2015\n+03 February 2019 Revision – into force from 1st April, 2019\n+04 May 2022 Revision – to come into force on 1st June, 2022\n+05 May 2025 Revision – to come into force on 1st June, 2025\n+06 July 2026 Revision – to come into force on 1st September, 2026\n+Master-Doc: Owner: Dr. Fabrizio Stein\n+Author Approved and released\n+Date: 27th July 2026 27th July 2026\n+Department: M.F. SUPERINTENDENT TAL OP MANAGER\n+Name: Dr. Fabrizio Stein Ing. Massimo Diminich\n+Signature:\n+SIOT* Marine Receiving Facilities in Trieste 2026 Edition\n+*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06\n+TERMINAL INFORMATION AND PORT REGULATIONS Page 4 of 93\n…(truncated)",
+      "lines_added": 2024,
+      "lines_removed": 1,
+      "added_sample": [
+        "SIOT Marine Receiving Facilities",
+        "Trieste – Italy",
+        "TERMINAL INFORMATION and",
+        "PORT REGULATIONS",
+        "Revision 6th in force from 1st September 2026",
+        "SIOT* Marine Receiving Facilities in Trieste 2026 Edition",
+        "*Società Italiana per l'Oleodotto Transalpino S.p.A Rev: 06",
+        "TERMINAL INFORMATION AND PORT REGULATIONS Page 2 of 93",
+        "COMPLIANCE NOTICE",
+        "Please Note:",
+        "There is a minimum requirement at this terminal that all vessels",
+        "should comply at all times to International Regulations (as",
+        "S.O.L.A.S., ISPS code, FSS, MARPOL, IGS and so on) and in all",
+        "respects with the latest edition of the following industry",
+        "publications:"
+      ],
+      "removed_sample": [
+        ""
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133512-omv-clearance-request-page",
+    "source_id": "omv-clearance-request-page",
+    "source_name": "OMV clearance request page (Adriatic Vetting)",
+    "owner": "OMV",
+    "category": "oil-major",
+    "url": "https://adriaticvetting.it/clearance-request/",
+    "detected_at": "2026-11-18T13:35:12+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "5a909d5fe9eb2fd712612480f4eea66743973bacdf4ff3bd92fa06fefdeec5a7",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,72 @@\n-Please wait while your request is being verified...\n+Please follow the 3 steps\n+Warranties\n+Barge Warranties\n+Complete the OMV Warranties.\n+Include all required informations.\n+*Alternatively send to:\n+c\n+hartering@uk.omv.com\n+,\n+vetting@omv.com\n+,\n+janmartin.kusztrich1@omv.com, trieste@adriaticvetting.it\n+DOWNLOADS\n+Supporting Documents\n+OMV-MSC-2026\n+SIOT Terminal booklet Rev 2026\n+Vessel Clearance Documents\n+OMV-Vessel-Warranties-2025\n+OMV-Barge-Warranties-2025\n+FAQ\n+For further questions, please contact our corresponding departments.\n+What happens after required documents have been sent to OMV?\n+OMV Vetting Department and/or Chartering will contact you regarding the vetting decision and in case of questions.\n+What to do in case the \"send a mail\" link does not work?\n+Please send all documents and required information to:\n+chartering@uk.omv.com\n+vetting@omv.com\n+janmartin.kusztrich1@omv.com\n+trieste@adriaticvetting.it\n+How does the “Send a mail” in the third step work?\n+It is a “mailto” hyperlink, which opens a new message in your system default email client. If you don’t have any installed (or in case it doesn´t work) please send an email with the required attachments and information to the email addresses indicated in step 3.\n+What information/attachments are to be included in your email in case the “Send a mail” hyperlink doesn´t work ?\n+Please include in your email the required documents as well as the following text with your information:\n+OMV Vessel Clearance REQUEST\n+Vessel Name:\n+Cargo:\n+B/L Date:\n+Load Port:\n+Discharge Port:\n+Operators Comment:\n+Operators Contact:\n+CONTACTS\n+OMV Vetting\n+Jan-Martin Kusztrich\n+Strategic Shipping & Vetting Manager\n+Pipeline JV & Shipping\n+Address:\n+OMV Downstream GmbH\n+Trabrennstrasse 6-8\n+A-1020 Vienna Austria\n+Direct line: +43(1)40440-23027\n+Mobile: +43(664) 856-7572\n+Personal Email:\n+JanMartin.Kusztrich1@omv.com\n+Vetting Email:\n+vetting@omv\n…(truncated)",
+      "lines_added": 72,
+      "lines_removed": 1,
+      "added_sample": [
+        "Please follow the 3 steps",
+        "Warranties",
+        "Barge Warranties",
+        "Complete the OMV Warranties.",
+        "Include all required informations.",
+        "*Alternatively send to:",
+        "c",
+        "hartering@uk.omv.com",
+        ",",
+        "vetting@omv.com",
+        ",",
+        "janmartin.kusztrich1@omv.com, trieste@adriaticvetting.it",
+        "DOWNLOADS",
+        "Supporting Documents",
+        "OMV-MSC-2026"
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133512-omv-minimum-selecting-criteria-2026-pdf",
+    "source_id": "omv-minimum-selecting-criteria-2026-pdf",
+    "source_name": "OMV – Minimum Selecting Criteria 2026 (PDF)",
+    "owner": "OMV",
+    "category": "oil-major",
+    "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/2026_OMV-VETTING-MSC.pdf",
+    "detected_at": "2026-11-18T13:35:12+00:00",
+    "previous_hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "new_hash": "dd37cd824485f1b0893f3839ed4cd92d146d9de691e1861342766cdc2265ffa6",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,215 @@\n-\n+OMV – MINIMUM SELECTING CRITERIA\n+1. Introduction\n+The application of this document and associated processes will help to ensure that the risks involved in OMV marine\n+activities are effectively managed, and consistent with the Company’s vision for safety, health, environment,\n+reliability and efficiency.\n+This policy does not replace any aspect of the group business transaction policies or other compliance group\n+policies. This policy states additional requirements specific to the chartering activity in order to address some risk\n+management and insurance issues. These must be considered as minimum requirements.\n+We strongly believe in the maxim of “Prevention is Better than Cure” and therefore take every preventive measure\n+to AVOID incidents with Crude Oil/Product Tankers. QUALITY AS ABOVE ALL ELSE.\n+The intention of this statement is to provide a clear and concise guide for all OMV personnel who may become\n+involved in any aspect of the employment of Crude Oil/Product Tankers, Chemical Tankers and Gas Carriers at sea.\n+The main theme within the Guide is to emphasize to all that the issue of the quality of the tonnage employed is of\n+paramount importance throughout the decision making process.\n+It is the responsibility of individuals involved in the chartering of ships to ensure that they are familiar with and\n+understand the requirements of this policy. It is the responsibility of the managers to ensure that the staff is aware\n+and understand the requirements of this policy.\n+2. Applicability and Exceptions\n+This policy applies to all vessels carrying:\n+• any bulk liquid hydrocarbon,\n+• chemical or\n+• liquefied gas\n+on a time or voyage charter basis (incl. COA).\n+Any vessel to be considered for OMV Group employment has to be cleared by OMV Vetting and has to be nominated\n+in writing either by OMV Chartering or OMV Operations directly involved in the deal. The vessel clearance\n+nomination to OMV Vetting has to include at least:\n+• an updated Q88 in INTERTANKO format (not older than 5 days),\n+• an updated Crew Matrix in OCIMF format (not older than 5 days) and\n+• a filled-up set of OMV Warranties for either Crude, Product or Gas and\n+• up-to-date excerpt of the owner’s commercial register.\n+For further details on required documents as well as other supportive documents, please visit:\n+http://adriaticvetting.it/clearance-request/\n+OMV Vetting will use all available sources and information such as previous vetting inspection(s) conducted by\n+OMV; inspection report(s) extracted from SIRE (preferably not older than 3 months, respectively 6 months for\n+positively OMV TMSA audited Operators); information extracted from Equasis, PSC Inspections, Casualty reports,\n+Voyage & Terminal reports, information published within the Industry media, etc. After screening of all of the\n+required information, OMV Vetting will advise if the vessel is acceptable or not for the intended voyage.\n+Vessels must have no any outstanding safety issues or violations and must operate in a safe and environmentally\n+responsible manner as expected of a vessel under first class Ownership.\n+Vessels must have all the statutory certificates valid; with annual, intermediate and special surveys carried out by\n+the Classification Society within the required date range.\n+Version: 2026\n+Approvals will only be given on a voyage-by-voyage basis. If the vessel is approved on one occasion, it will only be\n+valid for the proposed voyage. If the vessel should be proposed for a subsequent voyage or deviation from the initial\n+vessel clearance (e.g. cargo, disport, etc.), OMV Vetting will screen her again and any previous vessels approval does\n+not automatically generate a re-approval.\n+At all times, acceptance or rejection of a vessel for any reason has to be at the absolute discretion of OMV\n+Vetting.\n+If, at any time during the validity period, there is evidence of relevant modification concerning safety and/or\n+operational systems, changes of name/owner/flag etc., the status of the mentioned vessel could be subject to a\n+physical re-inspection (Vetting and Safety Inspection).\n+3. Vessel Requirements\n+All vessels must fully comply with the OMV MSC (Minimum Selecting Criteria):\n+a. Age and Hull\n+All vessels must be double hull.\n+Crude Oil/Product or Chemical tankers: the maximum acceptable age limit is 20,0 years.\n…(truncated)",
+      "lines_added": 215,
+      "lines_removed": 1,
+      "added_sample": [
+        "OMV – MINIMUM SELECTING CRITERIA",
+        "1. Introduction",
+        "The application of this document and associated processes will help to ensure that the risks involved in OMV marine",
+        "activities are effectively managed, and consistent with the Company’s vision for safety, health, environment,",
+        "reliability and efficiency.",
+        "This policy does not replace any aspect of the group business transaction policies or other compliance group",
+        "policies. This policy states additional requirements specific to the chartering activity in order to address some risk",
+        "management and insurance issues. These must be considered as minimum requirements.",
+        "We strongly believe in the maxim of “Prevention is Better than Cure” and therefore take every preventive measure",
+        "to AVOID incidents with Crude Oil/Product Tankers. QUALITY AS ABOVE ALL ELSE.",
+        "The intention of this statement is to provide a clear and concise guide for all OMV personnel who may become",
+        "involved in any aspect of the employment of Crude Oil/Product Tankers, Chemical Tankers and Gas Carriers at sea.",
+        "The main theme within the Guide is to emphasize to all that the issue of the quality of the tonnage employed is of",
+        "paramount importance throughout the decision making process.",
+        "It is the responsibility of individuals involved in the chartering of ships to ensure that they are familiar with and"
+      ],
+      "removed_sample": [
+        ""
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133511-intertanko-psc-annual-report-2025-guidance-note",
+    "source_id": "intertanko-psc-annual-report-2025-guidance-note",
+    "source_name": "INTERTANKO – PSC annual report 2025 guidance note",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/info-centre/intertanko-guidance/guidancenotearticle/port-state-control-annual-report-2025",
+    "detected_at": "2026-11-18T13:35:11+00:00",
+    "previous_hash": "c40f8fda352f1d978fa7584ad2569e67777337fe9fe295f0aeb4a27fe0ad36da",
+    "new_hash": "25273c7faed561e50e5aaef943cab8c8be3085c4244d1261c17bfb9173631cff",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133511-intertanko-guidance",
+    "source_id": "intertanko-guidance",
+    "source_name": "INTERTANKO – Guidance",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/info-centre/intertanko-guidance",
+    "detected_at": "2026-11-18T13:35:11+00:00",
+    "previous_hash": "1a16f1a70f0cac6a56c882d09202b2a260f657c4b3c541bfe2fb27cd7dd525b7",
+    "new_hash": "2bc43e53c5b26382acc6adeeb432fb17bebfe0ff1496d7dd60430a8feb7f7cd1",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133511-intertanko-press-general-releases",
+    "source_id": "intertanko-press-general-releases",
+    "source_name": "INTERTANKO – Press & general releases",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk/press-general-releases",
+    "detected_at": "2026-11-18T13:35:11+00:00",
+    "previous_hash": "0f2e3df478af29c2d7d98672088c35f52670ff01f0dc0e125d99668758e07419",
+    "new_hash": "736ec97c72a0a7b9130d59810a84869848aa6e134a7f812d3fc71603cb52f454",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us\n@@ -87,2 +86,7 @@\n NEWS\n+18 November 2026\n+Shipping industry urges governments to agree on global GHG regulations to provide regulatory certainty and incentivise maritime decarbonisation\n+For immediate release\n+18 November 2026\n+In advance of the UN International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC...\n 13 November 2026\n@@ -119,6 +123,2 @@\n Hundreds of vessels remain unable to transit the Strait of Hormuz and, in the event of a return to more...\n-6 May 2026\n-INTERTANKO statement on the pause to Project Freedom\n-6 May 2026\n-Following yesterday evening's announcement that \"Project Freedom\" is to be paused while diplomatic efforts continue, INTERTANKO welcomes...\n INTERTANKO",
+      "lines_added": 5,
+      "lines_removed": 5,
+      "added_sample": [
+        "18 November 2026",
+        "Shipping industry urges governments to agree on global GHG regulations to provide regulatory certainty and incentivise maritime decarbonisation",
+        "For immediate release",
+        "18 November 2026",
+        "In advance of the UN International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC..."
+      ],
+      "removed_sample": [
+        "Recruitment",
+        "6 May 2026",
+        "INTERTANKO statement on the pause to Project Freedom",
+        "6 May 2026",
+        "Following yesterday evening's announcement that \"Project Freedom\" is to be paused while diplomatic efforts continue, INTERTANKO welcomes..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133511-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-11-18T13:35:11+00:00",
+    "previous_hash": "746557cb9a1a37192d2c710b3fa36a0a09b4a7c1b52cb2458fd8a764a5d0c1d8",
+    "new_hash": "3c178ea1e21a6d9eb6c9fa6192760ec186ce94817bf8bf97b5b6766770e852f9",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133510-paris-mou-annual-report-2025-announcement",
+    "source_id": "paris-mou-annual-report-2025-announcement",
+    "source_name": "Paris MoU – Annual report 2025 announcement",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/paris-mou-publishes-the-annual-report-of-2025/",
+    "detected_at": "2026-11-18T13:35:10+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "400a98249c010a4abd91d4451853c59e09facb23b4ef9c4f2dd6fc4d1dd45240",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,13 @@\n-Please wait while your request is being verified...\n+2025 Paris MoU Annual Report “Port State Control; Progress and performance, highlights of the Paris MoU 2025”\n+The Paris MoU publishes its 2025 Annual Report on 1 July 2026. This report provides an overview of the activities and statistics of the Paris MoU in 2025, including performance lists.\n+Some of the highlights of the report are set out in the press release.\n+Bans, detentions and deficiencies\n+During 2025, the number of refusals-of-access (bans) increased to 19, marking a rise following several years of relatively low figures.\n+The detention rate also trended upward, reaching 4.18% in 2025, compared to 4.03% in 2024. This follows a period of consistently elevated detention percentages in recent years, including the 4.25% recorded in 2022. The Paris MoU will continue to closely monitor these developments.\n+An analysis of deficiencies and detainable deficiencies reveals no significant shift towards non-compliance within any single convention or regulatory area. Instead, the data underscores recurring areas of concern that consistently show higher rates of non-compliance in both absolute and relative terms. These include fire safety (SOLAS Chapter II-2: 16.8%), structural and electrical elements (SOLAS Chapter II-1: 11.6%), and health protection, medical care, welfare and social security protection (MLC Title IV: 10.0%).\n+At the specific deficiency level, fire doors (3.1%) and Seafarers’ Employment Agreements (1.3%) remain prominent areas of non-compliance. Additionally, broader ISM-related deficiencies accounted for 4.5% of the total.\n+Annual Report 2025\n+Paris MoU Annual Report 2025\n+Press Release\n+Press release Paris MoU 2025 Annual Report\n+Download file",
+      "lines_added": 13,
+      "lines_removed": 1,
+      "added_sample": [
+        "2025 Paris MoU Annual Report “Port State Control; Progress and performance, highlights of the Paris MoU 2025”",
+        "The Paris MoU publishes its 2025 Annual Report on 1 July 2026. This report provides an overview of the activities and statistics of the Paris MoU in 2025, including performance lists.",
+        "Some of the highlights of the report are set out in the press release.",
+        "Bans, detentions and deficiencies",
+        "During 2025, the number of refusals-of-access (bans) increased to 19, marking a rise following several years of relatively low figures.",
+        "The detention rate also trended upward, reaching 4.18% in 2025, compared to 4.03% in 2024. This follows a period of consistently elevated detention percentages in recent years, including the 4.25% recorded in 2022. The Paris MoU will continue to closely monitor these developments.",
+        "An analysis of deficiencies and detainable deficiencies reveals no significant shift towards non-compliance within any single convention or regulatory area. Instead, the data underscores recurring areas of concern that consistently show higher rates of non-compliance in both absolute and relative terms. These include fire safety (SOLAS Chapter II-2: 16.8%), structural and electrical elements (SOLAS Chapter II-1: 11.6%), and health protection, medical care, welfare and social security protection (MLC Title IV: 10.0%).",
+        "At the specific deficiency level, fire doors (3.1%) and Seafarers’ Employment Agreements (1.3%) remain prominent areas of non-compliance. Additionally, broader ISM-related deficiencies accounted for 4.5% of the total.",
+        "Annual Report 2025",
+        "Paris MoU Annual Report 2025",
+        "Press Release",
+        "Press release Paris MoU 2025 Annual Report",
+        "Download file"
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133510-paris-mou-2026-cic-on-cargo-securing-with-tokyo-mou",
+    "source_id": "paris-mou-2026-cic-on-cargo-securing-with-tokyo-mou",
+    "source_name": "Paris MoU – 2026 CIC on cargo securing (with Tokyo MOU)",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/paris-and-tokyo-mous-launch-2026-concentrated-inspection-campaign-on-cargo-securing/",
+    "detected_at": "2026-11-18T13:35:10+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "f6a536685ae488333ad03bad40d043ad610a993bbf8deedcdd5ac06289b7c911",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,9 @@\n-Please wait while your request is being verified...\n+Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing\n+The Member Authorities of the Tokyo MOU and Paris MoU will undertake a Concentrated Inspection Campaign (CIC) on Cargo Securing of Cargo Units and Cargo Transport Units. This CIC will be conducted from 1 September to 30 November 2026.\n+The purpose of the CIC is to collect data on compliance with current SOLAS requirements in respect of the loading, stowage and securing of cargo units and cargo transport units.\n+During the campaign, Member Authorities of the MOUs will carry out the inspection in conjunction with routine port State control inspections. A ship will be subject to only one inspection under this CIC during the period, per MoU.\n+Port State Control Officers (PSCOs) will apply a questionnaire, developed by the Tokyo and Paris MOUs, to check how cargo securing obligations have been complied with. Any deficiencies identified during the inspection campaign will be recorded by PSCOs, and actions by a port State may vary from recording a deficiency to detaining the ship.\n+The results of the campaign will be analysed and findings presented to the governing bodies of both MOUs, with a view to future submission to the International Maritime Organization.\n+Press Release & Questionnaire\n+Press Release CIC Cargo Securing 2026, including Questionnaire\n+Download file",
+      "lines_added": 9,
+      "lines_removed": 1,
+      "added_sample": [
+        "Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing",
+        "The Member Authorities of the Tokyo MOU and Paris MoU will undertake a Concentrated Inspection Campaign (CIC) on Cargo Securing of Cargo Units and Cargo Transport Units. This CIC will be conducted from 1 September to 30 November 2026.",
+        "The purpose of the CIC is to collect data on compliance with current SOLAS requirements in respect of the loading, stowage and securing of cargo units and cargo transport units.",
+        "During the campaign, Member Authorities of the MOUs will carry out the inspection in conjunction with routine port State control inspections. A ship will be subject to only one inspection under this CIC during the period, per MoU.",
+        "Port State Control Officers (PSCOs) will apply a questionnaire, developed by the Tokyo and Paris MOUs, to check how cargo securing obligations have been complied with. Any deficiencies identified during the inspection campaign will be recorded by PSCOs, and actions by a port State may vary from recording a deficiency to detaining the ship.",
+        "The results of the campaign will be analysed and findings presented to the governing bodies of both MOUs, with a view to future submission to the International Maritime Organization.",
+        "Press Release & Questionnaire",
+        "Press Release CIC Cargo Securing 2026, including Questionnaire",
+        "Download file"
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133510-paris-mou-news",
+    "source_id": "paris-mou-news",
+    "source_name": "Paris MoU – News",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/posts/news/",
+    "detected_at": "2026-11-18T13:35:10+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "b478bf73a517e9a5721fb4014b8093fefc574b34d14d6fca92d483438f2bbf4e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,31 @@\n-Please wait while your request is being verified...\n+News\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+More info\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n+More info\n+31 August 2026\n+Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633\n+More info\n+11 August 2026\n+M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region\n+More info\n+6 August 2026\n+M/V “CORSICA” – IMO no: 9222352 refused access to the Paris MoU region\n+More info\n+5 August 2026\n+M/V “RIWAL” – IMO no: 9051208 refused access to the Paris MoU region\n+More info\n+3 August 2026\n+M/V “BAHAR” – IMO no: 8230156 refused access to the Paris MoU region\n+More info\n+3 August 2026\n+Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing\n+More info\n+16 July 2026\n+M/V “ADOMY” – IMO no: 9085900 refused access to the Paris MoU region\n+More info\n+14 July 2026\n+M/V “LIKA” – IMO no: 7377701 refused access to the Paris MoU region\n+More info",
+      "lines_added": 31,
+      "lines_removed": 1,
+      "added_sample": [
+        "News",
+        "20 October 2026",
+        "M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region",
+        "More info",
+        "20 October 2026",
+        "Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988",
+        "More info",
+        "31 August 2026",
+        "Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633",
+        "More info",
+        "11 August 2026",
+        "M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region",
+        "More info",
+        "6 August 2026",
+        "M/V “CORSICA” – IMO no: 9222352 refused access to the Paris MoU region"
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133510-paris-mou-cic-results",
+    "source_id": "paris-mou-cic-results",
+    "source_name": "Paris MoU – CIC results",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/cic-results/",
+    "detected_at": "2026-11-18T13:35:10+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "ae9792c22d746ed1620e312599e8846a290d3cdf509699aeac0ad7dbad343151",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,12 @@\n-Please wait while your request is being verified...\n+(Concentrated) Inspection Campaign Results\n+To maintain high safety and environmental standards across the maritime industry, the Paris MoU – often jointly with\n+the Tokyo MoU – regularly launch\n+a Concentrated Inspection Campaign (CIC) or a Focused Inspection Campaign (FIC).\n+A Concentrated Inspection Campaign is a targeted, three-month inspection initiative that uses\n+standardized questionnaires to enforce compliance with specific international safety and environmental regulations.\n+Following these inspections, the\n+results are analysed and presented to the governing bodies of the MoUs for potential submission to the International Maritime Organization (IMO) to influence global maritime policy.\n+The outcome of the latest CICs and FICs can be found below.\n+Report on Crew Wages & SEAs 2024\n+Report on Fire Doors 2023\n+Report on Fire Safety 2023",
+      "lines_added": 12,
+      "lines_removed": 1,
+      "added_sample": [
+        "(Concentrated) Inspection Campaign Results",
+        "To maintain high safety and environmental standards across the maritime industry, the Paris MoU – often jointly with",
+        "the Tokyo MoU – regularly launch",
+        "a Concentrated Inspection Campaign (CIC) or a Focused Inspection Campaign (FIC).",
+        "A Concentrated Inspection Campaign is a targeted, three-month inspection initiative that uses",
+        "standardized questionnaires to enforce compliance with specific international safety and environmental regulations.",
+        "Following these inspections, the",
+        "results are analysed and presented to the governing bodies of the MoUs for potential submission to the International Maritime Organization (IMO) to influence global maritime policy.",
+        "The outcome of the latest CICs and FICs can be found below.",
+        "Report on Crew Wages & SEAs 2024",
+        "Report on Fire Doors 2023",
+        "Report on Fire Safety 2023"
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133510-paris-mou-banning",
+    "source_id": "paris-mou-banning",
+    "source_name": "Paris MoU – Banning",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/banning/",
+    "detected_at": "2026-11-18T13:35:10+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "492d0563dc78d58876671e57ad0e0cb66aa10fe7a39ea2a807511bfcc2f108b5",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,7 @@\n-Please wait while your request is being verified...\n+Current Bannings\n+The Refusal of Access/Banning page lists ships that have been formally banned from entering any port or anchorage in the Paris MoU region — a measure applied following multiple detentions or a failure to honor detention conditions.\n+Each entry shows the ship’s particulars along with the port, date, and reason for the ban, making it possible to see which vessels are currently excluded from the Paris MoU region altogether.\n+This page provides a quick, transparent way to check whether a ship under consideration for charter, cargo, or business dealings is currently banned from Paris MoU ports, helping you avoid high-risk or substandard vessels.\n+Disclaimer\n+Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system.\n+No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data.",
+      "lines_added": 7,
+      "lines_removed": 1,
+      "added_sample": [
+        "Current Bannings",
+        "The Refusal of Access/Banning page lists ships that have been formally banned from entering any port or anchorage in the Paris MoU region — a measure applied following multiple detentions or a failure to honor detention conditions.",
+        "Each entry shows the ship’s particulars along with the port, date, and reason for the ban, making it possible to see which vessels are currently excluded from the Paris MoU region altogether.",
+        "This page provides a quick, transparent way to check whether a ship under consideration for charter, cargo, or business dealings is currently banned from Paris MoU ports, helping you avoid high-risk or substandard vessels.",
+        "Disclaimer",
+        "Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system.",
+        "No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data."
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133510-paris-mou-detentions",
+    "source_id": "paris-mou-detentions",
+    "source_name": "Paris MoU – Detentions",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/detentions/",
+    "detected_at": "2026-11-18T13:35:10+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "7b87312ab8e5913e5ad80a6388df5281507686f7b76aab9fa29bcf8a903ecee4",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,6 @@\n-Please wait while your request is being verified...\n+Current Detentions\n+The Current Detentions page provides a public, real-time overview of ships that are currently held in port after Port State Control inspectors found deficiencies serious enough to prevent the vessel from sailing safely, such as faults in life-saving equipment, fire safety, navigation, pollution-prevention systems or working and living conditions.\n+Each listing shows the ship’s particulars together with the port and date of detention, giving an up-to-date picture of which vessels in the Paris MoU waters are not currently meeting safety standards.\n+This makes it a quick and accessible way to check whether a specific ship, for instance one you are about to board, charter, or do business with, is currently detained for safety reasons, without needing any login or specialist knowledge.\n+Disclaimer\n+Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system. No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data.",
+      "lines_added": 6,
+      "lines_removed": 1,
+      "added_sample": [
+        "Current Detentions",
+        "The Current Detentions page provides a public, real-time overview of ships that are currently held in port after Port State Control inspectors found deficiencies serious enough to prevent the vessel from sailing safely, such as faults in life-saving equipment, fire safety, navigation, pollution-prevention systems or working and living conditions.",
+        "Each listing shows the ship’s particulars together with the port and date of detention, giving an up-to-date picture of which vessels in the Paris MoU waters are not currently meeting safety standards.",
+        "This makes it a quick and accessible way to check whether a specific ship, for instance one you are about to board, charter, or do business with, is currently detained for safety reasons, without needing any login or specialist knowledge.",
+        "Disclaimer",
+        "Paris MoU and EMSA assume no liability or responsibility for any errors or omissions resulting from (or pursuant to) errors or omissions in data submitted to or retrieved from the system. No part of the information contained in this website may be stored in a retrieval system, or transmitted in any form, or by any means without prior authorisation in writing from the owners of the data."
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133508-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-18T13:35:08+00:00",
+    "previous_hash": "de7ae3213a4fd01c53e7fb5da0ca15d2715dbecb766562e1a2b00187ffc7188b",
+    "new_hash": "107e3e0bb41d79ad5b578797bf47f7d51c6052c909027ffd06422da22d019e7e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,4 +15,5 @@\n LAST DATA UPDATE :\n-Phoenix Register of Shipping\n-Indian Register of Shipping\n+Green Award\n+Tokyo MoU\n+Indian Ocean MoU\n Türk Loydu\n@@ -23,4 +24,2 @@\n American Bureau of Shipping\n-Indian Ocean MoU\n-Türk Loydu\n USER ACTIVITY :",
+      "lines_added": 3,
+      "lines_removed": 4,
+      "added_sample": [
+        "Green Award",
+        "Tokyo MoU",
+        "Indian Ocean MoU"
+      ],
+      "removed_sample": [
+        "Phoenix Register of Shipping",
+        "Indian Register of Shipping",
+        "Indian Ocean MoU",
+        "Türk Loydu"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133508-intertanko-terminal-vetting-database",
+    "source_id": "intertanko-terminal-vetting-database",
+    "source_name": "INTERTANKO – Terminal Vetting Database",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/benchmarking-databases/bdt/terminal-vetting-tvd",
+    "detected_at": "2026-11-18T13:35:08+00:00",
+    "previous_hash": "2834ae3a5a8a69ce43e11133ef7a66e184935650782445799fa2d4b76d436282",
+    "new_hash": "edf9f6828ef82aec03f422fdd5ed500db27f5f02aadcf500a05cf5febfc65579",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133507-intertanko-sire-2-0-benchmarking-tool",
+    "source_id": "intertanko-sire-2-0-benchmarking-tool",
+    "source_name": "INTERTANKO – SIRE 2.0 benchmarking tool",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/benchmarking-databases/bdt/sire",
+    "detected_at": "2026-11-18T13:35:07+00:00",
+    "previous_hash": "b981253d2bce9402072ce58e7f060add77532bb1aabfb25b6bf4c9d8805201b4",
+    "new_hash": "b48a0b780f906578d26d06f3fd70eca7e9c49c7301869abbbcc4ab39af386424",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133507-intertanko-vetting-committee",
+    "source_id": "intertanko-vetting-committee",
+    "source_name": "INTERTANKO – Vetting Committee",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/committees/vetting-committee?subview=newsarchive",
+    "detected_at": "2026-11-18T13:35:07+00:00",
+    "previous_hash": "d354cc074b5111ab87adf99056a259b30429e9ab346e1401aee46ead74d7cf3b",
+    "new_hash": "84619678db29180bab6dc0bccac5bbbd38923343fb627c1abc32509ffa25e380",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133507-intertanko-vetting-psc-topic-news",
+    "source_id": "intertanko-vetting-psc-topic-news",
+    "source_name": "INTERTANKO – Vetting & PSC topic news",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/topics-issues/issue/vetting-port-state-control?subview=newsarchive",
+    "detected_at": "2026-11-18T13:35:07+00:00",
+    "previous_hash": "e9f07bd05e2105101a2e880f2fd5ccddd181a2b1b5ab64a5e0f99008736c8ee0",
+    "new_hash": "f5995fa532831d756510bb9df221d7ec7196686f0570249b51e99e2a857a203d",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+      "lines_added": 0,
+      "lines_removed": 1,
+      "added_sample": [],
+      "removed_sample": [
+        "Recruitment"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133505-paris-mou-home",
+    "source_id": "paris-mou-home",
+    "source_name": "Paris MoU – home",
+    "owner": "Paris MoU",
+    "category": "psc",
+    "url": "https://parismou.org/",
+    "detected_at": "2026-11-18T13:35:05+00:00",
+    "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+    "new_hash": "b6686e9ba7ece7016a2bf39859287a8bdeb60b200c55247f9bf5949e5878efde",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -1 +1,27 @@\n-Please wait while your request is being verified...\n+Paris Memorandum of Understanding\n+Annual Report 2025\n+Annual Report\n+View\n+Inspection Regime\n+The Paris MoU enforces safety at sea through Port State Control (PSC).\n+PSC involves the inspection of foreign ships in national ports. These inspections verify that the vessel’s condition, equipment, manning, and operation fully comply with international maritime regulations.\n+By targeting sub-standard shipping, our inspection regime ensures a safer, more secure, and environmentally sustainable maritime industry.\n+Port State Control Inspections\n+Inspection Tools\n+The Paris MoU provides a suite of data tools to support safety, security, and environmental standards in shipping. These digital services offer real-time insights into vessel compliance, risk factors, and organizational performance within our region.\n+Inspection Search\n+Ship Risk Profile\n+Company Performance\n+News\n+This section brings together the latest news and messages from the Paris MoU, including publication of annual performance lists, and notices of ships refused access to the Paris MoU region. It offers a quick way to stay informed about developments in port state control across the region, from organisational announcements to individual cases affecting specific vessels.\n+Link to all news items\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n+31 August 2026\n+Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633\n+3 August 2026\n+Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing\n+Observers & Partners\n+The Paris MoU establishes and maintains close and effective cooperation with observers at both administrative and technical levels. Furthermore, data exchange with our maritime partners remains fully integrated and continuously updated.",
+      "lines_added": 27,
+      "lines_removed": 1,
+      "added_sample": [
+        "Paris Memorandum of Understanding",
+        "Annual Report 2025",
+        "Annual Report",
+        "View",
+        "Inspection Regime",
+        "The Paris MoU enforces safety at sea through Port State Control (PSC).",
+        "PSC involves the inspection of foreign ships in national ports. These inspections verify that the vessel’s condition, equipment, manning, and operation fully comply with international maritime regulations.",
+        "By targeting sub-standard shipping, our inspection regime ensures a safer, more secure, and environmentally sustainable maritime industry.",
+        "Port State Control Inspections",
+        "Inspection Tools",
+        "The Paris MoU provides a suite of data tools to support safety, security, and environmental standards in shipping. These digital services offer real-time insights into vessel compliance, risk factors, and organizational performance within our region.",
+        "Inspection Search",
+        "Ship Risk Profile",
+        "Company Performance",
+        "News"
+      ],
+      "removed_sample": [
+        "Please wait while your request is being verified..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133503-cdi-marine-document-downloads",
+    "source_id": "cdi-marine-document-downloads",
+    "source_name": "CDI – Marine document downloads",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_download_documents",
+    "detected_at": "2026-11-18T13:35:03+00:00",
+    "previous_hash": "0d447ea49b040739113055932f0c1d829ed023805fd5b3274c0d60afb7eb0ea8",
+    "new_hash": "2ddd5cd85b0bab13efd653530df206c7df0e47cf8a8f29cbfa0e202a3e491f77",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,3 +15,3 @@\n Price\n-(793 Kb)\n+(CQ-PIN-10-23)\n 10.5: 10\n@@ -20,3 +20,3 @@\n USD 30.00\n-(232 Kb)\n+(CC-YEL-10-23)\n 10.5: CDI Chemical Chapter 5 10\n@@ -25,3 +25,3 @@\n USD 10.00\n-(211 Kb)\n+(LP-DBL-10-23)\n 10.5: CDI LPG Chapter 5 10\n@@ -30,3 +30,3 @@\n USD 10.00\n-(176 Kb)\n+(LN-GRE-10-23)\n 10.5: CDI LNG Chapter 5 10\n@@ -35,3 +35,3 @@\n USD 10.00\n-(261 Kb)\n+(LC-BLU-10-23)\n 10.5: CDI LCO2 Chapter 5 10\n@@ -40,3 +40,3 @@\n USD 10.00\n-(186 Kb)\n+(PC-PUR-10-23)\n 10.5: CDI Product Tanker Chapter 5 10\n@@ -45,3 +45,3 @@\n USD 10.00\n-(122 Kb)\n+(BU-ORA-10-23)\n 10.5: CDI Dry Bulk Carrier Chapter 5 10\n@@ -50,3 +50,3 @@\n USD 10.00\n-(164 Kb)\n+(AE-GRY-10-23)\n 10.5 AEPS Questionnaire CDI 10\n@@ -55,3 +55,3 @@\n USD 10.00\n-(2450 Kb)\n+(CCQ-PIN-10-23)\n 10.5: 中文翻译 (Chinese Translation): 10\n@@ -60,3 +60,3 @@\n USD 30.00\n-(725 Kb)\n+(CCC-YEL-10-23)\n 10.5: 中文翻译 (Chinese Translation): CDI Chemical Chapter 5 10\n@@ -65,3 +65,3 @@\n USD 10.00\n-(679 Kb)\n+(CLP-DBL-10-23)\n 10.5: 中文翻译 (Chinese Translation): CDI LPG Chapter 5 10\n@@ -70,3 +70,3 @@\n USD 10.00\n-(1300 Kb)\n…(truncated)",
+      "lines_added": 15,
+      "lines_removed": 29,
+      "added_sample": [
+        "(CQ-PIN-10-23)",
+        "(CC-YEL-10-23)",
+        "(LP-DBL-10-23)",
+        "(LN-GRE-10-23)",
+        "(LC-BLU-10-23)",
+        "(PC-PUR-10-23)",
+        "(BU-ORA-10-23)",
+        "(AE-GRY-10-23)",
+        "(CCQ-PIN-10-23)",
+        "(CCC-YEL-10-23)",
+        "(CLP-DBL-10-23)",
+        "(CLN-GRE-10-23)",
+        "(CPC-PUR-10-23)",
+        "(CBU-ORA-10-23)",
+        "(CAE-GRY-10-23)"
+      ],
+      "removed_sample": [
+        "(793 Kb)",
+        "(232 Kb)",
+        "(211 Kb)",
+        "(176 Kb)",
+        "(261 Kb)",
+        "(186 Kb)",
+        "(122 Kb)",
+        "(164 Kb)",
+        "(2450 Kb)",
+        "(725 Kb)",
+        "(679 Kb)",
+        "(1300 Kb)",
+        "(1380 Kb)",
+        "(1000 Kb)",
+        "(358 Kb)"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261118T133503-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-18T13:35:03+00:00",
+    "previous_hash": "eae0500aec1b2cfd5d7ad704f7ce05b554518807d6e908474526f579b92605fa",
+    "new_hash": "6d09559c3d677be0bc6d660f67b7fa3d47ac8bef688b35c836ecd88afabb13a5",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -64,2 +64,5 @@\n CDI\n+17 November 2026\n+Hyundai Oil Terminal Joins CDI-T\n+CDI is pleased to announce that Hyundai Oil Terminal Ulsan has joined CDI as a Terminal Company Participant of CDI-T\n 9 November 2026",
+      "lines_added": 3,
+      "lines_removed": 0,
+      "added_sample": [
+        "17 November 2026",
+        "Hyundai Oil Terminal Joins CDI-T",
+        "CDI is pleased to announce that Hyundai Oil Terminal Ulsan has joined CDI as a Terminal Company Participant of CDI-T"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261117T054903-siot-trieste-terminal-information-2026-pdf",
     "source_id": "siot-trieste-terminal-information-2026-pdf",
     "source_name": "SIOT Trieste – Terminal Information & Port Regulations 2026 (PDF)",

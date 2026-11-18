@@ -1,0 +1,31 @@
+{
+  "id": "20261118T133508-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-18T13:35:08+00:00",
+  "previous_hash": "de7ae3213a4fd01c53e7fb5da0ca15d2715dbecb766562e1a2b00187ffc7188b",
+  "new_hash": "107e3e0bb41d79ad5b578797bf47f7d51c6052c909027ffd06422da22d019e7e",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -15,4 +15,5 @@\n LAST DATA UPDATE :\n-Phoenix Register of Shipping\n-Indian Register of Shipping\n+Green Award\n+Tokyo MoU\n+Indian Ocean MoU\n Türk Loydu\n@@ -23,4 +24,2 @@\n American Bureau of Shipping\n-Indian Ocean MoU\n-Türk Loydu\n USER ACTIVITY :",
+    "lines_added": 3,
+    "lines_removed": 4,
+    "added_sample": [
+      "Green Award",
+      "Tokyo MoU",
+      "Indian Ocean MoU"
+    ],
+    "removed_sample": [
+      "Phoenix Register of Shipping",
+      "Indian Register of Shipping",
+      "Indian Ocean MoU",
+      "Türk Loydu"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

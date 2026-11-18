@@ -1,0 +1,40 @@
+{
+  "id": "20261118T133512-omv-minimum-selecting-criteria-2026-pdf",
+  "source_id": "omv-minimum-selecting-criteria-2026-pdf",
+  "source_name": "OMV – Minimum Selecting Criteria 2026 (PDF)",
+  "owner": "OMV",
+  "category": "oil-major",
+  "url": "https://adriaticvetting.it/wp-content/uploads/2026/09/2026_OMV-VETTING-MSC.pdf",
+  "detected_at": "2026-11-18T13:35:12+00:00",
+  "previous_hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "new_hash": "dd37cd824485f1b0893f3839ed4cd92d146d9de691e1861342766cdc2265ffa6",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1 +1,215 @@\n-\n+OMV – MINIMUM SELECTING CRITERIA\n+1. Introduction\n+The application of this document and associated processes will help to ensure that the risks involved in OMV marine\n+activities are effectively managed, and consistent with the Company’s vision for safety, health, environment,\n+reliability and efficiency.\n+This policy does not replace any aspect of the group business transaction policies or other compliance group\n+policies. This policy states additional requirements specific to the chartering activity in order to address some risk\n+management and insurance issues. These must be considered as minimum requirements.\n+We strongly believe in the maxim of “Prevention is Better than Cure” and therefore take every preventive measure\n+to AVOID incidents with Crude Oil/Product Tankers. QUALITY AS ABOVE ALL ELSE.\n+The intention of this statement is to provide a clear and concise guide for all OMV personnel who may become\n+involved in any aspect of the employment of Crude Oil/Product Tankers, Chemical Tankers and Gas Carriers at sea.\n+The main theme within the Guide is to emphasize to all that the issue of the quality of the tonnage employed is of\n+paramount importance throughout the decision making process.\n+It is the responsibility of individuals involved in the chartering of ships to ensure that they are familiar with and\n+understand the requirements of this policy. It is the responsibility of the managers to ensure that the staff is aware\n+and understand the requirements of this policy.\n+2. Applicability and Exceptions\n+This policy applies to all vessels carrying:\n+• any bulk liquid hydrocarbon,\n+• chemical or\n+• liquefied gas\n+on a time or voyage charter basis (incl. COA).\n+Any vessel to be considered for OMV Group employment has to be cleared by OMV Vetting and has to be nominated\n+in writing either by OMV Chartering or OMV Operations directly involved in the deal. The vessel clearance\n+nomination to OMV Vetting has to include at least:\n+• an updated Q88 in INTERTANKO format (not older than 5 days),\n+• an updated Crew Matrix in OCIMF format (not older than 5 days) and\n+• a filled-up set of OMV Warranties for either Crude, Product or Gas and\n+• up-to-date excerpt of the owner’s commercial register.\n+For further details on required documents as well as other supportive documents, please visit:\n+http://adriaticvetting.it/clearance-request/\n+OMV Vetting will use all available sources and information such as previous vetting inspection(s) conducted by\n+OMV; inspection report(s) extracted from SIRE (preferably not older than 3 months, respectively 6 months for\n+positively OMV TMSA audited Operators); information extracted from Equasis, PSC Inspections, Casualty reports,\n+Voyage & Terminal reports, information published within the Industry media, etc. After screening of all of the\n+required information, OMV Vetting will advise if the vessel is acceptable or not for the intended voyage.\n+Vessels must have no any outstanding safety issues or violations and must operate in a safe and environmentally\n+responsible manner as expected of a vessel under first class Ownership.\n+Vessels must have all the statutory certificates valid; with annual, intermediate and special surveys carried out by\n+the Classification Society within the required date range.\n+Version: 2026\n+Approvals will only be given on a voyage-by-voyage basis. If the vessel is approved on one occasion, it will only be\n+valid for the proposed voyage. If the vessel should be proposed for a subsequent voyage or deviation from the initial\n+vessel clearance (e.g. cargo, disport, etc.), OMV Vetting will screen her again and any previous vessels approval does\n+not automatically generate a re-approval.\n+At all times, acceptance or rejection of a vessel for any reason has to be at the absolute discretion of OMV\n+Vetting.\n+If, at any time during the validity period, there is evidence of relevant modification concerning safety and/or\n+operational systems, changes of name/owner/flag etc., the status of the mentioned vessel could be subject to a\n+physical re-inspection (Vetting and Safety Inspection).\n+3. Vessel Requirements\n+All vessels must fully comply with the OMV MSC (Minimum Selecting Criteria):\n+a. Age and Hull\n+All vessels must be double hull.\n+Crude Oil/Product or Chemical tankers: the maximum acceptable age limit is 20,0 years.\n…(truncated)",
+    "lines_added": 215,
+    "lines_removed": 1,
+    "added_sample": [
+      "OMV – MINIMUM SELECTING CRITERIA",
+      "1. Introduction",
+      "The application of this document and associated processes will help to ensure that the risks involved in OMV marine",
+      "activities are effectively managed, and consistent with the Company’s vision for safety, health, environment,",
+      "reliability and efficiency.",
+      "This policy does not replace any aspect of the group business transaction policies or other compliance group",
+      "policies. This policy states additional requirements specific to the chartering activity in order to address some risk",
+      "management and insurance issues. These must be considered as minimum requirements.",
+      "We strongly believe in the maxim of “Prevention is Better than Cure” and therefore take every preventive measure",
+      "to AVOID incidents with Crude Oil/Product Tankers. QUALITY AS ABOVE ALL ELSE.",
+      "The intention of this statement is to provide a clear and concise guide for all OMV personnel who may become",
+      "involved in any aspect of the employment of Crude Oil/Product Tankers, Chemical Tankers and Gas Carriers at sea.",
+      "The main theme within the Guide is to emphasize to all that the issue of the quality of the tonnage employed is of",
+      "paramount importance throughout the decision making process.",
+      "It is the responsibility of individuals involved in the chartering of ships to ensure that they are familiar with and"
+    ],
+    "removed_sample": [
+      ""
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "20261118T133507-intertanko-sire-2-0-benchmarking-tool",
+  "source_id": "intertanko-sire-2-0-benchmarking-tool",
+  "source_name": "INTERTANKO – SIRE 2.0 benchmarking tool",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/benchmarking-databases/bdt/sire",
+  "detected_at": "2026-11-18T13:35:07+00:00",
+  "previous_hash": "b981253d2bce9402072ce58e7f060add77532bb1aabfb25b6bf4c9d8805201b4",
+  "new_hash": "b48a0b780f906578d26d06f3fd70eca7e9c49c7301869abbbcc4ab39af386424",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "Recruitment"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

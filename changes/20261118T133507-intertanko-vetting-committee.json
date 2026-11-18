@@ -1,0 +1,24 @@
+{
+  "id": "20261118T133507-intertanko-vetting-committee",
+  "source_id": "intertanko-vetting-committee",
+  "source_name": "INTERTANKO – Vetting Committee",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/committees/vetting-committee?subview=newsarchive",
+  "detected_at": "2026-11-18T13:35:07+00:00",
+  "previous_hash": "d354cc074b5111ab87adf99056a259b30429e9ab346e1401aee46ead74d7cf3b",
+  "new_hash": "84619678db29180bab6dc0bccac5bbbd38923343fb627c1abc32509ffa25e380",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -13,3 +13,2 @@\n History\n-Recruitment\n Contact Us",
+    "lines_added": 0,
+    "lines_removed": 1,
+    "added_sample": [],
+    "removed_sample": [
+      "Recruitment"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

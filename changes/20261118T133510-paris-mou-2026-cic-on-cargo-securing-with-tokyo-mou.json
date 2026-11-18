@@ -1,0 +1,34 @@
+{
+  "id": "20261118T133510-paris-mou-2026-cic-on-cargo-securing-with-tokyo-mou",
+  "source_id": "paris-mou-2026-cic-on-cargo-securing-with-tokyo-mou",
+  "source_name": "Paris MoU – 2026 CIC on cargo securing (with Tokyo MOU)",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/paris-and-tokyo-mous-launch-2026-concentrated-inspection-campaign-on-cargo-securing/",
+  "detected_at": "2026-11-18T13:35:10+00:00",
+  "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+  "new_hash": "f6a536685ae488333ad03bad40d043ad610a993bbf8deedcdd5ac06289b7c911",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1 +1,9 @@\n-Please wait while your request is being verified...\n+Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing\n+The Member Authorities of the Tokyo MOU and Paris MoU will undertake a Concentrated Inspection Campaign (CIC) on Cargo Securing of Cargo Units and Cargo Transport Units. This CIC will be conducted from 1 September to 30 November 2026.\n+The purpose of the CIC is to collect data on compliance with current SOLAS requirements in respect of the loading, stowage and securing of cargo units and cargo transport units.\n+During the campaign, Member Authorities of the MOUs will carry out the inspection in conjunction with routine port State control inspections. A ship will be subject to only one inspection under this CIC during the period, per MoU.\n+Port State Control Officers (PSCOs) will apply a questionnaire, developed by the Tokyo and Paris MOUs, to check how cargo securing obligations have been complied with. Any deficiencies identified during the inspection campaign will be recorded by PSCOs, and actions by a port State may vary from recording a deficiency to detaining the ship.\n+The results of the campaign will be analysed and findings presented to the governing bodies of both MOUs, with a view to future submission to the International Maritime Organization.\n+Press Release & Questionnaire\n+Press Release CIC Cargo Securing 2026, including Questionnaire\n+Download file",
+    "lines_added": 9,
+    "lines_removed": 1,
+    "added_sample": [
+      "Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing",
+      "The Member Authorities of the Tokyo MOU and Paris MoU will undertake a Concentrated Inspection Campaign (CIC) on Cargo Securing of Cargo Units and Cargo Transport Units. This CIC will be conducted from 1 September to 30 November 2026.",
+      "The purpose of the CIC is to collect data on compliance with current SOLAS requirements in respect of the loading, stowage and securing of cargo units and cargo transport units.",
+      "During the campaign, Member Authorities of the MOUs will carry out the inspection in conjunction with routine port State control inspections. A ship will be subject to only one inspection under this CIC during the period, per MoU.",
+      "Port State Control Officers (PSCOs) will apply a questionnaire, developed by the Tokyo and Paris MOUs, to check how cargo securing obligations have been complied with. Any deficiencies identified during the inspection campaign will be recorded by PSCOs, and actions by a port State may vary from recording a deficiency to detaining the ship.",
+      "The results of the campaign will be analysed and findings presented to the governing bodies of both MOUs, with a view to future submission to the International Maritime Organization.",
+      "Press Release & Questionnaire",
+      "Press Release CIC Cargo Securing 2026, including Questionnaire",
+      "Download file"
+    ],
+    "removed_sample": [
+      "Please wait while your request is being verified..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

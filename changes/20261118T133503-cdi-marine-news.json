@@ -1,0 +1,26 @@
+{
+  "id": "20261118T133503-cdi-marine-news",
+  "source_id": "cdi-marine-news",
+  "source_name": "CDI – Marine news",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_news",
+  "detected_at": "2026-11-18T13:35:03+00:00",
+  "previous_hash": "eae0500aec1b2cfd5d7ad704f7ce05b554518807d6e908474526f579b92605fa",
+  "new_hash": "6d09559c3d677be0bc6d660f67b7fa3d47ac8bef688b35c836ecd88afabb13a5",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -64,2 +64,5 @@\n CDI\n+17 November 2026\n+Hyundai Oil Terminal Joins CDI-T\n+CDI is pleased to announce that Hyundai Oil Terminal Ulsan has joined CDI as a Terminal Company Participant of CDI-T\n 9 November 2026",
+    "lines_added": 3,
+    "lines_removed": 0,
+    "added_sample": [
+      "17 November 2026",
+      "Hyundai Oil Terminal Joins CDI-T",
+      "CDI is pleased to announce that Hyundai Oil Terminal Ulsan has joined CDI as a Terminal Company Participant of CDI-T"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

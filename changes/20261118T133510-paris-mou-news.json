@@ -1,0 +1,40 @@
+{
+  "id": "20261118T133510-paris-mou-news",
+  "source_id": "paris-mou-news",
+  "source_name": "Paris MoU – News",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/posts/news/",
+  "detected_at": "2026-11-18T13:35:10+00:00",
+  "previous_hash": "2c2a5868d5bd6834bdadd782ee2f3752f9655af6b1fc9ae1536a8fdee442afdd",
+  "new_hash": "b478bf73a517e9a5721fb4014b8093fefc574b34d14d6fca92d483438f2bbf4e",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -1 +1,31 @@\n-Please wait while your request is being verified...\n+News\n+20 October 2026\n+M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region\n+More info\n+20 October 2026\n+Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n+More info\n+31 August 2026\n+Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633\n+More info\n+11 August 2026\n+M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region\n+More info\n+6 August 2026\n+M/V “CORSICA” – IMO no: 9222352 refused access to the Paris MoU region\n+More info\n+5 August 2026\n+M/V “RIWAL” – IMO no: 9051208 refused access to the Paris MoU region\n+More info\n+3 August 2026\n+M/V “BAHAR” – IMO no: 8230156 refused access to the Paris MoU region\n+More info\n+3 August 2026\n+Paris and Tokyo MoUs launch 2026 Concentrated Inspection Campaign on Cargo Securing\n+More info\n+16 July 2026\n+M/V “ADOMY” – IMO no: 9085900 refused access to the Paris MoU region\n+More info\n+14 July 2026\n+M/V “LIKA” – IMO no: 7377701 refused access to the Paris MoU region\n+More info",
+    "lines_added": 31,
+    "lines_removed": 1,
+    "added_sample": [
+      "News",
+      "20 October 2026",
+      "M/V “LIRA” – IMO no: 8516744 refused access to the Paris MoU region",
+      "More info",
+      "20 October 2026",
+      "Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988",
+      "More info",
+      "31 August 2026",
+      "Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633",
+      "More info",
+      "11 August 2026",
+      "M/V “VULIN” – IMO no: 9015448 refused access to the Paris MoU region",
+      "More info",
+      "6 August 2026",
+      "M/V “CORSICA” – IMO no: 9222352 refused access to the Paris MoU region"
+    ],
+    "removed_sample": [
+      "Please wait while your request is being verified..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
