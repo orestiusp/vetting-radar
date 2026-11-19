@@ -3,48 +3,80 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-18T13:41:14+00:00",
-      "last_ok": "2026-11-18T13:41:14+00:00",
+      "last_checked": "2026-11-19T14:07:49+00:00",
+      "last_ok": "2026-11-19T14:07:49+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-18T13:41:15+00:00",
-      "last_ok": "2026-11-18T13:41:15+00:00",
+      "last_checked": "2026-11-19T14:07:50+00:00",
+      "last_ok": "2026-11-19T14:07:50+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-18T13:41:16+00:00",
-      "last_ok": "2026-11-18T13:41:16+00:00",
+      "last_checked": "2026-11-19T14:07:50+00:00",
+      "last_ok": "2026-11-19T14:07:50+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-18T13:41:16+00:00",
-      "last_ok": "2026-11-18T13:41:16+00:00",
+      "last_checked": "2026-11-19T14:07:51+00:00",
+      "last_ok": "2026-11-19T14:07:51+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-18T13:41:17+00:00",
-      "last_ok": "2026-11-18T13:41:17+00:00",
+      "last_checked": "2026-11-19T14:07:52+00:00",
+      "last_ok": "2026-11-19T14:07:52+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-18T13:41:18+00:00",
-      "last_ok": "2026-11-18T13:41:18+00:00",
+      "last_checked": "2026-11-19T14:07:52+00:00",
+      "last_ok": "2026-11-19T14:07:52+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "e3e546a9a71dc494",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "The Swedish Club Announces General Increase for 2027/2028",
+      "url": "https://www.swedishclub.com/news/press-release/the-swedish-club-announces-general-increase-for-2027-2028/",
+      "published": "Thu, 19 Nov 2026 13:34:16 +0000",
+      "summary_from_feed": "ATHENS, GREECE – 19 November 2026&#160; At its meeting today in Athens, the Board of The Swedish Club agreed a 4% General Increase for P&#38;I and a 4% General Increase for FD&#38;D for the 2027/2028 policy year. The measured adjustments reflect the Club&#8217;s disciplined underwriting approach and commitment to maintaining premium adequacy while balancing the [&#8230;]",
+      "relevance": "skip",
+      "found_at": "2026-11-19T14:07:52+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
+    {
+      "key": "adbb261a76ded673",
+      "feed": "maib",
+      "source_body": "UK Marine Accident Investigation Branch",
+      "source_type": "investigation",
+      "title": "Foundering of the sailing yacht Bayesian with the loss of seven lives",
+      "url": "https://www.gov.uk/maib-reports/foundering-of-the-sailing-yacht-bayesian-with-the-loss-of-seven-lives",
+      "published": "2026-11-19T00:01:06+00:00",
+      "summary_from_feed": "Location: 0.5 nautical miles south-east of Porticello, Italy.",
+      "relevance": "skip",
+      "found_at": "2026-11-19T14:07:49+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "f710330f8359f4b6",
       "feed": "swedish-club",

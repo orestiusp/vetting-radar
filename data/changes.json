@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261119T140144-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-19T14:01:44+00:00",
+    "previous_hash": "107e3e0bb41d79ad5b578797bf47f7d51c6052c909027ffd06422da22d019e7e",
+    "new_hash": "01f680d28a3a0dd8e458dc25d3b2e478268109389f16b6a1db3bde41e0980e12",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,2 +15,9 @@\n LAST DATA UPDATE :\n+Türk Loydu\n+Mediterranean MoU\n+Paris MoU\n+Russian Maritime Register of Shipping\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n Green Award\n@@ -18,8 +25,2 @@\n Indian Ocean MoU\n-Türk Loydu\n-Mediterranean MoU\n-Paris MoU\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 6,
+      "added_sample": [
+        "Türk Loydu",
+        "Mediterranean MoU",
+        "Paris MoU",
+        "Russian Maritime Register of Shipping",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ],
+      "removed_sample": [
+        "Türk Loydu",
+        "Mediterranean MoU",
+        "Paris MoU",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261118T133514-siot-trieste-terminal-information-2026-pdf",
     "source_id": "siot-trieste-terminal-information-2026-pdf",
     "source_name": "SIOT Trieste – Terminal Information & Port Regulations 2026 (PDF)",
