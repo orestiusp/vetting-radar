@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-19T14:07:49+00:00",
-      "last_ok": "2026-11-19T14:07:49+00:00",
+      "last_checked": "2026-11-20T13:50:37+00:00",
+      "last_ok": "2026-11-20T13:50:37+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-19T14:07:50+00:00",
-      "last_ok": "2026-11-19T14:07:50+00:00",
+      "last_checked": "2026-11-20T13:50:38+00:00",
+      "last_ok": "2026-11-20T13:50:38+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-19T14:07:50+00:00",
-      "last_ok": "2026-11-19T14:07:50+00:00",
+      "last_checked": "2026-11-20T13:50:39+00:00",
+      "last_ok": "2026-11-20T13:50:39+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-19T14:07:51+00:00",
-      "last_ok": "2026-11-19T14:07:51+00:00",
+      "last_checked": "2026-11-20T13:50:39+00:00",
+      "last_ok": "2026-11-20T13:50:39+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-19T14:07:52+00:00",
-      "last_ok": "2026-11-19T14:07:52+00:00",
+      "last_checked": "2026-11-20T13:50:40+00:00",
+      "last_ok": "2026-11-20T13:50:40+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-19T14:07:52+00:00",
-      "last_ok": "2026-11-19T14:07:52+00:00",
+      "last_checked": "2026-11-20T13:50:40+00:00",
+      "last_ok": "2026-11-20T13:50:40+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "21687556bd5dbacd",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Protection & Indemnity Insurance 2027/2028",
+      "url": "https://www.swedishclub.com/news/circulars/protection-indemnity-insurance-2027-2028/",
+      "published": "Thu, 19 Nov 2026 15:03:46 +0000",
+      "summary_from_feed": "The Board of Directors met in Athens on 19 November 2026 to review the Club’s financial position and consider renewal requirements for the coming policy year 2027/2028. Decisions taken regarding open Policy Years are set out below.&#160; Update The owners&#8217; mutual P&#38;I portfolio has developed positively during 2026, reaching approximately 59,1 million GT across 1,676 [&#8230;]",
+      "relevance": "skip",
+      "found_at": "2026-11-20T13:50:40+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "e3e546a9a71dc494",
       "feed": "swedish-club",

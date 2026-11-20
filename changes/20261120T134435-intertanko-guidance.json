@@ -1,0 +1,36 @@
+{
+  "id": "20261120T134435-intertanko-guidance",
+  "source_id": "intertanko-guidance",
+  "source_name": "INTERTANKO – Guidance",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/info-centre/intertanko-guidance",
+  "detected_at": "2026-11-20T13:44:35+00:00",
+  "previous_hash": "2bc43e53c5b26382acc6adeeb432fb17bebfe0ff1496d7dd60430a8feb7f7cd1",
+  "new_hash": "f977c0fd1d571fdedb8c7462781fc947d0107df237c88912b0e7da3512d8ad85",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -80,2 +80,8 @@\n Guidance Notes\n+November 2026\n+Application of CO₂ Monitoring Requirements under IMO Resolution MSC.581(110) for Tankers and Gas Carriers\n+The purpose of this paper is to examine implementation of the CO₂ monitoring provisions withintanker operations and provide a risk-based...\n+November 2026\n+Conventional Fuel Oil and Alternative (including Gaseous) Fuel Comparison Table\n+As the shipping industry transitions toward alternative fuels, INTERTANKO has published a comparison table to help Members navigate the operational...\n July 2026\n@@ -104,8 +110,2 @@\n ‘State of play on emission reductions within the tanker industry’, provides a consolidated assessment of the decarbonisation challenge facing the...\n-February 2026\n-Port State Control Annual Report 2025\n-INTERTANKO compiles data from three Port State Control (PSC) Regional Memoranda of Understanding (MoUs) – the Paris MoU, the Tokyo...\n-February 2026\n-Simultaneous Carriage of Ammonia and LPG Cargoes\n-As the shipping industry moves towards further decarbonisation efforts, INTERTANKO has published a new guidance document to help Members with...\n INTERTANKO",
+    "lines_added": 6,
+    "lines_removed": 6,
+    "added_sample": [
+      "November 2026",
+      "Application of CO₂ Monitoring Requirements under IMO Resolution MSC.581(110) for Tankers and Gas Carriers",
+      "The purpose of this paper is to examine implementation of the CO₂ monitoring provisions withintanker operations and provide a risk-based...",
+      "November 2026",
+      "Conventional Fuel Oil and Alternative (including Gaseous) Fuel Comparison Table",
+      "As the shipping industry transitions toward alternative fuels, INTERTANKO has published a comparison table to help Members navigate the operational..."
+    ],
+    "removed_sample": [
+      "February 2026",
+      "Port State Control Annual Report 2025",
+      "INTERTANKO compiles data from three Port State Control (PSC) Regional Memoranda of Understanding (MoUs) – the Paris MoU, the Tokyo...",
+      "February 2026",
+      "Simultaneous Carriage of Ammonia and LPG Cargoes",
+      "As the shipping industry moves towards further decarbonisation efforts, INTERTANKO has published a new guidance document to help Members with..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

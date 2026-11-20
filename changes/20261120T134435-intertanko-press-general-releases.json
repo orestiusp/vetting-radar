@@ -1,0 +1,34 @@
+{
+  "id": "20261120T134435-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-11-20T13:44:35+00:00",
+  "previous_hash": "736ec97c72a0a7b9130d59810a84869848aa6e134a7f812d3fc71603cb52f454",
+  "new_hash": "e0fad632e136c87830600958b9032b633250165b0d84e9ce27fd542847aa6e81",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -86,2 +86,7 @@\n NEWS\n+20 November 2026\n+Advice for Members regarding situation in Gulf Region\n+===========\n+20 November: Intensity of the Gulf region attacks continue\n+The Iranians have continued to attack ships in the Gulf Region,...\n 18 November 2026\n@@ -91,7 +96,2 @@\n In advance of the UN International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC...\n-13 November 2026\n-Advice for Members regarding situation in Gulf Region\n-===========\n-13 November: Attacks spread across the Gulf\n-Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in...\n 15 October 2026",
+    "lines_added": 5,
+    "lines_removed": 5,
+    "added_sample": [
+      "20 November 2026",
+      "Advice for Members regarding situation in Gulf Region",
+      "===========",
+      "20 November: Intensity of the Gulf region attacks continue",
+      "The Iranians have continued to attack ships in the Gulf Region,..."
+    ],
+    "removed_sample": [
+      "13 November 2026",
+      "Advice for Members regarding situation in Gulf Region",
+      "===========",
+      "13 November: Attacks spread across the Gulf",
+      "Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

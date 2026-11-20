@@ -1,0 +1,26 @@
+{
+  "id": "20261120T134432-intertanko-vetting-committee",
+  "source_id": "intertanko-vetting-committee",
+  "source_name": "INTERTANKO – Vetting Committee",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/committees/vetting-committee?subview=newsarchive",
+  "detected_at": "2026-11-20T13:44:32+00:00",
+  "previous_hash": "84619678db29180bab6dc0bccac5bbbd38923343fb627c1abc32509ffa25e380",
+  "new_hash": "b73b8d3a4162edd7caac7505cf324d27bb3b62342257f8dae06c4245acc74bc6",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -75,2 +75,5 @@\n News Archive\n+20 November 2026\n+Vetting Committee minutes now available\n+The minutes of the 69th meeting of INTERTANKO’s Vetting Committee, held between 7-8 October in Paris, are now available on...\n 16 October 2026",
+    "lines_added": 3,
+    "lines_removed": 0,
+    "added_sample": [
+      "20 November 2026",
+      "Vetting Committee minutes now available",
+      "The minutes of the 69th meeting of INTERTANKO’s Vetting Committee, held between 7-8 October in Paris, are now available on..."
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

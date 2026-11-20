@@ -1,5 +1,231 @@
 [
   {
+    "id": "20261120T134435-intertanko-guidance",
+    "source_id": "intertanko-guidance",
+    "source_name": "INTERTANKO – Guidance",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/info-centre/intertanko-guidance",
+    "detected_at": "2026-11-20T13:44:35+00:00",
+    "previous_hash": "2bc43e53c5b26382acc6adeeb432fb17bebfe0ff1496d7dd60430a8feb7f7cd1",
+    "new_hash": "f977c0fd1d571fdedb8c7462781fc947d0107df237c88912b0e7da3512d8ad85",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -80,2 +80,8 @@\n Guidance Notes\n+November 2026\n+Application of CO₂ Monitoring Requirements under IMO Resolution MSC.581(110) for Tankers and Gas Carriers\n+The purpose of this paper is to examine implementation of the CO₂ monitoring provisions withintanker operations and provide a risk-based...\n+November 2026\n+Conventional Fuel Oil and Alternative (including Gaseous) Fuel Comparison Table\n+As the shipping industry transitions toward alternative fuels, INTERTANKO has published a comparison table to help Members navigate the operational...\n July 2026\n@@ -104,8 +110,2 @@\n ‘State of play on emission reductions within the tanker industry’, provides a consolidated assessment of the decarbonisation challenge facing the...\n-February 2026\n-Port State Control Annual Report 2025\n-INTERTANKO compiles data from three Port State Control (PSC) Regional Memoranda of Understanding (MoUs) – the Paris MoU, the Tokyo...\n-February 2026\n-Simultaneous Carriage of Ammonia and LPG Cargoes\n-As the shipping industry moves towards further decarbonisation efforts, INTERTANKO has published a new guidance document to help Members with...\n INTERTANKO",
+      "lines_added": 6,
+      "lines_removed": 6,
+      "added_sample": [
+        "November 2026",
+        "Application of CO₂ Monitoring Requirements under IMO Resolution MSC.581(110) for Tankers and Gas Carriers",
+        "The purpose of this paper is to examine implementation of the CO₂ monitoring provisions withintanker operations and provide a risk-based...",
+        "November 2026",
+        "Conventional Fuel Oil and Alternative (including Gaseous) Fuel Comparison Table",
+        "As the shipping industry transitions toward alternative fuels, INTERTANKO has published a comparison table to help Members navigate the operational..."
+      ],
+      "removed_sample": [
+        "February 2026",
+        "Port State Control Annual Report 2025",
+        "INTERTANKO compiles data from three Port State Control (PSC) Regional Memoranda of Understanding (MoUs) – the Paris MoU, the Tokyo...",
+        "February 2026",
+        "Simultaneous Carriage of Ammonia and LPG Cargoes",
+        "As the shipping industry moves towards further decarbonisation efforts, INTERTANKO has published a new guidance document to help Members with..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261120T134435-intertanko-press-general-releases",
+    "source_id": "intertanko-press-general-releases",
+    "source_name": "INTERTANKO – Press & general releases",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk/press-general-releases",
+    "detected_at": "2026-11-20T13:44:35+00:00",
+    "previous_hash": "736ec97c72a0a7b9130d59810a84869848aa6e134a7f812d3fc71603cb52f454",
+    "new_hash": "e0fad632e136c87830600958b9032b633250165b0d84e9ce27fd542847aa6e81",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -86,2 +86,7 @@\n NEWS\n+20 November 2026\n+Advice for Members regarding situation in Gulf Region\n+===========\n+20 November: Intensity of the Gulf region attacks continue\n+The Iranians have continued to attack ships in the Gulf Region,...\n 18 November 2026\n@@ -91,7 +96,2 @@\n In advance of the UN International Maritime Organization (IMO) Marine Environment Protection Committee (MEPC...\n-13 November 2026\n-Advice for Members regarding situation in Gulf Region\n-===========\n-13 November: Attacks spread across the Gulf\n-Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in...\n 15 October 2026",
+      "lines_added": 5,
+      "lines_removed": 5,
+      "added_sample": [
+        "20 November 2026",
+        "Advice for Members regarding situation in Gulf Region",
+        "===========",
+        "20 November: Intensity of the Gulf region attacks continue",
+        "The Iranians have continued to attack ships in the Gulf Region,..."
+      ],
+      "removed_sample": [
+        "13 November 2026",
+        "Advice for Members regarding situation in Gulf Region",
+        "===========",
+        "13 November: Attacks spread across the Gulf",
+        "Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261120T134435-intertanko-news-desk",
+    "source_id": "intertanko-news-desk",
+    "source_name": "INTERTANKO – News desk",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk",
+    "detected_at": "2026-11-20T13:44:35+00:00",
+    "previous_hash": "3c178ea1e21a6d9eb6c9fa6192760ec186ce94817bf8bf97b5b6766770e852f9",
+    "new_hash": "878bf701ca992fe44707cfb12e435f247cf0ce1a025f918daa4a9c3108739050",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -86,32 +86,35 @@\n NEWS\n-13 November 2026\n-Security Update: Attacks spread across the Gulf\n-Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in November with at least one seafarer...\n-13 November 2026\n-USCG highlights marked reduction in physical examinations using risk-based Certificate of Compliance Exam targeting at North American Panel meeting in Houston\n-INTERTANKO’s 58th North American Panel met in Houston on 5 November, bringing Members together to discuss the Association’s priorities and...\n-13 November 2026\n-INTERTANKO joins Royal Geographical Society discussion on the global shadow fleet\n-INTERTANKO Managing Director Tim Wilkins joined a high-level panel at the Royal Geographical Society in London recently to discuss the...\n-13 November 2026\n-INTERTANKO brings tanker experience to IMO-China maritime innovation initiative\n-Following on from our report on the North Bund Forum in Shanghai, INTERTANKO also participated in the 2026 IMO-China Global...\n-13 November 2026\n-INTERTANKO calls for clarity and consistency ahead of EU Ship-Source Pollution Directive Transposition\n-INTERTANKO represented the shipping industry at an EU Member State workshop in Lisbon last week, calling for clear, transparent and...\n-13 November 2026\n-Singapore Strait: Indonesian Navy provides emergency contact guidance following ship robberies\n-Following a recent increase in reports of sea robbery incidents involving ships underway in the Singapore Strait, heightened vigilance is...\n-13 November 2026\n-INTERTANKO Safety and Technical Committee meeting minutes available\n-The minutes of the 70th Safety and Technical Committee (ISTEC) meeting held between 24-25 September 2026 at DNV’s offices in...\n-13 November 2026\n-Gas Tanker Committee minutes now available\n-The minutes from INTERTANKO’s Gas Tanker Committee online meeting held on 6 October are now available on the INTERTANKO website....\n-13 November 2026\n-Free Forum/Webinar on Biofouling – join the discussion on 24 Nov in person or online\n-Biofouling remains an important part of INTERTANKO’s strategic workplan and, with this in mind, we are to utilise the wealth...\n-13 November 2026\n-Hellenic Mediterranean Panel Meeting – Athens, 10 December – Register now\n-The next meeting of INTERTANKO's Hellenic Mediterranean Panel will take place in person at the Stavros Niarchos Foundation Cultural Centre...\n+20 November 2026\n+In memory of Gil-Yong Han\n+It is with great sadness that we share the news that our colleague Gil-Yong Han passed away peacefully last week...\n+20 November 2026\n+Security Update: Intensity of the Gulf region attacks continue\n+The Iranians have continued to attack ships in the Gulf Region, using multiple drones and missiles in each attack.\n+One...\n+20 November 2026\n+Industry urges governments to agree on global GHG regulations\n+INTERTANKO, together with Bimco, CLIA, IBIA, ICS, Intercargo, Interferry, IPTA and WSC, has issued a joint statement urging governments to...\n+20 November 2026\n+Further development of the IMO Net-Zero Framework on the table for ISWG-GHG 23 in London\n+The International Maritime Organization (IMO) will hold its 23rd Intersessional Working Group on Reduction of GHG Emissions from Ships (ISWG-GHG...\n+20 November 2026\n+INTERTANKO sets out tanker priorities during Hong Kong Maritime Week\n+At a meeting this week with Hong Kong Secretary for Transport and Logistics Mable Chan and senior officials, INTERTANKO discussed...\n+20 November 2026\n+INTERTANKO leadership addresses key industry challenges in Hong Kong\n+INTERTANKO Managing Director Tim Wilkins and Chairman Rolf Westfal-Larsen Jr. represented the Association at a series of industry events in...\n+20 November 2026\n+Amendments to IBF List of Designated Risk Areas\n+The International Bargaining Forum (IBF) has updated its List of Designated Risk Areas as of 18 November 2026.\n+The principal...\n+20 November 2026\n+Operation EUNAVFOR MED IRINI publishes updated statistics\n+The EU’s naval operation EUNAVFOR MED IRINI regularly publishes updated statistics and reports on its main activities and achievements.\n…(truncated)",
+      "lines_added": 33,
+      "lines_removed": 30,
+      "added_sample": [
+        "20 November 2026",
+        "In memory of Gil-Yong Han",
+        "It is with great sadness that we share the news that our colleague Gil-Yong Han passed away peacefully last week...",
+        "20 November 2026",
+        "Security Update: Intensity of the Gulf region attacks continue",
+        "The Iranians have continued to attack ships in the Gulf Region, using multiple drones and missiles in each attack.",
+        "One...",
+        "20 November 2026",
+        "Industry urges governments to agree on global GHG regulations",
+        "INTERTANKO, together with Bimco, CLIA, IBIA, ICS, Intercargo, Interferry, IPTA and WSC, has issued a joint statement urging governments to...",
+        "20 November 2026",
+        "Further development of the IMO Net-Zero Framework on the table for ISWG-GHG 23 in London",
+        "The International Maritime Organization (IMO) will hold its 23rd Intersessional Working Group on Reduction of GHG Emissions from Ships (ISWG-GHG...",
+        "20 November 2026",
+        "INTERTANKO sets out tanker priorities during Hong Kong Maritime Week"
+      ],
+      "removed_sample": [
+        "13 November 2026",
+        "Security Update: Attacks spread across the Gulf",
+        "Attacks on ships have continued across the Gulf region. 14 attacks were confirmed in November with at least one seafarer...",
+        "13 November 2026",
+        "USCG highlights marked reduction in physical examinations using risk-based Certificate of Compliance Exam targeting at North American Panel meeting in Houston",
+        "INTERTANKO’s 58th North American Panel met in Houston on 5 November, bringing Members together to discuss the Association’s priorities and...",
+        "13 November 2026",
+        "INTERTANKO joins Royal Geographical Society discussion on the global shadow fleet",
+        "INTERTANKO Managing Director Tim Wilkins joined a high-level panel at the Royal Geographical Society in London recently to discuss the...",
+        "13 November 2026",
+        "INTERTANKO brings tanker experience to IMO-China maritime innovation initiative",
+        "Following on from our report on the North Bund Forum in Shanghai, INTERTANKO also participated in the 2026 IMO-China Global...",
+        "13 November 2026",
+        "INTERTANKO calls for clarity and consistency ahead of EU Ship-Source Pollution Directive Transposition",
+        "INTERTANKO represented the shipping industry at an EU Member State workshop in Lisbon last week, calling for clear, transparent and..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261120T134433-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-20T13:44:33+00:00",
+    "previous_hash": "01f680d28a3a0dd8e458dc25d3b2e478268109389f16b6a1db3bde41e0980e12",
+    "new_hash": "a33da3246ddb1c51c72565dd380b4d37a638b0d856e1c05e450acf9cd420ab18",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -8,3 +8,7 @@\n More news\n-There are no news at the moment\n+News\n+2026-11-20\n+A system maintenance will be performed on EQUASIS on the 26 of November between 08:00 and 12:00 (UTC).\n+Equasis service will not be available during this interval.\n+The EQUASIS support team apologizes for any inconvenience this may cause.\n Access\n@@ -18,3 +22,4 @@\n Paris MoU\n-Russian Maritime Register of Shipping\n+Indian Register of Shipping\n+Biro Klasifikasi Indonesia\n Nippon Kaiji Kyokai\n@@ -22,5 +27,4 @@\n American Bureau of Shipping\n-Green Award\n-Tokyo MoU\n-Indian Ocean MoU\n+Türk Loydu\n+Mediterranean MoU\n USER ACTIVITY :",
+      "lines_added": 9,
+      "lines_removed": 5,
+      "added_sample": [
+        "News",
+        "2026-11-20",
+        "A system maintenance will be performed on EQUASIS on the 26 of November between 08:00 and 12:00 (UTC).",
+        "Equasis service will not be available during this interval.",
+        "The EQUASIS support team apologizes for any inconvenience this may cause.",
+        "Indian Register of Shipping",
+        "Biro Klasifikasi Indonesia",
+        "Türk Loydu",
+        "Mediterranean MoU"
+      ],
+      "removed_sample": [
+        "There are no news at the moment",
+        "Russian Maritime Register of Shipping",
+        "Green Award",
+        "Tokyo MoU",
+        "Indian Ocean MoU"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261120T134432-intertanko-vetting-committee",
+    "source_id": "intertanko-vetting-committee",
+    "source_name": "INTERTANKO – Vetting Committee",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/committees/vetting-committee?subview=newsarchive",
+    "detected_at": "2026-11-20T13:44:32+00:00",
+    "previous_hash": "84619678db29180bab6dc0bccac5bbbd38923343fb627c1abc32509ffa25e380",
+    "new_hash": "b73b8d3a4162edd7caac7505cf324d27bb3b62342257f8dae06c4245acc74bc6",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -75,2 +75,5 @@\n News Archive\n+20 November 2026\n+Vetting Committee minutes now available\n+The minutes of the 69th meeting of INTERTANKO’s Vetting Committee, held between 7-8 October in Paris, are now available on...\n 16 October 2026",
+      "lines_added": 3,
+      "lines_removed": 0,
+      "added_sample": [
+        "20 November 2026",
+        "Vetting Committee minutes now available",
+        "The minutes of the 69th meeting of INTERTANKO’s Vetting Committee, held between 7-8 October in Paris, are now available on..."
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261120T134429-cdi-marine-news",
+    "source_id": "cdi-marine-news",
+    "source_name": "CDI – Marine news",
+    "owner": "CDI",
+    "category": "cdi",
+    "url": "https://www.cdim.org/psp/cdim.wp_news",
+    "detected_at": "2026-11-20T13:44:29+00:00",
+    "previous_hash": "6d09559c3d677be0bc6d660f67b7fa3d47ac8bef688b35c836ecd88afabb13a5",
+    "new_hash": "1a01095716146769f2199cc3bd54cb7218b77362392956374650706b264cf25e",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -64,2 +64,24 @@\n CDI\n+20 November 2026\n+New CDI-T report for terminal “Altintel Liman ve Terminal Isletmeleri A.S”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Altintel Liman ve Terminal Isletmeleri A.S\n+• Country:\n+Turkey\n+• Inspection date:\n+4th November 2026\n+20 November 2026\n+New CDI-T report for terminal “Tatsumi Shokai Hokko Chemical Terminal”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Tatsumi Shokai Hokko Chemical Terminal\n+• Country:\n+Japan\n+• Inspection date:\n+30th October 2026\n 17 November 2026",
+      "lines_added": 22,
+      "lines_removed": 0,
+      "added_sample": [
+        "20 November 2026",
+        "New CDI-T report for terminal “Altintel Liman ve Terminal Isletmeleri A.S”",
+        "A new report is uploaded in the",
+        "CDI-Terminals",
+        "database for:",
+        "• Terminal:",
+        "Altintel Liman ve Terminal Isletmeleri A.S",
+        "• Country:",
+        "Turkey",
+        "• Inspection date:",
+        "4th November 2026",
+        "20 November 2026",
+        "New CDI-T report for terminal “Tatsumi Shokai Hokko Chemical Terminal”",
+        "A new report is uploaded in the",
+        "CDI-Terminals"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261119T140144-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",

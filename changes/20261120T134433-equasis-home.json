@@ -1,0 +1,38 @@
+{
+  "id": "20261120T134433-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-20T13:44:33+00:00",
+  "previous_hash": "01f680d28a3a0dd8e458dc25d3b2e478268109389f16b6a1db3bde41e0980e12",
+  "new_hash": "a33da3246ddb1c51c72565dd380b4d37a638b0d856e1c05e450acf9cd420ab18",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -8,3 +8,7 @@\n More news\n-There are no news at the moment\n+News\n+2026-11-20\n+A system maintenance will be performed on EQUASIS on the 26 of November between 08:00 and 12:00 (UTC).\n+Equasis service will not be available during this interval.\n+The EQUASIS support team apologizes for any inconvenience this may cause.\n Access\n@@ -18,3 +22,4 @@\n Paris MoU\n-Russian Maritime Register of Shipping\n+Indian Register of Shipping\n+Biro Klasifikasi Indonesia\n Nippon Kaiji Kyokai\n@@ -22,5 +27,4 @@\n American Bureau of Shipping\n-Green Award\n-Tokyo MoU\n-Indian Ocean MoU\n+Türk Loydu\n+Mediterranean MoU\n USER ACTIVITY :",
+    "lines_added": 9,
+    "lines_removed": 5,
+    "added_sample": [
+      "News",
+      "2026-11-20",
+      "A system maintenance will be performed on EQUASIS on the 26 of November between 08:00 and 12:00 (UTC).",
+      "Equasis service will not be available during this interval.",
+      "The EQUASIS support team apologizes for any inconvenience this may cause.",
+      "Indian Register of Shipping",
+      "Biro Klasifikasi Indonesia",
+      "Türk Loydu",
+      "Mediterranean MoU"
+    ],
+    "removed_sample": [
+      "There are no news at the moment",
+      "Russian Maritime Register of Shipping",
+      "Green Award",
+      "Tokyo MoU",
+      "Indian Ocean MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

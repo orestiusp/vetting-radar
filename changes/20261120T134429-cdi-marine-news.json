@@ -1,0 +1,38 @@
+{
+  "id": "20261120T134429-cdi-marine-news",
+  "source_id": "cdi-marine-news",
+  "source_name": "CDI – Marine news",
+  "owner": "CDI",
+  "category": "cdi",
+  "url": "https://www.cdim.org/psp/cdim.wp_news",
+  "detected_at": "2026-11-20T13:44:29+00:00",
+  "previous_hash": "6d09559c3d677be0bc6d660f67b7fa3d47ac8bef688b35c836ecd88afabb13a5",
+  "new_hash": "1a01095716146769f2199cc3bd54cb7218b77362392956374650706b264cf25e",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -64,2 +64,24 @@\n CDI\n+20 November 2026\n+New CDI-T report for terminal “Altintel Liman ve Terminal Isletmeleri A.S”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Altintel Liman ve Terminal Isletmeleri A.S\n+• Country:\n+Turkey\n+• Inspection date:\n+4th November 2026\n+20 November 2026\n+New CDI-T report for terminal “Tatsumi Shokai Hokko Chemical Terminal”\n+A new report is uploaded in the\n+CDI-Terminals\n+database for:\n+• Terminal:\n+Tatsumi Shokai Hokko Chemical Terminal\n+• Country:\n+Japan\n+• Inspection date:\n+30th October 2026\n 17 November 2026",
+    "lines_added": 22,
+    "lines_removed": 0,
+    "added_sample": [
+      "20 November 2026",
+      "New CDI-T report for terminal “Altintel Liman ve Terminal Isletmeleri A.S”",
+      "A new report is uploaded in the",
+      "CDI-Terminals",
+      "database for:",
+      "• Terminal:",
+      "Altintel Liman ve Terminal Isletmeleri A.S",
+      "• Country:",
+      "Turkey",
+      "• Inspection date:",
+      "4th November 2026",
+      "20 November 2026",
+      "New CDI-T report for terminal “Tatsumi Shokai Hokko Chemical Terminal”",
+      "A new report is uploaded in the",
+      "CDI-Terminals"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
