@@ -3,48 +3,64 @@
   "feeds": {
     "maib": {
       "initialised": true,
-      "last_checked": "2026-11-20T13:50:37+00:00",
-      "last_ok": "2026-11-20T13:50:37+00:00",
+      "last_checked": "2026-11-21T13:15:44+00:00",
+      "last_ok": "2026-11-21T13:15:44+00:00",
       "last_error": null,
       "items_in_feed": 50
     },
     "sg-tsib": {
       "initialised": true,
-      "last_checked": "2026-11-20T13:50:38+00:00",
-      "last_ok": "2026-11-20T13:50:38+00:00",
+      "last_checked": "2026-11-21T13:15:44+00:00",
+      "last_ok": "2026-11-21T13:15:44+00:00",
       "last_error": null,
       "items_in_feed": 72
     },
     "no-nsia": {
       "initialised": true,
-      "last_checked": "2026-11-20T13:50:39+00:00",
-      "last_ok": "2026-11-20T13:50:39+00:00",
+      "last_checked": "2026-11-21T13:15:45+00:00",
+      "last_ok": "2026-11-21T13:15:45+00:00",
       "last_error": null,
       "items_in_feed": 1
     },
     "ocimf-info": {
       "initialised": true,
-      "last_checked": "2026-11-20T13:50:39+00:00",
-      "last_ok": "2026-11-20T13:50:39+00:00",
+      "last_checked": "2026-11-21T13:15:46+00:00",
+      "last_ok": "2026-11-21T13:15:46+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "swedish-club": {
       "initialised": true,
-      "last_checked": "2026-11-20T13:50:40+00:00",
-      "last_ok": "2026-11-20T13:50:40+00:00",
+      "last_checked": "2026-11-21T13:15:47+00:00",
+      "last_ok": "2026-11-21T13:15:47+00:00",
       "last_error": null,
       "items_in_feed": 10
     },
     "ukpandi-circulars": {
       "initialised": true,
-      "last_checked": "2026-11-20T13:50:40+00:00",
-      "last_ok": "2026-11-20T13:50:40+00:00",
+      "last_checked": "2026-11-21T13:15:47+00:00",
+      "last_ok": "2026-11-21T13:15:47+00:00",
       "last_error": null,
       "items_in_feed": 10
     }
   },
   "candidates": [
+    {
+      "key": "ec2d575aa15469f4",
+      "feed": "swedish-club",
+      "source_body": "The Swedish Club",
+      "source_type": "pandi",
+      "title": "Freight Demurrage & Defence Insurance 2027/2028",
+      "url": "https://www.swedishclub.com/news/circulars/freight-demurrage-defence-insurance-2027-2028/",
+      "published": "Fri, 20 Nov 2026 15:35:36 +0000",
+      "summary_from_feed": "The Board of Directors met in Athens on 19 November 2026 to review the Club’s financial position and consider renewal requirements for the coming policy year 2027/2028. Decisions taken regarding open Policy Years are set out below.&#160; Update The Club’s FD&#38;D portfolio has remained stable during 2026, with a continued focus on controlled growth, portfolio [&#8230;]",
+      "relevance": "skip",
+      "found_at": "2026-11-21T13:15:47+00:00",
+      "status": "new",
+      "reviewed": false,
+      "publish": false,
+      "lesson_id": null
+    },
     {
       "key": "21687556bd5dbacd",
       "feed": "swedish-club",

@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-20T13:50:37+00:00",
+  "run_at": "2026-11-21T13:15:43+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
-  "unchanged": 82,
-  "changed": 6,
+  "unchanged": 88,
+  "changed": 0,
   "error": 8,
   "errors": {
     "ocimf-requesting-a-sire-2-0-inspection": "HTTPError: 403 Client Error: Forbidden for url: https://support.ocimf.org/hc/en-gb/articles/12641420845469-SIRE-Operator-Requesting-a-SIRE-2-0-Inspection",
@@ -16,14 +16,7 @@
     "marathon-petroleum-global-marine-request-inspection": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/Request-Inspection/",
     "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
   },
-  "changed_ids": [
-    "cdi-marine-news",
-    "intertanko-vetting-committee",
-    "equasis-home",
-    "intertanko-news-desk",
-    "intertanko-press-general-releases",
-    "intertanko-guidance"
-  ],
+  "changed_ids": [],
   "lesson_candidates": {
     "new": 1,
     "baseline": 0,
