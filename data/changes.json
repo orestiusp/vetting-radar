@@ -1,5 +1,77 @@
 [
   {
+    "id": "20261123T153223-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-23T15:32:23+00:00",
+    "previous_hash": "a33da3246ddb1c51c72565dd380b4d37a638b0d856e1c05e450acf9cd420ab18",
+    "new_hash": "17a8c98ff5014d52442c8d95dda5deff9b376c2c6a9c066312ac55b6043d0141",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -19,12 +19,10 @@\n LAST DATA UPDATE :\n+Steamship Mutual Underwriting Association\n+Caribbean MoU\n+VesselTracker\n+Signal Ocean\n+Det Norske Veritas\n+DYNAMARINE\n+Emirates Classification Society\n Türk Loydu\n-Mediterranean MoU\n-Paris MoU\n-Indian Register of Shipping\n-Biro Klasifikasi Indonesia\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n-Türk Loydu\n-Mediterranean MoU\n USER ACTIVITY :",
+      "lines_added": 7,
+      "lines_removed": 9,
+      "added_sample": [
+        "Steamship Mutual Underwriting Association",
+        "Caribbean MoU",
+        "VesselTracker",
+        "Signal Ocean",
+        "Det Norske Veritas",
+        "DYNAMARINE",
+        "Emirates Classification Society"
+      ],
+      "removed_sample": [
+        "Mediterranean MoU",
+        "Paris MoU",
+        "Indian Register of Shipping",
+        "Biro Klasifikasi Indonesia",
+        "Nippon Kaiji Kyokai",
+        "Lloyd's Register",
+        "American Bureau of Shipping",
+        "Türk Loydu",
+        "Mediterranean MoU"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261123T153223-imo-meeting-summaries",
+    "source_id": "imo-meeting-summaries",
+    "source_name": "IMO – Meeting summaries",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/Default.aspx",
+    "detected_at": "2026-11-23T15:32:23+00:00",
+    "previous_hash": "845ab73bd76a5b3968721a583a9c8a538f4a3dfa83b8faff92f15bb0dba3ee91",
+    "new_hash": "2c41ebf529823682962e16d4a18de8ea75c042001a140393fcfc4ddde6c85825",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -15,6 +15,10 @@\n .\n-Forthcoming Meetings\n-November\n+Current Meeting\n+November\n+23\n+rd\n Session / 23 - 27 November\n Intersessional Working Group on Reduction of GHG Emissions from Ships (ISWG-GHG)\n+Forthcoming Meetings\n+November\n 85",
+      "lines_added": 6,
+      "lines_removed": 2,
+      "added_sample": [
+        "Current Meeting",
+        "November",
+        "23",
+        "rd",
+        "Forthcoming Meetings",
+        "November"
+      ],
+      "removed_sample": [
+        "Forthcoming Meetings",
+        "November"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261120T134435-intertanko-guidance",
     "source_id": "intertanko-guidance",
     "source_name": "INTERTANKO – Guidance",

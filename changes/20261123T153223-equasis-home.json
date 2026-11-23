@@ -1,0 +1,40 @@
+{
+  "id": "20261123T153223-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-23T15:32:23+00:00",
+  "previous_hash": "a33da3246ddb1c51c72565dd380b4d37a638b0d856e1c05e450acf9cd420ab18",
+  "new_hash": "17a8c98ff5014d52442c8d95dda5deff9b376c2c6a9c066312ac55b6043d0141",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -19,12 +19,10 @@\n LAST DATA UPDATE :\n+Steamship Mutual Underwriting Association\n+Caribbean MoU\n+VesselTracker\n+Signal Ocean\n+Det Norske Veritas\n+DYNAMARINE\n+Emirates Classification Society\n Türk Loydu\n-Mediterranean MoU\n-Paris MoU\n-Indian Register of Shipping\n-Biro Klasifikasi Indonesia\n-Nippon Kaiji Kyokai\n-Lloyd's Register\n-American Bureau of Shipping\n-Türk Loydu\n-Mediterranean MoU\n USER ACTIVITY :",
+    "lines_added": 7,
+    "lines_removed": 9,
+    "added_sample": [
+      "Steamship Mutual Underwriting Association",
+      "Caribbean MoU",
+      "VesselTracker",
+      "Signal Ocean",
+      "Det Norske Veritas",
+      "DYNAMARINE",
+      "Emirates Classification Society"
+    ],
+    "removed_sample": [
+      "Mediterranean MoU",
+      "Paris MoU",
+      "Indian Register of Shipping",
+      "Biro Klasifikasi Indonesia",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping",
+      "Türk Loydu",
+      "Mediterranean MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
