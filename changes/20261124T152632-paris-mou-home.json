@@ -1,0 +1,28 @@
+{
+  "id": "20261124T152632-paris-mou-home",
+  "source_id": "paris-mou-home",
+  "source_name": "Paris MoU – home",
+  "owner": "Paris MoU",
+  "category": "psc",
+  "url": "https://parismou.org/",
+  "detected_at": "2026-11-24T15:26:32+00:00",
+  "previous_hash": "b6686e9ba7ece7016a2bf39859287a8bdeb60b200c55247f9bf5949e5878efde",
+  "new_hash": "081cc51edeb1ce6b36294e4dd8ce0be12dbcc8ec272e73ff195362b280514374",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -17,2 +17,4 @@\n Link to all news items\n+16 November 2026\n+M/V “SORMOVSKIY 121” – IMO no: 8133578 refused access to the Paris MoU region\n 20 October 2026\n@@ -21,4 +23,2 @@\n Lifting of Refusal of Access of M/V “SEA BREEZE” – IMO no: 9361988\n-31 August 2026\n-Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633\n 3 August 2026",
+    "lines_added": 2,
+    "lines_removed": 2,
+    "added_sample": [
+      "16 November 2026",
+      "M/V “SORMOVSKIY 121” – IMO no: 8133578 refused access to the Paris MoU region"
+    ],
+    "removed_sample": [
+      "31 August 2026",
+      "Lifting of Refusal of Acces of M/V “EVEREST” – IMO no: 8411633"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

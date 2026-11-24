@@ -1,0 +1,37 @@
+{
+  "id": "20261124T152635-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-24T15:26:35+00:00",
+  "previous_hash": "17a8c98ff5014d52442c8d95dda5deff9b376c2c6a9c066312ac55b6043d0141",
+  "new_hash": "ad0d37954fec1efa665c7f0d9fcc3b203034aaf1be1ef658e588e3e9d451a60a",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -19,10 +19,11 @@\n LAST DATA UPDATE :\n+Türk Loydu\n+Mediterranean MoU\n+Paris MoU\n+MarineTraffic\n+Nippon Kaiji Kyokai\n+Lloyd's Register\n+American Bureau of Shipping\n Steamship Mutual Underwriting Association\n Caribbean MoU\n-VesselTracker\n-Signal Ocean\n-Det Norske Veritas\n-DYNAMARINE\n-Emirates Classification Society\n-Türk Loydu\n USER ACTIVITY :",
+    "lines_added": 7,
+    "lines_removed": 6,
+    "added_sample": [
+      "Türk Loydu",
+      "Mediterranean MoU",
+      "Paris MoU",
+      "MarineTraffic",
+      "Nippon Kaiji Kyokai",
+      "Lloyd's Register",
+      "American Bureau of Shipping"
+    ],
+    "removed_sample": [
+      "VesselTracker",
+      "Signal Ocean",
+      "Det Norske Veritas",
+      "DYNAMARINE",
+      "Emirates Classification Society",
+      "Türk Loydu"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
