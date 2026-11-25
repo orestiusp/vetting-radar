@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261125T151109-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-25T15:11:09+00:00",
+    "previous_hash": "ad0d37954fec1efa665c7f0d9fcc3b203034aaf1be1ef658e588e3e9d451a60a",
+    "new_hash": "51a5d391e165cad759fa9e7dce0153fe4be22fb5bc613ebfcdd43e85d84d5114",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -19,2 +19,4 @@\n LAST DATA UPDATE :\n+Indian Ocean MoU\n+IHS Maritime\n Türk Loydu\n@@ -22,3 +24,2 @@\n Paris MoU\n-MarineTraffic\n Nippon Kaiji Kyokai\n@@ -26,4 +27,4 @@\n American Bureau of Shipping\n-Steamship Mutual Underwriting Association\n-Caribbean MoU\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n USER ACTIVITY :",
+      "lines_added": 4,
+      "lines_removed": 3,
+      "added_sample": [
+        "Indian Ocean MoU",
+        "IHS Maritime",
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO"
+      ],
+      "removed_sample": [
+        "MarineTraffic",
+        "Steamship Mutual Underwriting Association",
+        "Caribbean MoU"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261125T151109-imo-media-centre-press-briefings",
+    "source_id": "imo-media-centre-press-briefings",
+    "source_name": "IMO – Media centre press briefings",
+    "owner": "IMO",
+    "category": "regulation",
+    "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+    "detected_at": "2026-11-25T15:11:09+00:00",
+    "previous_hash": "61f41708c3c32de2b2856803010de5076a1405b515745bce0c3e4e1b5f6fae78",
+    "new_hash": "d5aa59c1801e00d881255bfe056f8c4ff543b20e56dbb801f8d75cf928e72996",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,5 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+25 November 2026\n+Tackling fraudulent registries together\n+IMO Secretary-General highlights need to identify suspicious activity and combat fraud.\n 11 November 2026\n@@ -32,4 +35 @@\n While three hijacked vessels have been freed after months in captivity, five seafarers have reportedly died in the crossfire of rescue operations.\n-24 September 2026\n-World Maritime Day 2026: From Policy to Practice - Powering Maritime Excellence\n-Global regulations will deliver safer, more resilient shipping when they are implemented worldwide.",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "25 November 2026",
+        "Tackling fraudulent registries together",
+        "IMO Secretary-General highlights need to identify suspicious activity and combat fraud."
+      ],
+      "removed_sample": [
+        "24 September 2026",
+        "World Maritime Day 2026: From Policy to Practice - Powering Maritime Excellence",
+        "Global regulations will deliver safer, more resilient shipping when they are implemented worldwide."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261125T151109-sigtto-news",
+    "source_id": "sigtto-news",
+    "source_name": "SIGTTO – News",
+    "owner": "SIGTTO",
+    "category": "industry",
+    "url": "https://www.sigtto.org/news/",
+    "detected_at": "2026-11-25T15:11:09+00:00",
+    "previous_hash": "4db29e4917690aa6dce2ac0f25a39c934bf71722bb68885c54c9acbee970362e",
+    "new_hash": "e604e30f5773570645ecb022a205ca429671d9226aa866c30d8e7731ca03194f",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -5,2 +5,5 @@\n Title\n+SIGTTO Welcomes New Leadership Appointment\n+20261125\n+25 Nov 2026\n New Publication Available to Order - Emergency Release Systems, Liquefied Gases, Vapour Re...",
+      "lines_added": 3,
+      "lines_removed": 0,
+      "added_sample": [
+        "SIGTTO Welcomes New Leadership Appointment",
+        "20261125",
+        "25 Nov 2026"
+      ],
+      "removed_sample": []
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261124T152637-paris-mou-news",
     "source_id": "paris-mou-news",
     "source_name": "Paris MoU – News",

@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-24T15:32:41+00:00",
+  "run_at": "2026-11-25T15:17:13+00:00",
   "scope": "full",
   "sources_checked": 96,
   "baseline": 0,
@@ -17,14 +17,14 @@
     "marathon-petroleum-global-marine": "HTTPError: 403 Client Error: Forbidden for url: https://www.marathonpetroleum.com/Operations/Global-Marine/"
   },
   "changed_ids": [
-    "paris-mou-home",
-    "equasis-home",
-    "paris-mou-news"
+    "sigtto-news",
+    "imo-media-centre-press-briefings",
+    "equasis-home"
   ],
   "lesson_candidates": {
     "new": 1,
     "baseline": 0,
     "errors": {},
-    "open_new": 15
+    "open_new": 16
   }
 }

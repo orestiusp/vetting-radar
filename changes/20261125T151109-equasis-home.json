@@ -1,0 +1,31 @@
+{
+  "id": "20261125T151109-equasis-home",
+  "source_id": "equasis-home",
+  "source_name": "Equasis – home",
+  "owner": "Equasis",
+  "category": "psc",
+  "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+  "detected_at": "2026-11-25T15:11:09+00:00",
+  "previous_hash": "ad0d37954fec1efa665c7f0d9fcc3b203034aaf1be1ef658e588e3e9d451a60a",
+  "new_hash": "51a5d391e165cad759fa9e7dce0153fe4be22fb5bc613ebfcdd43e85d84d5114",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -19,2 +19,4 @@\n LAST DATA UPDATE :\n+Indian Ocean MoU\n+IHS Maritime\n Türk Loydu\n@@ -22,3 +24,2 @@\n Paris MoU\n-MarineTraffic\n Nippon Kaiji Kyokai\n@@ -26,4 +27,4 @@\n American Bureau of Shipping\n-Steamship Mutual Underwriting Association\n-Caribbean MoU\n+US Coast Guard - QualShip 21\n+US Coast Guard - E_ZERO\n USER ACTIVITY :",
+    "lines_added": 4,
+    "lines_removed": 3,
+    "added_sample": [
+      "Indian Ocean MoU",
+      "IHS Maritime",
+      "US Coast Guard - QualShip 21",
+      "US Coast Guard - E_ZERO"
+    ],
+    "removed_sample": [
+      "MarineTraffic",
+      "Steamship Mutual Underwriting Association",
+      "Caribbean MoU"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

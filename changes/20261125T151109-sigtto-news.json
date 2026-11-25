@@ -1,0 +1,26 @@
+{
+  "id": "20261125T151109-sigtto-news",
+  "source_id": "sigtto-news",
+  "source_name": "SIGTTO – News",
+  "owner": "SIGTTO",
+  "category": "industry",
+  "url": "https://www.sigtto.org/news/",
+  "detected_at": "2026-11-25T15:11:09+00:00",
+  "previous_hash": "4db29e4917690aa6dce2ac0f25a39c934bf71722bb68885c54c9acbee970362e",
+  "new_hash": "e604e30f5773570645ecb022a205ca429671d9226aa866c30d8e7731ca03194f",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -5,2 +5,5 @@\n Title\n+SIGTTO Welcomes New Leadership Appointment\n+20261125\n+25 Nov 2026\n New Publication Available to Order - Emergency Release Systems, Liquefied Gases, Vapour Re...",
+    "lines_added": 3,
+    "lines_removed": 0,
+    "added_sample": [
+      "SIGTTO Welcomes New Leadership Appointment",
+      "20261125",
+      "25 Nov 2026"
+    ],
+    "removed_sample": []
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

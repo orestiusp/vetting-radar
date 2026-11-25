@@ -1,0 +1,30 @@
+{
+  "id": "20261125T151109-imo-media-centre-press-briefings",
+  "source_id": "imo-media-centre-press-briefings",
+  "source_name": "IMO – Media centre press briefings",
+  "owner": "IMO",
+  "category": "regulation",
+  "url": "https://www.imo.org/en/MediaCentre/PressBriefings/Pages/default.aspx",
+  "detected_at": "2026-11-25T15:11:09+00:00",
+  "previous_hash": "61f41708c3c32de2b2856803010de5076a1405b515745bce0c3e4e1b5f6fae78",
+  "new_hash": "d5aa59c1801e00d881255bfe056f8c4ff543b20e56dbb801f8d75cf928e72996",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -11,2 +11,5 @@\n with your name, organization, and email address to receive the latest press releases and other information from IMO.\n+25 November 2026\n+Tackling fraudulent registries together\n+IMO Secretary-General highlights need to identify suspicious activity and combat fraud.\n 11 November 2026\n@@ -32,4 +35 @@\n While three hijacked vessels have been freed after months in captivity, five seafarers have reportedly died in the crossfire of rescue operations.\n-24 September 2026\n-World Maritime Day 2026: From Policy to Practice - Powering Maritime Excellence\n-Global regulations will deliver safer, more resilient shipping when they are implemented worldwide.",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "25 November 2026",
+      "Tackling fraudulent registries together",
+      "IMO Secretary-General highlights need to identify suspicious activity and combat fraud."
+    ],
+    "removed_sample": [
+      "24 September 2026",
+      "World Maritime Day 2026: From Policy to Practice - Powering Maritime Excellence",
+      "Global regulations will deliver safer, more resilient shipping when they are implemented worldwide."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}
