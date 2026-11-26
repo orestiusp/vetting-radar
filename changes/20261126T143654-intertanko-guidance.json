@@ -1,0 +1,30 @@
+{
+  "id": "20261126T143654-intertanko-guidance",
+  "source_id": "intertanko-guidance",
+  "source_name": "INTERTANKO – Guidance",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/info-centre/intertanko-guidance",
+  "detected_at": "2026-11-26T14:36:54+00:00",
+  "previous_hash": "f977c0fd1d571fdedb8c7462781fc947d0107df237c88912b0e7da3512d8ad85",
+  "new_hash": "2bcb5b4635087e4ddd3889e4cbcb3bd4284fcca65d3c44e1b9d6733dca2fb194",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -81,2 +81,5 @@\n November 2026\n+Mexican-US Oil Smuggling Advisory\n+INTERTANKO has published a new advisory to assist Members trading between North America and Mexico in recognising and managing risks...\n+November 2026\n Application of CO₂ Monitoring Requirements under IMO Resolution MSC.581(110) for Tankers and Gas Carriers\n@@ -107,5 +110,2 @@\n To contribute to evidence-based policymaking, INTERTANKO submitted 10 technical documents to the forthcoming 84th session of the IMO Marine Environment Protection...\n-April 2026\n-State of Play on Emissions Reductions within the Tanker Industry\n-‘State of play on emission reductions within the tanker industry’, provides a consolidated assessment of the decarbonisation challenge facing the...\n INTERTANKO",
+    "lines_added": 3,
+    "lines_removed": 3,
+    "added_sample": [
+      "Mexican-US Oil Smuggling Advisory",
+      "INTERTANKO has published a new advisory to assist Members trading between North America and Mexico in recognising and managing risks...",
+      "November 2026"
+    ],
+    "removed_sample": [
+      "April 2026",
+      "State of Play on Emissions Reductions within the Tanker Industry",
+      "‘State of play on emission reductions within the tanker industry’, provides a consolidated assessment of the decarbonisation challenge facing the..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

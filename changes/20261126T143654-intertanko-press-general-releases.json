@@ -1,0 +1,34 @@
+{
+  "id": "20261126T143654-intertanko-press-general-releases",
+  "source_id": "intertanko-press-general-releases",
+  "source_name": "INTERTANKO – Press & general releases",
+  "owner": "INTERTANKO",
+  "category": "industry",
+  "url": "https://www.intertanko.com/news-desk/press-general-releases",
+  "detected_at": "2026-11-26T14:36:54+00:00",
+  "previous_hash": "e0fad632e136c87830600958b9032b633250165b0d84e9ce27fd542847aa6e81",
+  "new_hash": "23cee29dd1a3253f653694dd2e628f6327bf29b1e538d64fb992864a0502ba29",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -86,7 +86,10 @@\n NEWS\n+26 November 2026\n+INTERTANKO co-signs industry open letter on freedom of navigation and the protection of seafarers\n+INTERTANKO has joined seven international shipping associations in welcoming and supporting the EU-led ‘Pledge on Maintaining the Integrity of the...\n 20 November 2026\n-Advice for Members regarding situation in Gulf Region\n+Advice for Members regarding situation in Gulf region\n ===========\n 20 November: Intensity of the Gulf region attacks continue\n-The Iranians have continued to attack ships in the Gulf Region,...\n+The Iranians have continued to attack ships in the Gulf region,...\n 18 November 2026\n@@ -120,5 +123,2 @@\n BIMCO, the International Chamber of Shipping (ICS), Intercargo and INTERTANKO unanimously condemn recent attacks on seafarers and commercial shipping in...\n-20 May 2026\n-Industry releases Strait of Hormuz navigational guidance\n-Hundreds of vessels remain unable to transit the Strait of Hormuz and, in the event of a return to more...\n INTERTANKO",
+    "lines_added": 5,
+    "lines_removed": 5,
+    "added_sample": [
+      "26 November 2026",
+      "INTERTANKO co-signs industry open letter on freedom of navigation and the protection of seafarers",
+      "INTERTANKO has joined seven international shipping associations in welcoming and supporting the EU-led ‘Pledge on Maintaining the Integrity of the...",
+      "Advice for Members regarding situation in Gulf region",
+      "The Iranians have continued to attack ships in the Gulf region,..."
+    ],
+    "removed_sample": [
+      "Advice for Members regarding situation in Gulf Region",
+      "The Iranians have continued to attack ships in the Gulf Region,...",
+      "20 May 2026",
+      "Industry releases Strait of Hormuz navigational guidance",
+      "Hundreds of vessels remain unable to transit the Strait of Hormuz and, in the event of a return to more..."
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

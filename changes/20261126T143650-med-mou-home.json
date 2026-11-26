@@ -1,0 +1,26 @@
+{
+  "id": "20261126T143650-med-mou-home",
+  "source_id": "med-mou-home",
+  "source_name": "Mediterranean MOU – home",
+  "owner": "Med MoU",
+  "category": "psc",
+  "url": "https://www.medmou.org/",
+  "detected_at": "2026-11-26T14:36:50+00:00",
+  "previous_hash": "27e99abe44a34084622e63c0935e546e5d8e820b1b4f1e43404474100b330190",
+  "new_hash": "6ea4c334021cc0af01fb6ef1fb272709e6df079df25084011a68c404cd2fd8fd",
+  "diff": {
+    "unified_diff": "--- previous\n+++ current\n@@ -65,3 +65,3 @@\n Vice Chairman\n-Mr. Bernard Zammit\n+Mr. Mladen Mandic\n Know More ...",
+    "lines_added": 1,
+    "lines_removed": 1,
+    "added_sample": [
+      "Mr. Mladen Mandic"
+    ],
+    "removed_sample": [
+      "Mr. Bernard Zammit"
+    ]
+  },
+  "summary": null,
+  "significance": null,
+  "reviewed": false,
+  "publish": false
+}

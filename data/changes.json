@@ -1,5 +1,127 @@
 [
   {
+    "id": "20261126T143654-intertanko-guidance",
+    "source_id": "intertanko-guidance",
+    "source_name": "INTERTANKO – Guidance",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/info-centre/intertanko-guidance",
+    "detected_at": "2026-11-26T14:36:54+00:00",
+    "previous_hash": "f977c0fd1d571fdedb8c7462781fc947d0107df237c88912b0e7da3512d8ad85",
+    "new_hash": "2bcb5b4635087e4ddd3889e4cbcb3bd4284fcca65d3c44e1b9d6733dca2fb194",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -81,2 +81,5 @@\n November 2026\n+Mexican-US Oil Smuggling Advisory\n+INTERTANKO has published a new advisory to assist Members trading between North America and Mexico in recognising and managing risks...\n+November 2026\n Application of CO₂ Monitoring Requirements under IMO Resolution MSC.581(110) for Tankers and Gas Carriers\n@@ -107,5 +110,2 @@\n To contribute to evidence-based policymaking, INTERTANKO submitted 10 technical documents to the forthcoming 84th session of the IMO Marine Environment Protection...\n-April 2026\n-State of Play on Emissions Reductions within the Tanker Industry\n-‘State of play on emission reductions within the tanker industry’, provides a consolidated assessment of the decarbonisation challenge facing the...\n INTERTANKO",
+      "lines_added": 3,
+      "lines_removed": 3,
+      "added_sample": [
+        "Mexican-US Oil Smuggling Advisory",
+        "INTERTANKO has published a new advisory to assist Members trading between North America and Mexico in recognising and managing risks...",
+        "November 2026"
+      ],
+      "removed_sample": [
+        "April 2026",
+        "State of Play on Emissions Reductions within the Tanker Industry",
+        "‘State of play on emission reductions within the tanker industry’, provides a consolidated assessment of the decarbonisation challenge facing the..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261126T143654-intertanko-press-general-releases",
+    "source_id": "intertanko-press-general-releases",
+    "source_name": "INTERTANKO – Press & general releases",
+    "owner": "INTERTANKO",
+    "category": "industry",
+    "url": "https://www.intertanko.com/news-desk/press-general-releases",
+    "detected_at": "2026-11-26T14:36:54+00:00",
+    "previous_hash": "e0fad632e136c87830600958b9032b633250165b0d84e9ce27fd542847aa6e81",
+    "new_hash": "23cee29dd1a3253f653694dd2e628f6327bf29b1e538d64fb992864a0502ba29",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -86,7 +86,10 @@\n NEWS\n+26 November 2026\n+INTERTANKO co-signs industry open letter on freedom of navigation and the protection of seafarers\n+INTERTANKO has joined seven international shipping associations in welcoming and supporting the EU-led ‘Pledge on Maintaining the Integrity of the...\n 20 November 2026\n-Advice for Members regarding situation in Gulf Region\n+Advice for Members regarding situation in Gulf region\n ===========\n 20 November: Intensity of the Gulf region attacks continue\n-The Iranians have continued to attack ships in the Gulf Region,...\n+The Iranians have continued to attack ships in the Gulf region,...\n 18 November 2026\n@@ -120,5 +123,2 @@\n BIMCO, the International Chamber of Shipping (ICS), Intercargo and INTERTANKO unanimously condemn recent attacks on seafarers and commercial shipping in...\n-20 May 2026\n-Industry releases Strait of Hormuz navigational guidance\n-Hundreds of vessels remain unable to transit the Strait of Hormuz and, in the event of a return to more...\n INTERTANKO",
+      "lines_added": 5,
+      "lines_removed": 5,
+      "added_sample": [
+        "26 November 2026",
+        "INTERTANKO co-signs industry open letter on freedom of navigation and the protection of seafarers",
+        "INTERTANKO has joined seven international shipping associations in welcoming and supporting the EU-led ‘Pledge on Maintaining the Integrity of the...",
+        "Advice for Members regarding situation in Gulf region",
+        "The Iranians have continued to attack ships in the Gulf region,..."
+      ],
+      "removed_sample": [
+        "Advice for Members regarding situation in Gulf Region",
+        "The Iranians have continued to attack ships in the Gulf Region,...",
+        "20 May 2026",
+        "Industry releases Strait of Hormuz navigational guidance",
+        "Hundreds of vessels remain unable to transit the Strait of Hormuz and, in the event of a return to more..."
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261126T143651-equasis-home",
+    "source_id": "equasis-home",
+    "source_name": "Equasis – home",
+    "owner": "Equasis",
+    "category": "psc",
+    "url": "https://www.equasis.org/EquasisWeb/public/HomePage",
+    "detected_at": "2026-11-26T14:36:51+00:00",
+    "previous_hash": "51a5d391e165cad759fa9e7dce0153fe4be22fb5bc613ebfcdd43e85d84d5114",
+    "new_hash": "764d7764aca4bcca3f2679b257811d184c30cf3c3f5187195412e9283b1573f8",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -19,4 +19,2 @@\n LAST DATA UPDATE :\n-Indian Ocean MoU\n-IHS Maritime\n Türk Loydu\n@@ -24,2 +22,4 @@\n Paris MoU\n+Russian Maritime Register of Shipping\n+Indian Register of Shipping\n Nippon Kaiji Kyokai\n@@ -27,4 +27,4 @@\n American Bureau of Shipping\n-US Coast Guard - QualShip 21\n-US Coast Guard - E_ZERO\n+Indian Register of Shipping\n+Indian Ocean MoU\n USER ACTIVITY :",
+      "lines_added": 4,
+      "lines_removed": 4,
+      "added_sample": [
+        "Russian Maritime Register of Shipping",
+        "Indian Register of Shipping",
+        "Indian Register of Shipping",
+        "Indian Ocean MoU"
+      ],
+      "removed_sample": [
+        "Indian Ocean MoU",
+        "IHS Maritime",
+        "US Coast Guard - QualShip 21",
+        "US Coast Guard - E_ZERO"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
+    "id": "20261126T143650-med-mou-home",
+    "source_id": "med-mou-home",
+    "source_name": "Mediterranean MOU – home",
+    "owner": "Med MoU",
+    "category": "psc",
+    "url": "https://www.medmou.org/",
+    "detected_at": "2026-11-26T14:36:50+00:00",
+    "previous_hash": "27e99abe44a34084622e63c0935e546e5d8e820b1b4f1e43404474100b330190",
+    "new_hash": "6ea4c334021cc0af01fb6ef1fb272709e6df079df25084011a68c404cd2fd8fd",
+    "diff": {
+      "unified_diff": "--- previous\n+++ current\n@@ -65,3 +65,3 @@\n Vice Chairman\n-Mr. Bernard Zammit\n+Mr. Mladen Mandic\n Know More ...",
+      "lines_added": 1,
+      "lines_removed": 1,
+      "added_sample": [
+        "Mr. Mladen Mandic"
+      ],
+      "removed_sample": [
+        "Mr. Bernard Zammit"
+      ]
+    },
+    "summary": null,
+    "significance": null,
+    "reviewed": false,
+    "publish": false
+  },
+  {
     "id": "20261125T151109-equasis-home",
     "source_id": "equasis-home",
     "source_name": "Equasis – home",
