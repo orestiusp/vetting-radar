@@ -6,27 +6,23 @@ Equasis is a tool aimed at reducing substandard shipping
 - Its services are free of any charge
 - You only need to register as a user
 More news
-News
-2026-11-20
-A system maintenance will be performed on EQUASIS on the 26 of November between 08:00 and 12:00 (UTC).
-Equasis service will not be available during this interval.
-The EQUASIS support team apologizes for any inconvenience this may cause.
+There are no news at the moment
 Access
 Search
 Please Login first
 First time visiting ?
 You need to register in order to use ship and company search.
 LAST DATA UPDATE :
-Türk Loydu
-Mediterranean MoU
+Assuranceforeningen Gard - Bermuda
+Assuranceforeningen Skuld - Norway
 Paris MoU
-Russian Maritime Register of Shipping
-Indian Register of Shipping
-Nippon Kaiji Kyokai
+Mediterranean MoU
+Türk Loydu
 Lloyd's Register
+Nippon Kaiji Kyokai
+Biro Klasifikasi Indonesia
 American Bureau of Shipping
 Indian Register of Shipping
-Indian Ocean MoU
 USER ACTIVITY :
 Cluster Maps
 Equasis's contributors
